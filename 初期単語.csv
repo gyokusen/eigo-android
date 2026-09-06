@@ -1,37 +1,37 @@
 登録NO,枝番,レベル,英単語,品詞,意味(日本語),意味(英語),例文(英語),例文(日本語),解説
-E0001,1,4,acquire,動詞,獲得する、身につける,to get or obtain something,She acquired a good command of English while working abroad.,彼女は海外勤務中に英語を使いこなす力を身につけた。,ac-（～へ）＋ quire（求める）。get より硬い言い方で、書き言葉でよく使う。
-E0002,1,3,maintain,動詞,維持する、保つ,to keep something in the same state,We need to maintain the current quality level.,現在の品質水準を保つ必要がある。,main（手 manus）＋ tain（保つ）＝「手で持ち続ける」。
-E0002,2,3,maintain,動詞,主張する,to say firmly that something is true,He maintained that he had done nothing wrong.,彼は何も悪いことはしていないと言い張った。,「（自分の説を）保ち続ける」から「主張する」の意味が出る。
-E0003,1,2,reduce,動詞,減らす、下げる,to make something smaller in size or amount,The new system reduced the working time by 30 percent.,新しい仕組みで作業時間が3割減った。,re-（後ろへ）＋ duce（導く）。increase の反対。
-E0004,1,3,require,動詞,必要とする、求める,to need something,This task requires careful checking.,この作業には入念な確認が必要だ。,need より硬い。規則・仕様の文章に多い。
-E0005,1,3,available,形容詞,利用できる、手が空いている,able to be used or obtained,The report will be available tomorrow morning.,報告書は明日の朝に出せます。,人にも使える。「Are you available at 3?」＝3時は空いていますか。
-E0006,1,3,issue,名詞,問題、課題,an important topic or problem,We found three issues in the test.,テストで3件の問題が見つかった。,problem より中立的で、仕事の場面ではこちらが好まれる。
-E0006,2,3,issue,動詞,発行する、出す,to officially give or produce something,The office issued a new ID card.,事務所が新しい身分証を発行した。,「外へ出す」が中心の意味。
-E0007,1,4,determine,動詞,決定する、突き止める,to decide or find out exactly,We could not determine the cause of the error.,エラーの原因を突き止められなかった。,de-（下へ）＋ termine（境界）＝「境目をはっきりさせる」。
-E0008,1,4,significant,形容詞,重要な、著しい,large enough to be noticed or important,There was a significant drop in errors.,エラーが著しく減った。,important（大事）と違い「数字として目立つ」ときにも使う。
-E0009,1,5,implement,動詞,実行する、実装する,to put a plan or system into action,We implemented the change last Friday.,先週の金曜にその変更を反映した。,名詞では「道具」。IT では「実装する」で通る。
-E0010,1,3,consider,動詞,よく考える、みなす,to think about carefully,Please consider the risk before you decide.,決める前にリスクをよく考えてください。,consider A as B ではなく consider A B の形が正しい。
-E0011,1,4,establish,動詞,設立する、確立する,to start something that will last,The company was established in 1985.,その会社は1985年に設立された。,stable（安定した）と同じ語源。「据えて動かなくする」。
-E0012,1,4,indicate,動詞,示す、指し示す,to show or point out,The log indicates that the job stopped at 3 a.m.,ログは処理が午前3時に止まったことを示している。,show より客観的。データや資料が主語になりやすい。
-E0013,1,5,appropriate,形容詞,適切な、ふさわしい,suitable for a particular situation,Choose an appropriate name for the file.,ファイルにふさわしい名前を付けてください。,動詞だと「流用する」で発音も変わる（アプロプリエイト）。
-E0014,1,4,assume,動詞,当然と思う、想定する,to think something is true without proof,Do not assume the data is correct.,データが正しいと決めてかからないこと。,「証拠なしに思い込む」という含みがある。
-E0015,1,3,previous,形容詞,前の、以前の,happening before the present one,Compare it with the previous version.,前の版と見比べてください。,next の反対は previous。before は前置詞なので使い分ける。
-E0016,1,5,sufficient,形容詞,十分な,as much as is needed,We do not have sufficient time to test everything.,全部を試すだけの時間はない。,enough より硬い。書き言葉向き。
-E0017,1,4,eventually,副詞,最終的には、やがて,"in the end, after a long time",The problem was eventually solved.,その問題はやがて解決した。,「いつかは」であって「たぶん」ではない。日本人が誤解しやすい語。
-E0018,1,4,regard,動詞,みなす、考える,to think of someone or something in a certain way,She is regarded as the best engineer in the team.,彼女はチームで一番の技術者とみなされている。,regard A as B の形で覚える。
-E0019,1,4,conduct,動詞,行う、実施する,to organize and do something,We conducted a survey last month.,先月、調査を実施した。,名詞だと「行い、品行」。発音の強勢が前に移る。
-E0020,1,4,obtain,動詞,得る、入手する,to get something you want,You can obtain the manual from the website.,手引書はそのサイトから入手できます。,get の硬い言い方。書類の文章でよく見る。
-E0021,1,4,reliable,形容詞,信頼できる、当てになる,able to be trusted,We need a more reliable method.,もっと当てになるやり方が要る。,rely（頼る）＋ -able（できる）。
-E0022,1,4,complicated,形容詞,込み入った、複雑な,difficult to understand because of many parts,The procedure is too complicated for new members.,その手順は新しい人には込み入りすぎている。,complex は「構造が複雑」、complicated は「ややこしい」。
-E0023,1,4,estimate,動詞,見積もる,to guess the size or cost of something,I estimate that it will take two days.,2日はかかると見ています。,名詞では「見積り」。仕事の場面で頻出。
-E0024,1,5,relevant,形容詞,関連のある、当てはまる,connected with what is being discussed,Please attach the relevant documents.,関係する資料を添えてください。,relevant to ～ の形で使う。irrelevant は「無関係な」。
-E0025,1,3,advantage,名詞,利点、強み,something that helps you be better off,The main advantage is that no installation is needed.,一番の利点は、入れる作業が要らないことだ。,take advantage of ～ で「～を利用する」。
-E0026,1,3,attempt,名詞,試み,an act of trying to do something,"The first attempt failed, but the second worked.",最初の試みは失敗したが、2回目はうまくいった。,動詞でも同じ形。try より硬い。
-E0027,1,5,consistent,形容詞,一貫した、矛盾のない,always behaving in the same way,Keep the naming consistent across all files.,すべてのファイルで名前の付け方をそろえてください。,consist（成り立つ）から。be consistent with ～ は「～と合っている」。
-E0028,1,5,emphasize,動詞,強調する,to give special importance to something,He emphasized the need for daily backups.,彼は毎日の控えの必要性を強調した。,名詞は emphasis。アクセントの位置が変わる。
-E0029,1,3,prevent,動詞,防ぐ、妨げる,to stop something from happening,This check prevents the same error from occurring.,この確認が同じ誤りの再発を防ぐ。,prevent A from -ing の形で覚える。
-E0030,1,3,initial,形容詞,最初の、初期の,happening at the beginning,The initial setting is 20 questions.,初期の設定は20問です。,名詞の initials は「頭文字」。
-E0031,1,6,thorough,形容詞,徹底した、入念な,complete and careful,We did a thorough review of the code.,コードを入念に見直した。,through（通り抜けて）と綴りが似ているので注意。
-E0032,1,3,convenient,形容詞,便利な、都合のよい,useful and easy to use,Would Friday be convenient for you?,金曜はご都合いかがですか。,人を主語にして「I am convenient」とは言わない。
-E0033,1,4,look forward to,熟語,～を楽しみに待つ,to feel happy about something that is going to happen,I look forward to hearing from you.,ご連絡をお待ちしています。,to のあとは名詞か -ing。原形は入らない（× look forward to hear）。
-E0034,1,6,get the hang of it,慣用句,コツをつかむ,to learn how to do something,"It looks hard at first, but you will get the hang of it.",はじめは難しく見えるが、そのうちコツをつかめる。,hang は「扱いかた」の意。仕事の引き継ぎでよく使う言い回し。
+E00001,1,4,acquire,動詞,獲得する、身につける,to get or obtain something,She acquired a good command of English while working abroad.,彼女は海外勤務中に英語を使いこなす力を身につけた。,ac-（～へ）＋ quire（求める）。get より硬い言い方で、書き言葉でよく使う。
+E00002,1,3,maintain,動詞,維持する、保つ,to keep something in the same state,We need to maintain the current quality level.,現在の品質水準を保つ必要がある。,main（手 manus）＋ tain（保つ）＝「手で持ち続ける」。
+E00002,2,3,maintain,動詞,主張する,to say firmly that something is true,He maintained that he had done nothing wrong.,彼は何も悪いことはしていないと言い張った。,「（自分の説を）保ち続ける」から「主張する」の意味が出る。
+E00003,1,2,reduce,動詞,減らす、下げる,to make something smaller in size or amount,The new system reduced the working time by 30 percent.,新しい仕組みで作業時間が3割減った。,re-（後ろへ）＋ duce（導く）。increase の反対。
+E00004,1,3,require,動詞,必要とする、求める,to need something,This task requires careful checking.,この作業には入念な確認が必要だ。,need より硬い。規則・仕様の文章に多い。
+E00005,1,3,available,形容詞,利用できる、手が空いている,able to be used or obtained,The report will be available tomorrow morning.,報告書は明日の朝に出せます。,人にも使える。「Are you available at 3?」＝3時は空いていますか。
+E00006,1,3,issue,名詞,問題、課題,an important topic or problem,We found three issues in the test.,テストで3件の問題が見つかった。,problem より中立的で、仕事の場面ではこちらが好まれる。
+E00006,2,3,issue,動詞,発行する、出す,to officially give or produce something,The office issued a new ID card.,事務所が新しい身分証を発行した。,「外へ出す」が中心の意味。
+E00007,1,4,determine,動詞,決定する、突き止める,to decide or find out exactly,We could not determine the cause of the error.,エラーの原因を突き止められなかった。,de-（下へ）＋ termine（境界）＝「境目をはっきりさせる」。
+E00008,1,4,significant,形容詞,重要な、著しい,large enough to be noticed or important,There was a significant drop in errors.,エラーが著しく減った。,important（大事）と違い「数字として目立つ」ときにも使う。
+E00009,1,5,implement,動詞,実行する、実装する,to put a plan or system into action,We implemented the change last Friday.,先週の金曜にその変更を反映した。,名詞では「道具」。IT では「実装する」で通る。
+E00010,1,3,consider,動詞,よく考える、みなす,to think about carefully,Please consider the risk before you decide.,決める前にリスクをよく考えてください。,consider A as B ではなく consider A B の形が正しい。
+E00011,1,4,establish,動詞,設立する、確立する,to start something that will last,The company was established in 1985.,その会社は1985年に設立された。,stable（安定した）と同じ語源。「据えて動かなくする」。
+E00012,1,4,indicate,動詞,示す、指し示す,to show or point out,The log indicates that the job stopped at 3 a.m.,ログは処理が午前3時に止まったことを示している。,show より客観的。データや資料が主語になりやすい。
+E00013,1,5,appropriate,形容詞,適切な、ふさわしい,suitable for a particular situation,Choose an appropriate name for the file.,ファイルにふさわしい名前を付けてください。,動詞だと「流用する」で発音も変わる（アプロプリエイト）。
+E00014,1,4,assume,動詞,当然と思う、想定する,to think something is true without proof,Do not assume the data is correct.,データが正しいと決めてかからないこと。,「証拠なしに思い込む」という含みがある。
+E00015,1,3,previous,形容詞,前の、以前の,happening before the present one,Compare it with the previous version.,前の版と見比べてください。,next の反対は previous。before は前置詞なので使い分ける。
+E00016,1,5,sufficient,形容詞,十分な,as much as is needed,We do not have sufficient time to test everything.,全部を試すだけの時間はない。,enough より硬い。書き言葉向き。
+E00017,1,4,eventually,副詞,最終的には、やがて,"in the end, after a long time",The problem was eventually solved.,その問題はやがて解決した。,「いつかは」であって「たぶん」ではない。日本人が誤解しやすい語。
+E00018,1,4,regard,動詞,みなす、考える,to think of someone or something in a certain way,She is regarded as the best engineer in the team.,彼女はチームで一番の技術者とみなされている。,regard A as B の形で覚える。
+E00019,1,4,conduct,動詞,行う、実施する,to organize and do something,We conducted a survey last month.,先月、調査を実施した。,名詞だと「行い、品行」。発音の強勢が前に移る。
+E00020,1,4,obtain,動詞,得る、入手する,to get something you want,You can obtain the manual from the website.,手引書はそのサイトから入手できます。,get の硬い言い方。書類の文章でよく見る。
+E00021,1,4,reliable,形容詞,信頼できる、当てになる,able to be trusted,We need a more reliable method.,もっと当てになるやり方が要る。,rely（頼る）＋ -able（できる）。
+E00022,1,4,complicated,形容詞,込み入った、複雑な,difficult to understand because of many parts,The procedure is too complicated for new members.,その手順は新しい人には込み入りすぎている。,complex は「構造が複雑」、complicated は「ややこしい」。
+E00023,1,4,estimate,動詞,見積もる,to guess the size or cost of something,I estimate that it will take two days.,2日はかかると見ています。,名詞では「見積り」。仕事の場面で頻出。
+E00024,1,5,relevant,形容詞,関連のある、当てはまる,connected with what is being discussed,Please attach the relevant documents.,関係する資料を添えてください。,relevant to ～ の形で使う。irrelevant は「無関係な」。
+E00025,1,3,advantage,名詞,利点、強み,something that helps you be better off,The main advantage is that no installation is needed.,一番の利点は、入れる作業が要らないことだ。,take advantage of ～ で「～を利用する」。
+E00026,1,3,attempt,名詞,試み,an act of trying to do something,"The first attempt failed, but the second worked.",最初の試みは失敗したが、2回目はうまくいった。,動詞でも同じ形。try より硬い。
+E00027,1,5,consistent,形容詞,一貫した、矛盾のない,always behaving in the same way,Keep the naming consistent across all files.,すべてのファイルで名前の付け方をそろえてください。,consist（成り立つ）から。be consistent with ～ は「～と合っている」。
+E00028,1,5,emphasize,動詞,強調する,to give special importance to something,He emphasized the need for daily backups.,彼は毎日の控えの必要性を強調した。,名詞は emphasis。アクセントの位置が変わる。
+E00029,1,3,prevent,動詞,防ぐ、妨げる,to stop something from happening,This check prevents the same error from occurring.,この確認が同じ誤りの再発を防ぐ。,prevent A from -ing の形で覚える。
+E00030,1,3,initial,形容詞,最初の、初期の,happening at the beginning,The initial setting is 20 questions.,初期の設定は20問です。,名詞の initials は「頭文字」。
+E00031,1,6,thorough,形容詞,徹底した、入念な,complete and careful,We did a thorough review of the code.,コードを入念に見直した。,through（通り抜けて）と綴りが似ているので注意。
+E00032,1,3,convenient,形容詞,便利な、都合のよい,useful and easy to use,Would Friday be convenient for you?,金曜はご都合いかがですか。,人を主語にして「I am convenient」とは言わない。
+E00033,1,4,look forward to,熟語,～を楽しみに待つ,to feel happy about something that is going to happen,I look forward to hearing from you.,ご連絡をお待ちしています。,to のあとは名詞か -ing。原形は入らない（× look forward to hear）。
+E00034,1,6,get the hang of it,慣用句,コツをつかむ,to learn how to do something,"It looks hard at first, but you will get the hang of it.",はじめは難しく見えるが、そのうちコツをつかめる。,hang は「扱いかた」の意。仕事の引き継ぎでよく使う言い回し。

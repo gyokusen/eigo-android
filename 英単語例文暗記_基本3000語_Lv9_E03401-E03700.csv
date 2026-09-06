@@ -1,0 +1,301 @@
+登録NO,枝番,レベル,英単語,品詞,意味(日本語),意味(英語),例文(英語),例文(日本語),解説
+E03401,1,9,on the same page,慣用句,認識が一致して,in agreement,Let's get on the same page.,認識を合わせよう。,会議でよく使う。
+E03402,1,9,touch base,慣用句,連絡を取り合う,to make brief contact,Let's touch base on Friday.,金曜に一度すり合わせよう。,野球が語源。
+E03403,1,9,in the loop,慣用句,情報を共有されて,informed about something,Keep me in the loop.,私にも共有してください。,out of the loop は「蚊帳の外」。
+E03404,1,9,ballpark figure,慣用句,おおよその数字,a rough estimate,Give me a ballpark figure.,ざっくりした数字をください。,野球場が語源。
+E03405,1,9,bottom line,慣用句,要点、最終的な結論,the most important point,The bottom line is cost.,要は費用だ。,決算書の最終行が語源。
+E03406,1,9,cut corners,慣用句,手を抜く,to do something poorly to save time,Do not cut corners on tests.,試験で手を抜かないこと。,角を曲がらず近道する様子から。
+E03407,1,9,rule of thumb,慣用句,経験則,a rough practical rule,"As a rule of thumb, keep it under 100.",経験則として100未満に保つ。,厳密でない目安。
+E03408,1,9,back to square one,慣用句,振り出しに戻る,back to the start,We are back to square one.,振り出しに戻ってしまった。,すごろくが語源とされる。
+E03409,1,9,the tip of the iceberg,慣用句,氷山の一角,a small visible part of a problem,That bug is the tip of the iceberg.,その不具合は氷山の一角だ。,水面下が大きいことを示す。
+E03410,1,9,pull the plug,慣用句,打ち切る,to stop something,They pulled the plug on the project.,その計画は打ち切られた。,電源を抜くことから。
+E03411,1,9,run into,熟語,出くわす、ぶつかる,to meet by chance or hit,We ran into a permission error.,権限の異常に出くわした。,come across と似た意味。
+E03412,1,9,sort out,熟語,整理する、解決する,to organize or fix,Sort out the duplicates first.,まず重複を片づける。,英式でよく使う。
+E03413,1,9,turn on,熟語,つける、作動させる,to start a device,Turn on logging first.,まず記録を有効にする。,反対は turn off。
+E03414,1,9,turn off,熟語,消す、止める,to stop a device,Turn off the alert for now.,その警報はいったん止める。,反対は turn on。
+E03415,1,9,turn down,熟語,断る、下げる,to refuse or lower,They turned down the request.,その依頼は断られた。,音量を「下げる」の意味も。
+E03416,1,9,turn in,熟語,提出する,to submit,Turn in the report by five.,5時までに報告を出す。,米語でよく使う。
+E03417,1,9,put up with,熟語,我慢する,to tolerate,We put up with it for a year.,1年それを我慢した。,3語で1つの動詞。
+E03418,1,9,put together,熟語,まとめる、組み立てる,to assemble,Put together a one-page summary.,1ページのまとめを作る。,assemble のくだけた言い方。
+E03419,1,9,put aside,熟語,脇に置く、取っておく,to save or ignore for now,Put that issue aside for now.,その課題はいったん脇に置く。,set aside とほぼ同じ。
+E03420,1,9,give in,熟語,折れる、屈する,to stop resisting,Do not give in to scope creep.,際限のない要望に屈しないこと。,give up（あきらめる）とは違う。
+E03421,1,9,give away,熟語,ただであげる、漏らす,to hand out or reveal,Do not give away the answer.,答えを漏らさないこと。,名詞は giveaway（無料配布）。
+E03422,1,9,get across,熟語,分かってもらう,to make understood,The chart gets the point across.,その図なら要点が伝わる。,communicate の口語的表現。
+E03423,1,9,get through,熟語,やり遂げる、通じる,to finish or reach,We got through the backlog.,滞りを片づけた。,電話が「つながる」の意味も。
+E03424,1,9,get back to,熟語,折り返し連絡する,to reply later,I will get back to you today.,本日中に折り返します。,メールでよく使う。
+E03425,1,9,go on,熟語,続く、起きる,to continue or happen,What is going on here?,ここで何が起きているのか。,go on -ing の形も。
+E03426,1,9,go down,熟語,下がる、停止する,to decrease or stop working,The server went down at noon.,サーバは正午に落ちた。,名詞は downtime。
+E03427,1,9,come out,熟語,出る、公開される,to be published,The fix comes out Friday.,その修正は金曜に出る。,「判明する」の意味も。
+E03428,1,9,come down to,熟語,結局～に帰する,to be a matter of,It comes down to cost.,結局は費用の話だ。,boil down to とも言う。
+E03429,1,9,run through,熟語,ざっと通す,to review quickly,Let's run through the steps.,手順をざっとおさらいしよう。,名詞は run-through（通し稽古）。
+E03430,1,9,bring about,熟語,引き起こす,to cause to happen,The change brought about delays.,その変更が遅れを招いた。,cause のかたい言い換え。
+E03431,1,9,bring in,熟語,導入する、呼び入れる,to introduce or hire,They brought in a consultant.,彼らは相談役を入れた。,「収益をあげる」の意味も。
+E03432,1,9,carry on,熟語,続ける,to continue,Carry on with the tests.,試験を続けてください。,英式でよく使う。
+E03433,1,9,hold back,熟語,抑える、控える,to keep from doing,Do not hold back feedback.,意見を出し惜しみしないこと。,「差し止める」の意味も。
+E03434,1,9,hold up,熟語,遅らせる、持ちこたえる,to delay or endure,The review held up the release.,見直しが公開を遅らせた。,名詞は holdup（遅れ、強盗）。
+E03435,1,9,clear up,熟語,はっきりさせる、片づける,to explain or tidy,Clear up the misunderstanding.,誤解をはっきり解く。,天気が「晴れる」の意味も。
+E03436,1,9,cut down,熟語,減らす、切り倒す,to reduce,Cut down on manual steps.,手作業の段階を減らす。,cut down on の形が多い。
+E03437,1,9,cut off,熟語,遮断する、切り離す,to stop or separate,The call was cut off.,通話が切れた。,名詞は cutoff（締切、遮断）。
+E03438,1,9,fill out,熟語,記入する,to complete a form,Fill out the form completely.,用紙を漏れなく記入する。,英式では fill in。
+E03439,1,9,hang on,熟語,しっかりつかむ、待つ,to hold or wait,"Hang on, I found it.",ちょっと待って、見つかった。,電話でもよく使う。
+E03440,1,9,hang up,熟語,電話を切る,to end a call,He hung up before I finished.,私が話し終える前に彼は切った。,hang（掛ける）の過去形は hung。
+E03441,1,9,knock out,熟語,打ち負かす、片づける,to defeat or finish quickly,We knocked out the fix in an hour.,1時間でその修正を片づけた。,名詞は knockout。
+E03442,1,9,lay off,熟語,一時解雇する、やめる,to dismiss workers,They laid off ten people.,彼らは10人を一時解雇した。,名詞は layoff。
+E03443,1,9,leave out,熟語,省く,to omit,Do not leave out the date.,日付を省かないこと。,omit のくだけた言い方。
+E03444,1,9,let down,熟語,がっかりさせる,to disappoint,The tool let us down.,その道具は期待はずれだった。,名詞は letdown。
+E03445,1,9,make up,熟語,作り上げる、埋め合わせる,to invent or compensate,Do not make up numbers.,数字をでっち上げないこと。,「構成する」の意味も。
+E03446,1,9,make up for,熟語,埋め合わせる,to compensate for,Speed makes up for the cost.,速さが費用を補ってくれる。,3語で1つの動詞。
+E03447,1,9,pass on,熟語,伝える、見送る,to give to another or decline,Pass on the message to the team.,その伝言を班に伝えてください。,「見送る」の意味もある。
+E03448,1,9,pick up,熟語,拾う、覚える、迎えに行く,to lift or learn,You pick it up quickly.,すぐ覚えられますよ。,名詞は pickup。
+E03449,1,9,pull off,熟語,やってのける,to succeed at something hard,They pulled off the migration.,彼らは移行をやってのけた。,驚きを含む言い方。
+E03450,1,9,put in,熟語,投入する、申し込む,to insert or submit,He put in extra hours.,彼は余分に時間をかけた。,put in for は「申請する」。
+E03451,1,9,run down,熟語,使い果たす、けなす,to reduce or criticize,The battery ran down fast.,電池は早く尽きた。,名詞 rundown は「概要」。
+E03452,1,9,set aside,熟語,取っておく、脇に置く,to save for later,Set aside an hour for review.,見直しに1時間確保する。,put aside とほぼ同じ。
+E03453,1,9,set off,熟語,出発する、作動させる,to start or trigger,That setting sets off an alarm.,その設定が警報を鳴らす。,trigger の口語的表現。
+E03454,1,9,settle down,熟語,落ち着く,to become calm,Things settled down after a week.,1週間で落ち着いた。,「腰を据える」の意味も。
+E03455,1,9,sign up,熟語,申し込む、登録する,to register,Sign up for the notices.,通知の受け取りに登録する。,名詞は signup。
+E03456,1,9,sit down,熟語,腰を下ろす、じっくり話す,to take a seat,Let's sit down and go over it.,腰を据えて見ていこう。,名詞は sit-down（会談）。
+E03457,1,9,stick to,熟語,固執する、守る,to continue with,Stick to the naming rule.,命名の決まりを守る。,stick with とも言う。
+E03458,1,9,take up,熟語,始める、占める,to start or occupy,The log takes up too much space.,その記録は場所を取りすぎる。,「取り上げる」の意味も。
+E03459,1,9,take on,熟語,引き受ける、帯びる,to accept or acquire,Do not take on too much.,抱え込みすぎないこと。,「雇う」の意味も。
+E03460,1,9,throw away,熟語,捨てる,to discard,Do not throw away the log.,その記録を捨てないこと。,形容詞は throwaway（使い捨ての）。
+E03461,1,9,wear out,熟語,すり減らす、疲れさせる,to become unusable or tired,The button wore out.,そのボタンは摩耗した。,形容詞は worn-out。
+E03462,1,9,wipe out,熟語,一掃する、全滅させる,to destroy completely,One command wiped out the folder.,1つの命令でフォルダが消えた。,名詞は wipeout。
+E03463,1,9,work around,熟語,回避する,to avoid a problem,We worked around the limit.,その制限を回避した。,名詞は workaround（回避策）。
+E03464,1,9,account for,熟語,説明する、占める,to explain or make up,That accounts for the delay.,それで遅れの説明がつく。,「割合を占める」の意味も。
+E03465,1,9,apply for,熟語,申し込む,to make a formal request,Apply for access in advance.,利用権は前もって申請する。,apply to は「当てはまる」。
+E03466,1,9,belong to,熟語,～のものである,to be owned by,That file belongs to the vendor.,そのファイルは販売元のものだ。,進行形にはしない。
+E03467,1,9,care about,熟語,気にかける,to think it is important,Users care about speed.,利用者は速さを気にする。,care for は「世話をする、好む」。
+E03468,1,9,consist of,熟語,～から成る,to be made up of,It consists of three parts.,それは3つの部分から成る。,受け身にしない。
+E03469,1,9,depend on,熟語,～次第である、頼る,to be decided by,It depends on the input size.,入力の大きさ次第だ。,rely on とほぼ同じ。
+E03470,1,9,focus on,熟語,～に絞る,to give attention to,Focus on the top three.,上位3件に絞る。,on を落とさない。
+E03471,1,9,insist on,熟語,強く求める,to demand firmly,He insisted on a rollback.,彼は差し戻しを強く求めた。,あとは名詞か動名詞。
+E03472,1,9,look for,熟語,探す,to try to find,Look for the config file.,設定ファイルを探す。,search for と同じ。
+E03473,1,9,object to,熟語,反対する,to disagree with,Two people objected to the plan.,2人がその計画に反対した。,あとは名詞か動名詞。
+E03474,1,9,refer to,熟語,参照する、言及する,to mention or look at,Refer to section three.,第3節を参照してください。,名詞は reference。
+E03475,1,9,rely on,熟語,頼る,to depend on,Do not rely on the cache.,一時保存に頼らないこと。,depend on とほぼ同じ。
+E03476,1,9,result in,熟語,～という結果になる,to cause,It resulted in data loss.,その結果、資料が失われた。,result from は「～から生じる」。
+E03477,1,9,result from,熟語,～から生じる,to be caused by,The error results from a typo.,その異常は打ち間違いから生じている。,result in と向きが逆。
+E03478,1,9,succeed in,熟語,～に成功する,to achieve,We succeeded in halving the time.,時間を半分にすることに成功した。,あとは動名詞。
+E03479,1,9,suffer from,熟語,～に悩まされる,to be affected badly by,The tool suffers from slow startup.,その道具は起動の遅さに悩まされている。,病気にもよく使う。
+E03480,1,9,agree with,熟語,同意する,to have the same opinion,I agree with your reading.,あなたの読みに同意します。,agree to は「（案に）同意する」。
+E03481,1,9,apologize for,熟語,～を謝る,to say sorry about,We apologize for the delay.,遅れをお詫びします。,あとは名詞か動名詞。
+E03482,1,9,be aware of,熟語,～に気づいている,to know about,Be aware of the size limit.,大きさの上限に注意すること。,aware that … の形も。
+E03483,1,9,be based on,熟語,～に基づく,to use as a foundation,The estimate is based on last year.,その見積りは昨年に基づく。,受け身の形で使う。
+E03484,1,9,be capable of,熟語,～ができる,to have the ability to,"It is capable of handling 10,000 rows.",1万行まで扱える。,あとは動名詞。
+E03485,1,9,be composed of,熟語,～から構成される,to be made up of,The team is composed of five people.,その班は5人から成る。,consist of とほぼ同じ。
+E03486,1,9,be familiar with,熟語,～に詳しい,to know well,Are you familiar with this format?,この形式はご存じですか。,be familiar to は「～によく知られている」。
+E03487,1,9,be responsible for,熟語,～に責任がある,to be in charge of,You are responsible for the merge.,統合はあなたの担当です。,あとは名詞か動名詞。
+E03488,1,9,be supposed to,熟語,～するはずだ,to be expected to,It is supposed to run at two.,それは2時に動くはずだ。,「決まりでは～」の含み。
+E03489,1,9,be about to,熟語,まさに～しようとしている,to be on the point of,I was about to send it.,ちょうど送るところだった。,直前の未来を表す。
+E03490,1,9,be likely to,熟語,～しそうだ,to have a good chance of,It is likely to fail on Fridays.,金曜に失敗しそうだ。,反対は be unlikely to。
+E03491,1,9,used to,熟語,以前は～した,did in the past but not now,We used to do it by hand.,以前は手作業でやっていた。,be used to -ing は「慣れている」で別。
+E03492,1,9,be used to,熟語,～に慣れている,to be familiar with,I am used to the old layout.,古い配置に慣れている。,あとは名詞か動名詞。
+E03493,1,9,had better,熟語,～したほうがよい,should,You had better take a backup.,控えを取っておいたほうがいい。,強い忠告。あとは原形。
+E03494,1,9,would rather,熟語,むしろ～したい,to prefer to,I would rather wait a day.,むしろ一日待ちたい。,あとは原形。
+E03495,1,9,no longer,熟語,もはや～ない,not any more,That path no longer exists.,その経路はもう存在しない。,not … any longer とも言う。
+E03496,1,9,as far as,熟語,～する限りでは,to the extent that,"As far as I know, it is fine.",私の知る限りでは問題ない。,as long as は条件を表す。
+E03497,1,9,in spite of,熟語,～にもかかわらず,despite,"In spite of the delay, we finished.",遅れにもかかわらず終えた。,despite と同じ。あとは名詞。
+E03498,1,9,owing to,熟語,～のために,because of,"Owing to the storm, it was late.",嵐のために遅れた。,due to とほぼ同じ。
+E03499,1,9,with regard to,熟語,～に関して,concerning,"With regard to cost, we agree.",費用に関しては同意します。,regarding とも言う。
+E03500,1,9,in relation to,熟語,～との関係で,concerning,"In relation to speed, it is fine.",速さとの関係では問題ない。,with regard to と近い。
+E03501,1,9,in accordance with,熟語,～に従って,following,In accordance with the policy.,方針に従って。,かたい書き言葉。
+E03502,1,9,in response to,熟語,～に応えて,reacting to,In response to your request.,ご依頼に応えて。,メールでよく使う。
+E03503,1,9,on the basis of,熟語,～に基づいて,using as a reason,We decided on the basis of the data.,資料に基づいて決めた。,based on とほぼ同じ。
+E03504,1,9,for the sake of,熟語,～のために,for the benefit of,"For the sake of clarity, split it.",分かりやすさのために分ける。,「目的」を表す。
+E03505,1,9,in favor of,熟語,～に賛成して,supporting,Three voted in favor of it.,3人がそれに賛成した。,反対は against。
+E03506,1,9,in charge,熟語,担当して,responsible,Who is in charge today?,今日の担当は誰ですか。,in charge of 物 の形も。
+E03507,1,9,out of order,熟語,故障して、順序が狂って,not working or wrong order,The printer is out of order.,その印刷機は故障中だ。,「順不同」の意味も。
+E03508,1,9,out of stock,熟語,在庫切れで,not available to buy,The part is out of stock.,その部品は在庫切れだ。,反対は in stock。
+E03509,1,9,out of the question,熟語,問題外で,impossible,A rewrite is out of the question.,書き直しは論外だ。,out of question とは意味が違う。
+E03510,1,9,on purpose,熟語,わざと,deliberately,The field is empty on purpose.,その欄はわざと空にしてある。,by accident の反対。
+E03511,1,9,by accident,熟語,偶然に,not on purpose,I found it by accident.,偶然それを見つけた。,by chance とも言う。
+E03512,1,9,at random,熟語,無作為に,without a plan,Pick ten rows at random.,無作為に10行選ぶ。,形容詞は random。
+E03513,1,9,all of a sudden,熟語,突然に,suddenly,All of a sudden it stopped.,突然それが止まった。,suddenly と同じ。
+E03514,1,9,for the time being,熟語,当面は,for now,"For the time being, keep both.",当面は両方残しておく。,一時的な処置に使う。
+E03515,1,9,sooner or later,熟語,遅かれ早かれ,eventually,Sooner or later it will break.,遅かれ早かれ壊れる。,警告としてよく使う。
+E03516,1,9,more or less,熟語,だいたい,approximately,It is more or less done.,だいたい終わっている。,roughly と同じ。
+E03517,1,9,now and then,熟語,時々,occasionally,It happens now and then.,それは時々起きる。,every now and then とも言う。
+E03518,1,9,once in a while,熟語,たまに,occasionally,Check the log once in a while.,たまには記録を見る。,now and then と同じ。
+E03519,1,9,as usual,熟語,いつものように,in the normal way,"As usual, the cause was a typo.",いつもどおり、原因は打ち間違いだった。,usual は形容詞。
+E03520,1,9,abolish,動詞,廃止する,to end officially,They abolished the old rule.,彼らは古い規則を廃止した。,名詞は abolition。
+E03521,1,9,accommodate,動詞,収容する、応じる,to have space for or adapt to,The room accommodates twenty.,その部屋は20人入る。,名詞は accommodation。
+E03522,1,9,accuse,動詞,非難する、告発する,to say someone did wrong,Do not accuse the tool.,道具を責めないこと。,accuse 人 of 事 の形。
+E03523,1,9,adore,動詞,熱愛する,to love very much,Users adore the dark theme.,利用者は暗い配色を気に入っている。,love より強い。
+E03524,1,9,affirm,動詞,断言する,to state firmly,The test affirms the fix.,その試験が修正を裏付ける。,名詞は affirmation。
+E03525,1,9,aggravate,動詞,悪化させる,to make worse,Retrying aggravates the load.,やり直すと負荷が悪化する。,「いらだたせる」の意味も。
+E03526,1,9,allege,動詞,主張する（未証明）,to claim without proof,They allege a data leak.,彼らは資料の漏えいがあったと主張する。,形容詞は alleged。
+E03527,1,9,ascend,動詞,上る,to go up,The numbers ascend by month.,その数字は月ごとに上がる。,反対は descend。
+E03528,1,9,assert,動詞,断言する、表明する,to state confidently,The test asserts two conditions.,その試験は2つの条件を確かめる。,プログラムの assert も同じ語。
+E03529,1,9,assure,動詞,保証する、安心させる,to tell confidently,I assure you it is safe.,安全だと保証します。,ensure / insure と使い分ける。
+E03530,1,9,attain,動詞,達成する,to reach a goal,We attained full coverage.,全網羅を達成した。,achieve よりかたい。
+E03531,1,9,bargain,動詞,交渉する,to discuss a price,They bargained for a discount.,彼らは値引きを交渉した。,名詞では「掘り出し物」。
+E03532,1,9,betray,動詞,裏切る、露呈する,to be disloyal or reveal,The log betrayed the real cause.,その記録が真の原因を明かした。,名詞は betrayal。
+E03533,1,9,bother,動詞,悩ませる、わざわざする,to annoy or take trouble,Don't bother with that step.,その手順はやらなくていい。,Don't bother は「気にしないで」。
+E03534,1,9,cheat,動詞,だます、不正をする,to act dishonestly,Do not cheat on the test.,試験で不正をしないこと。,名詞は cheat sheet（虎の巻）。
+E03535,1,9,cherish,動詞,大切にする,to value greatly,Cherish the simple design.,その単純な設計を大切にする。,感情を込めた語。
+E03536,1,9,collide,動詞,衝突する,to hit each other,The two IDs collided.,その2つの識別子が衝突した。,名詞は collision。
+E03537,1,9,commence,動詞,開始する,to begin,Work commences on Monday.,作業は月曜に始まる。,begin のかたい言い方。
+E03538,1,9,condemn,動詞,非難する,to strongly disapprove,They condemned the practice.,彼らはその慣行を非難した。,n は発音しない。
+E03539,1,9,confine,動詞,限る、閉じ込める,to keep within limits,Confine the change to one file.,変更は1ファイルに限る。,名詞 confines は「範囲」。
+E03540,1,9,conquer,動詞,征服する、克服する,to defeat,We conquered the timeout issue.,時間切れの問題を克服した。,名詞は conquest。
+E03541,1,9,contemplate,動詞,熟考する,to think about carefully,We contemplated a rewrite.,書き直しをじっくり考えた。,名詞は contemplation。
+E03542,1,9,crave,動詞,強く望む,to want very much,Users crave speed.,利用者は速さを渇望している。,名詞は craving。
+E03543,1,9,deceive,動詞,だます,to make someone believe a lie,The chart deceives the eye.,その図は目をあざむく。,名詞は deception。
+E03544,1,9,defer,動詞,延期する、譲る,to delay or yield,Defer the decision to Friday.,決定を金曜に持ち越す。,名詞は deferral。
+E03545,1,9,deprive,動詞,奪う,to take away from,It deprives the app of memory.,それはアプリから記憶を奪う。,deprive A of B の形。
+E03546,1,9,deserve,動詞,値する,to be worthy of,That deserves a second look.,それは再確認に値する。,進行形にしない。
+E03547,1,9,diminish,動詞,減らす、弱まる,to become smaller,The benefit diminishes over time.,その利点は時とともに薄れる。,名詞は diminution。
+E03548,1,9,disguise,動詞,変装させる、隠す,to change the appearance,Do not disguise the error.,その異常を取り繕わないこと。,名詞でも「変装」。
+E03549,1,9,dispatch,動詞,発送する、派遣する,to send off,Dispatch the parts today.,部品を今日発送する。,名詞でも「発送」。
+E03550,1,9,dissolve,動詞,溶かす、解散する,to make liquid or end,The team was dissolved.,その班は解散した。,名詞は dissolution。
+E03551,1,9,elect,動詞,選出する,to choose by voting,They elected a new chair.,彼らは新しい議長を選んだ。,名詞は election。
+E03552,1,9,embarrass,動詞,恥ずかしい思いをさせる,to make uncomfortable,The typo embarrassed us.,その打ち間違いは恥ずかしかった。,r が2つ、s が2つ。
+E03553,1,9,endanger,動詞,危険にさらす,to put at risk,It endangers the data.,それは資料を危険にさらす。,en ＋ danger。
+E03554,1,9,enclose,動詞,同封する、囲む,to put inside,Enclose the value in quotes.,その値を引用符で囲む。,名詞は enclosure。
+E03555,1,9,evoke,動詞,呼び起こす,to bring to mind,The design evokes the old tool.,その意匠は古い道具を思わせる。,名詞は evocation。
+E03556,1,9,exclaim,動詞,叫ぶ,to say loudly,She exclaimed in surprise.,彼女は驚いて声を上げた。,名詞は exclamation（感嘆符の !）。
+E03557,1,9,expel,動詞,追放する,to force to leave,He was expelled from the group.,彼はその集まりから追い出された。,名詞は expulsion。
+E03558,1,9,flee,動詞,逃げる,to run away,They fled the burning floor.,彼らは燃える階から逃げた。,過去形は fled。
+E03559,1,9,forgive,動詞,許す,to stop being angry,Forgive the rough draft.,粗い下書きをお許しください。,過去形は forgave。
+E03560,1,9,glance,動詞,ちらりと見る,to look quickly,Glance at the summary first.,まず要約にざっと目を通す。,名詞でも「一瞥」。at a glance は「一目で」。
+E03561,1,9,humiliate,動詞,辱める,to make someone feel ashamed,Do not humiliate anyone in review.,見直しで人を辱めないこと。,名詞は humiliation。
+E03562,1,9,illuminate,動詞,照らす、明らかにする,to light up or explain,The log illuminates the flow.,その記録が流れを照らし出す。,名詞は illumination。
+E03563,1,9,incline,動詞,傾ける、その気にさせる,to lean or tend,I am inclined to agree.,同意する方に傾いている。,be inclined to の形が多い。
+E03564,1,9,induce,動詞,引き起こす、説得する,to cause or persuade,The change induced a slowdown.,その変更が遅さを招いた。,名詞は inducement。
+E03565,1,9,inflate,動詞,膨らませる,to fill with air or increase,Do not inflate the estimate.,見積りを水増ししないこと。,名詞は inflation。
+E03566,1,9,inflict,動詞,負わせる,to cause something bad,It inflicts extra work on support.,それは支援班に余計な仕事を負わせる。,inflict A on B の形。
+E03567,1,9,intensify,動詞,強める,to make stronger,The load intensified at noon.,正午に負荷が強まった。,形容詞は intense。
+E03568,1,9,intercept,動詞,傍受する、途中で捕らえる,to stop on the way,The proxy intercepts the request.,代理サーバがその要求を捕らえる。,名詞は interception。
+E03569,1,9,invoke,動詞,呼び出す、発動する,to call into use,Invoke the function with two arguments.,その関数を2つの引数で呼び出す。,名詞は invocation。
+E03570,1,9,liberate,動詞,解放する,to set free,Automation liberates hours.,自動化が時間を解放する。,名詞は liberation。
+E03571,1,9,manipulate,動詞,操作する、あやつる,to handle or control,The script manipulates the DOM.,その台本が画面の構造を操作する。,名詞は manipulation。
+E03572,1,9,mourn,動詞,悼む,to feel sadness for a loss,We mourned the lost data.,失われた資料を惜しんだ。,名詞は mourning。
+E03573,1,9,negate,動詞,打ち消す,to make ineffective,The bug negates the gain.,その不具合が改善を打ち消す。,名詞は negation。
+E03574,1,9,oblige,動詞,義務づける、応じる,to require or do a favor,The policy obliges a review.,その方針は見直しを義務づける。,名詞は obligation。
+E03575,1,9,omit,動詞,省く,to leave out,Omit the optional fields.,任意の欄は省く。,名詞は omission。
+E03576,1,9,outweigh,動詞,上回る,to be more important than,The benefits outweigh the cost.,利点が費用を上回る。,out- は「～に勝る」。
+E03577,1,9,overturn,動詞,覆す,to reverse a decision,The board overturned the ruling.,役員会がその決定を覆した。,「ひっくり返す」の意味。
+E03578,1,9,plead,動詞,嘆願する、申し立てる,to ask urgently,He pleaded for more time.,彼は時間の猶予を求めた。,過去形は pleaded / pled。
+E03579,1,9,portray,動詞,描く、表す,to show in words or pictures,The chart portrays the trend.,その図は傾向を表している。,名詞は portrayal。
+E03580,1,9,precede,動詞,先立つ,to come before,Design precedes coding.,設計は実装に先立つ。,proceed（進む）と混同しやすい。
+E03581,1,9,prolong,動詞,長引かせる,to make last longer,Retries prolong the outage.,やり直しが停止を長引かせる。,形容詞は prolonged。
+E03582,1,9,quote,動詞,引用する、見積もる,to repeat words or give a price,Quote the exact line.,その行をそのまま引用する。,名詞でも「引用、見積り」。
+E03583,1,9,rebel,動詞,反抗する,to fight against authority,Users rebel against forced updates.,利用者は強制更新に反発する。,名詞では発音の位置が変わる。
+E03584,1,9,recite,動詞,暗唱する,to say from memory,Do not recite the manual.,手引きを丸暗記で読み上げないこと。,名詞は recitation。
+E03585,1,9,reckon,動詞,考える、見積もる,to think or calculate,I reckon it takes an hour.,1時間くらいだと思う。,英式でよく使う。
+E03586,1,9,reconsider,動詞,考え直す,to think again,Please reconsider the date.,日付を考え直してください。,re ＋ consider。
+E03587,1,9,refute,動詞,論破する,to prove wrong,The data refutes that claim.,その資料は主張を覆す。,名詞は refutation。
+E03588,1,9,reinstate,動詞,復帰させる,to put back,They reinstated the old setting.,彼らは古い設定に戻した。,名詞は reinstatement。
+E03589,1,9,relieve,動詞,和らげる,to make less bad,Caching relieves the load.,一時保存が負荷を和らげる。,名詞は relief。
+E03590,1,9,renounce,動詞,放棄する,to give up formally,They renounced the claim.,彼らはその主張を取り下げた。,名詞は renunciation。
+E03591,1,9,repel,動詞,はねつける,to drive back,The coating repels water.,その被膜は水をはじく。,形容詞は repellent。
+E03592,1,9,resist,動詞,抵抗する,to fight against,Resist the urge to over-engineer.,作り込みすぎたい衝動を抑える。,名詞は resistance。
+E03593,1,9,restrain,動詞,抑える,to hold back,Restrain the scope.,対象範囲を抑える。,名詞は restraint。
+E03594,1,9,retreat,動詞,退く,to move back,We retreated to the old version.,古い版へ引き下がった。,名詞でも「退却、合宿」。
+E03595,1,9,revive,動詞,生き返らせる,to bring back to life,They revived the old script.,彼らは古い台本を復活させた。,名詞は revival。
+E03596,1,9,scold,動詞,しかる,to speak angrily to,Do not scold the reporter.,報告した人をしからないこと。,子どもによく使う語。
+E03597,1,9,scrutinize,動詞,精査する,to examine closely,Scrutinize the diff line by line.,差分を一行ずつ精査する。,名詞は scrutiny。
+E03598,1,9,sever,動詞,断ち切る,to cut off,They severed the connection.,彼らは接続を断った。,severe（厳しい）とは別語。
+E03599,1,9,soothe,動詞,なだめる,to make calm,A status page soothes users.,状況の画面が利用者を落ち着かせる。,形容詞は soothing。
+E03600,1,9,speculate,動詞,推測する、投機する,to guess,Do not speculate; measure.,推測せず測ること。,名詞は speculation。
+E03601,1,9,strive,動詞,努力する,to try hard,We strive for simplicity.,単純さを目指している。,過去形は strove / strived。
+E03602,1,9,subdue,動詞,抑える,to bring under control,Subdue the noise in the log.,記録の雑音を抑える。,形容詞は subdued（控えめな）。
+E03603,1,9,submerge,動詞,沈める,to put under water,The details were submerged.,細部は埋もれてしまった。,sub ＋ merge。
+E03604,1,9,summon,動詞,呼び出す,to call formally,They summoned the vendor.,彼らは販売元を呼び出した。,「奮い起こす」の意味も。
+E03605,1,9,surpass,動詞,上回る,to be better than,It surpassed our expectations.,それは期待を上回った。,exceed とほぼ同じ。
+E03606,1,9,tempt,動詞,誘惑する,to make someone want,It is tempting to skip tests.,試験を飛ばしたくなる。,名詞は temptation。
+E03607,1,9,testify,動詞,証言する,to give evidence,The log testifies to the timing.,その記録が時刻を裏付ける。,名詞は testimony。
+E03608,1,9,thrive,動詞,栄える,to grow strongly,Small teams thrive on clarity.,小さな班は明快さで伸びる。,flourish とほぼ同じ。
+E03609,1,9,tolerate,動詞,許容する,to accept without complaint,We tolerate a one-second delay.,1秒の遅れは許容する。,名詞は tolerance。
+E03610,1,9,transcend,動詞,超える,to go beyond,The issue transcends one team.,その課題は1つの班を超える。,trans ＋ scend（登る）。
+E03611,1,9,unify,動詞,統一する,to make into one,Unify the two formats.,その2つの書式を統一する。,名詞は unification。
+E03612,1,9,unveil,動詞,公開する,to show for the first time,They unveiled the new tool.,彼らは新しい道具を披露した。,un ＋ veil（覆い）。
+E03613,1,9,uphold,動詞,支持する、維持する,to support or maintain,The court upheld the ruling.,裁判所はその判断を支持した。,過去形は upheld。
+E03614,1,9,urge,動詞,強く促す,to strongly advise,I urge you to take a backup.,控えを取ることを強くお勧めします。,名詞でも「衝動」。
+E03615,1,9,violate,動詞,違反する,to break a rule,That violates the policy.,それは方針に反する。,名詞は violation。
+E03616,1,9,weaken,動詞,弱める,to make less strong,Retries weaken the guarantee.,やり直しは保証を弱める。,反対は strengthen。
+E03617,1,9,yearn,動詞,切望する,to want very much,Users yearn for fewer clicks.,利用者は操作の少なさを切望している。,yearn for の形。
+E03618,1,9,abstraction,名詞,抽象化,the act of removing details,The right abstraction saves work.,適切な抽象化は手間を省く。,形容詞は abstract。
+E03619,1,9,accessory,名詞,付属品,an extra part,The accessory is sold separately.,その付属品は別売りだ。,複数形は accessories。
+E03620,1,9,adaptation,名詞,適応、脚色,the act of adjusting,Adaptation took two months.,適応に2か月かかった。,動詞は adapt。
+E03621,1,9,advancement,名詞,前進、昇進,progress,Career advancement takes years.,昇進には年月がかかる。,動詞は advance。
+E03622,1,9,aftermath,名詞,余波,the situation after a bad event,"In the aftermath, we added checks.",その後、確認を足した。,after ＋ math（刈り取り）が語源。
+E03623,1,9,agent,名詞,代理人、作用因子,a person or thing that acts,The agent runs on each machine.,その常駐プログラムは各機械で動く。,IT でも「エージェント」。
+E03624,1,9,aisle,名詞,通路,a passage between rows,Keep the aisle clear.,通路をふさがないこと。,s は発音しない。
+E03625,1,9,allocation,名詞,割り当て,the act of giving a share,Memory allocation failed.,記憶の割り当てに失敗した。,動詞は allocate。
+E03626,1,9,ambiguity,名詞,あいまいさ,more than one possible meaning,Remove the ambiguity here.,ここのあいまいさをなくす。,形容詞は ambiguous。
+E03627,1,9,anniversary,名詞,記念日,a yearly date of an event,It is the tool's first anniversary.,その道具の1周年だ。,annual と同語源。
+E03628,1,9,apology,名詞,謝罪,an expression of regret,A short apology is enough.,短い謝罪で十分だ。,動詞は apologize。
+E03629,1,9,appetite,名詞,食欲、意欲,a desire for food or something,There is no appetite for a rewrite.,書き直しに乗り気な人はいない。,「意欲」の意味でよく使う。
+E03630,1,9,array,名詞,配列、並び,an ordered set,The array holds 100 items.,その配列は100個を持つ。,プログラムの「配列」も同じ語。
+E03631,1,9,attachment,名詞,添付、愛着,a file sent with a mail,The attachment is 3 MB.,添付は3メガある。,動詞は attach。
+E03632,1,9,audit,名詞,監査,an official check,The audit found two gaps.,監査で2つの穴が見つかった。,動詞でも「監査する」。
+E03633,1,9,backlog,名詞,滞り、未処理分,work not yet done,The backlog grew to 40 items.,滞りが40件に増えた。,back ＋ log。
+E03634,1,9,baseline,名詞,基準線、基準値,a starting point for comparison,Measure the baseline first.,まず基準値を測る。,base ＋ line。
+E03635,1,9,batch,名詞,一括、ひとまとまり,a group processed together,Run it as a nightly batch.,夜間の一括処理として回す。,batch file は「バッチファイル」。
+E03636,1,9,benchmark,名詞,基準、性能試験,a standard for comparison,Run the benchmark twice.,性能試験を2回回す。,動詞でも「比較測定する」。
+E03637,1,9,blueprint,名詞,設計図,a detailed plan,The blueprint is on page two.,設計図は2ページにある。,青写真が語源。
+E03638,1,9,breach,名詞,違反、侵害,a break of a rule or system,A data breach was reported.,資料の漏えいが報告された。,動詞でも「破る」。
+E03639,1,9,bundle,名詞,束、一式,a group of things together,The bundle includes three tools.,その一式には道具が3つ入っている。,動詞でも「まとめる」。
+E03640,1,9,cache,名詞,一時保存,a store of temporary data,Clear the cache and retry.,一時保存を消して試し直す。,発音は「キャッシュ（現金の cash と同音）」。
+E03641,1,9,caption,名詞,見出し、字幕,a short text under an image,Add a caption to each figure.,各図に見出しを付ける。,動詞でも「字幕を付ける」。
+E03642,1,9,checklist,名詞,確認表,a list of things to check,Follow the release checklist.,公開の確認表に従う。,check ＋ list。
+E03643,1,9,clause,名詞,条項、節,a part of a contract or sentence,Read clause five carefully.,第5条をよく読む。,SQL の WHERE 句も clause。
+E03644,1,9,closure,名詞,閉鎖、決着,the act of closing,The closure of the ticket took a week.,その案件の決着に1週間かかった。,プログラムの「クロージャ」も同じ語。
+E03645,1,9,cluster,名詞,集団、クラスタ,a group close together,Errors cluster around noon.,異常は正午前後に固まる。,動詞でも「群がる」。
+E03646,1,9,compliance,名詞,順守,the act of following rules,Compliance is checked yearly.,順守は毎年確認される。,動詞は comply。
+E03647,1,9,consumption,名詞,消費,the act of using up,Memory consumption doubled.,記憶の消費が倍になった。,動詞は consume。
+E03648,1,9,counterpart,名詞,対応するもの,a person or thing with the same role,Ask your counterpart in sales.,営業の対応者に聞く。,counter ＋ part。
+E03649,1,9,credentials,名詞,認証情報、資格,proof of identity,Never share credentials.,認証情報を渡さないこと。,いつも複数形。
+E03650,1,9,crossroads,名詞,岐路、交差点,a point of decision,The project is at a crossroads.,その計画は岐路にある。,いつも複数形。
+E03651,1,9,deadlock,名詞,こう着、デッドロック,a state where nothing can move,Two jobs hit a deadlock.,2つの処理がこう着した。,dead ＋ lock。
+E03652,1,9,defect,名詞,欠陥,a fault,Three defects were found.,欠陥が3件見つかった。,動詞では「亡命する」。
+E03653,1,9,delegation,名詞,委任、代表団,the act of giving tasks,Delegation is a skill.,任せることも技能だ。,動詞は delegate。
+E03654,1,9,deposit,名詞,預金、手付金,money paid or stored,A deposit is required.,手付金が必要だ。,動詞でも「預ける」。
+E03655,1,9,directory,名詞,ディレクトリ、名簿,a folder or a list,The directory is read-only.,そのディレクトリは読み取り専用だ。,動詞は direct。
+E03656,1,9,disclosure,名詞,開示,the act of making known,Full disclosure is required.,全面的な開示が求められる。,動詞は disclose。
+E03657,1,9,discrepancy,名詞,食い違い,a difference that should not be,There is a discrepancy in the totals.,合計に食い違いがある。,複数形は discrepancies。
+E03658,1,9,downtime,名詞,停止時間,the time a system is not working,Downtime was ten minutes.,停止時間は10分だった。,反対は uptime。
+E03659,1,9,endorsement,名詞,支持、裏書き,public support,The endorsement helped adoption.,その後押しが導入を助けた。,動詞は endorse。
+E03660,1,9,escalation,名詞,上申、拡大,the act of raising to a higher level,The escalation path is documented.,上申の経路は文書化されている。,動詞は escalate。
+E03661,1,9,exemption,名詞,免除,freedom from a rule,An exemption was granted.,免除が認められた。,動詞は exempt。
+E03662,1,9,expiry,名詞,期限切れ,the end of a valid period,Check the expiry date.,有効期限を確かめる。,動詞は expire。米語では expiration。
+E03663,1,9,fallback,名詞,代替手段,a plan used if the first fails,The fallback is a manual export.,代替は手作業での書き出しだ。,fall ＋ back。
+E03664,1,9,firewall,名詞,防火壁,a security barrier,The firewall blocks that port.,防火壁がその口をふさいでいる。,fire ＋ wall。
+E03665,1,9,footprint,名詞,占有量、足跡,the space or resources used,The memory footprint is small.,記憶の占有は小さい。,foot ＋ print。
+E03666,1,9,fragment,名詞,断片,a small broken piece,Only a fragment of the log remains.,記録は断片しか残っていない。,動詞でも「断片化する」。
+E03667,1,9,gateway,名詞,出入口、ゲートウェイ,a way in or a network device,The gateway timed out.,その中継装置が時間切れになった。,gate ＋ way。
+E03668,1,9,glossary,名詞,用語集,a list of terms with meanings,Add it to the glossary.,それを用語集に足す。,巻末に置くことが多い。
+E03669,1,9,grievance,名詞,苦情、不満,a complaint,They filed a grievance.,彼らは苦情を申し立てた。,動詞は grieve。
+E03670,1,9,handbook,名詞,手引き,a short reference book,The handbook is 30 pages.,その手引きは30ページだ。,hand ＋ book。
+E03671,1,9,headline,名詞,見出し,the title of a news item,The headline says it all.,見出しがすべてを語っている。,head ＋ line。
+E03672,1,9,hurdle,名詞,障害、ハードル,a difficulty to overcome,Approval is the biggest hurdle.,承認が一番の壁だ。,動詞でも「跳び越える」。
+E03673,1,9,inbox,名詞,受信箱,where mail arrives,My inbox is full again.,受信箱がまたいっぱいだ。,反対は outbox。
+E03674,1,9,inventory,名詞,在庫、目録,a list of goods,Take an inventory of the tools.,道具の目録を取る。,動詞でも「棚卸しする」。
+E03675,1,9,jargon,名詞,専門用語,special words of a group,Avoid jargon in the guide.,手引きでは専門用語を避ける。,数えられない。
+E03676,1,9,keyword,名詞,キーワード,an important word,Search by keyword.,キーワードで探す。,key ＋ word。
+E03677,1,9,landmark,名詞,目印、画期的なもの,a notable object or event,It was a landmark decision.,それは画期的な決定だった。,land ＋ mark。
+E03678,1,9,liaison,名詞,連絡、橋渡し役,communication between groups,She is the liaison with support.,彼女が支援班との橋渡し役だ。,発音は「リエゾン」。
+E03679,1,9,loophole,名詞,抜け穴,a gap in a rule,They found a loophole.,彼らは抜け穴を見つけた。,loop ＋ hole。
+E03680,1,9,mandate,名詞,指令、権限,an official order,We have no mandate for that.,それをする権限がない。,形容詞は mandatory。
+E03681,1,9,metric,名詞,指標,a standard of measurement,Pick one metric and watch it.,指標を1つ選んで見張る。,ふつう複数形 metrics。
+E03682,1,9,momentum,名詞,勢い,the force of movement,The project lost momentum.,その計画は勢いを失った。,物理では「運動量」。
+E03683,1,9,nuance,名詞,微妙な差,a small difference in meaning,The nuance is lost in translation.,その微妙な差は訳で消える。,仏語由来。
+E03684,1,9,onboarding,名詞,受け入れ、導入,the process of bringing someone in,Onboarding takes a week.,受け入れには1週間かかる。,on ＋ board。
+E03685,1,9,outage,名詞,停止、停電,a period of no service,The outage lasted an hour.,その停止は1時間続いた。,動詞は out（外れる）から。
+E03686,1,9,overhead,名詞,間接費、余分な負荷,extra cost or work,The check adds little overhead.,その確認は負荷をほとんど増やさない。,形容詞では「頭上の」。
+E03687,1,9,payload,名詞,積載物、本体データ,the carried content,The payload is JSON.,その中身は JSON だ。,pay ＋ load。
+E03688,1,9,placeholder,名詞,仮置き、プレースホルダ,something used temporarily,Replace the placeholder text.,仮の文言を差し替える。,place ＋ holder。
+E03689,1,9,precedent,名詞,前例,an earlier case used as a guide,There is no precedent for this.,これには前例がない。,動詞は precede。
+E03690,1,9,prefix,名詞,接頭辞,letters added at the start,Use E as the prefix.,頭文字に E を使う。,反対は suffix。
+E03691,1,9,suffix,名詞,接尾辞,letters added at the end,The suffix marks the plural.,その接尾辞が複数を表す。,反対は prefix。
+E03692,1,9,provision,名詞,供給、条項,the act of supplying or a clause,The provision covers refunds.,その条項は返金を扱う。,動詞は provide。
+E03693,1,9,quorum,名詞,定足数,the minimum number needed,We did not reach a quorum.,定足数に達しなかった。,会議でよく使う。
+E03694,1,9,rationale,名詞,根拠、理由づけ,the reasons behind,Write the rationale in one line.,根拠を一行で書く。,発音は「ラショナール」。
+E03695,1,9,remedy,名詞,改善策、治療,a cure or solution,The remedy is a config change.,対処は設定の変更だ。,動詞でも「直す」。
+E03696,1,9,repository,名詞,保管所、リポジトリ,a place where things are stored,The repository is private.,その保管所は非公開だ。,略して repo。
+E03697,1,9,rollout,名詞,展開,the act of introducing widely,The rollout is phased.,その展開は段階的だ。,動詞は roll out。
+E03698,1,9,safeguard,名詞,安全策,a protection,Add a safeguard against deletion.,削除に対する安全策を足す。,動詞でも「守る」。
+E03699,1,9,scoreboard,名詞,得点板,a board showing scores,The dashboard is a scoreboard.,その計器盤は得点板のようなものだ。,score ＋ board。
+E03700,1,9,snapshot,名詞,その時点の写し,a record at one moment,Take a snapshot before the change.,変更の前に写しを取る。,snap ＋ shot。

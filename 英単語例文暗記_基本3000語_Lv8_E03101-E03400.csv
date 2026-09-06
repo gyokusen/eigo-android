@@ -1,0 +1,301 @@
+登録NO,枝番,レベル,英単語,品詞,意味(日本語),意味(英語),例文(英語),例文(日本語),解説
+E03101,1,8,worship,名詞,崇拝,religious respect,Do not worship the framework.,その枠組みを崇めないこと。,動詞でも「崇める」。
+E03102,1,8,wound,名詞,傷,an injury to the body,The wound healed slowly.,その傷はゆっくり癒えた。,wind（巻く）の過去形と同綴りで発音が違う。
+E03103,1,8,wreck,名詞,残骸、難破,something destroyed,The build was a wreck.,その組み立ては散々だった。,動詞でも「壊す」。
+E03104,1,8,yield,名詞,収量、利回り,the amount produced,The yield dropped this quarter.,今期は収量が落ちた。,動詞では「産む、譲る」。
+E03105,1,8,absolute,形容詞,絶対の,complete and total,Use an absolute path here.,ここは絶対の経路を使う。,反対は relative。
+E03106,1,8,abundant,形容詞,豊富な,existing in large amounts,Examples are abundant.,例は豊富にある。,名詞は abundance。
+E03107,1,8,adjacent,形容詞,隣接した,next to,The two rows are adjacent.,その2行は隣り合っている。,adjacent to の形。
+E03108,1,8,alien,形容詞,異質の、外国の,strange or foreign,That syntax feels alien.,その書き方は異質に感じる。,名詞では「外国人、宇宙人」。
+E03109,1,8,alike,形容詞,似ている,similar,The two logs look alike.,その2つの記録は似て見える。,名詞の前には置けない。
+E03110,1,8,alternate,形容詞,交互の、代わりの,every other one,Shade alternate rows.,一行おきに色を付ける。,動詞では「交互に起こる」。
+E03111,1,8,annoying,形容詞,うっとうしい,causing slight anger,That popup is annoying.,その飛び出す窓はうっとうしい。,動詞は annoy。
+E03112,1,8,anxious,形容詞,不安な、切望して,worried or eager,I'm anxious about the release.,公開が心配だ。,名詞は anxiety。
+E03113,1,8,artificial,形容詞,人工の,made by people,This is artificial data.,これは人工の資料だ。,反対は natural。
+E03114,1,8,authentic,形容詞,本物の,genuine,The certificate is authentic.,その証明書は本物だ。,名詞は authenticity。
+E03115,1,8,bare,形容詞,むき出しの、最小限の,not covered,The bare minimum is enough.,最低限で十分だ。,bear（熊、耐える）と同音。
+E03116,1,8,bitter,形容詞,苦い、つらい,sharp in taste or feeling,It was a bitter lesson.,それは苦い教訓だった。,反対は sweet。
+E03117,1,8,blank,形容詞,空白の,with nothing written,Leave the field blank.,その欄は空のままにする。,名詞でも「空白」。
+E03118,1,8,bored,形容詞,退屈した,tired of something dull,Users get bored of long forms.,利用者は長い用紙に飽きる。,boring は「（物が）退屈な」。
+E03119,1,8,brave,形容詞,勇敢な,not afraid,It was a brave decision.,それは勇気ある決定だった。,名詞は bravery。
+E03120,1,8,brilliant,形容詞,見事な、輝く,very clever or bright,That is a brilliant idea.,それは見事な考えだ。,英式では「すごくいい」の意味で多用。
+E03121,1,8,brutal,形容詞,容赦のない,harsh and cruel,The deadline was brutal.,その締切は容赦なかった。,副詞は brutally。
+E03122,1,8,cheerful,形容詞,陽気な,happy and positive,She stayed cheerful all day.,彼女は一日中明るかった。,名詞は cheer。
+E03123,1,8,chronic,形容詞,慢性の,lasting a long time,This is a chronic problem.,これは慢性的な問題だ。,反対は acute（急性の）。
+E03124,1,8,civil,形容詞,市民の、丁重な,of citizens or polite,Keep the discussion civil.,議論は礼を保つ。,civil war は「内戦」。
+E03125,1,8,compact,形容詞,小型の、密な,small and neat,The layout is compact.,その配置は詰まっている。,動詞では「押し固める」。
+E03126,1,8,compatible,形容詞,互換性のある,able to work together,This is not compatible with v1.,これは第1版と互換性がない。,名詞は compatibility。
+E03127,1,8,competent,形容詞,有能な,able to do a job well,She is a competent reviewer.,彼女は有能な見直し役だ。,名詞は competence。
+E03128,1,8,conscious,形容詞,意識している,aware,Be conscious of the cost.,費用を意識すること。,反対は unconscious。
+E03129,1,8,conservative,形容詞,保守的な、控えめな,cautious about change,Use a conservative estimate.,控えめな見積りを使う。,政治では「保守の」。
+E03130,1,8,continuous,形容詞,連続的な,without a break,Continuous testing is the goal.,絶え間ない試験が目標だ。,continual は「たびたびの」で少し違う。
+E03131,1,8,costly,形容詞,費用のかかる,expensive,That mistake was costly.,その誤りは高くついた。,-ly だが形容詞。
+E03132,1,8,crude,形容詞,粗い、未加工の,rough or unrefined,It is a crude but working fix.,粗いが動く直しだ。,crude oil は「原油」。
+E03133,1,8,cruel,形容詞,残酷な,causing pain deliberately,That timing was cruel.,その時機は酷だった。,名詞は cruelty。
+E03134,1,8,curious,形容詞,好奇心の強い、奇妙な,wanting to know or strange,I'm curious about the cause.,原因が気になる。,名詞は curiosity。
+E03135,1,8,deliberate,形容詞,意図的な、慎重な,done on purpose,That was a deliberate choice.,それは意図した選択だ。,動詞では「熟考する」で発音が変わる。
+E03136,1,8,desperate,形容詞,必死の、絶望的な,having little hope,We were desperate for logs.,記録がのどから手が出るほど欲しかった。,名詞は desperation。
+E03137,1,8,diverse,形容詞,多様な,of many kinds,The team is diverse.,その班は多様だ。,名詞は diversity。
+E03138,1,8,dramatic,形容詞,劇的な,sudden and noticeable,There was a dramatic drop.,劇的な落ち込みがあった。,副詞は dramatically。
+E03139,1,8,eager,形容詞,熱心な,very interested,He is eager to help.,彼はぜひ手伝いたいと言っている。,eager to do の形。
+E03140,1,8,elderly,形容詞,年配の,old,Elderly users need larger text.,年配の利用者には大きな文字が要る。,old より丁寧な言い方。
+E03141,1,8,enormous,形容詞,巨大な,very large,The log file is enormous.,その記録ファイルは巨大だ。,副詞は enormously。
+E03142,1,8,entire,形容詞,全体の,whole,The entire folder was lost.,フォルダ全体が失われた。,副詞は entirely。
+E03143,1,8,eternal,形容詞,永遠の,lasting forever,There is no eternal fix.,永遠に効く直しはない。,名詞は eternity。
+E03144,1,8,exact,形容詞,正確な,completely correct,Give the exact number.,正確な数を出す。,副詞は exactly。
+E03145,1,8,exclusive,形容詞,排他的な、独占の,not shared,This lock is exclusive.,この錠は排他的だ。,反対は inclusive。
+E03146,1,8,expensive,形容詞,高価な,costing a lot,That option is expensive.,その案は高くつく。,反対は cheap / inexpensive。
+E03147,1,8,external,形容詞,外部の,on the outside,The link points to an external site.,その参照先は外部だ。,反対は internal。
+E03148,1,8,internal,形容詞,内部の,on the inside,This is an internal document.,これは社内文書だ。,反対は external。
+E03149,1,8,faint,形容詞,かすかな,weak or hard to see,There is a faint line here.,ここにかすかな線がある。,動詞では「気を失う」。
+E03150,1,8,fierce,形容詞,激しい,very strong or violent,Competition is fierce.,競争は激しい。,副詞は fiercely。
+E03151,1,8,filthy,形容詞,とても汚い,very dirty,The keyboard was filthy.,その鍵盤はひどく汚れていた。,名詞は filth。
+E03152,1,8,formal,形容詞,正式な、堅い,official or serious,Send a formal request.,正式に依頼を出す。,反対は informal。
+E03153,1,8,fortunate,形容詞,幸運な,lucky,We were fortunate to catch it.,気づけたのは幸運だった。,副詞は fortunately。
+E03154,1,8,frozen,形容詞,凍った、固まった,turned to ice or stopped,The screen is frozen.,画面が固まっている。,動詞 freeze の過去分詞。
+E03155,1,8,furious,形容詞,激怒した,very angry,The client was furious.,先方は激怒していた。,名詞は fury。
+E03156,1,8,genuine,形容詞,本物の,real,That is a genuine concern.,それはもっともな懸念だ。,authentic とほぼ同じ。
+E03157,1,8,gigantic,形容詞,巨大な,extremely large,The table is gigantic.,その表は巨大だ。,giant の形容詞形。
+E03158,1,8,gorgeous,形容詞,とても美しい,very beautiful,The chart looks gorgeous.,その図は見事だ。,口語でよく使う。
+E03159,1,8,grateful,形容詞,感謝している,thankful,I'm grateful for the help.,手伝いに感謝します。,名詞は gratitude。
+E03160,1,8,guilty,形容詞,有罪の、後ろめたい,having done wrong,I feel guilty about the shortcut.,近道をしたのが後ろめたい。,名詞は guilt。
+E03161,1,8,healthy,形容詞,健康な、健全な,in good condition,The repo is in a healthy state.,その保管所は健全な状態だ。,名詞は health。
+E03162,1,8,hostile,形容詞,敵対的な,unfriendly,The takeover was hostile.,その買収は敵対的だった。,名詞は hostility。
+E03163,1,8,humble,形容詞,謙虚な、質素な,not proud,Stay humble about estimates.,見積りには謙虚でいること。,名詞は humility。
+E03164,1,8,ideal,形容詞,理想的な,perfect for a purpose,This is not an ideal fix.,これは理想的な直しではない。,名詞でも「理想」。
+E03165,1,8,illegal,形容詞,違法の,against the law,That copy would be illegal.,その複製は違法になる。,反対は legal。
+E03166,1,8,immediate,形容詞,即座の,happening at once,We need an immediate answer.,即答が必要だ。,副詞は immediately。
+E03167,1,8,immense,形容詞,巨大な,extremely large,The gain was immense.,その改善は計り知れない。,副詞は immensely。
+E03168,1,8,impressive,形容詞,印象的な,causing admiration,That is an impressive number.,それは目を引く数字だ。,動詞は impress。
+E03169,1,8,inadequate,形容詞,不十分な,not enough,The test coverage is inadequate.,試験の網羅は不十分だ。,反対は adequate。
+E03170,1,8,incredible,形容詞,信じがたい、すごい,hard to believe,The speed gain is incredible.,その速さの改善は信じがたい。,副詞は incredibly。
+E03171,1,8,inevitable,形容詞,避けられない,certain to happen,Some rework is inevitable.,手戻りはある程度避けられない。,副詞は inevitably。
+E03172,1,8,inferior,形容詞,劣った,not as good,The copy is inferior.,その複製は質が落ちる。,反対は superior。
+E03173,1,8,innocent,形容詞,無実の、無邪気な,not guilty,The library is innocent here.,この件でその部品に罪はない。,名詞は innocence。
+E03174,1,8,intelligent,形容詞,知的な,able to learn and understand,That is an intelligent default.,それは気の利いた既定だ。,名詞は intelligence。
+E03175,1,8,intermediate,形容詞,中級の、中間の,between two levels,Save an intermediate file.,途中のファイルを残す。,初級は beginner、上級は advanced。
+E03176,1,8,invisible,形容詞,見えない,not able to be seen,The character is invisible.,その文字は見えない。,反対は visible。
+E03177,1,8,jealous,形容詞,ねたんでいる,unhappy about another's success,Don't be jealous of the tooling.,他所の道具立てをうらやまないこと。,名詞は jealousy。
+E03178,1,8,lazy,形容詞,怠惰な、遅延の,not wanting to work,Lazy loading saves time.,遅延読み込みは時間を節約する。,IT の「遅延評価」も lazy。
+E03179,1,8,literal,形容詞,文字どおりの,exact in meaning,Take it as a literal value.,それは文字どおりの値と取る。,副詞は literally。
+E03180,1,8,logical,形容詞,論理的な,reasonable,That is the logical next step.,それが理にかなった次の一手だ。,名詞は logic。
+E03181,1,8,loose,形容詞,ゆるい,not tight,The screw is loose.,そのねじがゆるんでいる。,lose（失う）と綴りが似ている。
+E03182,1,8,magnificent,形容詞,壮大な,very impressive,The view was magnificent.,その眺めは見事だった。,名詞は magnificence。
+E03183,1,8,marginal,形容詞,わずかな、周辺の,very small,The gain was marginal.,改善はわずかだった。,名詞は margin。
+E03184,1,8,mature,形容詞,成熟した,fully developed,The library is mature.,その部品群は成熟している。,動詞でも「成熟する」。
+E03185,1,8,mere,形容詞,ほんの,nothing more than,It was a mere typo.,ほんの打ち間違いだった。,副詞 merely は「単に」。
+E03186,1,8,messy,形容詞,散らかった,untidy,The folder is messy.,そのフォルダは散らかっている。,名詞は mess。
+E03187,1,8,mobile,形容詞,移動できる,able to move,Test the mobile view too.,携帯での見え方も試す。,名詞では英式で「携帯電話」。
+E03188,1,8,naked,形容詞,裸の、むき出しの,not covered,Visible to the naked eye.,肉眼で見える。,the naked eye は「肉眼」。
+E03189,1,8,nasty,形容詞,いやな、たちの悪い,very unpleasant,That is a nasty bug.,それはたちの悪い不具合だ。,副詞は nastily。
+E03190,1,8,naughty,形容詞,いたずらな,badly behaved,That is a naughty workaround.,それは行儀の悪い回避策だ。,子どもによく使う語。
+E03191,1,8,neat,形容詞,整った、うまい,tidy or clever,That is a neat solution.,それはうまい解だ。,副詞は neatly。
+E03192,1,8,nuclear,形容詞,原子力の,of atomic energy,Nuclear power is debated.,原子力は議論の的だ。,発音は「ニュークリア」。
+E03193,1,8,obedient,形容詞,従順な,doing what you are told,The script is obedient to the config.,その台本は設定に忠実だ。,動詞は obey。
+E03194,1,8,ordinary,形容詞,普通の,not special,It is an ordinary day.,ふつうの一日だ。,反対は extraordinary。
+E03195,1,8,outstanding,形容詞,傑出した、未処理の,excellent or not yet paid,Two items are outstanding.,2件が未処理だ。,「未払いの」の意味に注意。
+E03196,1,8,parallel,形容詞,並行の,side by side,Run the tests in parallel.,試験を並行して回す。,l が2つ、その後1つ。
+E03197,1,8,passive,形容詞,受動的な,not acting,Passive checks are cheaper.,受け身の確認のほうが安い。,反対は active。
+E03198,1,8,patient,形容詞,忍耐強い,able to wait calmly,Be patient with the migration.,移行には辛抱が要る。,名詞では「患者」。
+E03199,1,8,peculiar,形容詞,奇妙な、特有の,strange or specific to,That is peculiar to this version.,それはこの版に特有だ。,peculiar to の形。
+E03200,1,8,physical,形容詞,物理的な、身体の,of the body or material,Check the physical connection.,物理的な接続を確かめる。,反対は mental / virtual。
+E03201,1,8,polar,形容詞,極の、正反対の,of the poles or opposite,The two views are polar opposites.,その2つの見方は正反対だ。,名詞は pole。
+E03202,1,8,precise,形容詞,正確な、精密な,exact,Give a precise figure.,精確な数字を出す。,名詞は precision。
+E03203,1,8,prior,形容詞,事前の、以前の,coming before,Get prior approval.,事前の承認を取る。,prior to は「～の前に」。
+E03204,1,8,profound,形容詞,深遠な、重大な,very great or deep,It had a profound effect.,それは深い影響を与えた。,副詞は profoundly。
+E03205,1,8,proper,形容詞,適切な、正式の,correct or suitable,Use the proper channel.,正規の経路を使う。,副詞は properly。
+E03206,1,8,pure,形容詞,純粋な,not mixed,This is pure guesswork.,これはまったくの当て推量だ。,名詞は purity。
+E03207,1,8,random,形容詞,無作為の,chosen by chance,Pick a random sample.,無作為に見本を選ぶ。,at random は「手当たり次第に」。
+E03208,1,8,raw,形容詞,生の、未加工の,not cooked or processed,Keep the raw data too.,生の資料も残しておく。,raw material は「原料」。
+E03209,1,8,realistic,形容詞,現実的な,sensible and possible,Set a realistic deadline.,現実的な締切を置く。,反対は unrealistic。
+E03210,1,8,reasonable,形容詞,妥当な、手ごろな,fair and sensible,That is a reasonable price.,それは妥当な値段だ。,名詞は reason。
+E03211,1,8,reluctant,形容詞,気が進まない,unwilling,He was reluctant to change it.,彼はそれを変えたがらなかった。,副詞は reluctantly。
+E03212,1,8,remarkable,形容詞,注目すべき,unusual and noticeable,That is a remarkable result.,それは目覚ましい結果だ。,動詞は remark。
+E03213,1,8,rigid,形容詞,硬直した、厳格な,not able to bend,The rule is too rigid.,その規則は硬すぎる。,反対は flexible。
+E03214,1,8,rural,形容詞,田舎の,of the countryside,Rural areas have weak signal.,田舎は電波が弱い。,反対は urban。
+E03215,1,8,urban,形容詞,都市の,of a city,Urban users expect speed.,都市の利用者は速さを求める。,反対は rural。
+E03216,1,8,sacred,形容詞,神聖な,holy or greatly respected,No file is sacred here.,ここでは触れられないファイルはない。,名詞は sanctity。
+E03217,1,8,scarce,形容詞,乏しい,not enough,Time is scarce this week.,今週は時間が乏しい。,名詞は scarcity。
+E03218,1,8,secondary,形容詞,二次的な,less important,That is a secondary concern.,それは二の次の心配だ。,反対は primary。
+E03219,1,8,shallow,形容詞,浅い,not deep,Do a shallow copy first.,まず浅い複製をする。,反対は deep。
+E03220,1,8,sheer,形容詞,まったくの、切り立った,complete or very steep,It was sheer luck.,まったくの運だった。,shear（切る）と同音。
+E03221,1,8,shy,形容詞,内気な,not confident with people,He is shy in large meetings.,彼は大きな会議では控えめだ。,名詞は shyness。
+E03222,1,8,silly,形容詞,ばかげた,not sensible,That was a silly mistake.,ばかげた誤りだった。,stupid より軽い響き。
+E03223,1,8,sincere,形容詞,誠実な,honest and real,Please accept my sincere thanks.,心よりお礼申し上げます。,副詞は sincerely。
+E03224,1,8,sophisticated,形容詞,洗練された、高度な,advanced or refined,That is a sophisticated attack.,それは高度な攻撃だ。,名詞は sophistication。
+E03225,1,8,spare,形容詞,予備の、余った,extra,Keep a spare cable.,予備の線を持っておく。,動詞では「割く、免れさせる」。
+E03226,1,8,steady,形容詞,着実な,regular and even,There is steady progress.,着実に進んでいる。,副詞は steadily。
+E03227,1,8,steep,形容詞,急な、高額の,sharply sloping,There is a steep learning curve.,習得の壁が高い。,副詞は steeply。
+E03228,1,8,strange,形容詞,奇妙な,unusual,That is a strange result.,それは妙な結果だ。,名詞は stranger。
+E03229,1,8,stubborn,形容詞,頑固な,not willing to change,It is a stubborn bug.,それは手ごわい不具合だ。,副詞は stubbornly。
+E03230,1,8,stupid,形容詞,愚かな,not clever,There is no stupid question.,愚かな質問というものはない。,silly よりきつい。
+E03231,1,8,subtle,形容詞,微妙な,not obvious,The difference is subtle.,その違いは微妙だ。,b は発音しない。
+E03232,1,8,sudden,形容詞,突然の,happening quickly,There was a sudden spike.,急な跳ね上がりがあった。,副詞は suddenly。
+E03233,1,8,supreme,形容詞,最高の,highest in rank,The Supreme Court ruled on it.,最高裁がそれを裁いた。,名詞は supremacy。
+E03234,1,8,suspicious,形容詞,疑わしい,causing doubt,That timing is suspicious.,その時機は疑わしい。,名詞は suspicion。
+E03235,1,8,tedious,形容詞,退屈で骨の折れる,boring and long,Manual entry is tedious.,手入力は骨が折れる。,名詞は tedium。
+E03236,1,8,tender,形容詞,柔らかい、優しい,soft or gentle,Handle it with a tender touch.,そっと扱う。,名詞では「入札」。
+E03237,1,8,tense,形容詞,緊張した,nervous or tight,The meeting was tense.,その会議は張り詰めていた。,文法では「時制」。
+E03238,1,8,terrible,形容詞,ひどい,very bad,The response time is terrible.,応答の速さがひどい。,副詞 terribly は「ひどく」。
+E03239,1,8,thoughtful,形容詞,思いやりのある、考え深い,considerate,That was a thoughtful reply.,それは考えの行き届いた返事だった。,名詞は thought。
+E03240,1,8,tiny,形容詞,ごく小さい,very small,It was a tiny typo.,ごく小さな打ち間違いだった。,small より小さい。
+E03241,1,8,transparent,形容詞,透明な、明快な,able to be seen through,Keep the process transparent.,手順を見えるようにしておく。,名詞は transparency。
+E03242,1,8,tremendous,形容詞,とてつもない,very great,It saved tremendous time.,とてつもない時間を節約した。,副詞は tremendously。
+E03243,1,8,typical,形容詞,典型的な,showing the usual,That is a typical case.,それは典型的な例だ。,副詞は typically。
+E03244,1,8,ultimate,形容詞,最終の、究極の,final or best,The ultimate goal is zero touch.,究極の目標は手を触れないことだ。,副詞は ultimately。
+E03245,1,8,unusual,形容詞,珍しい,not common,That is an unusual pattern.,それは珍しい型だ。,反対は usual。
+E03246,1,8,upset,形容詞,動揺した,unhappy or worried,The client was upset.,先方は気を悪くしていた。,動詞でも「動揺させる」。
+E03247,1,8,vast,形容詞,広大な,extremely large,A vast amount of data.,膨大な量の資料。,副詞は vastly。
+E03248,1,8,vertical,形容詞,垂直の,going straight up,Add a vertical line here.,ここに縦線を入れる。,反対は horizontal。
+E03249,1,8,horizontal,形容詞,水平の,flat and level,The bar is horizontal.,その帯は横向きだ。,反対は vertical。
+E03250,1,8,vivid,形容詞,鮮やかな,very clear and bright,The chart uses vivid colors.,その図は鮮やかな色を使っている。,副詞は vividly。
+E03251,1,8,vulnerable,形容詞,脆弱な,easily harmed,The old version is vulnerable.,その古い版は脆弱だ。,名詞は vulnerability。
+E03252,1,8,weird,形容詞,変な,very strange,That is weird behavior.,それは変な挙動だ。,ei の綴りに注意。
+E03253,1,8,wet,形容詞,ぬれた,covered in liquid,Do not use it with wet hands.,ぬれた手で使わないこと。,反対は dry。
+E03254,1,8,wise,形容詞,賢明な,having good judgment,That was a wise call.,それは賢明な判断だった。,名詞は wisdom。
+E03255,1,8,wooden,形容詞,木製の,made of wood,The frame is wooden.,その枠は木製だ。,名詞は wood。
+E03256,1,8,worried,形容詞,心配している,feeling anxious,I'm worried about the load.,負荷が心配だ。,動詞は worry。
+E03257,1,8,abruptly,副詞,突然に,suddenly and unexpectedly,The job ended abruptly.,その処理は突然終わった。,形容詞は abrupt。
+E03258,1,8,apparently,副詞,どうやら,it seems that,Apparently it was a typo.,どうやら打ち間違いだったらしい。,形容詞は apparent。
+E03259,1,8,barely,副詞,かろうじて,only just,It barely fits on the screen.,画面にぎりぎり収まる。,hardly とほぼ同じ。
+E03260,1,8,briefly,副詞,手短に,for a short time,Explain it briefly.,手短に説明する。,形容詞は brief。
+E03261,1,8,constantly,副詞,絶えず,all the time,The log grows constantly.,記録は絶えず膨らむ。,形容詞は constant。
+E03262,1,8,deliberately,副詞,意図的に,on purpose,The field is deliberately blank.,その欄はわざと空にしてある。,形容詞は deliberate。
+E03263,1,8,eagerly,副詞,熱心に,with strong interest,They eagerly adopted it.,彼らは進んでそれを採り入れた。,形容詞は eager。
+E03264,1,8,effectively,副詞,効果的に、事実上,in a way that works,It effectively doubles the speed.,それは事実上、速さを倍にする。,形容詞は effective。
+E03265,1,8,entirely,副詞,完全に,completely,That is entirely my fault.,それは全面的に私の落ち度だ。,形容詞は entire。
+E03266,1,8,equally,副詞,等しく,in the same amount,Split the load equally.,負荷を等しく分ける。,形容詞は equal。
+E03267,1,8,evidently,副詞,明らかに,clearly,Evidently the cache was stale.,明らかに一時保存が古かった。,形容詞は evident。
+E03268,1,8,extremely,副詞,極めて,to a very great degree,It is extremely rare.,それは極めてまれだ。,形容詞は extreme。
+E03269,1,8,fairly,副詞,かなり、公平に,quite or justly,It is fairly stable now.,いまはかなり安定している。,形容詞は fair。
+E03270,1,8,gently,副詞,そっと,in a soft way,Push the tab gently.,その爪をそっと押す。,形容詞は gentle。
+E03271,1,8,greatly,副詞,大いに,very much,It greatly reduces typing.,入力を大きく減らす。,形容詞は great。
+E03272,1,8,heavily,副詞,重く、大いに,to a great degree,It relies heavily on the cache.,それは一時保存に大きく頼っている。,形容詞は heavy。
+E03273,1,8,highly,副詞,非常に,to a high degree,It is highly likely.,その見込みは非常に高い。,high（高く）とは使い分ける。
+E03274,1,8,increasingly,副詞,ますます,more and more,It is increasingly common.,それはますますよくある。,動詞は increase。
+E03275,1,8,largely,副詞,主に,mostly,It is largely automated.,それは主に自動化されている。,形容詞は large。
+E03276,1,8,lately,副詞,最近,recently,It has been slow lately.,最近は遅い。,late（遅く）とは意味が違う。
+E03277,1,8,merely,副詞,単に,only,It is merely a warning.,それは単なる警告だ。,形容詞は mere。
+E03278,1,8,mutually,副詞,相互に,in both directions,The two are mutually exclusive.,その2つは互いに排他だ。,形容詞は mutual。
+E03279,1,8,naturally,副詞,自然に、当然,in a normal way,"Naturally, we tested first.",当然ながら、まず試験した。,形容詞は natural。
+E03280,1,8,normally,副詞,ふつうは,usually,Normally it finishes in a minute.,ふつうは1分で終わる。,形容詞は normal。
+E03281,1,8,obviously,副詞,明らかに,clearly,Obviously that is wrong.,それは明らかに誤りだ。,形容詞は obvious。
+E03282,1,8,occasionally,副詞,時々,sometimes,It fails occasionally.,たまに失敗する。,名詞は occasion。
+E03283,1,8,particularly,副詞,特に,especially,Particularly on Mondays.,特に月曜には。,形容詞は particular。
+E03284,1,8,permanently,副詞,永続的に,for all time,The file is permanently deleted.,そのファイルは完全に消される。,形容詞は permanent。
+E03285,1,8,physically,副詞,物理的に,in a material way,Physically move the drive.,その装置を物理的に移す。,形容詞は physical。
+E03286,1,8,precisely,副詞,正確に,exactly,That is precisely the issue.,まさにそこが問題だ。,形容詞は precise。
+E03287,1,8,presumably,副詞,おそらく,it is likely that,Presumably it timed out.,おそらく時間切れだろう。,動詞は presume。
+E03288,1,8,purely,副詞,純粋に、まったく,only,It is purely cosmetic.,それは見た目だけの話だ。,形容詞は pure。
+E03289,1,8,randomly,副詞,無作為に,by chance,It fails randomly.,不規則に失敗する。,形容詞は random。
+E03290,1,8,rapidly,副詞,急速に,very quickly,The list grows rapidly.,その一覧は急速に伸びる。,形容詞は rapid。
+E03291,1,8,readily,副詞,すぐに、快く,easily or willingly,The data is readily available.,その資料はすぐに手に入る。,形容詞は ready。
+E03292,1,8,severely,副詞,厳しく、ひどく,very badly,Performance is severely affected.,性能がひどく影響を受けている。,形容詞は severe。
+E03293,1,8,shortly,副詞,まもなく,soon,The fix ships shortly.,その修正はまもなく出る。,形容詞は short。
+E03294,1,8,silently,副詞,静かに、黙って,without sound or notice,It fails silently.,それは黙って失敗する。,IT では「知らせず」の意味で重要。
+E03295,1,8,slightly,副詞,わずかに,a little,It is slightly faster.,わずかに速い。,形容詞は slight。
+E03296,1,8,steadily,副詞,着実に,at an even rate,Usage grew steadily.,利用は着実に増えた。,形容詞は steady。
+E03297,1,8,strictly,副詞,厳密に、厳しく,in an exact way,"Strictly speaking, it is a warning.",厳密に言えば、それは警告だ。,形容詞は strict。
+E03298,1,8,substantially,副詞,相当に,by a large amount,It substantially cut the time.,それは時間を大きく削った。,形容詞は substantial。
+E03299,1,8,surprisingly,副詞,意外にも,in an unexpected way,"Surprisingly, it worked.",意外にも、うまくいった。,動詞は surprise。
+E03300,1,8,theoretically,副詞,理論上は,in theory,Theoretically it scales.,理論上は規模を広げられる。,名詞は theory。
+E03301,1,8,truly,副詞,本当に,really,It is truly the last version.,これが本当に最後の版だ。,形容詞は true。綴りに e はない。
+E03302,1,8,typically,副詞,たいてい,usually,It typically takes a minute.,たいてい1分かかる。,形容詞は typical。
+E03303,1,8,ultimately,副詞,最終的には,in the end,Ultimately the user decides.,最後は利用者が決める。,形容詞は ultimate。
+E03304,1,8,widely,副詞,広く,over a large area,It is widely used.,それは広く使われている。,形容詞は wide。
+E03305,1,8,willingly,副詞,進んで,without being forced,They willingly tested it.,彼らは進んで試してくれた。,形容詞は willing。
+E03306,1,8,give up,熟語,あきらめる,to stop trying,Do not give up on the first error.,最初の異常であきらめないこと。,あとは動名詞（give up trying）。
+E03307,1,8,carry out,熟語,実行する,to perform,We carried out three tests.,3つの試験を行った。,perform のくだけた言い方。
+E03308,1,8,find out,熟語,調べて知る,to learn by asking,Find out who changed it.,誰が変えたのか調べる。,「発見する」の意味。
+E03309,1,8,point out,熟語,指摘する,to draw attention to,He pointed out the typo.,彼が打ち間違いを指摘した。,point out that … の形も使う。
+E03310,1,8,figure out,熟語,解き明かす,to understand after thinking,I figured out the cause.,原因が分かった。,米語でよく使う。
+E03311,1,8,set up,熟語,設定する、立ち上げる,to prepare or establish,Set up the folder first.,まずフォルダを用意する。,名詞は setup（1語）。
+E03312,1,8,shut down,熟語,終了する,to turn off,Shut down the machine at night.,夜は機械を落とす。,名詞は shutdown（1語）。
+E03313,1,8,back up,熟語,控えを取る、支える,to make a copy or support,Back up the database nightly.,データベースの控えを毎晩取る。,名詞は backup（1語）。
+E03314,1,8,roll out,熟語,展開する,to introduce widely,We roll out on Monday.,月曜に展開する。,反対は roll back（差し戻す）。
+E03315,1,8,roll back,熟語,差し戻す,to return to a previous state,Roll back if the test fails.,試験が通らなければ差し戻す。,名詞は rollback。
+E03316,1,8,check out,熟語,確かめる、（本を）借りる,to look at or take,Check out the log first.,まず記録を見てみる。,ホテルでは「精算して出る」。
+E03317,1,8,check in,熟語,報告する、投入する,to report or register,Check in with the team daily.,毎日、班に一報を入れる。,ホテルでは「宿泊手続き」。
+E03318,1,8,bring up,熟語,持ち出す、育てる,to mention or raise,Bring it up in the meeting.,会議でそれを持ち出す。,「育てる」の意味もある。
+E03319,1,8,come up with,熟語,思いつく,to think of an idea,She came up with a simpler way.,彼女はもっと単純な手を思いついた。,3語で1つの動詞。
+E03320,1,8,catch up,熟語,追いつく,to reach the same level,Catch up on the backlog today.,今日で滞りを取り戻す。,catch up with 人 の形も。
+E03321,1,8,keep up,熟語,ついていく、続ける,to maintain the pace,Keep up the good work.,その調子で。,keep up with の形も多い。
+E03322,1,8,run out,熟語,尽きる,to have no more left,We ran out of disk space.,空き容量が尽きた。,run out of の形。
+E03323,1,8,turn out,熟語,結局～となる,to happen in the end,It turned out to be a typo.,結局は打ち間違いだった。,turn out that … の形も。
+E03324,1,8,work out,熟語,うまくいく、計算する,to succeed or calculate,It worked out in the end.,最後にはうまくいった。,「運動する」の意味も。
+E03325,1,8,break down,熟語,故障する、分解する,to stop working or divide,Break down the task into steps.,作業を段階に分ける。,名詞は breakdown。
+E03326,1,8,hold on,熟語,待つ、しっかりつかむ,to wait,Hold on while I check.,調べるので少しお待ちを。,電話では「切らずにお待ちを」。
+E03327,1,8,take over,熟語,引き継ぐ,to gain control of,She took over the project.,彼女がその計画を引き継いだ。,名詞は takeover（買収）。
+E03328,1,8,hand over,熟語,引き渡す,to give to someone,Hand over the credentials safely.,認証情報を安全に引き渡す。,名詞は handover（引き継ぎ）。
+E03329,1,8,go through,熟語,経験する、目を通す,to experience or examine,Go through the log line by line.,記録を一行ずつ見る。,「通過する」の意味も。
+E03330,1,8,get rid of,熟語,取り除く,to remove,Get rid of the duplicate rows.,重複した行を取り除く。,3語で1つの動詞。
+E03331,1,8,deal with,熟語,対処する,to handle,Who deals with this error?,この異常は誰が対処しますか。,handle よりくだけた言い方。
+E03332,1,8,put off,熟語,延期する,to delay,Do not put off the backup.,控えを取るのを先送りしないこと。,postpone のくだけた言い方。
+E03333,1,8,call off,熟語,中止する,to cancel,They called off the meeting.,会議は中止になった。,cancel のくだけた言い方。
+E03334,1,8,look into,熟語,調査する,to investigate,I will look into it today.,今日それを調べます。,investigate のくだけた言い方。
+E03335,1,8,look up,熟語,調べる、見上げる,to search for information,Look up the error code.,その異常の番号を調べる。,辞書などで「引く」。
+E03336,1,8,look after,熟語,世話をする,to take care of,Who looks after the server?,そのサーバは誰が面倒を見ますか。,英式でよく使う。
+E03337,1,8,go over,熟語,見直す,to examine carefully,Let's go over the plan once more.,計画をもう一度見直そう。,review のくだけた言い方。
+E03338,1,8,stand out,熟語,目立つ,to be easily noticed,The red row stands out.,赤い行が目立つ。,名詞は standout。
+E03339,1,8,stand by,熟語,待機する、支持する,to wait or support,Stand by for the result.,結果が出るまで待機。,名詞は standby（待機）。
+E03340,1,8,end up,熟語,結局～になる,to finally be in a state,We ended up rewriting it.,結局は書き直すことになった。,あとは -ing か形容詞。
+E03341,1,8,show up,熟語,現れる,to appear,The bug shows up only on Fridays.,その不具合は金曜だけ出る。,「顔を出す」の意味も。
+E03342,1,8,come across,熟語,偶然出会う,to find by chance,I came across an old note.,古い覚え書きにたまたま出くわした。,「印象を与える」の意味も。
+E03343,1,8,get along,熟語,仲良くやる,to have a good relationship,The two teams get along well.,その2つの班は仲が良い。,get along with 人 の形。
+E03344,1,8,go ahead,熟語,先に進む,to proceed,Go ahead and merge it.,先に進めて統合してください。,許可を与えるときの言い方。
+E03345,1,8,in charge of,熟語,～を担当して,responsible for,She is in charge of testing.,彼女が試験の担当だ。,in the charge of は逆の意味になる。
+E03346,1,8,in terms of,熟語,～の観点で,with regard to,"In terms of speed, it wins.",速さの点では優れている。,話題を絞るときに使う。
+E03347,1,8,as well as,熟語,～と同様に,in addition to,Test on Edge as well as Chrome.,Chrome だけでなく Edge でも試す。,前の語が主語の中心になる。
+E03348,1,8,in addition to,熟語,～に加えて,besides,"In addition to the log, send the config.",記録に加えて設定も送ってください。,あとは名詞か動名詞。
+E03349,1,8,due to,熟語,～のせいで,because of,The delay is due to the network.,その遅れは回線のせいだ。,あとは名詞。
+E03350,1,8,thanks to,熟語,～のおかげで,because of (positive),"Thanks to the cache, it is fast.",一時保存のおかげで速い。,よい結果に使うのがふつう。
+E03351,1,8,according to,熟語,～によれば,as stated by,"According to the log, it timed out.",記録によれば時間切れだ。,自分の意見には使わない。
+E03352,1,8,regardless of,熟語,～にかかわらず,without considering,"Regardless of the size, it works.",大きさにかかわらず動く。,あとは名詞。
+E03353,1,8,instead of,熟語,～の代わりに,in place of,Use a script instead of clicking.,手で押す代わりに台本を使う。,あとは名詞か動名詞。
+E03354,1,8,rather than,熟語,～よりむしろ,instead of,Fix it rather than hide it.,隠すよりむしろ直す。,前後は同じ形をそろえる。
+E03355,1,8,as long as,熟語,～する限り,provided that,It works as long as the file exists.,ファイルがある限り動く。,条件を表す。
+E03356,1,8,as soon as,熟語,～するとすぐ,immediately when,Call me as soon as it finishes.,終わったらすぐ知らせて。,未来のことでも現在形を使う。
+E03357,1,8,in case,熟語,～の場合に備えて,in the event that,Keep a copy in case it fails.,失敗したときに備えて控えを持つ。,あとは節（主語＋動詞）。
+E03358,1,8,by means of,熟語,～によって,using,"By means of a script, it is instant.",台本を使えば一瞬だ。,かたい書き言葉。
+E03359,1,8,on behalf of,熟語,～を代表して,representing,I am writing on behalf of the team.,班を代表して書いています。,メールでよく使う。
+E03360,1,8,in advance,熟語,前もって,before the time,Send the agenda in advance.,議題を前もって送る。,in advance of は「～に先立って」。
+E03361,1,8,at least,熟語,少なくとも,not less than,Keep at least two backups.,控えは少なくとも2つ持つ。,反対は at most。
+E03362,1,8,at most,熟語,多くても,not more than,It takes ten minutes at most.,かかっても10分だ。,反対は at least。
+E03363,1,8,for instance,熟語,たとえば,for example,"For instance, take this row.",たとえば、この行を見てください。,for example と同じ。
+E03364,1,8,in general,熟語,一般に,usually,"In general, smaller is better.",一般に、小さいほうが良い。,generally speaking も同じ。
+E03365,1,8,in particular,熟語,特に,especially,The last step in particular is slow.,特に最後の段階が遅い。,particularly と同じ。
+E03366,1,8,in practice,熟語,実際には,in reality,"In practice, it never happens.",実際には決して起きない。,in theory と対になる。
+E03367,1,8,in theory,熟語,理論上は,according to the idea,In theory it should work.,理論上はうまくいくはずだ。,in practice と対になる。
+E03368,1,8,as a result,熟語,その結果,consequently,"As a result, we rolled back.",その結果、差し戻した。,as a result of は「～の結果」。
+E03369,1,8,on the other hand,熟語,他方では,from another point of view,"On the other hand, it is slower.",他方で、そちらは遅い。,対比を示す言い方。
+E03370,1,8,in other words,熟語,言い換えれば,to say it differently,"In other words, it is a cache issue.",つまり、一時保存の問題だ。,言い直すときに使う。
+E03371,1,8,in fact,熟語,実は,actually,"In fact, the file was empty.",実は、そのファイルは空だった。,強調にも使う。
+E03372,1,8,by the way,熟語,ところで,changing the subject,"By the way, the build passed.",ところで、組み立ては通りました。,略して BTW。
+E03373,1,8,so far,熟語,今のところ,until now,"So far, no errors.",今のところ異常なしだ。,現在完了とともによく使う。
+E03374,1,8,from now on,熟語,今後は,starting now,"From now on, tag every release.",今後は公開ごとに印を付ける。,未来のことに使う。
+E03375,1,8,all at once,熟語,一度に、突然,suddenly or together,Do not change all at once.,一度に全部変えないこと。,at once は「すぐに」。
+E03376,1,8,over and over,熟語,何度も,repeatedly,It failed over and over.,何度も失敗した。,over and over again とも言う。
+E03377,1,8,little by little,熟語,少しずつ,gradually,Improve it little by little.,少しずつ良くしていく。,step by step も似た意味。
+E03378,1,8,step by step,熟語,段階を追って,one stage at a time,Explain it step by step.,段階を追って説明する。,手順書でよく使う。
+E03379,1,8,side by side,熟語,並べて,next to each other,Compare the two side by side.,その2つを並べて比べる。,比較のときによく使う。
+E03380,1,8,one by one,熟語,一つずつ,individually,Check them one by one.,一つずつ確かめる。,まとめてやらないことを示す。
+E03381,1,8,up to date,熟語,最新の,current,Keep the guide up to date.,手引きを最新に保つ。,形容詞では up-to-date とつなぐ。
+E03382,1,8,out of date,熟語,古い、期限切れの,no longer current,That screenshot is out of date.,その画面写しは古い。,反対は up to date。
+E03383,1,8,on time,熟語,時間どおりに,at the right time,The report went out on time.,報告は期限どおりに出た。,in time は「間に合って」。
+E03384,1,8,in time,熟語,間に合って,early enough,We caught it in time.,間一髪で気づいた。,on time とは意味が違う。
+E03385,1,8,at the same time,熟語,同時に,simultaneously,Do not run both at the same time.,その2つを同時に動かさないこと。,「とはいえ」の意味でも使う。
+E03386,1,8,in the long run,熟語,長い目で見れば,over a long period,"In the long run, it saves time.",長い目で見れば時間の節約になる。,in the short run と対。
+E03387,1,8,make sense,熟語,筋が通る,to be understandable,That does not make sense.,それは筋が通らない。,make sense of は「理解する」。
+E03388,1,8,make sure,熟語,確実にする,to check that,Make sure the file exists.,そのファイルがあることを確かめる。,あとは that 節か of。
+E03389,1,8,take place,熟語,行われる,to happen,The review takes place on Friday.,見直しは金曜に行われる。,happen よりかたい言い方。
+E03390,1,8,take care of,熟語,世話をする、処理する,to look after or handle,I will take care of the merge.,統合は私がやります。,「気をつけて」は Take care.。
+E03391,1,8,take part in,熟語,参加する,to join an activity,Everyone took part in the test.,全員がその試験に参加した。,participate in と同じ。
+E03392,1,8,take advantage of,熟語,活用する、つけ込む,to use well or exploit,Take advantage of the cache.,一時保存をうまく使う。,悪い意味にもなる。
+E03393,1,8,keep in mind,熟語,心に留める,to remember,Keep the reader in mind.,読み手のことを忘れないこと。,bear in mind とも言う。
+E03394,1,8,keep track of,熟語,把握し続ける,to follow the progress of,Keep track of the versions.,版を追い続ける。,lose track of は「見失う」。
+E03395,1,8,pay attention to,熟語,注意を払う,to watch closely,Pay attention to the warnings.,警告に注意を払う。,attention は不可算。
+E03396,1,8,get in touch,熟語,連絡を取る,to contact,Get in touch if it fails.,うまくいかなければ連絡ください。,keep in touch は「連絡を保つ」。
+E03397,1,8,break the ice,慣用句,場をほぐす,to start a conversation,A question breaks the ice.,質問ひとつで場がほぐれる。,初対面の場面で使う。
+E03398,1,8,piece of cake,慣用句,とても簡単なこと,something very easy,That fix was a piece of cake.,その修正は朝飯前だった。,「一切れのケーキ」が語源。
+E03399,1,8,hit the road,慣用句,出発する,to start a journey,Let's hit the road at seven.,7時に出発しよう。,くだけた言い方。
+E03400,1,8,call it a day,慣用句,切り上げる,to stop working for the day,Let's call it a day.,今日はここまでにしよう。,call it a night とも。

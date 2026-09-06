@@ -1,0 +1,301 @@
+登録NO,枝番,レベル,英単語,品詞,意味(日本語),意味(英語),例文(英語),例文(日本語),解説
+E03701,1,10,stakeholder,名詞,利害関係者,a person affected by a project,List the stakeholders first.,まず関係者を並べる。,stake ＋ holder。
+E03702,1,10,throughput,名詞,処理量,the amount processed per time,Throughput doubled after tuning.,調整で処理量が倍になった。,through ＋ put。
+E03703,1,10,timeout,名詞,時間切れ,a limit on waiting time,Raise the timeout to 60 seconds.,時間切れの上限を60秒にする。,time ＋ out。
+E03704,1,10,timestamp,名詞,時刻印,a record of the time,Every row has a timestamp.,各行に時刻印がある。,time ＋ stamp。
+E03705,1,10,toolkit,名詞,道具一式,a set of tools,The toolkit includes a linter.,その一式には検査器が入っている。,tool ＋ kit。
+E03706,1,10,turnaround,名詞,折り返し時間、転換,the time to complete,The turnaround is two days.,折り返しは2日だ。,turn ＋ around。
+E03707,1,10,uptime,名詞,稼働時間,the time a system is working,Uptime was 99.9% last month.,先月の稼働率は99.9%だった。,反対は downtime。
+E03708,1,10,walkthrough,名詞,手順の通し説明,a step-by-step explanation,Do a walkthrough for new members.,新しい人に通しで説明する。,walk ＋ through。
+E03709,1,10,whitelist,名詞,許可一覧,a list of allowed items,Add the host to the whitelist.,その宛先を許可一覧に足す。,反対は blacklist。
+E03710,1,10,workaround,名詞,回避策,a temporary fix,The workaround is documented.,その回避策は書き残してある。,work ＋ around。
+E03711,1,10,workbook,名詞,作業帳、ブック,a book of exercises or an Excel file,The workbook has five sheets.,そのブックには5枚のシートがある。,Excel の「ブック」。
+E03712,1,10,worksheet,名詞,作業用紙、シート,a sheet for work,Rename the worksheet.,そのシートの名前を変える。,Excel の「シート」。
+E03713,1,10,yardstick,名詞,尺度,a standard for judging,Use time as the yardstick.,時間を尺度に使う。,yard ＋ stick（物差し）。
+E03714,1,10,agree to,熟語,（案に）同意する,to accept a proposal,They agreed to the new schedule.,彼らは新しい日程に同意した。,agree with は人の意見に同意。
+E03715,1,10,ask for,熟語,求める,to request,Ask for a written answer.,書面での回答を求める。,ask 人 for 物 の形も。
+E03716,1,10,break into,熟語,侵入する、割り込む,to enter by force,Someone broke into the account.,誰かがその利用者情報に侵入した。,名詞は break-in。
+E03717,1,10,bring back,熟語,戻す、思い出させる,to return something,Bring back the old layout.,古い配置に戻す。,「思い出させる」の意味も。
+E03718,1,10,call for,熟語,求める、必要とする,to require,This calls for a rollback.,これは差し戻しが要る。,「呼びに行く」の意味も。
+E03719,1,10,call on,熟語,訪ねる、指名する,to visit or ask to speak,The chair called on her.,議長は彼女を指名した。,call at は場所を訪ねる。
+E03720,1,10,come along,熟語,一緒に来る、進む,to accompany or progress,How is the fix coming along?,その修正はどう進んでいますか。,進み具合を尋ねる言い方。
+E03721,1,10,count on,熟語,頼りにする,to rely on,You can count on the backup.,控えは当てにしていい。,rely on と同じ。
+E03722,1,10,draw up,熟語,作成する,to prepare a document,Draw up a short plan.,短い計画を作る。,契約書などによく使う。
+E03723,1,10,drop off,熟語,届ける、落ちる,to deliver or decrease,Usage dropped off in August.,8月に利用が落ちた。,「送り届ける」の意味も。
+E03724,1,10,fall behind,熟語,遅れる,to fail to keep up,We fell behind by a week.,1週間遅れた。,反対は catch up。
+E03725,1,10,fall through,熟語,だめになる,to fail to happen,The deal fell through.,その取引は流れた。,計画が「白紙になる」。
+E03726,1,10,follow up,熟語,追って確認する,to check again later,Follow up in two days.,2日後に追って確認する。,名詞は follow-up。
+E03727,1,10,get around to,熟語,やっと～する,to finally do,I never got around to it.,結局それに手が回らなかった。,4語で1つの動詞。
+E03728,1,10,hand in,熟語,提出する,to submit,Hand in the form by noon.,正午までに用紙を出す。,turn in と同じ。
+E03729,1,10,keep on,熟語,し続ける,to continue,It keeps on failing.,それは失敗し続けている。,あとは動名詞。
+E03730,1,10,kick in,熟語,効き始める,to start to take effect,The cache kicks in after a minute.,一時保存は1分後から効き始める。,薬などにもよく使う。
+E03731,1,10,lead to,熟語,～につながる,to result in,That leads to a data loss.,それは資料の消失につながる。,result in と同じ。
+E03732,1,10,live up to,熟語,期待に応える,to meet expectations,It lived up to the promise.,それは約束に応えた。,4語で1つの動詞。
+E03733,1,10,miss out on,熟語,取り逃がす,to lose a chance,Do not miss out on the trial.,試用の機会を逃さないこと。,4語で1つの動詞。
+E03734,1,10,move on,熟語,先へ進む,to go to the next thing,Let's move on to the next item.,次の項目に移りましょう。,会議でよく使う。
+E03735,1,10,opt for,熟語,選ぶ,to choose,We opted for the simpler design.,単純な設計のほうを選んだ。,opt out は「参加しない」。
+E03736,1,10,phase out,熟語,段階的に廃止する,to stop gradually,We phase out the old API in June.,6月に古い窓口を段階的に閉じる。,反対は phase in。
+E03737,1,10,put forward,熟語,提案する,to suggest,She put forward a compromise.,彼女は妥協案を出した。,propose と同じ。
+E03738,1,10,rule out,熟語,除外する,to exclude a possibility,We ruled out a hardware fault.,機械の故障は除外した。,反対は rule in。
+E03739,1,10,scale up,熟語,規模を広げる,to increase in size,Scale up only when needed.,必要なときだけ規模を広げる。,反対は scale down。
+E03740,1,10,shed light on,熟語,解明する,to make clearer,The log shed light on the cause.,その記録が原因を照らし出した。,4語で1つの動詞。
+E03741,1,10,sign off,熟語,承認する、終わる,to approve or end,The manager signed off on it.,課長がそれを承認した。,名詞は sign-off。
+E03742,1,10,slow down,熟語,遅くする,to reduce speed,Slow down and read the warning.,落ち着いて警告を読む。,反対は speed up。
+E03743,1,10,speed up,熟語,速める,to make faster,Caching speeds up the page.,一時保存が画面を速くする。,反対は slow down。
+E03744,1,10,stem from,熟語,～に由来する,to be caused by,The bug stems from a race.,その不具合は競合に由来する。,result from と同じ。
+E03745,1,10,sum up,熟語,要約する,to summarize,"To sum up, we need more time.",要するに、もっと時間が要る。,名詞は summary。
+E03746,1,10,take into account,熟語,考慮に入れる,to consider,Take the network into account.,回線のことも考えに入れる。,take account of とも言う。
+E03747,1,10,tie in with,熟語,つながる、合致する,to connect with,That ties in with the log.,それは記録とつながる。,4語で1つの動詞。
+E03748,1,10,wear off,熟語,薄れる,to gradually disappear,The novelty wore off.,目新しさは薄れた。,効き目が「切れる」の意味も。
+E03749,1,10,weigh up,熟語,比較検討する,to consider carefully,Weigh up the two options.,その2案を比べて考える。,英式でよく使う。
+E03750,1,10,work on,熟語,取り組む,to spend time improving,I am working on the export.,書き出しに取り組んでいます。,work at とも言う。
+E03751,1,10,wrap up,熟語,締めくくる,to finish,Let's wrap up the meeting.,会議を締めくくりましょう。,「包む」の意味も。
+E03752,1,10,zoom in,熟語,拡大する、詳しく見る,to look closer,Zoom in on the failing step.,失敗している段階を詳しく見る。,反対は zoom out。
+E03753,1,10,as a whole,熟語,全体として,considering everything,"As a whole, the release went well.",全体として公開はうまくいった。,on the whole とも言う。
+E03754,1,10,at a glance,熟語,一目で,with a quick look,You can see it at a glance.,一目で分かります。,名詞 glance は「一瞥」。
+E03755,1,10,at any rate,熟語,とにかく,in any case,"At any rate, we should test.",とにかく試すべきだ。,anyway と同じ。
+E03756,1,10,at first,熟語,最初は,in the beginning,At first it looked fine.,最初は問題なさそうだった。,後で変わることを含む。
+E03757,1,10,at once,熟語,すぐに、同時に,immediately,Stop the job at once.,その処理をすぐ止める。,「一度に」の意味も。
+E03758,1,10,at present,熟語,現在は,now,At present there is no fix.,現時点で直しはない。,currently と同じ。
+E03759,1,10,beyond doubt,熟語,疑いなく,certainly,It is beyond doubt a bug.,それは疑いなく不具合だ。,without doubt とも言う。
+E03760,1,10,by and large,熟語,概して,generally,By and large it works.,概してうまく動く。,航海用語が語源。
+E03761,1,10,by default,熟語,既定では,unless changed,"By default, logging is off.",既定では記録は切ってある。,名詞は default。
+E03762,1,10,by design,熟語,意図的に,on purpose,That behavior is by design.,その挙動は仕様どおりだ。,by accident の反対。
+E03763,1,10,for good,熟語,永久に,permanently,The file is gone for good.,そのファイルは永久に消えた。,「良いことのために」ではない。
+E03764,1,10,in a row,熟語,連続して,one after another,It failed three times in a row.,3回続けて失敗した。,row は「列」。
+E03765,1,10,in bulk,熟語,まとめて,in large quantity,Import the rows in bulk.,行をまとめて取り込む。,bulk insert の bulk。
+E03766,1,10,in detail,熟語,詳しく,with many facts,Explain it in detail later.,後で詳しく説明する。,名詞は detail。
+E03767,1,10,in effect,熟語,事実上、有効で,in reality or in force,The rule is in effect now.,その規則はいま有効だ。,「実質的に」の意味も。
+E03768,1,10,in full,熟語,全額で、省略せずに,completely,Write the name in full.,名前を略さず書く。,反対は in part。
+E03769,1,10,in line with,熟語,～に沿って,in agreement with,It is in line with the policy.,それは方針に沿っている。,3語で1つの前置詞。
+E03770,1,10,in place,熟語,所定の位置に、実施されて,in position or working,The safeguards are in place.,安全策は整っている。,in place of は「～の代わりに」。
+E03771,1,10,in return,熟語,お返しに,as an exchange,"In return, we share the log.",見返りに記録を共有する。,in return for の形も。
+E03772,1,10,in short,熟語,要するに,briefly,"In short, it is a config issue.",要するに設定の問題だ。,in brief とも言う。
+E03773,1,10,in the meantime,熟語,その間に,while waiting,"In the meantime, check the log.",その間に記録を見てください。,meanwhile と同じ。
+E03774,1,10,in turn,熟語,順番に、その結果,one after another,Each step in turn adds delay.,各段階が順に遅れを足す。,「今度は」の意味も。
+E03775,1,10,in vain,熟語,むだに,without success,We searched in vain.,むだに探し回った。,vain は「むだな」。
+E03776,1,10,of course,熟語,もちろん,certainly,"Of course, test it first.",もちろん、まず試すこと。,返事にもよく使う。
+E03777,1,10,on average,熟語,平均して,typically,On average it takes 9 seconds.,平均して9秒かかる。,名詞は average。
+E03778,1,10,on demand,熟語,必要に応じて,when requested,The report runs on demand.,その報告は必要なときに動く。,「オンデマンド」。
+E03779,1,10,on hold,熟語,保留で,waiting,The project is on hold.,その計画は保留中だ。,電話では「保留」。
+E03780,1,10,on schedule,熟語,予定どおりに,as planned,We are on schedule.,予定どおりに進んでいる。,反対は behind schedule。
+E03781,1,10,on site,熟語,現場で,at the place of work,The check is done on site.,その確認は現場で行う。,反対は off site。
+E03782,1,10,on top of,熟語,～に加えて、把握して,in addition to,"On top of that, it is slower.",その上、そちらは遅い。,「掌握して」の意味も。
+E03783,1,10,out of scope,熟語,範囲外で,not included,That request is out of scope.,その要望は範囲外だ。,名詞は scope。
+E03784,1,10,to some extent,熟語,ある程度は,partly,"To some extent, that is true.",ある程度はそのとおりだ。,名詞は extent。
+E03785,1,10,up front,熟語,前もって、率直に,in advance or openly,Say it up front.,先に言っておく。,「前払いで」の意味も。
+E03786,1,10,with respect to,熟語,～に関して,concerning,"With respect to timing, we agree.",時機については同意します。,with regard to と同じ。
+E03787,1,10,without fail,熟語,必ず,certainly,Send it Friday without fail.,金曜に必ず送ってください。,強い念押し。
+E03788,1,10,a great deal of,熟語,多量の,a lot of,It took a great deal of time.,たいへんな時間がかかった。,数えられない名詞に使う。
+E03789,1,10,a number of,熟語,いくつかの,several,A number of users reported it.,何人かの利用者が報告した。,the number of は「～の数」。
+E03790,1,10,plenty of,熟語,たくさんの,a lot of,We have plenty of time.,時間はたっぷりある。,数えられる語にも使える。
+E03791,1,10,a couple of,熟語,2、3の,two or a few,It took a couple of hours.,2時間ばかりかかった。,厳密に2つとは限らない。
+E03792,1,10,the rest of,熟語,残りの,the remaining part of,The rest of the rows are fine.,残りの行は問題ない。,名詞は rest（残り）。
+E03793,1,10,each other,熟語,お互い,one another,The two jobs block each other.,その2つの処理は互いをふさぐ。,主語にはしない。
+E03794,1,10,one another,熟語,お互い,each other,They help one another.,彼らは互いに助け合う。,each other とほぼ同じ。
+E03795,1,10,as it were,熟語,いわば,so to speak,"It is a cache, as it were.",いわば一時保存だ。,かたい言い方。
+E03796,1,10,so to speak,熟語,いわば,in a manner of speaking,"It is a bridge, so to speak.",いわば橋渡し役だ。,as it were と同じ。
+E03797,1,10,not to mention,熟語,～は言うまでもなく,besides,Not to mention the cost.,費用は言うまでもなく。,動詞は mention。
+E03798,1,10,let alone,熟語,まして～ない,certainly not,"It cannot handle 100, let alone 1000.",100すら扱えない、まして1000など。,否定文のあとに置く。
+E03799,1,10,as opposed to,熟語,～ではなく,rather than,Use CSV as opposed to Excel.,Excel ではなく CSV を使う。,対比をはっきり示す。
+E03800,1,10,in contrast to,熟語,～とは対照的に,unlike,"In contrast to v1, this is fast.",第1版とは対照的に、これは速い。,名詞は contrast。
+E03801,1,10,in comparison with,熟語,～と比べて,compared with,"In comparison with last year, it doubled.",昨年と比べて倍になった。,compared with とも言う。
+E03802,1,10,along with,熟語,～と一緒に,together with,Send the log along with the report.,報告と一緒に記録も送る。,主語の数は前の語で決まる。
+E03803,1,10,apart from,熟語,～を除いて、～に加えて,except for,"Apart from that, it is fine.",それを除けば問題ない。,aside from とも言う。
+E03804,1,10,regarding,前置詞,～に関して,about,"Regarding the delay, we apologize.",遅れに関してお詫びします。,メールでよく使う。
+E03805,1,10,concerning,前置詞,～に関する,about,A question concerning the format.,書式に関する質問。,動詞は concern。
+E03806,1,10,via,前置詞,～経由で,by way of,Send it via the shared folder.,共有フォルダ経由で送る。,ラテン語由来。
+E03807,1,10,per,前置詞,～につき,for each,The price is per user.,その値段は1人あたりだ。,as per は「～のとおり」。
+E03808,1,10,versus,前置詞,～対～,against,Speed versus accuracy.,速さ対正確さ。,略して vs.。
+E03809,1,10,plus,前置詞,～を加えて,with the addition of,The base cost plus tax.,本体価格プラス税。,反対は minus。
+E03810,1,10,minus,前置詞,～を引いて,with the subtraction of,The total minus returns.,合計から返品を引いた額。,反対は plus。
+E03811,1,10,amid,前置詞,～の中で,in the middle of,"Amid the outage, they stayed calm.",停止の最中も彼らは落ち着いていた。,amidst とも書く。
+E03812,1,10,alongside,前置詞,～と並んで,next to,It runs alongside the old tool.,それは古い道具と並んで動く。,along ＋ side。
+E03813,1,10,underneath,前置詞,～の下に,below,The note is underneath the table.,その注記は表の下にある。,under を強めた語。
+E03814,1,10,prior to,熟語,～に先立って,before,"Prior to the change, take a backup.",変更に先立って控えを取る。,before のかたい言い方。
+E03815,1,10,subject to,熟語,～を条件として、～を受けやすい,depending on,"Subject to approval, we ship Friday.",承認を条件に金曜に出す。,「～の影響を受ける」の意味も。
+E03816,1,10,thanks in advance,熟語,よろしくお願いします,thank you beforehand,Thanks in advance for the review.,見直しをよろしくお願いします。,メールの結びによく使う。
+E03817,1,10,acute,形容詞,鋭い、急性の,sharp or severe,There is an acute shortage.,深刻な不足がある。,反対は chronic（慢性の）。
+E03818,1,10,adverse,形容詞,不利な、逆の,unfavorable,There were adverse effects.,悪い影響があった。,averse（嫌って）とは別語。
+E03819,1,10,akin,形容詞,似ている,similar to,It is akin to a cache.,それは一時保存に似ている。,akin to の形。
+E03820,1,10,ample,形容詞,十分な,more than enough,There is ample memory.,記憶は十分にある。,副詞は amply。
+E03821,1,10,arbitrary,形容詞,任意の、恣意的な,"based on choice, not reason",The limit is arbitrary.,その上限は根拠のない決めごとだ。,副詞は arbitrarily。
+E03822,1,10,blunt,形容詞,鈍い、率直な,not sharp or very direct,"To be blunt, it is too slow.",率直に言えば遅すぎる。,反対は sharp / tactful。
+E03823,1,10,bulky,形容詞,かさばる,large and awkward,The output is bulky.,その出力はかさばる。,名詞は bulk。
+E03824,1,10,coherent,形容詞,筋の通った,logical and clear,Write a coherent summary.,筋の通ったまとめを書く。,名詞は coherence。
+E03825,1,10,collective,形容詞,集団の,shared by a group,It is a collective decision.,それは全体での決定だ。,名詞でも「共同体」。
+E03826,1,10,compulsory,形容詞,強制の,required by rule,The training is compulsory.,その研修は必修だ。,mandatory とほぼ同じ。
+E03827,1,10,conspicuous,形容詞,目立つ,easily seen,Put the warning in a conspicuous place.,警告を目立つ場所に置く。,副詞は conspicuously。
+E03828,1,10,decent,形容詞,まずまずの、きちんとした,acceptable or proper,It is a decent first version.,初版としてはまずまずだ。,副詞は decently。
+E03829,1,10,delicate,形容詞,繊細な、微妙な,easily damaged or subtle,It is a delicate balance.,それは微妙な釣り合いだ。,名詞は delicacy。
+E03830,1,10,diligent,形容詞,勤勉な,working carefully,She is diligent about logs.,彼女は記録に几帳面だ。,名詞は diligence。
+E03831,1,10,discreet,形容詞,慎重な、控えめな,careful not to attract attention,Be discreet about the incident.,その事案は口外しないこと。,discrete（別々の）とは別語。
+E03832,1,10,discrete,形容詞,個別の,separate,Split it into discrete steps.,それを個別の段階に分ける。,discreet（慎重な）と同音。
+E03833,1,10,dull,形容詞,鈍い、退屈な,not sharp or not interesting,The report is dull but correct.,その報告は退屈だが正しい。,反対は sharp / interesting。
+E03834,1,10,elusive,形容詞,とらえどころのない,hard to find or catch,It is an elusive bug.,それはつかみどころのない不具合だ。,動詞は elude。
+E03835,1,10,eminent,形容詞,著名な,famous and respected,An eminent expert reviewed it.,著名な専門家が見直した。,imminent（差し迫った）とは別語。
+E03836,1,10,imminent,形容詞,差し迫った,about to happen,A deadline is imminent.,締切が差し迫っている。,eminent（著名な）とは別語。
+E03837,1,10,erroneous,形容詞,誤った,incorrect,The report had erroneous totals.,その報告の合計が誤っていた。,名詞は error。
+E03838,1,10,exempt,形容詞,免除された,free from a rule,Test data is exempt.,試験用の資料は対象外だ。,名詞は exemption。
+E03839,1,10,exhaustive,形容詞,網羅的な,very complete,The list is not exhaustive.,その一覧は網羅的ではない。,exhausting（疲れさせる）とは違う。
+E03840,1,10,fatal,形容詞,致命的な,causing death or failure,That is a fatal error.,それは致命的な異常だ。,名詞は fatality。
+E03841,1,10,fluent,形容詞,流ちょうな,speaking smoothly,She is fluent in English.,彼女は英語が流ちょうだ。,名詞は fluency。
+E03842,1,10,futile,形容詞,むだな,having no effect,Retrying is futile here.,ここでやり直しても無意味だ。,名詞は futility。
+E03843,1,10,grim,形容詞,厳しい、暗い,very serious or bad,The outlook is grim.,見通しは厳しい。,副詞は grimly。
+E03844,1,10,hollow,形容詞,中空の、うつろな,empty inside,That is a hollow promise.,それは空約束だ。,反対は solid。
+E03845,1,10,idle,形容詞,使われていない、怠けた,not in use,The server sits idle at night.,そのサーバは夜は遊んでいる。,IT の「アイドル状態」。
+E03846,1,10,impartial,形容詞,公平な,not favoring one side,We need an impartial review.,公平な見直しが要る。,反対は partial（偏った）。
+E03847,1,10,incompatible,形容詞,互換性のない,unable to work together,The two versions are incompatible.,その2つの版は互換性がない。,反対は compatible。
+E03848,1,10,indispensable,形容詞,欠かせない,absolutely necessary,Backups are indispensable.,控えは欠かせない。,essential とほぼ同じ。
+E03849,1,10,intact,形容詞,無傷の,not damaged,The data is intact.,資料は無事だ。,in ＋ tact（触れられていない）。
+E03850,1,10,intricate,形容詞,入り組んだ,very detailed and complex,The logic is intricate.,その論理は入り組んでいる。,complex とほぼ同じ。
+E03851,1,10,lenient,形容詞,寛大な,not strict,The rule is lenient here.,ここでは規則がゆるい。,反対は strict。
+E03852,1,10,lucrative,形容詞,もうかる,making a lot of money,It is a lucrative contract.,それはもうかる契約だ。,profitable とほぼ同じ。
+E03853,1,10,meticulous,形容詞,細心の,very careful about detail,He is meticulous about naming.,彼は命名に細心だ。,副詞は meticulously。
+E03854,1,10,obsolete,形容詞,廃れた,no longer used,That API is obsolete.,その窓口はもう使われていない。,deprecated は「非推奨」。
+E03855,1,10,paramount,形容詞,最重要の,more important than anything,Safety is paramount.,安全が最優先だ。,supreme とほぼ同じ。
+E03856,1,10,perpetual,形容詞,永続的な,never ending,It is a perpetual license.,それは買い切りの使用権だ。,副詞は perpetually。
+E03857,1,10,pertinent,形容詞,適切な、関連する,relevant,"Only pertinent facts, please.",関係のある事実だけをお願いします。,relevant とほぼ同じ。
+E03858,1,10,plausible,形容詞,もっともらしい,seeming reasonable,That is a plausible cause.,それはありそうな原因だ。,名詞は plausibility。
+E03859,1,10,prevalent,形容詞,広く行われている,common,That pattern is prevalent here.,その型はここではよく見られる。,名詞は prevalence。
+E03860,1,10,prudent,形容詞,慎重な,sensible and careful,A prudent step is to test first.,慎重にいくならまず試すことだ。,名詞は prudence。
+E03861,1,10,resilient,形容詞,回復力のある,able to recover quickly,The design is resilient.,その設計は立ち直りが早い。,名詞は resilience。
+E03862,1,10,scattered,形容詞,散らばった,spread over an area,The settings are scattered.,設定があちこちに散っている。,動詞は scatter。
+E03863,1,10,scrupulous,形容詞,きちょうめんな,very careful and honest,Be scrupulous with the numbers.,数字にはきちょうめんであること。,反対は unscrupulous。
+E03864,1,10,seamless,形容詞,継ぎ目のない,smooth without breaks,The move was seamless.,その移行は滑らかだった。,seam（縫い目）＋ less。
+E03865,1,10,stale,形容詞,古びた、新鮮でない,no longer fresh,The cache is stale.,一時保存が古くなっている。,反対は fresh。
+E03866,1,10,stiff,形容詞,硬い、厳しい,not easy to bend,There is stiff competition.,競争が激しい。,反対は flexible。
+E03867,1,10,straightforward,形容詞,分かりやすい、率直な,simple and clear,The steps are straightforward.,その手順は分かりやすい。,straight ＋ forward。
+E03868,1,10,stringent,形容詞,厳格な,strict,The rules are stringent.,その規則は厳格だ。,strict のかたい言い方。
+E03869,1,10,succinct,形容詞,簡潔な,short and clear,Keep the note succinct.,その注記は簡潔に保つ。,concise とほぼ同じ。
+E03870,1,10,superficial,形容詞,表面的な,not deep,That is a superficial fix.,それは表面的な直しだ。,名詞は surface。
+E03871,1,10,tangible,形容詞,具体的な、有形の,able to be touched or seen,We need tangible results.,目に見える成果が要る。,反対は intangible。
+E03872,1,10,trivial,形容詞,ささいな,not important,That is a trivial change.,それはささいな変更だ。,名詞は triviality。
+E03873,1,10,unanimous,形容詞,全員一致の,agreed by everyone,The vote was unanimous.,その採決は全員一致だった。,副詞は unanimously。
+E03874,1,10,unprecedented,形容詞,前例のない,never happened before,The load was unprecedented.,その負荷は前例がなかった。,名詞は precedent。
+E03875,1,10,versatile,形容詞,多用途の,able to do many things,It is a versatile tool.,それは何にでも使える道具だ。,名詞は versatility。
+E03876,1,10,viable,形容詞,実行可能な,able to work,That is a viable option.,それは現実的な案だ。,名詞は viability。
+E03877,1,10,volatile,形容詞,揮発性の、変わりやすい,changing quickly,Volatile memory is lost on reboot.,揮発性の記憶は再起動で消える。,名詞は volatility。
+E03878,1,10,wary,形容詞,用心深い,careful about danger,Be wary of silent failures.,黙って失敗する事象に用心すること。,wary of の形。
+E03879,1,10,adept,形容詞,熟達した,very skilled,She is adept at debugging.,彼女は不具合探しに長けている。,adept at / in の形。
+E03880,1,10,candid,形容詞,率直な,honest and direct,Give me a candid opinion.,率直な意見をください。,名詞は candor。
+E03881,1,10,innate,形容詞,生まれつきの,existing from birth,There is no innate talent for this.,これに生まれつきの才能は要らない。,反対は acquired。
+E03882,1,10,nominal,形容詞,名目上の、わずかな,in name only or very small,There is a nominal fee.,わずかな手数料がかかる。,名詞は name と同語源。
+E03883,1,10,notable,形容詞,注目に値する,worth noticing,There is one notable exception.,注目すべき例外が1つある。,動詞は note。
+E03884,1,10,optimal,形容詞,最適な,best possible,This is the optimal setting.,これが最適な設定だ。,動詞は optimize。
+E03885,1,10,orderly,形容詞,整然とした,well arranged,Do an orderly shutdown.,整然と終了させる。,-ly だが形容詞。
+E03886,1,10,overdue,形容詞,期限を過ぎた,later than expected,The review is overdue.,その見直しは期限を過ぎている。,over ＋ due。
+E03887,1,10,pending,形容詞,保留中の、未処理の,waiting to be decided,Two requests are pending.,依頼が2件保留中だ。,動詞は pend（まれ）。
+E03888,1,10,pointless,形容詞,無意味な,having no purpose,That check is pointless now.,その確認はいまや無意味だ。,point ＋ less。
+E03889,1,10,prone,形容詞,～しがちな,likely to suffer from,The step is error-prone.,その段階は誤りが起きやすい。,prone to の形。
+E03890,1,10,scalable,形容詞,拡張しやすい,able to grow,The design is scalable.,その設計は規模を広げやすい。,名詞は scalability。
+E03891,1,10,selective,形容詞,選択的な,choosing carefully,Be selective about what to log.,何を記録するか選ぶこと。,動詞は select。
+E03892,1,10,sequential,形容詞,順次の,following in order,The steps are sequential.,その手順は順番どおりだ。,名詞は sequence。
+E03893,1,10,staggered,形容詞,時間差の,arranged at different times,Use a staggered rollout.,時間差での展開にする。,動詞は stagger。
+E03894,1,10,standalone,形容詞,単独の,working by itself,It is a standalone tool.,それは単独で動く道具だ。,stand ＋ alone。
+E03895,1,10,streamlined,形容詞,合理化された,made more efficient,The process is streamlined.,その工程は絞り込まれている。,動詞は streamline。
+E03896,1,10,subjective,形容詞,主観的な,based on personal opinion,That is a subjective judgment.,それは主観的な判断だ。,反対は objective。
+E03897,1,10,sustainable,形容詞,持続可能な,able to continue,This pace is not sustainable.,この速さは続かない。,動詞は sustain。
+E03898,1,10,tailored,形容詞,あつらえの,made for a specific purpose,A tailored report per team.,班ごとにあつらえた報告。,動詞は tailor。
+E03899,1,10,trailing,形容詞,末尾の、後を引く,at the end,Strip trailing spaces.,末尾の空白を取り除く。,反対は leading（先頭の）。
+E03900,1,10,leading,形容詞,先頭の、主要な,first or most important,Strip leading zeros.,先頭のゼロを取り除く。,反対は trailing。
+E03901,1,10,uniform,形容詞,一様な,the same everywhere,Keep the spacing uniform.,間隔を一定に保つ。,名詞では「制服」。
+E03902,1,10,upcoming,形容詞,来たるべき,happening soon,The upcoming release is small.,次の公開は小さい。,up ＋ coming。
+E03903,1,10,verbose,形容詞,冗長な、詳細な,using too many words,Turn on verbose logging.,詳細な記録を有効にする。,IT では「詳細出力」。
+E03904,1,10,watertight,形容詞,水も漏らさぬ、完璧な,having no weak points,The argument is watertight.,その論証は隙がない。,water ＋ tight。
+E03905,1,10,widespread,形容詞,広範囲の,affecting many,The outage was widespread.,その停止は広範囲に及んだ。,wide ＋ spread。
+E03906,1,10,worthless,形容詞,価値のない,having no value,A log without a timestamp is worthless.,時刻のない記録は役に立たない。,worth ＋ less。
+E03907,1,10,abbreviation,名詞,略語,a short form of a word,Spell out the abbreviation once.,略語は一度は正式に書く。,動詞は abbreviate。
+E03908,1,10,alignment,名詞,そろえること、整合,the state of being in line,Check the column alignment.,列のそろい方を確かめる。,動詞は align。
+E03909,1,10,anomaly,名詞,異常、例外,something that is not normal,The spike is an anomaly.,その跳ね上がりは異常値だ。,複数形は anomalies。
+E03910,1,10,appraisal,名詞,評価、査定,a judgment of value,The annual appraisal is in April.,年次の評価は4月だ。,動詞は appraise。
+E03911,1,10,bottleneck,名詞,隘路,the slowest part,The disk is the bottleneck.,記憶装置が隘路だ。,bottle ＋ neck。
+E03912,1,10,caveat,名詞,但し書き,a warning about limits,One caveat: it needs admin rights.,但し書きが1つ。管理者権限が要る。,ラテン語由来。
+E03913,1,10,clarity,名詞,明快さ,the quality of being clear,Clarity beats cleverness.,巧妙さより明快さだ。,形容詞は clear。
+E03914,1,10,clipboard,名詞,クリップボード,a temporary store for copied text,The value is on the clipboard.,その値はクリップボードにある。,clip ＋ board。
+E03915,1,10,continuity,名詞,継続性,the state of continuing,Business continuity needs backups.,事業の継続には控えが要る。,形容詞は continuous。
+E03916,1,10,countermeasure,名詞,対策,an action against a problem,List three countermeasures.,対策を3つ挙げる。,counter ＋ measure。
+E03917,1,10,deficiency,名詞,不足、欠陥,a lack of something,There is a deficiency in the log.,その記録に不備がある。,形容詞は deficient。
+E03918,1,10,deliverable,名詞,成果物,a thing to be produced,The deliverable is a PDF.,成果物は PDF だ。,形容詞では「引き渡せる」。
+E03919,1,10,deviation,名詞,逸脱、偏差,a difference from the standard,The deviation is within limits.,その偏差は許容内だ。,動詞は deviate。
+E03920,1,10,dilemma,名詞,板ばさみ,a difficult choice,We face a dilemma.,板ばさみになっている。,m は1つ。
+E03921,1,10,disparity,名詞,格差,a big difference,There is a disparity in speed.,速さに開きがある。,形容詞は disparate。
+E03922,1,10,endeavor,名詞,努力、試み,a serious attempt,It was a worthwhile endeavor.,それはやる価値のある試みだった。,英式の綴りは endeavour。
+E03923,1,10,equilibrium,名詞,均衡,a balanced state,The system reached equilibrium.,その仕組みは均衡に達した。,形容詞は equilibrated（まれ）。
+E03924,1,10,excerpt,名詞,抜粋,a short part taken from a text,Attach an excerpt of the log.,記録の抜粋を添える。,動詞でも「抜粋する」。
+E03925,1,10,feasibility,名詞,実現可能性,the state of being possible,Do a feasibility check first.,まず実現できるか確かめる。,形容詞は feasible。
+E03926,1,10,granularity,名詞,粒度,the level of detail,Choose the right granularity.,適切な粒度を選ぶ。,形容詞は granular。
+E03927,1,10,hindsight,名詞,あと知恵,understanding after the event,"In hindsight, it was obvious.",あとから思えば明らかだった。,反対は foresight。
+E03928,1,10,idiom,名詞,慣用句,a phrase with a special meaning,That idiom is hard to translate.,その慣用句は訳しにくい。,形容詞は idiomatic。
+E03929,1,10,increment,名詞,増分,a small increase,Raise it in small increments.,小刻みに上げていく。,動詞は increment。
+E03930,1,10,indicator,名詞,指標、表示器,a sign that shows something,The indicator turns red on failure.,失敗すると表示が赤くなる。,動詞は indicate。
+E03931,1,10,inference,名詞,推論,a conclusion from evidence,That inference is too fast.,その推論は早すぎる。,動詞は infer。
+E03932,1,10,intake,名詞,取り込み、受け入れ,the act of taking in,The intake form is one page.,受付の用紙は1ページだ。,in ＋ take。
+E03933,1,10,kickoff,名詞,開始,the start of something,The kickoff is on Monday.,開始は月曜だ。,動詞は kick off。
+E03934,1,10,lifecycle,名詞,ライフサイクル,the stages from start to end,Document the data lifecycle.,資料の一生を文書にする。,life ＋ cycle。
+E03935,1,10,mishap,名詞,小さな事故,a small accident,A mishap during the move.,移行中のちょっとした事故。,mis ＋ hap（偶然）。
+E03936,1,10,mitigation,名詞,軽減、緩和策,the act of making less bad,The mitigation is a retry.,その緩和策はやり直しだ。,動詞は mitigate。
+E03937,1,10,mockup,名詞,模型、試作画面,a model for showing a design,Send a mockup before coding.,実装の前に試作画面を送る。,mock ＋ up。
+E03938,1,10,notation,名詞,表記法,a system of written symbols,Use the same date notation.,日付の表記をそろえる。,動詞は note。
+E03939,1,10,outset,名詞,始め,the beginning,Say it at the outset.,最初に言っておく。,from the outset の形が多い。
+E03940,1,10,paradigm,名詞,枠組み、範例,a model or pattern,It is a paradigm shift.,それは考え方の転換だ。,g は発音しない。
+E03941,1,10,parity,名詞,同等、パリティ,the state of being equal,We reached feature parity.,機能の同等に達した。,通信の「パリティ」も同じ語。
+E03942,1,10,pitfall,名詞,落とし穴,a hidden danger,That is a common pitfall.,それはよくある落とし穴だ。,pit ＋ fall。
+E03943,1,10,postmortem,名詞,事後検証,a review after an event,Hold a blameless postmortem.,犯人捜しをしない事後検証を行う。,もとは「検死」。
+E03944,1,10,predecessor,名詞,前任者、前の版,the one before,Its predecessor was slower.,その前の版は遅かった。,反対は successor。
+E03945,1,10,successor,名詞,後任者、次の版,the one after,The successor drops that feature.,次の版はその機能をやめる。,反対は predecessor。
+E03946,1,10,proximity,名詞,近さ,nearness,Group by proximity in time.,時間の近さでまとめる。,形容詞は proximate。
+E03947,1,10,quirk,名詞,癖、風変わりな点,an odd habit or feature,That browser has a quirk.,その閲覧ソフトには癖がある。,形容詞は quirky。
+E03948,1,10,readability,名詞,読みやすさ,how easy it is to read,Readability beats brevity.,短さより読みやすさだ。,形容詞は readable。
+E03949,1,10,recap,名詞,要点の再確認,a short summary,A quick recap before we start.,始める前に手短におさらいを。,recapitulation の略。
+E03950,1,10,regression,名詞,後戻り、回帰,a return to a worse state,Run the regression tests.,回帰試験を回す。,動詞は regress。
+E03951,1,10,remit,名詞,職務範囲,the area of responsibility,That is outside our remit.,それは我々の職務の外だ。,英式でよく使う。
+E03952,1,10,sanity,名詞,正気、妥当性,the state of being sensible,Do a sanity check first.,まず妥当性の確認をする。,形容詞は sane。
+E03953,1,10,scaffolding,名詞,足場、ひな形,a temporary support structure,Generate the scaffolding first.,まずひな形を生成する。,建築の「足場」から。
+E03954,1,10,setback,名詞,後退、つまずき,a problem that delays progress,It was a minor setback.,それは小さなつまずきだった。,set ＋ back。
+E03955,1,10,severity,名詞,重大度,how serious something is,Set the severity to high.,重大度を高にする。,形容詞は severe。
+E03956,1,10,subset,名詞,部分集合,a smaller part of a set,Test on a subset first.,まず一部で試す。,sub ＋ set。
+E03957,1,10,superset,名詞,上位集合,a larger set containing another,v2 is a superset of v1.,第2版は第1版を包含する。,反対は subset。
+E03958,1,10,synergy,名詞,相乗効果,combined effect greater than parts,There is synergy between the two.,その2つには相乗効果がある。,形容詞は synergistic。
+E03959,1,10,takeaway,名詞,要点、持ち帰り,the main point to remember,The takeaway is: test early.,要点は「早く試すこと」だ。,英式では「持ち帰りの食事」。
+E03960,1,10,template,名詞,ひな形,a pattern to copy,Start from the template.,ひな形から始める。,動詞でも「ひな形にする」。
+E03961,1,10,tradeoff,名詞,取捨、二律背反,a balance between two things,It is a speed-versus-size tradeoff.,速さと大きさの取捨だ。,trade ＋ off。
+E03962,1,10,transcript,名詞,書き起こし、成績証明,a written record of speech,Attach the meeting transcript.,会議の書き起こしを添える。,動詞は transcribe。
+E03963,1,10,verdict,名詞,判断、評決,a decision,The verdict is: keep it simple.,結論は「単純に保て」だ。,裁判の「評決」が本来の意味。
+E03964,1,10,viewpoint,名詞,視点,a way of looking at something,"From the user's viewpoint, it is slow.",利用者の視点では遅い。,view ＋ point。
+E03965,1,10,vocabulary,名詞,語彙,the words a person knows,Build vocabulary a little each day.,語彙は毎日少しずつ増やす。,略して vocab。
+E03966,1,10,wildcard,名詞,ワイルドカード、不確定要素,a symbol matching anything,Use a wildcard to match all logs.,すべての記録に当てるには * を使う。,トランプが語源。
+E03967,1,10,workstream,名詞,作業の流れ、担当領域,one line of work in a project,There are three workstreams.,作業の流れは3本ある。,work ＋ stream。
+E03968,1,10,bear,動詞,耐える、負う,to accept or carry,Bear in mind the size limit.,大きさの上限を念頭に置く。,名詞では「熊」。過去形は bore。
+E03969,1,10,cast,動詞,投げる、（型を）変える,to throw or change type,Cast the value to an integer.,その値を整数に変換する。,過去形も cast。
+E03970,1,10,dwell,動詞,住む、こだわる,to live or think too long about,Do not dwell on the mistake.,その誤りにこだわりすぎないこと。,dwell on の形。
+E03971,1,10,elude,動詞,逃れる、思い出せない,to escape or not be understood,The cause eludes us.,原因が分からないままだ。,形容詞は elusive。
+E03972,1,10,forge,動詞,築く、偽造する,to build or make a fake,They forged a strong process.,彼らはしっかりした手順を築いた。,「鍛える」が本来の意味。
+E03973,1,10,grieve,動詞,悲しむ,to feel great sadness,We grieved the lost work.,失われた仕事を惜しんだ。,名詞は grief。
+E03974,1,10,lure,動詞,誘い込む,to attract by offering something,Do not lure users with false speed.,誤った速さで利用者を釣らないこと。,名詞でも「誘惑、擬似餌」。
+E03975,1,10,mend,動詞,直す,to repair,Mend it before it breaks fully.,完全に壊れる前に直す。,on the mend は「回復に向かって」。
+E03976,1,10,mingle,動詞,混じる,to mix with people,Test and live data must not mingle.,試験と本番の資料を混ぜてはいけない。,名詞は mingling。
+E03977,1,10,ponder,動詞,熟考する,to think carefully,Ponder the tradeoff overnight.,その取捨を一晩考える。,contemplate とほぼ同じ。
+E03978,1,10,prevail,動詞,打ち勝つ、優勢である,to win or be common,Simplicity prevailed in the end.,最後は単純さが勝った。,形容詞は prevalent。
+E03979,1,10,purge,動詞,一掃する,to remove completely,Purge logs older than a year.,1年より古い記録を一掃する。,名詞でも「粛清、削除」。
+E03980,1,10,resent,動詞,腹立たしく思う,to feel angry about,Users resent forced restarts.,利用者は強制再起動を嫌う。,名詞は resentment。
+E03981,1,10,revert,動詞,戻す,to go back to a former state,Revert the last commit.,直前の記録を取り消す。,名詞は reversion。
+E03982,1,10,scrap,動詞,廃棄する,to get rid of,We scrapped the first design.,最初の設計は捨てた。,名詞では「切れ端、くず」。
+E03983,1,10,stumble,動詞,つまずく、偶然見つける,to trip or find by chance,I stumbled on the fix.,偶然その直し方に行き当たった。,stumble on / upon の形。
+E03984,1,10,supersede,動詞,取って代わる,to replace,v2 supersedes v1.,第2版が第1版に取って代わる。,綴りは -sede（-cede ではない）。
+E03985,1,10,taper,動詞,先細りにする,to become gradually smaller,Traffic tapers off at night.,夜になると通信量は細る。,taper off の形が多い。
+E03986,1,10,truncate,動詞,切り詰める,to shorten by cutting the end,The field truncates at 50 characters.,その欄は50字で切られる。,SQL の TRUNCATE も同じ語。
+E03987,1,10,unfold,動詞,広げる、展開する,to open out,Let the story unfold.,話の展開に任せる。,反対は fold。
+E03988,1,10,wield,動詞,振るう、行使する,to use power or a tool,They wield a lot of influence.,彼らは大きな影響力を持つ。,「武器を振るう」が本来の意味。
+E03989,1,10,bear with,熟語,辛抱してつきあう,to be patient with,Bear with me for a moment.,少しだけお付き合いください。,会議や説明でよく使う。
+E03990,1,10,come to terms with,熟語,折り合いをつける,to accept something difficult,We came to terms with the limit.,その制約に折り合いをつけた。,5語で1つの動詞。
+E03991,1,10,get to grips with,熟語,取り組む、理解する,to begin to understand,Get to grips with the log format.,記録の書式を把握する。,英式でよく使う。
+E03992,1,10,keep an eye on,熟語,見張る,to watch carefully,Keep an eye on the queue.,待ち行列を見張っておく。,5語で1つの動詞。
+E03993,1,10,play it safe,慣用句,安全策をとる,to avoid risk,Let's play it safe and roll back.,安全策で差し戻そう。,反対は take a risk。
+E03994,1,10,go the extra mile,慣用句,ひと手間かける,to do more than expected,She went the extra mile on docs.,彼女は文書にひと手間かけた。,ほめ言葉として使う。
+E03995,1,10,read between the lines,慣用句,行間を読む,to understand what is not said,Read between the lines of the log.,記録の行間を読む。,文字どおりの意味ではない。
+E03996,1,10,on the fence,慣用句,決めかねて,undecided,I am still on the fence.,まだ決めかねている。,柵の上に座る様子から。
+E03997,1,10,a long shot,慣用句,見込みの薄い試み,something unlikely to succeed,"It is a long shot, but try it.",見込みは薄いが試してみよう。,射撃が語源。
+E03998,1,10,back to the drawing board,慣用句,一から練り直し,start planning again,Back to the drawing board.,一から練り直しだ。,製図板に戻る様子から。
+E03999,1,10,keep it simple,慣用句,単純に保て,avoid making it complex,Keep it simple and it will last.,単純に保てば長持ちする。,設計の合言葉。
+E04000,1,10,the devil is in the details,慣用句,細部にこそ落とし穴がある,small details cause problems,The devil is in the details.,細部にこそ落とし穴がある。,設計や契約でよく引かれる。

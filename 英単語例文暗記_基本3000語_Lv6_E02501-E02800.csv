@@ -1,0 +1,301 @@
+登録NO,枝番,レベル,英単語,品詞,意味(日本語),意味(英語),例文(英語),例文(日本語),解説
+E02501,1,6,abandon,動詞,見捨てる、断念する,to leave or give up,We abandoned the old approach.,古いやり方は断念した。,名詞は abandonment。
+E02502,1,6,accomplish,動詞,成し遂げる,to finish successfully,We accomplished it in one day.,一日でやり遂げた。,名詞は accomplishment。
+E02503,1,6,acknowledge,動詞,認める、受領を知らせる,to admit or confirm receipt,Please acknowledge this mail.,このメールの受領をお知らせください。,名詞は acknowledgment。
+E02504,1,6,adhere,動詞,守る、くっつく,to follow closely or stick,Adhere to the naming rule.,命名の決まりを守る。,adhere to の形。名詞は adhesion。
+E02505,1,6,advocate,動詞,支持する,to publicly support,She advocates smaller releases.,彼女は小刻みな公開を支持している。,名詞では「支持者、弁護士」。
+E02506,1,6,align,動詞,そろえる、合わせる,to put in a line,Align the columns to the left.,列を左にそろえる。,名詞は alignment。
+E02507,1,6,allocate,動詞,割り当てる,to give a share,Allocate two hours per review.,見直し1回に2時間を充てる。,名詞は allocation。
+E02508,1,6,amend,動詞,修正する,to change slightly for the better,Amend the contract before signing.,署名の前に契約を修正する。,名詞は amendment。
+E02509,1,6,anticipate,動詞,予期する,to expect,We did not anticipate this load.,この負荷は予期していなかった。,名詞は anticipation。
+E02510,1,6,appreciate,動詞,感謝する、正しく理解する,to be grateful or understand,I appreciate the quick reply.,早いお返事に感謝します。,「価値が上がる」の意味もある。
+E02511,1,6,approximate,動詞,近似する,to be nearly the same,This approximates the real cost.,これは実費に近い。,副詞 approximately は「およそ」。
+E02512,1,6,assemble,動詞,組み立てる、集める,to put together,Assemble the parts in order.,部品を順に組み立てる。,名詞は assembly。
+E02513,1,6,attribute,動詞,～のせいにする,to say something is caused by,They attributed it to the update.,彼らはそれを更新のせいにした。,名詞では「属性」で発音が変わる。
+E02514,1,6,authorize,動詞,権限を与える,to give official permission,Only managers are authorized.,権限があるのは管理者だけだ。,英式の綴りは authorise。
+E02515,1,6,await,動詞,待つ,to wait for,We await your approval.,ご承認をお待ちしています。,他動詞。for は付けない。
+E02516,1,6,bounce,動詞,跳ね返る、（メールが）戻る,to spring back,The mail bounced back.,そのメールは戻ってきた。,名詞でも「跳ね返り」。
+E02517,1,6,broadcast,動詞,放送する、一斉送信する,to send to many,Broadcast the notice to all users.,全利用者に通知を一斉に送る。,過去形も broadcast。
+E02518,1,6,calibrate,動詞,校正する,to adjust to a standard,Calibrate the sensor monthly.,感知器を月ごとに校正する。,名詞は calibration。
+E02519,1,6,circulate,動詞,回覧する、循環する,to pass around,Circulate the draft before the meeting.,会議の前に下書きを回覧する。,名詞は circulation。
+E02520,1,6,coincide,動詞,同時に起こる、一致する,to happen at the same time,The two events coincided.,その2つの出来事は重なった。,名詞は coincidence（偶然の一致）。
+E02521,1,6,comply,動詞,従う,to act according to a rule,The tool complies with the policy.,その道具は方針に沿っている。,comply with の形。名詞は compliance。
+E02522,1,6,compress,動詞,圧縮する,to make smaller,Compress the folder before sending.,送る前にフォルダを圧縮する。,名詞は compression。
+E02523,1,6,comprise,動詞,～から成る,to consist of,The set comprises five tools.,その一式は5つの道具から成る。,受け身にしないのが本来の使い方。
+E02524,1,6,conceal,動詞,隠す,to keep hidden,Do not conceal the error.,その異常を隠さないこと。,hide よりかたい語。
+E02525,1,6,confront,動詞,立ち向かう,to face a problem,We confronted the issue directly.,その課題に正面から向き合った。,名詞は confrontation。
+E02526,1,6,consolidate,動詞,統合する、まとめる,to combine into one,Consolidate the reports into one.,報告書を1本にまとめる。,名詞は consolidation。
+E02527,1,6,constitute,動詞,構成する、～に当たる,to form or count as,That constitutes a breach.,それは違反に当たる。,名詞は constitution（憲法、構成）。
+E02528,1,6,contradict,動詞,矛盾する,to say the opposite,The two logs contradict each other.,その2つの記録は食い違っている。,名詞は contradiction。
+E02529,1,6,cooperate,動詞,協力する,to work together,Both teams cooperated well.,両方の班がよく協力した。,名詞は cooperation。
+E02530,1,6,coordinate,動詞,調整する,to organize together,Coordinate the release with support.,公開を支援班と調整する。,名詞では「座標」。
+E02531,1,6,correspond,動詞,一致する、文通する,to match or write letters,The numbers correspond to the log.,その数字は記録と一致する。,名詞は correspondence。
+E02532,1,6,criticize,動詞,批判する,to say what is wrong,"Criticize the design, not the person.",人ではなく設計を批判する。,英式の綴りは criticise。
+E02533,1,6,deploy,動詞,配置する、展開する,to put into position,We deploy on Tuesday nights.,配置は火曜の夜に行う。,名詞は deployment。
+E02534,1,6,designate,動詞,指定する,to choose officially,Designate one owner per file.,ファイルごとに担当を1人決める。,名詞は designation。
+E02535,1,6,deteriorate,動詞,悪化する,to become worse,Response times deteriorated.,応答の速さが悪化した。,名詞は deterioration。
+E02536,1,6,diagnose,動詞,診断する,to find the cause,Diagnose before you fix.,直す前に原因を突き止める。,名詞は diagnosis（複数形は diagnoses）。
+E02537,1,6,disable,動詞,無効にする,to turn off,Disable the plugin and retry.,その追加機能を切って試す。,反対は enable。
+E02538,1,6,disconnect,動詞,切断する,to break a connection,Disconnect before you unplug.,抜く前に接続を切る。,反対は connect。
+E02539,1,6,dispose,動詞,処分する,to get rid of,Dispose of old media safely.,古い媒体は安全に処分する。,dispose of の形。名詞は disposal。
+E02540,1,6,disrupt,動詞,混乱させる,to interrupt badly,The outage disrupted the whole day.,その停止は一日を台無しにした。,名詞は disruption。
+E02541,1,6,duplicate,動詞,複製する,to make a copy,Do not duplicate the entry.,その項目を重複させないこと。,名詞・形容詞では発音が変わる。
+E02542,1,6,elaborate,動詞,詳しく述べる,to explain in more detail,Could you elaborate on that?,その点をもう少し詳しく。,形容詞では「入り組んだ」。
+E02543,1,6,eliminate,動詞,取り除く,to remove completely,Eliminate the manual step.,手作業の段階をなくす。,名詞は elimination。
+E02544,1,6,embed,動詞,埋め込む,to fix inside,Embed the font in the file.,書体をファイルに埋め込む。,過去形は embedded。
+E02545,1,6,enforce,動詞,強制する、施行する,to make people obey,The rule is not enforced.,その規則は守らせていない。,名詞は enforcement。
+E02546,1,6,enrich,動詞,豊かにする,to improve the quality,Enrich the data with dates.,資料に日付を足して充実させる。,en ＋ rich。
+E02547,1,6,enroll,動詞,登録する、入学する,to join officially,Enroll the device in the system.,その機器を仕組みに登録する。,英式の綴りは enrol。
+E02548,1,6,evolve,動詞,進化する,to develop gradually,The design evolved over months.,その設計は数か月かけて育った。,名詞は evolution。
+E02549,1,6,exhaust,動詞,使い果たす、疲れさせる,to use up completely,We exhausted all options.,打つ手をすべて使い切った。,名詞では「排気」。
+E02550,1,6,expire,動詞,期限が切れる,to come to an end,The password expires in 90 days.,合言葉は90日で切れる。,名詞は expiration。
+E02551,1,6,fabricate,動詞,製作する、でっち上げる,to make or invent falsely,Do not fabricate test results.,試験の結果をでっち上げないこと。,名詞は fabrication。
+E02552,1,6,flag,動詞,印を付ける,to mark for attention,Flag the rows that changed.,変わった行に印を付ける。,名詞では「旗、目印」。
+E02553,1,6,formulate,動詞,組み立てる、明確に述べる,to express clearly,Formulate the rule in one line.,その規則を一行でまとめる。,名詞は formula（公式）。
+E02554,1,6,fulfill,動詞,果たす、満たす,to do what is required,It fulfills all three conditions.,3つの条件をすべて満たす。,英式の綴りは fulfil。
+E02555,1,6,hesitate,動詞,ためらう,to pause before acting,Do not hesitate to ask.,遠慮なくお尋ねください。,名詞は hesitation。
+E02556,1,6,hinder,動詞,妨げる,to make difficult,Slow disks hinder the build.,遅い記憶装置が組み立てを妨げる。,名詞は hindrance。
+E02557,1,6,incorporate,動詞,取り入れる,to include as a part,Incorporate their feedback.,先方の意見を取り入れる。,「法人化する」の意味もある。
+E02558,1,6,inject,動詞,注入する,to put in by force,The test injects a fake API.,その試験は偽の窓口を差し込む。,名詞は injection。
+E02559,1,6,innovate,動詞,刷新する,to introduce new ideas,Small teams innovate faster.,小さな班のほうが早く刷新する。,名詞は innovation。
+E02560,1,6,inquire,動詞,問い合わせる,to ask for information,Inquire about the license fee.,使用料について問い合わせる。,名詞は inquiry。英式は enquire。
+E02561,1,6,insist,動詞,主張する,to say firmly,He insisted on a second check.,彼は再確認を強く求めた。,insist on の形。
+E02562,1,6,interact,動詞,やり取りする,to act with each other,The two parts interact through a file.,その2つはファイル越しにやり取りする。,名詞は interaction。
+E02563,1,6,intervene,動詞,介入する,to become involved,The manager intervened quickly.,課長がすぐに間に入った。,名詞は intervention。
+E02564,1,6,invalidate,動詞,無効にする,to make not valid,This invalidates the cache.,これで一時保存が無効になる。,反対は validate。
+E02565,1,6,isolate,動詞,切り離す,to separate from others,Isolate the failing step.,失敗する段階を切り分ける。,名詞は isolation。
+E02566,1,6,modernize,動詞,近代化する,to make modern,We modernized the old macros.,古い巨大命令を作り直した。,英式の綴りは modernise。
+E02567,1,6,normalize,動詞,正規化する,to make standard,Normalize the dates first.,まず日付の形をそろえる。,DB の「正規化」も同じ語。
+E02568,1,6,notify,動詞,通知する,to tell officially,Notify the team before the change.,変更の前に班へ知らせる。,名詞は notification。
+E02569,1,6,optimize,動詞,最適化する,to make as good as possible,Optimize the slowest query.,一番遅い問い合わせを最適化する。,英式の綴りは optimise。
+E02570,1,6,originate,動詞,始まる、生じる,to begin,The error originates in the parser.,その異常は解析部から生じる。,名詞は origin。
+E02571,1,6,outperform,動詞,上回る,to do better than,The new tool outperforms the old.,新しい道具は古いものを上回る。,out- は「～より優れて」。
+E02572,1,6,overlap,動詞,重なる,to cover part of,The two tasks overlap by a week.,その2つの作業は一週間重なる。,名詞でも「重なり」。
+E02573,1,6,overwrite,動詞,上書きする,to write over,Do not overwrite the original.,元のものを上書きしないこと。,過去分詞は overwritten。
+E02574,1,6,populate,動詞,（データを）埋める,to fill with data,Populate the table from CSV.,CSV から表を埋める。,名詞は population。
+E02575,1,6,postpone,動詞,延期する,to move to a later time,We postponed the release.,公開を先送りした。,delay より意図的な先送り。
+E02576,1,6,proclaim,動詞,宣言する,to announce publicly,They proclaimed it a success.,彼らはそれを成功と宣言した。,declare よりかたい語。
+E02577,1,6,prohibit,動詞,禁止する,to forbid by law,Smoking is prohibited here.,ここは禁煙です。,名詞は prohibition。
+E02578,1,6,quantify,動詞,数値化する,to measure in numbers,Quantify the benefit first.,まず利点を数字にする。,名詞は quantity。
+E02579,1,6,recruit,動詞,採用する,to find new members,We recruited two testers.,試験係を2人採った。,名詞でも「新入り」。
+E02580,1,6,refine,動詞,洗練させる,to improve by small changes,Refine the wording once more.,言い回しをもう一度磨く。,名詞は refinement。
+E02581,1,6,reinforce,動詞,補強する,to make stronger,Reinforce the check with a test.,その確認を試験で補強する。,名詞は reinforcement。
+E02582,1,6,relocate,動詞,移転する,to move to a new place,The team relocated last spring.,その班は昨春に移った。,re ＋ locate。
+E02583,1,6,renew,動詞,更新する,to make valid again,Renew the license in March.,3月に使用権を更新する。,名詞は renewal。
+E02584,1,6,reproduce,動詞,再現する、複製する,to make happen again,I cannot reproduce the bug.,その不具合を再現できない。,名詞は reproduction。
+E02585,1,6,resemble,動詞,似ている,to look like,This closely resembles the old design.,これは古い設計によく似ている。,他動詞。to は付けない。
+E02586,1,6,reside,動詞,存在する、居住する,to live or be located,The config resides in the ini file.,設定は ini ファイルの中にある。,名詞は resident（住人）。
+E02587,1,6,restructure,動詞,再編する,to organize differently,We restructured the folders.,フォルダを組み直した。,re ＋ structure。
+E02588,1,6,retire,動詞,引退する、退役させる,to stop working,We retired the old server.,古いサーバを役目から外した。,名詞は retirement。
+E02589,1,6,scatter,動詞,まき散らす,to spread in all directions,Do not scatter settings across files.,設定をあちこちのファイルに散らさないこと。,scattered は「散らばった」。
+E02590,1,6,simulate,動詞,模擬する,to imitate,Simulate the load before release.,公開の前に負荷を模擬する。,名詞は simulation。
+E02591,1,6,streamline,動詞,合理化する,to make more efficient,Streamline the approval steps.,承認の手順を絞り込む。,もとは「流線形にする」。
+E02592,1,6,subscribe,動詞,購読する、加入する,to sign up for,Subscribe to the change notices.,変更の通知を受け取る設定にする。,名詞は subscription。
+E02593,1,6,supervise,動詞,監督する,to watch over work,She supervises three projects.,彼女は3つの計画を見ている。,名詞は supervisor。
+E02594,1,6,surround,動詞,囲む,to be all around,Surround the value with quotes.,その値を引用符で囲む。,名詞は surroundings（環境）。
+E02595,1,6,sustain,動詞,持続させる、支える,to keep going,We cannot sustain this pace.,この速さは続かない。,形容詞は sustainable。
+E02596,1,6,transmit,動詞,送信する,to send,The device transmits every minute.,その機器は毎分送信する。,名詞は transmission。
+E02597,1,6,undergo,動詞,経験する、受ける,to go through,The system underwent a full test.,その仕組みは全面的な試験を受けた。,過去形は underwent。
+E02598,1,6,underline,動詞,下線を引く、強調する,to draw a line under,Underline the key term.,重要な用語に下線を引く。,underscore もほぼ同じ意味。
+E02599,1,6,undertake,動詞,引き受ける,to agree to do,They undertook the migration.,彼らはその移行を引き受けた。,過去形は undertook。
+E02600,1,6,utilize,動詞,活用する,to make use of,Utilize the existing template.,既存のひな形を生かす。,use のかたい言い方。
+E02601,1,6,withdraw,動詞,引き下げる、撤回する,to take back,They withdrew the proposal.,彼らは提案を取り下げた。,過去形は withdrew。名詞は withdrawal。
+E02602,1,6,withstand,動詞,耐える,to resist successfully,The design withstood the load.,その設計は負荷に耐えた。,過去形も withstood。
+E02603,1,6,accuracy,名詞,正確さ,the quality of being correct,Accuracy beats speed here.,ここでは正確さが速さに勝る。,形容詞は accurate。
+E02604,1,6,adoption,名詞,採用、導入,the act of starting to use,Adoption was slow at first.,導入は最初は進まなかった。,動詞は adopt。
+E02605,1,6,advance,名詞,前進、前払い,forward movement,Book it in advance.,前もって予約する。,in advance は「前もって」。
+E02606,1,6,allowance,名詞,手当、許容量,money given or an amount allowed,The travel allowance is fixed.,旅費の手当は定額だ。,動詞は allow。
+E02607,1,6,ambition,名詞,野心、目標,a strong wish to achieve,Her ambition is a full rewrite.,彼女の目標は全面的な書き直しだ。,形容詞は ambitious。
+E02608,1,6,angle,名詞,角度、見方,the space between two lines,Look at it from another angle.,別の角度から見てみる。,「切り口」の意味でも使う。
+E02609,1,6,anxiety,名詞,不安,a feeling of worry,Release day brings anxiety.,公開の日は落ち着かない。,形容詞は anxious。
+E02610,1,6,appearance,名詞,外見、出現,the way something looks,Do not judge by appearance.,見た目で判断しないこと。,動詞は appear。
+E02611,1,6,archive,名詞,書庫、保管記録,a store of old records,Move it to the archive folder.,書庫のフォルダへ移す。,動詞でも「保管する」。
+E02612,1,6,arrangement,名詞,手配、配置,a plan or a layout,The arrangement suits everyone.,その手配は皆に都合が良い。,動詞は arrange。
+E02613,1,6,aspiration,名詞,願望,a strong hope,Their aspiration is zero downtime.,彼らの望みは停止ゼロだ。,動詞は aspire。
+E02614,1,6,assembly,名詞,組み立て、集会,the act of putting together,The assembly line runs all day.,組立の流れ作業は一日中動く。,動詞は assemble。
+E02615,1,6,atmosphere,名詞,雰囲気、大気,the feeling of a place,The atmosphere was tense.,その場の雰囲気は張り詰めていた。,形容詞は atmospheric。
+E02616,1,6,attraction,名詞,引きつけるもの、魅力,something that draws people,The main attraction is the speed.,一番の魅力は速さだ。,動詞は attract。
+E02617,1,6,barrier,名詞,障壁,something that blocks,Cost is the main barrier.,費用が主な壁だ。,「関門、柵」の意味もある。
+E02618,1,6,basis,名詞,根拠、基準,the reason or the foundation,On what basis do you say that?,何を根拠にそう言うのですか。,複数形は bases。
+E02619,1,6,bonus,名詞,賞与、おまけ,extra money or benefit,"Speed is a bonus, not the goal.",速さはおまけで、目的ではない。,複数形は bonuses。
+E02620,1,6,burden,名詞,負担,a heavy load or duty,This adds a burden on support.,これは支援班の負担を増やす。,動詞でも「重荷を負わせる」。
+E02621,1,6,capability,名詞,能力、性能,what something can do,The tool lacks that capability.,その道具にはその機能がない。,形容詞は capable。
+E02622,1,6,caution,名詞,注意、用心,care to avoid danger,Proceed with caution.,注意して進めること。,形容詞は cautious。
+E02623,1,6,clue,名詞,手がかり,a piece of evidence,The log gave the first clue.,記録が最初の手がかりをくれた。,no clue は「見当もつかない」。
+E02624,1,6,compromise,名詞,妥協,an agreement with give and take,We reached a compromise.,妥協点に至った。,動詞でも「妥協する、損なう」。
+E02625,1,6,confusion,名詞,混乱,a lack of understanding,The rename caused confusion.,名前を変えたことが混乱を招いた。,動詞は confuse。
+E02626,1,6,consent,名詞,同意,permission,We need written consent.,書面での同意が要る。,動詞でも「同意する」。
+E02627,1,6,consideration,名詞,考慮,careful thought,Take cost into consideration.,費用も考えに入れる。,動詞は consider。
+E02628,1,6,contribution,名詞,貢献、寄付,something given to help,Thanks for your contribution.,貢献に感謝します。,動詞は contribute。
+E02629,1,6,conversation,名詞,会話,a talk between people,The conversation went well.,その会話はうまくいった。,動詞は converse。
+E02630,1,6,courage,名詞,勇気,the ability to face fear,It takes courage to say no.,断るには勇気が要る。,形容詞は courageous。
+E02631,1,6,coverage,名詞,範囲、報道,the extent covered,Test coverage is at 80%.,試験の網羅率は8割だ。,動詞は cover。
+E02632,1,6,credit,名詞,信用、功績、掛け,trust or recognition,Give credit where it is due.,功績は正しく認めること。,「クレジット払い」も同じ語。
+E02633,1,6,criterion,名詞,基準（1つ）,a standard for judging,The first criterion is speed.,第一の基準は速さだ。,複数形は criteria。
+E02634,1,6,curiosity,名詞,好奇心,a wish to know,Curiosity found the bug.,好奇心がその不具合を見つけた。,形容詞は curious。
+E02635,1,6,deficit,名詞,赤字、不足,an amount that is missing,The budget is in deficit.,予算は赤字だ。,反対は surplus。
+E02636,1,6,demonstration,名詞,実演、デモ,a show of how something works,The demonstration lasted ten minutes.,実演は10分だった。,略して demo。
+E02637,1,6,departure,名詞,出発,the act of leaving,Departure is at seven sharp.,出発は7時ちょうどだ。,反対は arrival。
+E02638,1,6,destination,名詞,行き先,the place you are going,Set the destination folder.,出力先のフォルダを決める。,動詞は destine。
+E02639,1,6,determination,名詞,決意、判定,firmness or a decision,Her determination carried it.,彼女の粘りが押し切った。,動詞は determine。
+E02640,1,6,disadvantage,名詞,不利な点,something that makes it worse,The disadvantage is the cost.,難点は費用だ。,反対は advantage。
+E02641,1,6,disaster,名詞,災害、大失敗,a very bad event,The migration was a disaster.,その移行は大失敗だった。,形容詞は disastrous。
+E02642,1,6,dispute,名詞,争い,a disagreement,The dispute went to the board.,その争いは役員会に上がった。,動詞でも「異議を唱える」。
+E02643,1,6,diversity,名詞,多様性,variety,Diversity in tests finds more bugs.,試験の幅が広いほど不具合が見つかる。,形容詞は diverse。
+E02644,1,6,emission,名詞,排出,the act of sending out,Emission levels are measured daily.,排出量は毎日測られる。,動詞は emit。
+E02645,1,6,encouragement,名詞,励まし,words that give confidence,A little encouragement helps.,少しの励ましが効く。,動詞は encourage。
+E02646,1,6,entertainment,名詞,娯楽,things that amuse,"This is work, not entertainment.",これは仕事で、娯楽ではない。,動詞は entertain。
+E02647,1,6,enthusiasm,名詞,熱意,strong interest,His enthusiasm carried the team.,彼の熱意が班を引っ張った。,形容詞は enthusiastic。
+E02648,1,6,equality,名詞,平等,the state of being equal,Equality of access matters.,利用機会の平等が大事だ。,形容詞は equal。
+E02649,1,6,estate,名詞,地所、財産,land or property,The estate was sold last year.,その地所は昨年売られた。,real estate は「不動産」。
+E02650,1,6,excuse,名詞,言い訳,a reason given to avoid blame,That is not a good excuse.,それは通らない言い訳だ。,動詞では発音が変わる。
+E02651,1,6,exhibition,名詞,展示会,a public show,The exhibition opens Monday.,その展示会は月曜に始まる。,動詞は exhibit。
+E02652,1,6,expansion,名詞,拡大,the act of growing bigger,Expansion needs more servers.,拡大にはサーバが要る。,動詞は expand。
+E02653,1,6,exposure,名詞,さらされること、露出,the state of being open to,Reduce the exposure of the key.,鍵がさらされる度合いを減らす。,動詞は expose。
+E02654,1,6,fault,名詞,欠陥、落ち度,a mistake or a defect,It was not your fault.,あなたの落ち度ではない。,形容詞は faulty。
+E02655,1,6,flexibility,名詞,柔軟さ,the ability to change,Flexibility beats a rigid plan.,融通が利くほうが固い計画に勝る。,形容詞は flexible。
+E02656,1,6,fraction,名詞,ごく一部、分数,a small part,Only a fraction of rows failed.,失敗したのはごく一部の行だ。,数学では「分数」。
+E02657,1,6,frequency,名詞,頻度、周波数,how often something happens,Reduce the polling frequency.,問い合わせの頻度を下げる。,形容詞は frequent。
+E02658,1,6,friction,名詞,摩擦、あつれき,resistance or conflict,The extra step adds friction.,その一手間が使い勝手を悪くする。,物理の「摩擦」も同じ語。
+E02659,1,6,guideline,名詞,指針,advice on how to do,Follow the internal guidelines.,社内の指針に従う。,guide ＋ line。
+E02660,1,6,heritage,名詞,遺産,things passed down,The code has a long heritage.,そのプログラムには長い来歴がある。,cultural heritage は「文化遺産」。
+E02661,1,6,hierarchy,名詞,階層,an order by rank,The folder hierarchy is deep.,フォルダの階層が深い。,形容詞は hierarchical。
+E02662,1,6,humidity,名詞,湿度,the amount of water in air,High humidity harms the machine.,湿度が高いと機械に悪い。,形容詞は humid。
+E02663,1,6,identity,名詞,身元、同一性,who someone is,Verify the user's identity.,利用者の身元を確かめる。,形容詞は identical。
+E02664,1,6,illustration,名詞,図解、例示,a picture or an example,Add an illustration here.,ここに図を入れる。,動詞は illustrate。
+E02665,1,6,imagination,名詞,想像力,the ability to imagine,It takes imagination to test well.,うまく試験するには想像力が要る。,動詞は imagine。
+E02666,1,6,importance,名詞,重要性,the state of being important,Stress the importance of backups.,控えの大切さを強調する。,形容詞は important。
+E02667,1,6,incentive,名詞,誘因、動機づけ,something that encourages,There is no incentive to change.,変える動機がない。,「報奨」の意味でも使う。
+E02668,1,6,independence,名詞,独立,freedom from control,Test independence matters.,試験どうしが独立していることが大事だ。,形容詞は independent。
+E02669,1,6,index,名詞,索引、指標,a list or a measure,Add an index to the column.,その列に索引を付ける。,複数形は indexes / indices。
+E02670,1,6,inquiry,名詞,問い合わせ、調査,a question or investigation,We received three inquiries.,問い合わせが3件あった。,動詞は inquire。
+E02671,1,6,installation,名詞,導入、設置,the act of installing,Installation takes five minutes.,導入には5分かかる。,動詞は install。
+E02672,1,6,intelligence,名詞,知能、情報,the ability to learn or secret data,Artificial intelligence is not magic.,人工知能は魔法ではない。,形容詞は intelligent。
+E02673,1,6,interruption,名詞,中断,a break in something,Frequent interruptions slow the work.,たびたびの中断が仕事を遅らせる。,動詞は interrupt。
+E02674,1,6,intervention,名詞,介入,the act of getting involved,Manual intervention is needed.,人手での介入が要る。,動詞は intervene。
+E02675,1,6,invitation,名詞,招待,a request to come,The invitation went out Monday.,招待は月曜に出た。,動詞は invite。
+E02676,1,6,judgment,名詞,判断、判決,an opinion formed carefully,Use your judgment here.,ここは判断に任せる。,英式の綴りは judgement。
+E02677,1,6,justice,名詞,正義、司法,fairness under law,The Ministry of Justice runs it.,それは法務省が運営している。,形容詞は just（公正な）。
+E02678,1,6,labor,名詞,労働,hard work,Labor costs went up.,人件費が上がった。,英式の綴りは labour。
+E02679,1,6,landscape,名詞,風景、全体像,a view or an overall situation,The tool landscape changed.,道具をめぐる状況が変わった。,印刷では「横向き」。
+E02680,1,6,layout,名詞,配置、レイアウト,the way parts are arranged,Fix the layout on small screens.,小さい画面での配置を直す。,lay ＋ out。
+E02681,1,6,leadership,名詞,指導力,the ability to lead,Leadership is not a title.,指導力は肩書きではない。,leader の名詞形。
+E02682,1,6,legacy,名詞,遺産、旧来のもの,something inherited from the past,This is a legacy system.,これは旧来の仕組みだ。,IT では「古いままの」の意味で使う。
+E02683,1,6,liability,名詞,責任、負債,legal responsibility,The liability rests with us.,その責任は当方にある。,形容詞は liable。
+E02684,1,6,limitation,名詞,限界、制約,a restriction,Note the known limitations.,分かっている制約を書き添える。,動詞は limit。
+E02685,1,6,logic,名詞,論理,reasoning,The logic breaks on empty input.,入力が空のとき論理が破綻する。,形容詞は logical。
+E02686,1,6,loyalty,名詞,忠誠、愛顧,faithfulness,Customer loyalty took years.,顧客の愛顧は年月をかけて得た。,形容詞は loyal。
+E02687,1,6,magnitude,名詞,大きさ、規模,great size or importance,The magnitude of the change surprised us.,変更の大きさに驚いた。,地震の「マグニチュード」も同じ語。
+E02688,1,6,margin,名詞,余白、利ざや,an edge or a profit,Leave a wider margin.,余白をもっと広く取る。,「余裕」の意味でも使う。
+E02689,1,6,mixture,名詞,混合物,a combination,The result is a mixture of both.,その結果は両方が混ざったものだ。,動詞は mix。
+E02690,1,6,necessity,名詞,必要性、必需品,something needed,Backups are a necessity.,控えは必需だ。,形容詞は necessary。
+E02691,1,6,obstacle,名詞,障害,something in the way,The main obstacle is time.,主な障害は時間だ。,barrier とほぼ同じ意味。
+E02692,1,6,occurrence,名詞,発生、出来事,something that happens,It is a rare occurrence.,それはまれな出来事だ。,動詞は occur。綴りに注意。
+E02693,1,6,outlook,名詞,見通し、考え方,a view of the future,The outlook is uncertain.,見通しは不透明だ。,メールソフトの名前でもある。
+E02694,1,6,ownership,名詞,所有、当事者意識,the state of owning,Take ownership of the issue.,その課題を自分ごとにする。,owner の名詞形。
+E02695,1,6,participation,名詞,参加,the act of taking part,Participation is voluntary.,参加は任意だ。,動詞は participate。
+E02696,1,6,passion,名詞,情熱,a very strong feeling,He has a passion for clean code.,彼はきれいなコードに情熱がある。,形容詞は passionate。
+E02697,1,6,penalty,名詞,罰、違約金,a punishment,There is no penalty for late filing.,遅れて出しても罰則はない。,球技では「反則」。
+E02698,1,6,persistence,名詞,粘り強さ、永続,the act of continuing,Persistence solved it.,粘り強さが解決した。,IT では「保存されること」。
+E02699,1,6,phenomenon,名詞,現象,an observed event,It is a known phenomenon.,それは知られた現象だ。,複数形は phenomena。
+E02700,1,6,philosophy,名詞,哲学、考え方,a set of beliefs,Our philosophy is simple tools.,我々の考え方は単純な道具だ。,形容詞は philosophical。
+E02701,1,6,pipeline,名詞,流れ、パイプライン,a series of connected steps,The build pipeline runs nightly.,組み立ての流れは毎晩動く。,pipe ＋ line。
+E02702,1,6,poverty,名詞,貧困,the state of being poor,Poverty is a global issue.,貧困は世界的な課題だ。,形容詞は poor。
+E02703,1,6,preparation,名詞,準備,the act of getting ready,Preparation took longer than the work.,準備のほうが作業より長かった。,動詞は prepare。
+E02704,1,6,prevention,名詞,予防,the act of stopping something,Prevention is cheaper than repair.,予防は修理より安い。,動詞は prevent。
+E02705,1,6,privilege,名詞,特権,a special right,Run it with admin privileges.,管理者の権限で走らせる。,形容詞は privileged。
+E02706,1,6,probability,名詞,確率,how likely something is,The probability is very low.,その確率はとても低い。,形容詞は probable。
+E02707,1,6,production,名詞,生産、本番,the act of making,Do not test in production.,本番で試さないこと。,動詞は produce。
+E02708,1,6,profession,名詞,職業,a job needing training,Nursing is a demanding profession.,看護は骨の折れる職業だ。,形容詞は professional。
+E02709,1,6,prompt,名詞,指示、入力促し,a message asking for input,The prompt waits for a key.,その表示はキー入力を待つ。,形容詞では「迅速な」。
+E02710,1,6,proportion,名詞,割合、釣り合い,a part in relation to the whole,The proportion of errors fell.,誤りの割合が下がった。,形容詞は proportional。
+E02711,1,6,protection,名詞,保護,the act of keeping safe,Turn on sheet protection.,シートの保護を有効にする。,動詞は protect。
+E02712,1,6,publication,名詞,出版、公開,the act of making public,Publication is set for June.,公開は6月の予定だ。,動詞は publish。
+E02713,1,6,quotation,名詞,引用、見積り,words repeated or a price offer,Send a written quotation.,書面で見積りを送ってください。,略して quote。
+E02714,1,6,recovery,名詞,回復、復旧,a return to normal,Recovery took three hours.,復旧に3時間かかった。,動詞は recover。
+E02715,1,6,reduction,名詞,削減,the act of making smaller,A 30% reduction in size.,大きさが3割減った。,動詞は reduce。
+E02716,1,6,rejection,名詞,却下,the act of refusing,The rejection came with reasons.,却下には理由が添えられていた。,動詞は reject。
+E02717,1,6,reminder,名詞,リマインダー、注意喚起,something that makes you remember,Set a reminder for Friday.,金曜に思い出す仕掛けを入れる。,動詞は remind。
+E02718,1,6,repetition,名詞,繰り返し,the act of doing again,Avoid repetition in the guide.,手引きで同じことを繰り返さない。,動詞は repeat。
+E02719,1,6,reservation,名詞,予約、留保,an arrangement or a doubt,I have reservations about it.,それには少し引っかかる点がある。,動詞は reserve。
+E02720,1,6,resistance,名詞,抵抗,the act of opposing,There was resistance to the change.,その変更には抵抗があった。,動詞は resist。
+E02721,1,6,resolution,名詞,解決、解像度、決意,an answer or picture quality,Raise the screen resolution.,画面の解像度を上げる。,動詞は resolve。
+E02722,1,6,retirement,名詞,引退、廃止,the end of a working life,The server's retirement is planned.,そのサーバの廃止は決まっている。,動詞は retire。
+E02723,1,6,revision,名詞,改訂,a changed version,This is revision three.,これは第3改訂だ。,動詞は revise。
+E02724,1,6,rhythm,名詞,リズム、調子,a regular pattern,Find a weekly rhythm.,週ごとの調子をつかむ。,母音が少ない綴りに注意。
+E02725,1,6,routine,名詞,決まった手順,a regular way of doing,Make it part of the routine.,決まった手順に組み込む。,形容詞でも「日常の」。
+E02726,1,6,sacrifice,名詞,犠牲,something given up,Speed came at the sacrifice of clarity.,速さは分かりやすさを犠牲にして得た。,動詞でも「犠牲にする」。
+E02727,1,6,schema,名詞,スキーマ、構造定義,the structure of a database,The schema changed in v2.,第2版で構造定義が変わった。,複数形は schemas / schemata。
+E02728,1,6,shortcut,名詞,近道、ショートカット,a quicker way,Learn three shortcuts a week.,週に3つ近道を覚える。,short ＋ cut。
+E02729,1,6,signature,名詞,署名、特徴,a written name or a mark,Add your signature at the end.,最後に署名を入れる。,動詞は sign。
+E02730,1,6,simplicity,名詞,単純さ,the quality of being simple,Simplicity is the goal.,単純であることが目標だ。,形容詞は simple。
+E02731,1,6,stability,名詞,安定性,the state of being steady,Stability beats new features.,新機能より安定が大事だ。,形容詞は stable。
+E02732,1,6,storage,名詞,保管、記憶装置,a place for keeping things,Storage is nearly full.,保管領域がほぼいっぱいだ。,動詞は store。
+E02733,1,6,strength,名詞,強さ、長所,the quality of being strong,List the strengths and weaknesses.,長所と短所を並べる。,形容詞は strong。
+E02734,1,6,stress,名詞,圧力、強調,pressure or emphasis,Run a stress test first.,まず負荷試験をする。,動詞では「強調する」。
+E02735,1,6,surplus,名詞,余剰,an amount more than needed,We have a surplus of licenses.,使用権が余っている。,反対は deficit。
+E02736,1,6,suspicion,名詞,疑い,a feeling that something is wrong,I have a suspicion about the cache.,一時保存が怪しいと踏んでいる。,形容詞は suspicious。
+E02737,1,6,symbol,名詞,記号、象徴,a sign that represents,"Use a symbol, not a word.",語ではなく記号を使う。,形容詞は symbolic。
+E02738,1,6,tendency,名詞,傾向,a way of behaving often,There is a tendency to over-engineer.,作り込みすぎる傾向がある。,動詞は tend。
+E02739,1,6,tension,名詞,緊張、張力,a strained state,Tension rose before the release.,公開の前に緊張が高まった。,形容詞は tense。
+E02740,1,6,territory,名詞,領域、領土,an area under control,That is not my territory.,そこは私の担当外だ。,形容詞は territorial。
+E02741,1,6,threat,名詞,脅威,a danger,The threat is real but small.,その脅威は現実だが小さい。,動詞は threaten。
+E02742,1,6,tolerance,名詞,許容範囲、寛容,the amount that can be accepted,The tolerance is one second.,許容は1秒だ。,形容詞は tolerant。
+E02743,1,6,transportation,名詞,輸送、交通,the act of moving people or goods,Transportation costs doubled.,輸送費が倍になった。,英式では transport。
+E02744,1,6,treatment,名詞,扱い、治療,the way of dealing with,Give both cases the same treatment.,どちらの場合も同じ扱いにする。,動詞は treat。
+E02745,1,6,uncertainty,名詞,不確実さ,the state of not knowing,Uncertainty makes planning hard.,不確かさが計画を難しくする。,形容詞は uncertain。
+E02746,1,6,union,名詞,組合、結合,a group or a joining,The union agreed to the change.,組合はその変更に同意した。,SQL の UNION も同じ語。
+E02747,1,6,victim,名詞,被害者,a person harmed,Do not play the victim.,被害者ぶらないこと。,「犠牲者」の意味でも使う。
+E02748,1,6,violation,名詞,違反,the act of breaking a rule,That is a policy violation.,それは方針違反だ。,動詞は violate。
+E02749,1,6,wealth,名詞,富、豊富さ,a large amount of money or things,A wealth of examples helps.,例が豊富だと助かる。,形容詞は wealthy。
+E02750,1,6,welfare,名詞,福祉,the health and happiness of people,Staff welfare comes first.,職員の福利が第一だ。,well ＋ fare が語源。
+E02751,1,6,wisdom,名詞,知恵,good judgment from experience,Conventional wisdom is often wrong.,世間の常識はよく間違う。,形容詞は wise。
+E02752,1,6,workload,名詞,作業量,the amount of work,The workload doubled this month.,今月は作業量が倍になった。,work ＋ load。
+E02753,1,6,youth,名詞,若さ、若者,the time of being young,Youth is not a qualification.,若さは資格ではない。,形容詞は young。
+E02754,1,6,zone,名詞,地帯、区域,an area with a purpose,Set the time zone first.,まず時間帯を設定する。,time zone は「時間帯」。
+E02755,1,6,acceptable,形容詞,受け入れられる,good enough,A one-second delay is acceptable.,1秒の遅れは許容できる。,反対は unacceptable。
+E02756,1,6,accessible,形容詞,利用しやすい,able to be reached or used,Make the page accessible.,その画面を誰でも使えるようにする。,名詞は accessibility。
+E02757,1,6,aggressive,形容詞,攻めた、積極的な,forceful,That is an aggressive schedule.,それは攻めた日程だ。,副詞は aggressively。
+E02758,1,6,ambiguous,形容詞,あいまいな,having more than one meaning,The wording is ambiguous.,その言い回しはあいまいだ。,名詞は ambiguity。
+E02759,1,6,beneficial,形容詞,有益な,helpful,The change was beneficial.,その変更は有益だった。,名詞は benefit。
+E02760,1,6,comprehensive,形容詞,包括的な,including everything,We ran a comprehensive test.,網羅的な試験を行った。,「理解力のある」ではない点に注意。
+E02761,1,6,concrete,形容詞,具体的な,definite and real,Give a concrete example.,具体例を挙げてください。,名詞では「コンクリート」。
+E02762,1,6,confidential,形容詞,機密の,meant to be secret,This file is confidential.,このファイルは機密だ。,名詞は confidentiality。
+E02763,1,6,consecutive,形容詞,連続した,following one after another,Three consecutive failures.,3回続けての失敗。,副詞は consecutively。
+E02764,1,6,considerable,形容詞,かなりの,large in amount,It saved considerable time.,かなりの時間を節約した。,considerate（思いやりのある）とは別。
+E02765,1,6,cumulative,形容詞,累積の,increasing by addition,The cumulative total is shown.,累計が表示される。,動詞は accumulate。
+E02766,1,6,desirable,形容詞,望ましい,worth having,A shorter path is desirable.,経路は短いほうが望ましい。,動詞は desire。
+E02767,1,6,distinctive,形容詞,際立った,clearly different from others,The design has a distinctive look.,その意匠には際立った見た目がある。,動詞は distinguish。
+E02768,1,6,eligible,形容詞,資格のある,allowed to take part,All staff are eligible.,全職員に資格がある。,名詞は eligibility。
+E02769,1,6,equivalent,形容詞,同等の,equal in value,These two are equivalent.,この2つは同等だ。,名詞でも「同等のもの」。
+E02770,1,6,evident,形容詞,明白な,easy to see,The cause is now evident.,原因はいま明らかだ。,名詞は evidence。
+E02771,1,6,explicit,形容詞,明示的な,stated clearly,Make the setting explicit.,その設定は明示しておく。,反対は implicit。
+E02772,1,6,implicit,形容詞,暗黙の,not stated directly,Do not rely on implicit defaults.,暗黙の既定に頼らないこと。,反対は explicit。
+E02773,1,6,extensive,形容詞,広範な,covering a large area,We did extensive testing.,幅広く試験を行った。,動詞は extend。
+E02774,1,6,feasible,形容詞,実行可能な,able to be done,The plan is feasible in a month.,その計画は1か月で実行できる。,名詞は feasibility。
+E02775,1,6,generic,形容詞,一般的な、汎用の,not specific to one,Write a generic handler.,汎用の処理を書く。,薬では「後発の」。
+E02776,1,6,gradual,形容詞,段階的な,happening slowly,Make a gradual change.,段階的に変える。,副詞は gradually。
+E02777,1,6,inherent,形容詞,本来備わった,existing as a natural part,There is an inherent risk.,そこには本来的な危険がある。,副詞は inherently。
+E02778,1,6,massive,形容詞,巨大な,very large,That is a massive file.,それは巨大なファイルだ。,huge とほぼ同じ。
+E02779,1,6,moderate,形容詞,適度な,not extreme,Keep the load moderate.,負荷は適度に保つ。,動詞では「和らげる、司会する」。
+E02780,1,6,numerous,形容詞,多数の,many,There were numerous complaints.,多くの苦情があった。,名詞は number。
+E02781,1,6,preliminary,形容詞,予備の、暫定の,coming before the main part,These are preliminary numbers.,これは暫定の数字だ。,略して prelim。
+E02782,1,6,prominent,形容詞,目立つ、著名な,easily noticed,Put it in a prominent place.,目立つ場所に置く。,名詞は prominence。
+E02783,1,6,rational,形容詞,合理的な,based on reason,Give a rational explanation.,筋の通った説明をする。,反対は irrational。
+E02784,1,6,redundant,形容詞,冗長な、余分な,not needed or duplicated,This check is redundant.,この確認は重複している。,IT では「二重化した」の良い意味もある。
+E02785,1,6,robust,形容詞,頑丈な,strong and not easily broken,We need a robust design.,頑丈な設計が要る。,名詞は robustness。
+E02786,1,6,sensitive,形容詞,敏感な、機微な,easily affected or private,This is sensitive data.,これは機微な資料だ。,名詞は sensitivity。
+E02787,1,6,severe,形容詞,厳しい、重大な,very bad,There was a severe outage.,重大な停止があった。,副詞は severely。
+E02788,1,6,subsequent,形容詞,その後の,coming after,Subsequent runs were faster.,その後の実行は速かった。,副詞は subsequently。
+E02789,1,6,substantial,形容詞,相当な,large in amount,There was a substantial gain.,相当な改善があった。,名詞は substance。
+E02790,1,6,superior,形容詞,優れた,better than others,This method is superior.,この方法のほうが優れている。,反対は inferior。
+E02791,1,6,thorough,形容詞,徹底した,complete and careful,Do a thorough check.,徹底した確認を行う。,副詞は thoroughly。
+E02792,1,6,unique,形容詞,唯一の、独自の,the only one of its kind,Each ID must be unique.,識別子はそれぞれ唯一でなければならない。,very unique とは言わない。
+E02793,1,6,vital,形容詞,極めて重要な,necessary for success,Backups are vital here.,ここでは控えが命綱だ。,「生命の」の意味もある。
+E02794,1,6,voluntary,形容詞,自発的な,done by choice,Participation is voluntary.,参加は自発だ。,名詞は volunteer。
+E02795,1,6,accordingly,副詞,それに応じて,in a way that fits,Adjust the plan accordingly.,それに応じて計画を直す。,according to は「～によれば」。
+E02796,1,6,consequently,副詞,その結果,as a result,"Consequently, we delayed it.",その結果、先送りした。,名詞は consequence。
+E02797,1,6,eventually,副詞,最終的に,in the end,It eventually worked.,最後にはうまくいった。,「いずれ」の意味。今すぐではない。
+E02798,1,6,furthermore,副詞,さらに,in addition,"Furthermore, it costs less.",さらに、費用も安い。,moreover とほぼ同じ。
+E02799,1,6,hence,副詞,したがって,for this reason,Hence the extra check.,そのための追加の確認だ。,therefore よりかたい。
+E02800,1,6,likewise,副詞,同様に,in the same way,Likewise for the other file.,もう一方のファイルも同様だ。,similarly とほぼ同じ。

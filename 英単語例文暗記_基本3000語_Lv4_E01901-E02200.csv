@@ -1,0 +1,301 @@
+登録NO,枝番,レベル,英単語,品詞,意味(日本語),意味(英語),例文(英語),例文(日本語),解説
+E01901,1,4,visible,形容詞,見える,able to be seen,The button is not visible here.,ここではボタンが見えない。,反対は invisible。
+E01902,1,4,absorb,動詞,吸収する,to take in,The foam absorbs the shock.,その泡材が衝撃を吸収する。,名詞は absorption。
+E01903,1,4,accompany,動詞,同行する、伴う,to go with,A guide accompanies the file.,そのファイルには手引きが付く。,名詞は company（仲間、会社）と同語源。
+E01904,1,4,accumulate,動詞,蓄積する,to collect over time,Logs accumulate quickly here.,ここでは記録がすぐたまる。,名詞は accumulation。
+E01905,1,4,acquire,動詞,獲得する、買収する,to get or buy,They acquired the smaller firm.,彼らは小さい会社を買収した。,名詞は acquisition。
+E01906,1,4,activate,動詞,有効にする,to make active,Activate the license by mail.,使用権はメールで有効にする。,反対は deactivate。
+E01907,1,4,advise,動詞,助言する,to give advice,I advise a smaller change.,もっと小さな変更をお勧めします。,名詞は advice（発音も違う）。
+E01908,1,4,aid,動詞,助ける,to help,The chart aids understanding.,その図は理解を助ける。,名詞でも「援助」。first aid は「応急手当」。
+E01909,1,4,alter,動詞,変更する,to change,Do not alter the original file.,元のファイルは変えないこと。,SQL の ALTER TABLE のこと。
+E01910,1,4,arise,動詞,生じる,to happen,Problems arise when data is missing.,資料が欠けると問題が生じる。,過去形は arose。他動詞ではない。
+E01911,1,4,assess,動詞,評価する、査定する,to judge the value,Assess the risk before starting.,始める前に危険度を見積もる。,名詞は assessment。
+E01912,1,4,attract,動詞,引きつける,to make interested,The demo attracted many users.,その実演は多くの利用者を引きつけた。,名詞は attraction。
+E01913,1,4,bend,動詞,曲げる,to make curved,Do not bend the card.,その札を曲げないこと。,過去形は bent。
+E01914,1,4,bind,動詞,縛る、結び付ける,to tie together,The contract binds both sides.,その契約は双方を縛る。,過去形は bound。
+E01915,1,4,boost,動詞,押し上げる,to increase,Caching boosts the speed.,一時保存が速さを押し上げる。,名詞でも「後押し」。
+E01916,1,4,burn,動詞,燃やす、焼く,to destroy with fire,Burn the data to a disc.,資料を円盤に焼く。,過去形は burned / burnt。
+E01917,1,4,bury,動詞,埋める,to put under ground,The setting is buried in a submenu.,その設定は下の階層に埋もれている。,発音は「ベリー」。
+E01918,1,4,capture,動詞,捕らえる、取り込む,to catch or record,Capture the screen and attach it.,画面を写して添えてください。,名詞でも「取り込み」。
+E01919,1,4,cease,動詞,やめる、止む,to stop,The service ceased last March.,そのサービスは昨年3月に終わった。,stop よりかたい言い方。
+E01920,1,4,cite,動詞,引用する,to quote as a source,"Cite the manual, not a blog.",手引きを引用する。日記ではなく。,名詞は citation。site / sight と同音。
+E01921,1,4,clarify,動詞,はっきりさせる,to make clear,Clarify the meaning of this field.,この欄の意味をはっきりさせる。,名詞は clarification。
+E01922,1,4,classify,動詞,分類する,to put into groups,Classify the errors by cause.,異常を原因で分類する。,classified は「機密の」。
+E01923,1,4,collapse,動詞,崩れる、折りたたむ,to fall down or fold,Collapse the tree to see less.,枝を畳んで表示を減らす。,名詞でも「崩壊」。
+E01924,1,4,compete,動詞,競争する,to try to win,Two tools compete for the same job.,同じ仕事で2つの道具が競っている。,名詞は competition。
+E01925,1,4,compose,動詞,構成する、作曲する,to make up or write music,The team is composed of five people.,その班は5人で構成されている。,be composed of の形。
+E01926,1,4,conduct,動詞,行う、指揮する,to carry out,We conducted a survey last week.,先週、調査を行った。,名詞では「行い」で発音が変わる。
+E01927,1,4,consult,動詞,相談する、参照する,to ask for advice,Consult the manual first.,まず手引きを参照する。,名詞は consultant。
+E01928,1,4,consume,動詞,消費する,to use up,The job consumes a lot of memory.,その処理は記憶領域を多く使う。,名詞は consumption。
+E01929,1,4,convince,動詞,納得させる,to make someone believe,The numbers convinced the manager.,その数字が課長を納得させた。,be convinced は「確信している」。
+E01930,1,4,cope,動詞,うまく対処する,to deal with difficulty,We cope with two systems at once.,2つの仕組みを同時に扱っている。,cope with の形。
+E01931,1,4,crash,動詞,衝突する、（機械が）落ちる,to hit hard or stop working,The app crashed on startup.,起動時にアプリが落ちた。,名詞でも「衝突、異常終了」。
+E01932,1,4,cure,動詞,治す,to make well,Restarting does not cure the cause.,再起動しても原因は治らない。,名詞でも「治療法」。
+E01933,1,4,dare,動詞,あえて～する,to be brave enough,No one dared to touch it.,誰も手を出そうとしなかった。,How dare you は強い非難。
+E01934,1,4,deal,動詞,扱う、取引する,to handle,Who deals with the invoices?,請求書は誰が扱いますか。,deal with の形。名詞では「取引」。
+E01935,1,4,decline,動詞,断る、減少する,to refuse or go down,Sales declined for two quarters.,売上が2期続けて減った。,名詞でも「減少」。
+E01936,1,4,dedicate,動詞,捧げる、専用にする,to give fully to,A dedicated server runs the job.,専用のサーバがその処理を回す。,dedicated は「専用の、献身的な」。
+E01937,1,4,derive,動詞,導き出す,to get from a source,The value derives from the total.,その値は合計から導かれる。,derive from の形。
+E01938,1,4,detect,動詞,検出する,to discover,The tool detects broken links.,その道具は切れた参照先を見つける。,名詞は detection。
+E01939,1,4,devote,動詞,捧げる,to give time to,He devoted a week to testing.,彼は一週間を試験に充てた。,devote 時間 to 事 の形。
+E01940,1,4,differ,動詞,異なる,to be unlike,The two files differ in one line.,その2つのファイルは1行だけ違う。,名詞は difference。
+E01941,1,4,dismiss,動詞,退ける、解雇する,to reject or send away,Do not dismiss the warning.,その警告を軽く見ないこと。,画面では「閉じる」の意味でも使う。
+E01942,1,4,distinguish,動詞,見分ける,to see the difference,Distinguish errors from warnings.,異常と警告を見分ける。,distinguish A from B の形。
+E01943,1,4,emerge,動詞,現れる,to come out,A pattern emerged after a week.,一週間で傾向が見えてきた。,名詞は emergence。
+E01944,1,4,emphasize,動詞,強調する,to give importance to,Emphasize the deadline in bold.,締切を太字で強調する。,名詞は emphasis。
+E01945,1,4,enable,動詞,可能にする、有効にする,to make possible,Enable logging in the settings.,設定で記録を有効にする。,反対は disable。
+E01946,1,4,encounter,動詞,出くわす,to meet unexpectedly,We encountered a rare error.,まれな異常に出くわした。,名詞でも「遭遇」。
+E01947,1,4,enhance,動詞,高める,to improve,This enhances readability.,これは読みやすさを高める。,名詞は enhancement。
+E01948,1,4,exceed,動詞,超える,to go beyond,The file exceeds the size limit.,そのファイルは上限を超えている。,名詞は excess。
+E01949,1,4,exclude,動詞,除外する,to leave out,Exclude test rows from the total.,合計から試験用の行を除く。,反対は include。
+E01950,1,4,execute,動詞,実行する,to carry out,Execute the script as admin.,管理者としてその台本を実行する。,名詞は execution。
+E01951,1,4,exist,動詞,存在する,to be real or present,The folder does not exist yet.,そのフォルダはまだ存在しない。,名詞は existence。
+E01952,1,4,expose,動詞,さらす、暴露する,to make visible,Do not expose the key in code.,鍵をコードにさらさないこと。,名詞は exposure。
+E01953,1,4,extract,動詞,抜き出す,to take out,Extract the dates from the text.,文章から日付を抜き出す。,名詞では「抜粋」で発音が変わる。
+E01954,1,4,facilitate,動詞,促進する、進めやすくする,to make easier,A template facilitates review.,ひな形があると見直しが楽になる。,名詞は facility（施設、能力）。
+E01955,1,4,fetch,動詞,取ってくる,to go and bring back,The page fetches data on load.,その画面は読み込み時に資料を取りに行く。,IT でよく使う語。
+E01956,1,4,flip,動詞,ひっくり返す,to turn over,Flip the switch to test.,試すには切り替えを反転する。,flip side は「裏面」。
+E01957,1,4,forbid,動詞,禁じる,to not allow,Policy forbids personal drives.,方針で個人の記憶装置は禁じられている。,過去形は forbade、過去分詞は forbidden。
+E01958,1,4,forecast,動詞,予測する,to say what will happen,They forecast a busy quarter.,彼らは忙しい四半期を見込んでいる。,名詞でも「予報」。過去形も forecast。
+E01959,1,4,gain,動詞,得る、増す,to obtain or increase,We gained two seconds per run.,1回あたり2秒縮まった。,名詞でも「増加、利得」。
+E01960,1,4,grant,動詞,与える、認める,to give formally,Grant read access only.,読み取りだけを許す。,名詞では「助成金」。
+E01961,1,4,guess,動詞,推測する,to give an answer without knowing,Don't guess; measure it.,推測せず、測ること。,名詞でも「推測」。
+E01962,1,4,hide,動詞,隠す,to put out of sight,"Hide the column, don't delete it.",列は消さずに隠す。,過去形は hid、過去分詞は hidden。
+E01963,1,4,highlight,動詞,強調する、目立たせる,to make stand out,Highlight the changed rows.,変わった行を目立たせる。,名詞でも「見どころ」。
+E01964,1,4,hire,動詞,雇う,to give a job to,They hired two engineers.,彼らは技術者を2人雇った。,英式では「借りる」の意味もある。
+E01965,1,4,host,動詞,主催する、提供する,to hold an event or provide,This server hosts three sites.,このサーバは3つの場所を載せている。,名詞では「主人、提供元」。
+E01966,1,4,illustrate,動詞,説明する、図解する,to explain with examples,The chart illustrates the drop.,その図が落ち込みを示している。,名詞は illustration。
+E01967,1,4,imply,動詞,暗に示す,to suggest without saying,The error implies a missing file.,その異常はファイル欠落を示唆する。,名詞は implication。
+E01968,1,4,impose,動詞,課す,to force on someone,They imposed a size limit.,彼らは大きさの上限を課した。,impose A on B の形。
+E01969,1,4,inherit,動詞,受け継ぐ,to receive from before,Child folders inherit the setting.,下のフォルダはその設定を受け継ぐ。,名詞は inheritance（継承）。
+E01970,1,4,initiate,動詞,始める,to start,Initiate the transfer at midnight.,深夜に転送を開始する。,名詞は initiative（主導権）。
+E01971,1,4,inspect,動詞,点検する,to look at closely,Inspect the cable before use.,使う前に線を点検する。,名詞は inspection。
+E01972,1,4,integrate,動詞,統合する,to combine into one,Integrate the two systems.,その2つの仕組みを統合する。,名詞は integration。
+E01973,1,4,interpret,動詞,解釈する、通訳する,to explain the meaning,How do you interpret this code?,この番号をどう読み解きますか。,名詞は interpretation / interpreter。
+E01974,1,4,justify,動詞,正当化する、そろえる,to show it is right,Justify the extra cost.,追加の費用を説明できるようにする。,文字では「両端そろえ」。
+E01975,1,4,launch,動詞,開始する、売り出す,to start something new,We launch the tool in June.,6月にその道具を出す。,名詞でも「開始、発売」。
+E01976,1,4,lock,動詞,施錠する、固定する,to fasten,Lock the row so it stays.,その行が動かないよう固定する。,反対は unlock。
+E01977,1,4,maximize,動詞,最大にする,to make as large as possible,Maximize the window first.,まず窓を最大にする。,反対は minimize。
+E01978,1,4,merge,動詞,統合する、合併する,to join into one,Merge the two branches.,その2つの枝を合わせる。,名詞でも「合併」。
+E01979,1,4,migrate,動詞,移行する,to move to another place,We migrated to a new server.,新しいサーバへ移った。,名詞は migration。
+E01980,1,4,neglect,動詞,怠る,to fail to care for,Do not neglect the backups.,控えを取るのを怠らないこと。,名詞でも「怠慢」。
+E01981,1,4,nominate,動詞,指名する,to propose someone,She was nominated for the award.,彼女はその賞に推薦された。,名詞は nomination。
+E01982,1,4,obey,動詞,従う,to do what you are told,The script obeys the config file.,その台本は設定ファイルに従う。,反対は disobey。
+E01983,1,4,occupy,動詞,占める,to fill a space,Logs occupy half the disk.,記録が記憶装置の半分を占めている。,名詞は occupation（職業、占領）。
+E01984,1,4,occur,動詞,起こる,to happen,The error occurs once a week.,その異常は週に一度起きる。,名詞は occurrence（綴りに注意）。
+E01985,1,4,outline,動詞,概略を述べる,to describe the main points,Outline the plan in five lines.,計画を5行で概説する。,名詞でも「あらすじ、輪郭」。
+E01986,1,4,overcome,動詞,克服する,to succeed against,We overcame the memory limit.,記憶領域の制約を乗り越えた。,過去形は overcame、過去分詞は overcome。
+E01987,1,4,persuade,動詞,説得する,to make someone agree,He persuaded the team to wait.,彼は班を説得して待たせた。,名詞は persuasion。
+E01988,1,4,pop,動詞,ぽんと出る、はじける,to appear or burst,A dialog pops up on save.,保存すると窓が出てくる。,pop-up は「飛び出す窓」。
+E01989,1,4,possess,動詞,所有する,to own,He possesses rare skills.,彼はまれな技能を持っている。,名詞は possession。
+E01990,1,4,predict,動詞,予測する,to say in advance,It is hard to predict the load.,負荷を読むのは難しい。,名詞は prediction。
+E01991,1,4,preview,動詞,下見する,to look at before,Preview the print before sending.,送る前に印刷結果を見る。,名詞でも「下見、予告」。
+E01992,1,4,prioritize,動詞,優先順位を付ける,to put in order of importance,Prioritize the three blockers.,支障となる3件を先にする。,名詞は priority。
+E01993,1,4,prove,動詞,証明する,to show it is true,The log proves the timing.,その記録が時刻を裏付ける。,過去分詞は proved / proven。
+E01994,1,4,pursue,動詞,追求する,to follow or try to achieve,We pursued a simpler design.,より単純な設計を追った。,名詞は pursuit。
+E01995,1,4,quit,動詞,やめる,to stop or leave,Quit the app before updating.,更新の前にアプリを終える。,過去形も quit。
+E01996,1,4,react,動詞,反応する,to act in response,The system reacts within a second.,その仕組みは1秒以内に反応する。,名詞は reaction。
+E01997,1,4,recall,動詞,思い出す、回収する,to remember or take back,I cannot recall the exact date.,正確な日付が思い出せない。,製品では「リコール（回収）」。
+E01998,1,4,refresh,動詞,更新する、元気づける,to make new again,Refresh the page to see it.,画面を更新すると見えます。,F5 キーの「更新」。
+E01999,1,4,regard,動詞,みなす,to consider,We regard this as a warning.,これは警告とみなしている。,regard A as B の形。
+E02000,1,4,reinstall,動詞,入れ直す,to install again,Reinstall the tool as a last resort.,最後の手として入れ直す。,re- は「再び」を表す。
+E02001,1,4,rely,動詞,頼る,to depend on,Do not rely on the cache.,一時保存に頼らないこと。,rely on の形。形容詞は reliable。
+E02002,1,4,rename,動詞,名前を変える,to give a new name,Rename the file before saving.,保存する前に名前を変える。,re- ＋ name。
+E02003,1,4,resolve,動詞,解決する、決意する,to find an answer,The issue was resolved yesterday.,その課題は昨日片づいた。,名詞は resolution（解決、解像度）。
+E02004,1,4,restrict,動詞,制限する,to keep within limits,Restrict access to two people.,利用を2人に限る。,名詞は restriction。
+E02005,1,4,resume,動詞,再開する,to start again,Resume the download later.,後で受信を再開する。,名詞では「履歴書」で発音が違う。
+E02006,1,4,retain,動詞,保持する,to keep,Retain the logs for a year.,記録は1年保存する。,名詞は retention。
+E02007,1,4,retrieve,動詞,取り出す,to get back,Retrieve the record by ID.,識別子で記録を取り出す。,名詞は retrieval。
+E02008,1,4,reveal,動詞,明らかにする,to show what was hidden,The test revealed two bugs.,その試験で不具合が2つ見つかった。,名詞は revelation。
+E02009,1,4,revise,動詞,改訂する,to change and improve,Revise the guide after release.,公開のあと手引きを改訂する。,名詞は revision。
+E02010,1,4,rotate,動詞,回転させる、交代する,to turn around,Rotate the logs every month.,記録を毎月入れ替える。,名詞は rotation。
+E02011,1,4,satisfy,動詞,満たす、満足させる,to meet a need,This satisfies the requirement.,これで要件を満たす。,形容詞は satisfied / satisfactory。
+E02012,1,4,scan,動詞,走査する、ざっと見る,to look over quickly,Scan the log for warnings.,記録に警告がないかざっと見る。,名詞でも「読み取り」。
+E02013,1,4,secure,動詞,確保する、守る,to get or make safe,Secure a backup before the change.,変更の前に控えを確保する。,形容詞では「安全な」。
+E02014,1,4,seek,動詞,求める,to look for,Seek approval before spending.,使う前に承認を求める。,過去形は sought。
+E02015,1,4,settle,動詞,解決する、落ち着く,to end a dispute or calm down,The numbers settled after a week.,数字は一週間で落ち着いた。,名詞は settlement。
+E02016,1,4,shrink,動詞,縮む,to become smaller,The file shrank by half.,ファイルが半分に縮んだ。,過去形は shrank、過去分詞は shrunk。
+E02017,1,4,shut,動詞,閉める,to close,Shut down the machine at night.,夜は機械を止める。,過去形も shut。shut down は「終了」。
+E02018,1,4,sign,動詞,署名する、合図する,to write your name,Sign the form in blue ink.,青いインクで署名する。,名詞では「標識、兆し」。
+E02019,1,4,simplify,動詞,単純にする,to make simpler,Simplify the screen first.,まず画面を単純にする。,形容詞は simple。
+E02020,1,4,skip,動詞,とばす,to leave out,Skip the blank rows.,空の行はとばす。,名詞でも「跳躍」。
+E02021,1,4,sort,動詞,並べ替える、分類する,to arrange in order,Sort the list by date.,一覧を日付順に並べ替える。,名詞では「種類」。
+E02022,1,4,specify,動詞,指定する,to state exactly,Specify the folder in the ini file.,設定ファイルでフォルダを指定する。,名詞は specification（仕様）。
+E02023,1,4,split,動詞,分割する,to divide,Split the file into three parts.,ファイルを3つに分ける。,過去形も split。
+E02024,1,4,spread,動詞,広がる、広げる,to cover a wider area,The problem spread to all sites.,その問題は全拠点に広がった。,過去形も spread。
+E02025,1,4,stick,動詞,貼る、くっつく,to attach or become fixed,Stick to the naming rule.,命名の決まりを守る。,stick to は「守る、こだわる」。
+E02026,1,4,strengthen,動詞,強くする,to make stronger,Strengthen the password policy.,合言葉の方針を強める。,形容詞は strong。
+E02027,1,4,stretch,動詞,伸ばす,to make longer,Do not stretch the image.,画像を引き伸ばさないこと。,名詞でも「区間、伸ばすこと」。
+E02028,1,4,substitute,動詞,代用する,to use in place of,Substitute a comma for the tab.,タブの代わりに読点を使う。,名詞でも「代わりのもの」。
+E02029,1,4,summarize,動詞,要約する,to give the main points,Summarize it in three lines.,3行で要約してください。,名詞は summary。
+E02030,1,4,supplement,動詞,補う,to add to,Supplement the guide with examples.,手引きに例を足して補う。,名詞でも「補足、サプリ」。
+E02031,1,4,suspend,動詞,一時停止する、吊るす,to stop for a time,The account was suspended.,その利用者情報は一時停止された。,名詞は suspension。
+E02032,1,4,swap,動詞,交換する,to exchange,Swap the two columns.,その2つの列を入れ替える。,名詞でも「交換」。
+E02033,1,4,switch,動詞,切り替える,to change from one to another,Switch to the test database.,試験用のデータベースに切り替える。,名詞では「切り替え、スイッチ」。
+E02034,1,4,sync,動詞,同期する,to make the same,The folders sync every hour.,そのフォルダは毎時同期する。,synchronize の短い形。
+E02035,1,4,tackle,動詞,取り組む,to deal with a problem,Tackle the slowest step first.,一番遅い段階から手を付ける。,球技では「タックルする」。
+E02036,1,4,terminate,動詞,終了させる,to bring to an end,Terminate the process safely.,その処理を安全に終わらせる。,名詞は termination。
+E02037,1,4,trace,動詞,たどる、追跡する,to follow the path of,Trace the call from the log.,記録から呼び出しをたどる。,名詞でも「跡、痕跡」。
+E02038,1,4,transfer,動詞,移す、転送する,to move from one place to another,Transfer the files at night.,夜のうちにファイルを移す。,名詞では発音の位置が変わる。
+E02039,1,4,transform,動詞,変える、変換する,to change the form of,Transform the data into JSON.,資料を JSON に変換する。,名詞は transformation。
+E02040,1,4,translate,動詞,翻訳する,to change into another language,Translate the message into Japanese.,その文を日本語に訳す。,名詞は translation。
+E02041,1,4,treat,動詞,扱う、治療する,to deal with or cure,Treat the input as text.,入力は文字として扱う。,名詞では「ごほうび」。
+E02042,1,4,trigger,動詞,引き起こす,to cause to start,This setting triggers a rebuild.,この設定が作り直しを引き起こす。,名詞では「引き金、きっかけ」。
+E02043,1,4,undo,動詞,元に戻す,to reverse an action,Press Ctrl+Z to undo.,Ctrl+Z で元に戻す。,反対は redo。
+E02044,1,4,unlock,動詞,解除する,to open a lock,Unlock the sheet before editing.,直す前に保護を外す。,反対は lock。
+E02045,1,4,upgrade,動詞,格上げする、更新する,to improve to a higher level,Upgrade to the latest version.,最新の版に上げる。,反対は downgrade。
+E02046,1,4,validate,動詞,検証する,to check that it is correct,Validate the input before saving.,保存の前に入力を検証する。,名詞は validation。
+E02047,1,4,vary,動詞,変わる、さまざまである,to be different,Results vary by machine.,結果は機械によって異なる。,形容詞は various。
+E02048,1,4,verify,動詞,確かめる,to check the truth of,Verify the checksum first.,まず照合値を確かめる。,名詞は verification。
+E02049,1,4,warn,動詞,警告する,to tell about danger,The tool warns before deleting.,その道具は消す前に警告する。,名詞は warning。
+E02050,1,4,wonder,動詞,不思議に思う、～かなと思う,to want to know,I wonder if it still works.,まだ動くのかなと思う。,名詞では「驚き、不思議」。
+E02051,1,4,wrap,動詞,包む、折り返す,to cover or fold,Wrap the long line in the cell.,ます目の中で長い行を折り返す。,wrap up は「まとめる、終える」。
+E02052,1,4,accountability,名詞,説明責任,the duty to explain,Accountability sits with the owner.,説明責任は持ち主にある。,形容詞は accountable。
+E02053,1,4,achievement,名詞,達成、業績,something done successfully,That was a real achievement.,それは大した成果だった。,動詞は achieve。
+E02054,1,4,adjustment,名詞,調整,a small change,One adjustment fixed it.,一つ調整しただけで直った。,動詞は adjust。
+E02055,1,4,agenda,名詞,議題,a list of items to discuss,Send the agenda in advance.,議題を前もって送る。,もとはラテン語で「なすべきこと」。
+E02056,1,4,alternative,名詞,代わりの案,another choice,Is there an alternative?,代わりの案はありますか。,形容詞でも「代わりの」。
+E02057,1,4,appendix,名詞,付録,extra material at the end,The tables are in the appendix.,表は付録にある。,複数形は appendices。
+E02058,1,4,application,名詞,応用、申請、アプリ,a use or a request,Fill in the application form.,申請書に記入する。,動詞は apply。
+E02059,1,4,appointment,名詞,予約、任命,an arranged meeting,I have an appointment at three.,3時に約束がある。,動詞は appoint。
+E02060,1,4,assessment,名詞,評価,a judgment of value,The risk assessment took a day.,危険度の評価に一日かかった。,動詞は assess。
+E02061,1,4,assumption,名詞,前提、思い込み,something believed without proof,That assumption was wrong.,その前提が誤っていた。,動詞は assume。
+E02062,1,4,attitude,名詞,態度,a way of thinking,His attitude changed after the demo.,実演のあと彼の態度が変わった。,「姿勢」の意味でも使う。
+E02063,1,4,audience,名詞,聴衆、読み手,the people watching or reading,Know your audience first.,まず読み手を知る。,集合名詞。
+E02064,1,4,authority,名詞,権限、当局,the power to decide,I do not have the authority.,私にはその権限がない。,形容詞は authorized（権限のある）。
+E02065,1,4,availability,名詞,利用できること、稼働率,the state of being available,Check availability before booking.,予約の前に空きを確かめる。,形容詞は available。
+E02066,1,4,aspect,名詞,側面,one part of a situation,Consider the cost aspect too.,費用の面も考える。,「見方、局面」の意味もある。
+E02067,1,4,boundary,名詞,境界,a dividing line,Test the boundary values.,境界の値を試す。,境界値テストの boundary。
+E02068,1,4,candidate,名詞,候補,a person or thing considered,We have three candidates.,候補が3つある。,選挙の「候補者」も同じ語。
+E02069,1,4,channel,名詞,経路、チャンネル,a way for something to pass,Use the official channel.,公式の経路を使う。,テレビの「チャンネル」も同じ語。
+E02070,1,4,characteristic,名詞,特徴,a typical quality,That is a characteristic of the bug.,それがその不具合の特徴だ。,形容詞でも「特徴的な」。
+E02071,1,4,commitment,名詞,約束、傾注,a promise or dedication,It is a long-term commitment.,それは長期の約束だ。,動詞は commit。
+E02072,1,4,component,名詞,構成要素、部品,a part of a whole,Replace the failing component.,壊れている部品を替える。,IT では「コンポーネント」。
+E02073,1,4,consequence,名詞,結果、影響,what follows,Think about the consequences.,その結果を考える。,as a consequence は「その結果」。
+E02074,1,4,consistency,名詞,一貫性,the state of staying the same,Consistency matters in naming.,命名では一貫性が大事だ。,形容詞は consistent。
+E02075,1,4,constraint,名詞,制約,something that limits,Time is the main constraint.,主な制約は時間だ。,動詞は constrain。
+E02076,1,4,contact,名詞,連絡、連絡先,communication or a person,Who is the contact for this?,この件の窓口は誰ですか。,動詞でも「連絡する」。
+E02077,1,4,context,名詞,文脈、状況,the surrounding situation,Read it in context.,文脈の中で読むこと。,形容詞は contextual。
+E02078,1,4,criteria,名詞,基準,standards for judging,List the criteria first.,まず判断の基準を並べる。,単数形は criterion。
+E02079,1,4,crisis,名詞,危機,a time of great danger,The crisis passed quickly.,危機はすぐに過ぎた。,複数形は crises。
+E02080,1,4,default,名詞,既定,what is used unless changed,The default is 500 rows.,既定は500行だ。,動詞では「不履行になる」。
+E02081,1,4,delivery,名詞,配達、納品,the act of bringing,Delivery takes three days.,配達に3日かかる。,動詞は deliver。
+E02082,1,4,dependency,名詞,依存関係,a thing that is needed,List the dependencies first.,まず依存するものを並べる。,動詞は depend。
+E02083,1,4,description,名詞,説明,an account of something,Add a short description.,短い説明を足す。,動詞は describe。
+E02084,1,4,dimension,名詞,寸法、次元,a measurement,Check the dimensions of the box.,その箱の寸法を確かめる。,形容詞は dimensional。
+E02085,1,4,discussion,名詞,議論,a talk about a subject,The discussion lasted an hour.,議論は一時間続いた。,動詞は discuss。
+E02086,1,4,distribution,名詞,分布、配布,the way things are spread,Look at the distribution of errors.,異常の分布を見る。,動詞は distribute。
+E02087,1,4,duty,名詞,義務、職務,something you must do,It is part of my duties.,それは私の職務のうちだ。,「関税」の意味もある。
+E02088,1,4,efficiency,名詞,効率,working without waste,Efficiency improved by 20%.,効率が2割上がった。,形容詞は efficient。
+E02089,1,4,emphasis,名詞,強調,special importance,Put emphasis on testing.,試験に重きを置く。,複数形は emphases。
+E02090,1,4,evidence,名詞,証拠,facts that show something,There is no evidence of a leak.,漏れがあった証拠はない。,数えられない。
+E02091,1,4,expectation,名詞,期待,what you think will happen,It exceeded our expectations.,それは期待を上回った。,動詞は expect。
+E02092,1,4,expertise,名詞,専門知識,special skill or knowledge,We lack expertise in this area.,この分野の専門知識が足りない。,expert の名詞形。
+E02093,1,4,extent,名詞,程度、範囲,how far something goes,To what extent is it fixed?,どの程度まで直っていますか。,to some extent は「ある程度」。
+E02094,1,4,facility,名詞,施設、機能,a building or a service,The facility opens at seven.,その施設は7時に開く。,複数形 facilities で「設備」。
+E02095,1,4,firm,名詞,会社,a business,She works at a small firm.,彼女は小さな会社に勤めている。,形容詞では「かたい、しっかりした」。
+E02096,1,4,format,名詞,書式、形式,the way something is arranged,Save it in CSV format.,CSV の形式で保存する。,動詞でも「書式を整える」。
+E02097,1,4,foundation,名詞,土台、財団,a base or an organization,The foundation of the plan is weak.,その計画の土台は弱い。,動詞は found（設立する）。
+E02098,1,4,framework,名詞,枠組み,a basic structure,Agree on a framework first.,まず枠組みを合意する。,IT では「フレームワーク」。
+E02099,1,4,generation,名詞,世代、生成,a group of the same age or an act of making,This is the third generation.,これは第3世代だ。,動詞は generate。
+E02100,1,4,gap,名詞,隔たり、すき間,an empty space or difference,There is a gap in the data.,資料に抜けがある。,gap year は「猶予の1年」。
+E02101,1,4,hardware,名詞,機械部分、金物,the physical parts,The hardware is five years old.,その機械は5年ものだ。,反対は software。
+E02102,1,4,software,名詞,ソフト,programs for a computer,The software needs a license.,そのソフトには使用権が要る。,数えられない。
+E02103,1,4,implementation,名詞,実装、実施,the act of putting into effect,Implementation starts in June.,実施は6月に始まる。,動詞は implement。
+E02104,1,4,improvement,名詞,改善,a change that makes better,That is a clear improvement.,それは明らかな改善だ。,動詞は improve。
+E02105,1,4,incident,名詞,出来事、事故,"an event, often unpleasant",Log every incident.,すべての事案を記録する。,形容詞は incidental。
+E02106,1,4,indication,名詞,兆し、表れ,a sign,There is no indication of failure.,故障の兆しはない。,動詞は indicate。
+E02107,1,4,infrastructure,名詞,基盤,the basic systems needed,The infrastructure is aging.,その基盤は古くなっている。,略して infra。
+E02108,1,4,initiative,名詞,主導権、取り組み,the first step or a new plan,Take the initiative here.,ここは自分から動く。,on one's own initiative は「自発的に」。
+E02109,1,4,innovation,名詞,革新,a new idea or method,Innovation takes time.,革新には時間がかかる。,動詞は innovate。
+E02110,1,4,insight,名詞,洞察,a clear understanding,The log gave us insight.,その記録から見えてきた。,in ＋ sight（内を見る）が語源。
+E02111,1,4,inspection,名詞,点検,a careful check,The inspection found nothing.,点検では何も出なかった。,動詞は inspect。
+E02112,1,4,instrument,名詞,器具、楽器,a tool or a music device,Calibrate the instrument first.,まず器具を校正する。,形容詞は instrumental。
+E02113,1,4,integration,名詞,統合,the act of combining,Integration takes two weeks.,統合には2週間かかる。,動詞は integrate。
+E02114,1,4,intention,名詞,意図,what you plan to do,That was not my intention.,そういうつもりではなかった。,動詞は intend。
+E02115,1,4,interface,名詞,接点、画面,a point of connection,The interface is easy to learn.,その画面は覚えやすい。,UI は user interface の略。
+E02116,1,4,investment,名詞,投資,money or time put in,It was a good investment.,良い投資だった。,動詞は invest。
+E02117,1,4,involvement,名詞,関与,the act of taking part,His involvement was limited.,彼の関与は限られていた。,動詞は involve。
+E02118,1,4,laboratory,名詞,研究室,a place for experiments,The test ran in the laboratory.,その試験は研究室で行われた。,略して lab。
+E02119,1,4,legislation,名詞,法律、立法,laws made by a government,New legislation takes effect in April.,新しい法律は4月に効力を持つ。,動詞は legislate。
+E02120,1,4,license,名詞,使用権、免許,official permission,The license expires next year.,その使用権は来年切れる。,英式の綴りは licence（名詞）。
+E02121,1,4,maintenance,名詞,保守,the act of keeping in good order,Maintenance runs on Sundays.,保守作業は日曜に行う。,動詞は maintain（綴りが違うので注意）。
+E02122,1,4,mechanism,名詞,仕組み,the way something works,Explain the locking mechanism.,その施錠の仕組みを説明する。,形容詞は mechanical。
+E02123,1,4,measurement,名詞,測定、寸法,the act of measuring,Take three measurements.,3回測る。,動詞は measure。
+E02124,1,4,milestone,名詞,節目,an important point,The first milestone is next week.,最初の節目は来週だ。,もとは「里程標」。
+E02125,1,4,modification,名詞,修正,a small change,One modification solved it.,一か所直しただけで解決した。,動詞は modify。
+E02126,1,4,motivation,名詞,動機、やる気,the reason for acting,Motivation dropped after the delay.,遅れのあとやる気が落ちた。,動詞は motivate。
+E02127,1,4,objective,名詞,目的,a thing aimed at,State the objective in one line.,目的を一行で述べる。,形容詞では「客観的な」。
+E02128,1,4,obligation,名詞,義務,something you must do,There is no obligation to buy.,買う義務はありません。,形容詞は obligatory。
+E02129,1,4,observation,名詞,観察、所見,the act of watching,That is a fair observation.,それはもっともな指摘だ。,動詞は observe。
+E02130,1,4,occasion,名詞,機会、場合,a particular time,On that occasion it failed.,その時は失敗した。,形容詞は occasional（時々の）。
+E02131,1,4,outcome,名詞,結果,the final result,The outcome was better than expected.,結果は思ったより良かった。,come out が語源。
+E02132,1,4,participant,名詞,参加者,a person who takes part,Each participant gets a guide.,参加者には手引きが配られる。,動詞は participate。
+E02133,1,4,perspective,名詞,見方、遠近法,a point of view,"From the user's perspective, it is slow.",利用者から見れば遅い。,put in perspective は「大局的に見る」。
+E02134,1,4,portion,名詞,部分、一人前,a part of a whole,Only a small portion failed.,失敗したのはごく一部だ。,食事の「一人前」にも使う。
+E02135,1,4,potential,名詞,可能性,a possible future ability,The tool has potential.,その道具には見込みがある。,形容詞では「潜在的な」。
+E02136,1,4,precision,名詞,精度,exactness,Precision matters more than speed.,速さより精度が大事だ。,形容詞は precise。
+E02137,1,4,preference,名詞,好み、設定,what you like better,Save it in your preferences.,設定に保存する。,動詞は prefer。
+E02138,1,4,presentation,名詞,発表、見せ方,a talk or the way of showing,The presentation runs 20 minutes.,発表は20分だ。,動詞は present。
+E02139,1,4,priority,名詞,優先度,the state of being first,Set the priority to high.,優先度を高にする。,動詞は prioritize。
+E02140,1,4,productivity,名詞,生産性,the rate of output,Productivity rose after training.,研修のあと生産性が上がった。,形容詞は productive。
+E02141,1,4,prospect,名詞,見込み、見通し,a possibility,The prospects look good.,見通しは明るい。,形容詞は prospective。
+E02142,1,4,provider,名詞,提供者,a company that supplies,Ask your service provider.,契約先の会社に聞く。,動詞は provide。
+E02143,1,4,qualification,名詞,資格,an official record of skill,The job needs no qualification.,その仕事に資格は要らない。,動詞は qualify。
+E02144,1,4,reaction,名詞,反応,an act in response,The reaction was mixed.,反応はさまざまだった。,動詞は react。
+E02145,1,4,recognition,名詞,認識、評価,the act of knowing again,Voice recognition works well now.,音声の認識はいまはよく効く。,動詞は recognize。
+E02146,1,4,recommendation,名詞,推薦、勧め,advice about what to do,My recommendation is to wait.,私の勧めは待つことです。,動詞は recommend。
+E02147,1,4,registration,名詞,登録,the act of registering,Registration closes on Friday.,登録は金曜に締め切られる。,動詞は register。
+E02148,1,4,regulation,名詞,規制、規則,an official rule,New regulations apply from April.,4月から新しい規制が適用される。,動詞は regulate。
+E02149,1,4,reliability,名詞,信頼性,the quality of being reliable,Reliability is the main goal.,信頼性が一番の目標だ。,形容詞は reliable。
+E02150,1,4,replacement,名詞,交換品、置き換え,a new thing that takes the place,The replacement arrives Monday.,交換品は月曜に届く。,動詞は replace。
+E02151,1,4,representative,名詞,代表者、担当者,a person who acts for others,A sales representative will call.,営業の担当者から連絡があります。,略して rep。
+E02152,1,4,reputation,名詞,評判,what people think of someone,The tool has a good reputation.,その道具は評判が良い。,形容詞は reputable。
+E02153,1,4,restriction,名詞,制限,a rule that limits,There is a size restriction.,大きさの制限がある。,動詞は restrict。
+E02154,1,4,revenue,名詞,収益,income from business,Revenue grew by five percent.,収益は5パーセント伸びた。,cost を引く前の額。
+E02155,1,4,satisfaction,名詞,満足,a feeling of being pleased,Customer satisfaction improved.,顧客の満足度が上がった。,動詞は satisfy。
+E02156,1,4,scope,名詞,範囲,the extent of a subject,That is out of scope.,それは範囲の外だ。,IT では「有効範囲」。
+E02157,1,4,segment,名詞,区分、部分,a part of something,Analyze each segment separately.,各区分を別々に分析する。,動詞でも「区分する」。
+E02158,1,4,session,名詞,回、接続,a period of activity,The session timed out.,接続が時間切れになった。,会議の「セッション」も同じ語。
+E02159,1,4,sequence,名詞,順序、一連,an order of things,Keep the sequence unchanged.,順序は変えないこと。,形容詞は sequential。
+E02160,1,4,shortage,名詞,不足,a lack of something,There is a staff shortage.,人手が足りない。,形容詞は short。
+E02161,1,4,similarity,名詞,類似点,the state of being alike,Note the similarity in the logs.,記録の似ている点に注目する。,形容詞は similar。
+E02162,1,4,specification,名詞,仕様,a detailed description,Read the specification first.,まず仕様を読む。,略して spec。
+E02163,1,4,statistics,名詞,統計,numbers that describe data,The statistics show a rise.,統計は増加を示している。,略して stats。学問名では単数扱い。
+E02164,1,4,substance,名詞,物質、実質,material or the main part,The report lacks substance.,その報告には中身がない。,形容詞は substantial。
+E02165,1,4,suggestion,名詞,提案,an idea put forward,Thanks for the suggestion.,提案をありがとう。,動詞は suggest。
+E02166,1,4,threshold,名詞,しきい値、敷居,the point where something starts,Set the threshold at 90%.,しきい値を9割にする。,もとは「戸口の敷居」。
+E02167,1,4,transaction,名詞,取引、処理単位,an exchange or a unit of work,The transaction was rolled back.,その処理は取り消された。,DB の「トランザクション」。
+E02168,1,4,transition,名詞,移行,a change from one state to another,The transition took two months.,移行に2か月かかった。,動詞は transit / transition。
+E02169,1,4,utility,名詞,実用性、公共料金、道具,usefulness or a small program,Run the cleanup utility.,掃除用の道具を走らせる。,複数形 utilities で「光熱費」。
+E02170,1,4,validation,名詞,検証,the act of checking,Input validation catches typos.,入力の検証が打ち間違いを拾う。,動詞は validate。
+E02171,1,4,variable,名詞,変数,a value that can change,Name the variable clearly.,変数の名前をはっきり付ける。,形容詞では「変わりやすい」。
+E02172,1,4,vendor,名詞,販売元,a company that sells,Ask the vendor for a patch.,販売元に修正を頼む。,sell の側から見た語。
+E02173,1,4,warning,名詞,警告,a notice of danger,Ignore this warning for now.,この警告はいまは無視してよい。,動詞は warn。
+E02174,1,4,workflow,名詞,作業の流れ,the sequence of steps,Draw the workflow on one page.,作業の流れを1枚に描く。,work ＋ flow。
+E02175,1,4,abstract,形容詞,抽象的な,not concrete,That is too abstract to test.,それは抽象的すぎて試せない。,名詞では「要約」。反対は concrete。
+E02176,1,4,accurate,形容詞,正確な,correct and exact,The clock is not accurate.,その時計は正確でない。,名詞は accuracy。
+E02177,1,4,adequate,形容詞,十分な、適切な,good enough,The memory is adequate for now.,記憶領域はいまのところ足りている。,sufficient とほぼ同じ。
+E02178,1,4,apparent,形容詞,明らかな、見かけの,clear or seeming,The cause is not apparent.,原因ははっきりしない。,副詞は apparently（どうやら）。
+E02179,1,4,automatic,形容詞,自動の,working by itself,The backup is automatic.,控えは自動で取られる。,副詞は automatically。
+E02180,1,4,capable,形容詞,能力がある,able to do,The machine is capable of more.,その機械はもっとできる。,be capable of の形。
+E02181,1,4,consistent,形容詞,一貫した,always the same,Keep the naming consistent.,命名を一貫させる。,反対は inconsistent。
+E02182,1,4,constant,形容詞,一定の、絶え間ない,not changing,Keep the temperature constant.,温度を一定に保つ。,名詞では「定数」。
+E02183,1,4,dependent,形容詞,依存した,needing something else,The result is dependent on input.,結果は入力に左右される。,反対は independent。
+E02184,1,4,detailed,形容詞,詳細な,with many facts,Send a detailed report.,詳しい報告を送ってください。,名詞は detail。
+E02185,1,4,distinct,形容詞,明確に異なる,clearly different,These are two distinct issues.,これは別々の課題だ。,副詞は distinctly。
+E02186,1,4,dynamic,形容詞,動的な、活発な,changing or energetic,The list is built dynamically.,その一覧は動的に作られる。,反対は static。
+E02187,1,4,static,形容詞,静的な,not moving or changing,Static pages load faster.,静的な画面は読み込みが速い。,反対は dynamic。
+E02188,1,4,equal,形容詞,等しい,the same in amount,Give equal weight to both.,両方に同じ重みを置く。,副詞は equally。
+E02189,1,4,frequent,形容詞,頻繁な,happening often,Frequent saves are safer.,こまめに保存するほうが安全だ。,副詞は frequently。
+E02190,1,4,general,形容詞,一般の、全般の,not specific,This is a general rule.,これは一般的な決まりだ。,副詞は generally。
+E02191,1,4,global,形容詞,全体の、世界的な,affecting everything,It is a global setting.,それは全体に効く設定だ。,反対は local。
+E02192,1,4,identical,形容詞,同一の,exactly the same,The two files are identical.,その2つのファイルは同一だ。,名詞は identity。
+E02193,1,4,remote,形容詞,遠隔の、遠い,far away,Remote work started in 2020.,在宅勤務は2020年に始まった。,名詞では「リモコン」。
+E02194,1,4,mutual,形容詞,相互の,shared by two sides,It was a mutual decision.,それは双方の決定だった。,副詞は mutually。
+E02195,1,4,neutral,形容詞,中立の,not taking a side,Keep the wording neutral.,言い回しは中立に保つ。,名詞では車の「ニュートラル」。
+E02196,1,4,obvious,形容詞,明らかな,easy to see,The cause was obvious.,原因は明らかだった。,副詞は obviously。
+E02197,1,4,optional,形容詞,任意の,not required,This field is optional.,この欄は任意です。,反対は required / mandatory。
+E02198,1,4,rough,形容詞,おおまかな、粗い,not exact or not smooth,Give me a rough number.,おおよその数を教えてください。,副詞は roughly（おおよそ）。
+E02199,1,4,strict,形容詞,厳しい,firmly enforced,The rule is strict here.,ここでは規則が厳しい。,副詞は strictly。
+E02200,1,4,relative,形容詞,相対的な、親類の,compared with something else,Use a relative path here.,ここは相対の経路を使う。,名詞では「親類」。

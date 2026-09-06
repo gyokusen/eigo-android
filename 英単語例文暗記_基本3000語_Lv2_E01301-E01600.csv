@@ -1,0 +1,301 @@
+登録NO,枝番,レベル,英単語,品詞,意味(日本語),意味(英語),例文(英語),例文(日本語),解説
+E01301,1,2,notice,動詞,気づく,to see or become aware of,Did you notice the warning?,その警告に気づきましたか。,名詞では「通知、掲示」。
+E01302,1,2,mention,動詞,言及する、話に出す,to speak about briefly,He mentioned it in the meeting.,彼は会議でそれに触れた。,not to mention は「～は言うまでもなく」。
+E01303,1,2,depend,動詞,頼る、次第である,to be decided by something,It depends on the file size.,ファイルの大きさによる。,depend on が決まった形。
+E01304,1,2,cause,動詞,引き起こす、～の原因になる,to make something happen,The update caused an error on old machines.,その更新は古い機械で不具合を引き起こした。,名詞では「原因、大義」。反対は effect（結果）。
+E01305,1,2,affect,動詞,影響を与える,to have an effect on,The change will affect all users.,その変更はすべての利用者に影響する。,動詞は affect、名詞は effect。混同しやすい。
+E01306,1,2,cover,動詞,覆う、扱う、まかなう,to place over or deal with,This chapter covers the basics.,この章では基本を扱う。,名詞では「覆い、表紙」。cover for 人 は「代役をする」。
+E01307,1,2,draw,動詞,描く、引く,to make a picture or pull,She drew a diagram on the board.,彼女は板に図を描いた。,過去形は drew、過去分詞は drawn。
+E01308,1,2,push,動詞,押す、推し進める,to press or move forward,Push the button to start.,始めるにはボタンを押す。,反対は pull（引く）。
+E01309,1,2,pull,動詞,引く、引き寄せる,to move something toward you,Pull the handle down firmly.,取っ手をしっかり下へ引く。,pull off は「やってのける」。
+E01310,1,2,throw,動詞,投げる,to send through the air,Don't throw the box; it is fragile.,箱を投げないで。壊れ物です。,throw away は「捨てる」。過去形は threw。
+E01311,1,2,catch,動詞,捕まえる、間に合う,to take hold of,I barely caught the last train.,終電にぎりぎり間に合った。,catch a cold は「風邪をひく」。
+E01312,1,2,drop,動詞,落とす、下がる,to let fall,Sales dropped by ten percent.,売上が一割下がった。,drop by は「立ち寄る」。
+E01313,1,2,hit,動詞,打つ、当たる,to strike,The storm hit the coast at night.,嵐は夜に沿岸を襲った。,過去形も hit。形は変わらない。
+E01314,1,2,wear,動詞,身につけている,to have clothes on your body,You must wear a badge inside.,中では名札を着けなければならない。,着る動作は put on。wear は状態。
+E01315,1,2,drive,動詞,運転する、駆り立てる,to operate a vehicle,He drives to the factory every day.,彼は毎日工場まで車で行く。,名詞では「意欲」「（車で）行くこと」。
+E01316,1,2,teach,動詞,教える,to give lessons,She teaches English at a night school.,彼女は夜間学校で英語を教えている。,過去形は taught。
+E01317,1,2,eat,動詞,食べる,to take food,We ate lunch at the desk again.,また机で昼を食べた。,過去形は ate、過去分詞は eaten。
+E01318,1,2,drink,動詞,飲む,to take liquid,Drink plenty of water in summer.,夏は水をたくさん飲むこと。,名詞では「飲み物」。
+E01319,1,2,sleep,動詞,眠る,to rest with eyes closed,I could not sleep before the release.,公開の前は眠れなかった。,過去形は slept。
+E01320,1,2,wake,動詞,目を覚ます,to stop sleeping,I wake up at six every morning.,毎朝6時に目を覚ます。,ふつう wake up の形で使う。
+E01321,1,2,smile,動詞,微笑む,to make a happy face,She smiled and shook my hand.,彼女は微笑んで握手した。,名詞でも「笑顔」。
+E01322,1,2,laugh,動詞,笑う,to make sounds of amusement,Everyone laughed at his joke.,みんな彼の冗談に笑った。,laugh at 人 は「人を笑い者にする」意味にもなる。
+E01323,1,2,cry,動詞,泣く、叫ぶ,to shed tears,The child cried for an hour.,子どもは一時間泣いた。,名詞では「叫び声」。
+E01324,1,2,worry,動詞,心配する,to feel anxious,Don't worry about the deadline.,締切のことは心配しないで。,名詞では「心配ごと」。
+E01325,1,2,hope,動詞,望む,to want something to happen,I hope the test passes today.,今日は試験が通るといいのですが。,名詞では「希望」。wish より現実味がある。
+E01326,1,2,wish,動詞,願う,to want something,I wish I had more time.,もっと時間があればいいのに。,wish のあとは実現しにくい願い。時制が一つ下がる。
+E01327,1,2,plan,動詞,計画する,to decide how to do something,We plan to release it in May.,5月に出す予定です。,名詞では「計画、図面」。
+E01328,1,2,prefer,動詞,～のほうを好む,to like one thing better,I prefer email to phone calls.,電話よりメールのほうがいい。,prefer A to B の形。than ではない。
+E01329,1,2,enjoy,動詞,楽しむ,to get pleasure from,I enjoy reading technical books.,技術書を読むのが楽しい。,あとは動名詞（-ing）。to 不定詞は取らない。
+E01330,1,2,thank,動詞,感謝する,to say you are grateful,I thanked him for the help.,手伝ってくれたことに礼を言った。,thank 人 for 事 の形。
+E01331,1,2,welcome,動詞,歓迎する,to greet in a friendly way,We welcome new members every April.,毎年4月に新しい仲間を迎える。,You're welcome. は「どういたしまして」。
+E01332,1,2,invite,動詞,招く,to ask someone to come,They invited us to the workshop.,彼らは私たちを講習会に招いた。,名詞は invitation（招待）。
+E01333,1,2,join,動詞,加わる、つなぐ,to become part of,Please join the call at three.,3時の通話に入ってください。,join in は「（活動に）参加する」。
+E01334,1,2,attend,動詞,出席する,to be present at,Forty people attended the briefing.,説明会には40人が出席した。,attend は他動詞。to は付けない。
+E01335,1,2,visit,動詞,訪ねる,to go to see,I visit the client site twice a month.,月に2回、客先へ行く。,名詞でも「訪問」。
+E01336,1,2,travel,動詞,旅する、移動する,to go from one place to another,Data travels through this cable.,データはこの線を通って流れる。,不可算名詞。1回の旅は trip。
+E01337,1,2,arrive,動詞,着く,to reach a place,The parts arrived a day late.,部品は一日遅れて届いた。,arrive at（狭い場所）／arrive in（都市・国）。
+E01338,1,2,enter,動詞,入る、入力する,to go in or type in,Enter your ID and press Enter.,IDを入力してエンターを押す。,enter は他動詞。into は要らない。
+E01339,1,2,exit,動詞,出る,to go out,Exit the program before updating.,更新の前に終了すること。,名詞では「出口」。
+E01340,1,2,close,動詞,閉じる,to shut,Close all windows before the backup.,控えを取る前に窓を全部閉じる。,形容詞では「近い」で発音が変わる。
+E01341,1,2,fill,動詞,満たす、記入する,to make full,Fill in the form and submit it.,用紙に記入して出してください。,fill in（記入）／fill out（米で同じ意味）。
+E01342,1,2,cook,動詞,料理する,to prepare food with heat,He cooks dinner on weekends.,彼は週末に夕食を作る。,名詞では「料理人」。
+E01343,1,2,clean,動詞,掃除する,to remove dirt,Clean the sensor once a month.,月に一度、感知器を掃除する。,形容詞では「きれいな」。
+E01344,1,2,wash,動詞,洗う,to clean with water,Wash your hands before eating.,食べる前に手を洗う。,washing machine は「洗濯機」。
+E01345,1,2,repair,動詞,修理する,to fix something broken,They repaired the line in two hours.,彼らは2時間で回線を直した。,名詞でも「修理」。fix よりかたい言い方。
+E01346,1,2,replace,動詞,取り替える,to put something new in place of,Replace the battery every two years.,電池は2年ごとに取り替える。,replace A with B の形。
+E01347,1,2,remove,動詞,取り除く,to take away,Remove the old file before copying.,写す前に古いファイルを消す。,名詞は removal。
+E01348,1,2,attach,動詞,添える、取り付ける,to fasten or include,I attached the log to the mail.,記録をメールに添えた。,名詞は attachment（添付、愛着）。
+E01349,1,2,insert,動詞,差し込む,to put inside,Insert the card until it clicks.,音がするまで札を差し込む。,名詞は insertion。
+E01350,1,2,print,動詞,印刷する,to produce on paper,Print two copies for the meeting.,会議用に2部刷ってください。,printer は「印刷機」。
+E01351,1,2,copy,動詞,写す、複製する,to make the same thing,Copy the folder to the shared drive.,そのフォルダを共有領域へ写す。,名詞では「複製、1部」。
+E01352,1,2,search,動詞,探す,to look for,Search the log for the word error.,記録から error という語を探す。,search for 物 の形。search 場所 は「場所を捜索する」。
+E01353,1,2,upload,動詞,アップロードする,to send data to a server,Upload the report by five.,5時までに報告を上げてください。,反対は download。
+E01354,1,2,download,動詞,ダウンロードする,to receive data from a server,Download the installer from the site.,その場所から導入用の道具を落とす。,名詞でも使う。
+E01355,1,2,access,動詞,接続する、利用する,to reach or use,You cannot access this folder.,このフォルダは開けません。,名詞では「利用権、接続」。
+E01356,1,2,edit,動詞,編集する,to change a text or file,Edit the file and save it again.,ファイルを直してもう一度保存する。,名詞は editor（編集者、編集ソフト）。
+E01357,1,2,submit,動詞,提出する,to give for consideration,Submit the form before Friday.,金曜までに用紙を出してください。,名詞は submission。
+E01358,1,2,approve,動詞,承認する,to agree officially,The manager approved the plan.,課長が計画を承認した。,名詞は approval。反対は reject。
+E01359,1,2,reject,動詞,却下する,to refuse to accept,The system rejected the password.,その仕組みは合言葉を受け付けなかった。,名詞は rejection。
+E01360,1,2,accept,動詞,受け入れる,to agree to take,We accept payment by card.,カードでのお支払いを承ります。,反対は refuse / reject。
+E01361,1,2,refuse,動詞,断る,to say no,He refused to sign the paper.,彼は書類への署名を断った。,refuse to do の形。
+E01362,1,2,permit,動詞,許可する,to allow officially,The policy does not permit new tools.,その方針は新しい道具を許していない。,名詞では「許可証」で発音の位置が変わる。
+E01363,1,2,prevent,動詞,防ぐ,to stop from happening,This check prevents wrong input.,この確認が誤入力を防ぐ。,prevent 人 from -ing の形。
+E01364,1,2,protect,動詞,守る,to keep safe,A password protects the file.,合言葉がファイルを守る。,名詞は protection。
+E01365,1,2,attack,動詞,攻撃する,to try to hurt,The site was attacked last night.,その場所は昨夜攻撃を受けた。,名詞でも「攻撃、発作」。
+E01366,1,2,defend,動詞,守る、弁護する,to protect from attack,He defended his design well.,彼は自分の設計をよく弁護した。,名詞は defense（英式は defence）。
+E01367,1,2,fight,動詞,戦う,to use force against,They fought for better conditions.,彼らはより良い条件を求めて戦った。,過去形は fought。
+E01368,1,2,waste,動詞,無駄にする,to use badly,Don't waste time on manual work.,手作業に時間を使うな。,名詞では「廃棄物、無駄」。
+E01369,1,2,cost,動詞,（費用が）かかる,to have a price,The license costs ten thousand yen.,その使用権は一万円かかる。,過去形も cost。名詞では「費用」。
+E01370,1,2,charge,動詞,請求する、充電する,to ask for money or fill with power,They charge extra for support.,支援には別料金がかかる。,名詞では「料金、責任」。in charge of は「担当の」。
+E01371,1,2,earn,動詞,稼ぐ、得る,to get by working,She earns respect from the team.,彼女は皆の信頼を得ている。,お金以外にも使える。
+E01372,1,2,borrow,動詞,借りる,to take and return later,May I borrow your cable?,線を借りてもいいですか。,貸すのは lend。
+E01373,1,2,lend,動詞,貸す,to give for a time,I lent him the manual last week.,先週、手引きを貸した。,過去形は lent。
+E01374,1,2,owe,動詞,借りがある,to have to pay back,I owe you an explanation.,説明しなければなりませんね。,owe 人 物 の形。
+E01375,1,2,count,動詞,数える、重要である,to find the number,Every second counts here.,ここでは一秒一秒が大事だ。,count on 人 は「頼りにする」。
+E01376,1,2,measure,動詞,測る,to find the size,Measure the response time first.,まず応答の速さを測る。,名詞では「対策、寸法」。
+E01377,1,2,weigh,動詞,重さがある、比べる,to have weight,The device weighs two kilograms.,その機器は2キロある。,名詞は weight（重さ）。
+E01378,1,2,divide,動詞,分ける,to separate into parts,Divide the work into three steps.,作業を三段階に分ける。,名詞は division（部門、割り算）。
+E01379,1,2,collect,動詞,集める,to bring together,We collect logs every night.,毎晩、記録を集めている。,名詞は collection。
+E01380,1,2,gather,動詞,集まる、集める,to come together,The team gathered in the hall.,皆が広間に集まった。,collect より自然に集まる感じ。
+E01381,1,2,separate,動詞,分ける、離す,to keep apart,Separate the test data from the real data.,試験用の資料と本番の資料を分ける。,形容詞では「別々の」で発音が変わる。
+E01382,1,2,match,動詞,合う、一致する,to be the same as,The totals do not match.,合計が一致しない。,名詞では「試合、組み合わせ」。
+E01383,1,2,fit,動詞,合う、収まる,to be the right size,The text does not fit in the box.,文字が枠に収まらない。,形容詞では「健康な」。
+E01384,1,2,suit,動詞,似合う、都合が合う,to be right for,Does Monday suit you?,月曜のご都合はいかがですか。,名詞では「背広、訴訟」。
+E01385,1,2,belong,動詞,属する,to be part of,This file belongs in the archive.,このファイルは書庫に置くべきものだ。,belong to 人 は「人のものである」。
+E01386,1,2,contain,動詞,含む,to have inside,The box contains ten parts.,箱には部品が10個入っている。,include は一部を含む、contain は中身全体。
+E01387,1,2,consist,動詞,成り立つ,to be made of,The team consists of five people.,その班は5人で成り立っている。,consist of の形。受け身にしない。
+E01388,1,2,involve,動詞,含む、巻き込む,to include as a part,The job involves a lot of travel.,その仕事は出張が多い。,be involved in は「関わっている」。
+E01389,1,2,represent,動詞,表す、代表する,to stand for,This line represents last year.,この線が昨年を表している。,名詞は representative（代表者）。
+E01390,1,2,indicate,動詞,示す,to show,The red light indicates an error.,赤い灯りは異常を示す。,show よりかたい言い方。
+E01391,1,2,reflect,動詞,映す、反映する,to show or throw back,The numbers reflect the new rule.,その数字は新しい規則を反映している。,reflect on は「よく考える」。
+E01392,1,2,express,動詞,表す、述べる,to say what you think,He expressed his concern clearly.,彼は懸念をはっきり述べた。,形容詞では「急行の」。
+E01393,1,2,describe,動詞,描写する、説明する,to say what something is like,Describe the problem in one line.,問題を一行で書いてください。,名詞は description。
+E01394,1,2,define,動詞,定義する,to say the exact meaning,Define the word before using it.,使う前にその語を定義する。,名詞は definition。
+E01395,1,2,discuss,動詞,話し合う,to talk about,We discussed the schedule today.,今日は日程について話し合った。,discuss は他動詞。about は付けない。
+E01396,1,2,argue,動詞,主張する、言い争う,to give reasons or quarrel,She argued that the cost was too high.,彼女は費用が高すぎると主張した。,名詞は argument。
+E01397,1,2,claim,動詞,主張する、請求する,to say something is true,He claims the data is wrong.,彼は資料が誤りだと言っている。,日本語の「クレーム（苦情）」とは意味が違う。
+E01398,1,2,admit,動詞,認める,to agree that something is true,I admit the mistake was mine.,誤りは私のものだと認めます。,admit -ing の形。to 不定詞は取らない。
+E01399,1,2,deny,動詞,否定する,to say something is not true,He denied sending the mail.,彼はそのメールを送っていないと言った。,deny -ing の形。名詞は denial。
+E01400,1,2,price,名詞,値段,the amount of money for something,The price went up again this month.,今月また値段が上がった。,cost は「かかる費用」、price は「付いている値段」。
+E01401,1,2,market,名詞,市場,a place where things are sold,The market for this tool is small.,この道具の市場は小さい。,marketing は「販売活動」。
+E01402,1,2,customer,名詞,顧客,a person who buys,Our customers ask for faster support.,お客様はより早い対応を求めている。,client は専門的な仕事の依頼主。
+E01403,1,2,client,名詞,取引先、依頼主,a person who uses a service,The client wants a demo next week.,先方は来週の実演を望んでいる。,IT では「利用者側の機械」も指す。
+E01404,1,2,product,名詞,製品,something that is made or sold,This product ships in two colors.,この製品は2色で出る。,produce（生産する）の名詞形。
+E01405,1,2,project,名詞,計画、事業,a planned piece of work,The project runs until March.,その事業は3月まで続く。,動詞では「投影する、見込む」で発音が変わる。
+E01406,1,2,task,名詞,作業、課題,a piece of work,Split the task into small steps.,作業を小さな段階に分ける。,task force は「対策班」。
+E01407,1,2,goal,名詞,目標,something you want to achieve,Our goal is zero manual entry.,手入力をなくすのが目標だ。,球技では「得点」。
+E01408,1,2,method,名詞,方法,a way of doing something,There is a faster method.,もっと速いやり方がある。,way より体系立った言い方。
+E01409,1,2,process,名詞,工程、処理,a series of actions,The approval process takes three days.,承認の手続きに3日かかる。,動詞では「処理する」。
+E01410,1,2,rule,名詞,規則,a statement of what is allowed,The rule applies to everyone.,その規則は全員に当てはまる。,as a rule は「概して」。
+E01411,1,2,policy,名詞,方針,a plan of action,Company policy blocks new software.,会社の方針で新しいソフトは入れられない。,保険では「保険証券」。
+E01412,1,2,standard,名詞,基準,a level used for comparison,This meets the industry standard.,これは業界の基準を満たしている。,形容詞では「標準の」。
+E01413,1,2,quality,名詞,品質,how good something is,Quality matters more than speed here.,ここでは速さより品質が大事だ。,quantity（量）と間違えやすい。
+E01414,1,2,condition,名詞,状態、条件,the state of something,The machine is in good condition.,その機械は状態が良い。,複数形 conditions で「環境、条件」。
+E01415,1,2,situation,名詞,状況,the way things are,Explain the situation in three lines.,状況を三行で説明してください。,「事態」の意味でも使う。
+E01416,1,2,position,名詞,位置、役職,a place or a job,She moved to a new position.,彼女は新しい役職に就いた。,動詞では「配置する」。
+E01417,1,2,role,名詞,役割,the part someone plays,Each member has a clear role.,各自の役割がはっきりしている。,劇では「配役」。
+E01418,1,2,skill,名詞,技能,the ability to do something well,This job needs writing skills.,この仕事には文章力が要る。,skilled は「熟練した」。
+E01419,1,2,effort,名詞,努力,hard work,It took a lot of effort to fix it.,直すのにずいぶん骨が折れた。,make an effort で「努力する」。
+E01420,1,2,chance,名詞,機会、可能性,an opportunity or possibility,There is a good chance it works.,うまくいく見込みは十分ある。,by chance は「偶然に」。
+E01421,1,2,choice,名詞,選択,the act of choosing,We had no other choice.,他に道はなかった。,動詞は choose。
+E01422,1,2,decision,名詞,決定,a choice you make,The decision came from above.,その決定は上から来た。,make a decision で「決める」。
+E01423,1,2,purpose,名詞,目的,the reason for doing,What is the purpose of this field?,この欄は何のためのものですか。,on purpose は「わざと」。
+E01424,1,2,meaning,名詞,意味,what something means,The meaning is not clear here.,ここは意味がはっきりしない。,meaningful は「意味のある」。
+E01425,1,2,example,名詞,例,a thing that shows a pattern,"Give one example, please.",例をひとつ挙げてください。,for example は「たとえば」。
+E01426,1,2,detail,名詞,詳細,a small piece of information,The details are in the appendix.,詳しくは付録にあります。,in detail は「詳しく」。
+E01427,1,2,subject,名詞,主題、科目,the topic or a school course,Change the subject of the mail.,メールの件名を変えてください。,文法では「主語」。
+E01428,1,2,topic,名詞,話題,a subject to talk about,That topic came up twice.,その話題は2度出た。,subject より話し言葉寄り。
+E01429,1,2,message,名詞,伝言、通知,information sent to someone,The error message says access denied.,異常の表示は「拒否」と出ている。,動詞でも「連絡する」。
+E01430,1,2,note,名詞,覚え書き、注記,a short written record,I left a note in the file.,ファイルに覚え書きを残した。,動詞では「気に留める」。
+E01431,1,2,page,名詞,ページ,one side of a sheet,See page twelve for the table.,表は12ページを見てください。,ウェブでも「ページ」。
+E01432,1,2,chapter,名詞,章,a main division of a book,Chapter three covers the setup.,第3章で導入を扱う。,section より大きな区切り。
+E01433,1,2,title,名詞,題名、肩書き,the name of a work or a job,Keep the title under ten words.,題名は10語以内にする。,動詞では「題を付ける」。
+E01434,1,2,column,名詞,列、欄,a vertical line of items,Add a column for the date.,日付の列を足す。,行は row。
+E01435,1,2,row,名詞,行,a horizontal line of items,Delete the first two rows.,最初の2行を消す。,列は column。
+E01436,1,2,table,名詞,表、机,an arrangement of data,Put the numbers in a table.,数字を表にまとめる。,家具の「机」と同じ語。
+E01437,1,2,chart,名詞,図表,a picture showing data,The chart shows the trend well.,その図は流れをよく表している。,graph とほぼ同じ意味。
+E01438,1,2,image,名詞,画像、印象,a picture or an impression,Attach the image at full size.,画像は原寸で添えてください。,動詞では「思い描く」。
+E01439,1,2,screen,名詞,画面,the display of a device,The screen went black suddenly.,画面が急に真っ暗になった。,動詞では「選別する、上映する」。
+E01440,1,2,button,名詞,ボタン,a part you press,The save button is at the top.,保存のボタンは上にある。,服の「ぼたん」も同じ語。
+E01441,1,2,window,名詞,窓、画面枠,an opening or a display frame,Open the log in a new window.,記録を別の窓で開く。,OS の「ウィンドウ」もこれ。
+E01442,1,2,folder,名詞,フォルダ,a container for files,Move it to the shared folder.,共有フォルダへ移してください。,紙の「書類挟み」から来た語。
+E01443,1,2,device,名詞,機器、装置,a machine made for a purpose,The device needs a driver.,その機器には駆動用のソフトが要る。,「工夫、仕掛け」の意味もある。
+E01444,1,2,machine,名詞,機械,a piece of equipment,This machine runs all night.,この機械は一晩中動く。,machinery は集合的な「機械類」。
+E01445,1,2,tool,名詞,道具,a thing used to do work,Pick the right tool for the job.,仕事に合う道具を選ぶ。,ソフトも tool と呼ぶ。
+E01446,1,2,network,名詞,網、通信網,a system of connected things,The network was down for an hour.,回線が一時間止まっていた。,動詞では「人脈を作る」。
+E01447,1,2,server,名詞,サーバ,a computer that provides services,The server restarts at midnight.,サーバは深夜に再起動する。,対になるのは client。
+E01448,1,2,user,名詞,利用者,a person who uses something,Ask the users before changing it.,変える前に利用者に聞く。,user-friendly は「使いやすい」。
+E01449,1,2,account,名詞,口座、利用者情報,a record with a service,Your account is locked.,利用者情報が止められています。,on account of は「～のせいで」。
+E01450,1,2,password,名詞,合言葉,a secret word for access,Change the password every 90 days.,合言葉は90日ごとに変える。,pass ＋ word の組み合わせ。
+E01451,1,2,version,名詞,版,a form of something,Which version are you using?,どの版をお使いですか。,略して ver. と書く。
+E01452,1,2,error,名詞,誤り、異常,a mistake,The error happens only on Mondays.,その異常は月曜だけ起きる。,mistake は人の誤り、error は機械にも使う。
+E01453,1,2,bug,名詞,不具合、虫,a fault in a program,We found the bug in the loop.,繰り返しの中に不具合を見つけた。,虫が機械に入ったのが語源とされる。
+E01454,1,2,risk,名詞,危険、恐れ,the chance of something bad,There is a risk of data loss.,資料が失われる恐れがある。,at risk は「危険にさらされて」。
+E01455,1,2,safety,名詞,安全,the state of being safe,Safety comes before speed.,速さより安全が先だ。,形容詞は safe。
+E01456,1,2,effect,名詞,効果、影響,a result,The change had little effect.,その変更はほとんど効かなかった。,動詞の affect と混同しやすい。
+E01457,1,2,benefit,名詞,利点、手当,an advantage,The main benefit is less typing.,一番の利点は入力が減ることだ。,複数形で「福利厚生」。
+E01458,1,2,advantage,名詞,有利な点,something that helps you,Speed is our advantage.,速さが我々の強みだ。,反対は disadvantage。
+E01459,1,2,difference,名詞,違い,the way things are not the same,What is the difference between them?,その二つの違いは何ですか。,make a difference は「効果がある」。
+E01460,1,2,amount,名詞,量、額,how much there is,A large amount of data was lost.,大量の資料が失われた。,数えられるものには number を使う。
+E01461,1,2,rate,名詞,割合、速度,a measure or a speed,The error rate dropped sharply.,誤りの割合が大きく下がった。,動詞では「評価する」。
+E01462,1,2,total,名詞,合計,the whole amount,"The total came to 12,000 yen.",合計は1万2千円になった。,形容詞では「全体の」。
+E01463,1,2,average,名詞,平均,the middle value,The average is nine seconds.,平均は9秒だ。,on average は「平均して」。
+E01464,1,2,percent,名詞,パーセント,one part in a hundred,Only five percent replied.,返事があったのは5パーセントだけだ。,英式では per cent と分けて書く。
+E01465,1,2,half,名詞,半分,one of two equal parts,Half of the list is done.,一覧の半分は終わった。,複数形は halves。
+E01466,1,2,period,名詞,期間,a length of time,Over a three-month period.,3か月の期間にわたって。,米語では文の「ピリオド」も指す。
+E01467,1,2,stage,名詞,段階、舞台,a step in a process,We are at the test stage.,いまは試験の段階だ。,劇場の「舞台」も同じ語。
+E01468,1,2,event,名詞,出来事、催し,something that happens,Record every event in the log.,すべての出来事を記録に残す。,IT では「イベント（動作の合図）」。
+E01469,1,2,meeting,名詞,会議,a gathering to discuss,The meeting ran over by an hour.,会議は一時間延びた。,動詞は meet。
+E01470,1,2,schedule,名詞,予定表,a plan of times,The schedule slipped by a week.,予定が一週間ずれた。,英式の発音は「シェジュール」に近い。
+E01471,1,2,deadline,名詞,締切,the latest time to finish,The deadline is this Friday.,締切は今週の金曜だ。,dead ＋ line が語源。
+E01472,1,2,budget,名詞,予算,money planned for a purpose,The budget was cut in half.,予算が半分に削られた。,動詞では「予算を組む」。
+E01473,1,2,salary,名詞,給料,money paid for a job,Salaries are paid on the 25th.,給料は25日に支払われる。,時給制は wage。
+E01474,1,2,contract,名詞,契約,a legal agreement,Read the contract before signing.,署名の前に契約書を読む。,動詞では「縮む、契約する」。
+E01475,1,2,agreement,名詞,合意、協定,an arrangement between people,We reached an agreement quickly.,すぐに合意に至った。,動詞は agree。
+E01476,1,2,department,名詞,部署,a section of an organization,Which department handles this?,これはどの部署の担当ですか。,略して dept.。
+E01477,1,2,staff,名詞,職員,the people who work somewhere,The staff are on holiday.,職員は休みを取っている。,集合名詞。ひとりは a staff member。
+E01478,1,2,manager,名詞,管理者、課長,a person who leads others,The manager signs off on it.,その承認は管理者が行う。,動詞は manage。
+E01479,1,2,leader,名詞,指導者,a person who leads,She is a natural leader.,彼女は生まれつきの指導者だ。,leadership は「指導力」。
+E01480,1,2,expert,名詞,専門家,a person with special knowledge,Ask an expert about the license.,使用権のことは専門家に聞く。,形容詞でも「熟練した」。
+E01481,1,2,colleague,名詞,同僚,a person you work with,A colleague spotted the mistake.,同僚が誤りを見つけてくれた。,coworker とほぼ同じ意味。
+E01482,1,2,neighbor,名詞,隣人,a person living near you,My neighbor watched the house.,隣の人が家を見ていてくれた。,英式の綴りは neighbour。
+E01483,1,2,society,名詞,社会,people living together,Technology changes society fast.,技術は社会を速く変える。,形容詞は social。
+E01484,1,2,culture,名詞,文化,the way of life of a group,Company culture is hard to change.,会社の文化は変えにくい。,形容詞は cultural。
+E01485,1,2,nature,名詞,自然、性質,the physical world or character,It is the nature of the problem.,それがこの問題の性質だ。,形容詞は natural。
+E01486,1,2,environment,名詞,環境,the surroundings,The test environment differs from live.,試験環境は本番と違う。,IT でも「実行環境」。
+E01487,1,2,energy,名詞,力、活力,the power to do work,Saving energy is a company goal.,省エネは会社の目標だ。,形容詞は energetic。
+E01488,1,2,science,名詞,科学,the study of the natural world,Computer science covers this.,情報科学がこれを扱う。,形容詞は scientific。
+E01489,1,2,technology,名詞,技術,the use of scientific knowledge,New technology arrives every year.,新しい技術が毎年出てくる。,略して tech。
+E01490,1,2,industry,名詞,産業、業界,a branch of business,The industry is shrinking.,その業界は縮んでいる。,形容詞は industrial。
+E01491,1,2,economy,名詞,経済,the system of money and trade,The economy affects our sales.,経済は売上に影響する。,形容詞は economic（経済の）／economical（節約の）。
+E01492,1,2,population,名詞,人口,the number of people,The population of the town fell.,その町の人口は減った。,populate は「住まわせる」。
+E01493,1,2,education,名詞,教育,the process of teaching,Education takes time and money.,教育には時間と金がかかる。,動詞は educate。
+E01494,1,2,language,名詞,言語,a system of words,Python is my main language.,私の主な言語は Python だ。,プログラミング言語もこの語。
+E01495,1,2,strong,形容詞,強い,having great power,We need a strong reason to change.,変えるには強い理由が要る。,反対は weak。名詞は strength。
+E01496,1,2,weak,形容詞,弱い,not strong,The signal is weak in this room.,この部屋は電波が弱い。,名詞は weakness。
+E01497,1,2,heavy,形容詞,重い,having great weight,The file is too heavy to mail.,そのファイルはメールで送るには重すぎる。,heavy rain は「大雨」。
+E01498,1,2,light,形容詞,軽い、明るい,not heavy or full of light,Keep the design light and simple.,作りは軽く簡単に保つ。,名詞では「光、照明」。
+E01499,1,2,deep,形容詞,深い,going far down,He has a deep knowledge of SQL.,彼は SQL に深い知識がある。,副詞でも deep（深く）。deeply は「心から」。
+E01500,1,2,wide,形容詞,広い,large from side to side,The screen is too wide for the box.,画面が枠に対して広すぎる。,名詞は width。
+E01501,1,2,narrow,形容詞,狭い,small from side to side,The margin is very narrow.,余白がとても狭い。,動詞では「絞り込む」。
+E01502,1,2,thick,形容詞,厚い、濃い,not thin,Use a thick line for the total.,合計の行は太い線にする。,反対は thin。
+E01503,1,2,thin,形容詞,薄い、細い,not thick,The paper is too thin to print.,その紙は印刷するには薄すぎる。,人には「やせた」の意味。
+E01504,1,2,empty,形容詞,空の,having nothing inside,The list came back empty.,一覧は空で返ってきた。,動詞では「空にする」。
+E01505,1,2,dark,形容詞,暗い,with little light,The dark theme is easier on the eyes.,暗い配色のほうが目に優しい。,名詞では「暗闇」。
+E01506,1,2,bright,形容詞,明るい、賢い,giving much light or clever,She is a bright new member.,彼女は優秀な新しい仲間だ。,brightness は「明るさ」。
+E01507,1,2,quiet,形容詞,静かな,with little noise,The office is quiet on Fridays.,金曜の事務所は静かだ。,反対は noisy。
+E01508,1,2,loud,形容詞,大きい（音が）,making much noise,The alarm is too loud.,警報の音が大きすぎる。,副詞は loudly。
+E01509,1,2,fast,形容詞,速い,moving quickly,We need a faster method.,もっと速いやり方が要る。,副詞も fast。fastly とは言わない。
+E01510,1,2,slow,形容詞,遅い,not fast,The network is slow this morning.,今朝は回線が遅い。,副詞は slowly。
+E01511,1,2,late,形容詞,遅い、遅れた,after the expected time,The reply was three days late.,返事は3日遅れた。,lately は「最近」で意味が変わる。
+E01512,1,2,quick,形容詞,すばやい,done in a short time,Let's have a quick check.,さっと確認しましょう。,副詞は quickly。
+E01513,1,2,busy,形容詞,忙しい,having much to do,The line is busy right now.,いま回線がふさがっている。,be busy -ing の形。
+E01514,1,2,ready,形容詞,用意ができた,prepared,The report is ready for review.,報告書は確認できる状態だ。,be ready to do の形。
+E01515,1,2,safe,形容詞,安全な,not dangerous,It is safe to restart now.,いま再起動しても大丈夫だ。,名詞では「金庫」。
+E01516,1,2,dangerous,形容詞,危険な,likely to cause harm,Editing live data is dangerous.,本番の資料を直接いじるのは危ない。,名詞は danger。
+E01517,1,2,careful,形容詞,注意深い,giving attention,Be careful with the delete key.,削除の操作には気をつけて。,副詞は carefully。
+E01518,1,2,wrong,形容詞,間違った,not correct,The date format is wrong.,日付の書き方が違う。,反対は right / correct。
+E01519,1,2,correct,形容詞,正しい,right,Only the first answer is correct.,正しいのは最初の答だけだ。,動詞では「訂正する」。
+E01520,1,2,true,形容詞,本当の,in accordance with fact,That is true for old versions only.,それは古い版にだけ当てはまる。,名詞は truth。
+E01521,1,2,false,形容詞,誤った、偽の,not true,The check returned false.,その判定は偽を返した。,プログラムでは true/false の対。
+E01522,1,2,perfect,形容詞,完全な,with no faults,Nothing is perfect on day one.,初日から完璧なものはない。,文法では「完了形」。
+E01523,1,2,normal,形容詞,普通の,usual,This is normal after an update.,更新のあとではよくあることだ。,反対は abnormal。
+E01524,1,2,useful,形容詞,役に立つ,helpful,That shortcut is very useful.,その近道はとても役に立つ。,反対は useless。
+E01525,1,2,popular,形容詞,人気のある,liked by many,This tool is popular in our team.,この道具は班内で人気だ。,名詞は popularity。
+E01526,1,2,famous,形容詞,有名な,known by many people,It is a famous example.,それは有名な例だ。,be famous for の形。
+E01527,1,2,modern,形容詞,現代の,of the present time,Modern browsers all support it.,今どきの閲覧ソフトはどれも対応している。,反対は ancient / old-fashioned。
+E01528,1,2,ancient,形容詞,古代の,very old,That is ancient history now.,それはもう昔の話だ。,old よりずっと古い。
+E01529,1,2,foreign,形容詞,外国の,from another country,Foreign characters need care.,外国語の文字は注意が要る。,gn は発音しない。
+E01530,1,2,private,形容詞,私的な、非公開の,not public,Keep this folder private.,このフォルダは非公開のままに。,反対は public。
+E01531,1,2,official,形容詞,公式の,approved by authority,Wait for the official notice.,公式の知らせを待ってください。,名詞では「役人」。
+E01532,1,2,legal,形容詞,法律の、合法の,allowed by law,Check the legal side first.,まず法律の面を確かめる。,反対は illegal。
+E01533,1,2,serious,形容詞,深刻な、真剣な,very bad or not joking,This is a serious problem.,これは深刻な問題だ。,副詞は seriously。
+E01534,1,2,major,形容詞,主要な,more important,There was one major change.,大きな変更が一つあった。,反対は minor。
+E01535,1,2,minor,形容詞,小さい、副次的な,less important,Only minor fixes this time.,今回は細かい修正だけだ。,音楽では「短調」。
+E01536,1,2,basic,形容詞,基本の,forming the base,Start with the basic settings.,基本の設定から始める。,名詞 basics で「基礎」。
+E01537,1,2,final,形容詞,最終の,coming at the end,This is the final version.,これが最終版だ。,副詞は finally。
+E01538,1,2,various,形容詞,さまざまな,of many kinds,We tried various settings.,いろいろな設定を試した。,名詞は variety。
+E01539,1,2,several,形容詞,いくつかの,more than two but not many,Several users reported it.,何人かの利用者から報告があった。,some より数がはっきりしている。
+E01540,1,2,enough,形容詞,十分な,as much as needed,We do not have enough time.,時間が足りない。,形容詞のあとに置く（good enough）。
+E01541,1,2,extra,形容詞,余分の,more than usual,Bring an extra cable.,予備の線を持ってきて。,名詞では「追加料金、端役」。
+E01542,1,2,worth,形容詞,価値がある,having a certain value,It is worth trying once.,一度やってみる価値はある。,worth -ing の形。to は取らない。
+E01543,1,2,alone,形容詞,ひとりで,without others,He fixed it alone in one night.,彼は一晩でひとりで直した。,lonely は「さびしい」で意味が違う。
+E01544,1,2,afraid,形容詞,恐れて、残念ながら,feeling fear or sorry,I'm afraid that is not possible.,残念ながらそれはできません。,断るときの前置きによく使う。
+E01545,1,2,glad,形容詞,うれしい,pleased,I'm glad it worked out.,うまくいってよかった。,happy より一時的な喜び。
+E01546,1,2,tired,形容詞,疲れた,needing rest,I'm tired of manual copying.,手作業の複写にはうんざりだ。,tired of は「飽きて」、tired from は「疲れて」。
+E01547,1,2,angry,形容詞,怒った,feeling strong displeasure,The client was angry about the delay.,先方は遅れに腹を立てた。,angry with 人／angry about 事。
+E01548,1,2,happy,形容詞,幸せな、うれしい,feeling pleasure,I'd be happy to help.,喜んでお手伝いします。,名詞は happiness。
+E01549,1,2,sorry,形容詞,すまなく思う,feeling regret,Sorry for the late reply.,返事が遅れて申し訳ありません。,I'm sorry to hear that は同情の言葉。
+E01550,1,2,proud,形容詞,誇りに思う,feeling pleased about,We are proud of the result.,その成果を誇りに思う。,be proud of の形。
+E01551,1,2,interested,形容詞,興味がある,wanting to know more,Are you interested in the trial?,試用に興味はありますか。,interesting は「（物が）面白い」。
+E01552,1,2,surprised,形容詞,驚いた,feeling surprise,I was surprised by the speed.,その速さに驚いた。,surprising は「（物が）驚くべき」。
+E01553,1,2,mostly,副詞,たいてい、主に,mainly,The errors are mostly typos.,誤りはたいてい打ち間違いだ。,most（最も）とは違う。
+E01554,1,2,nearly,副詞,ほとんど,almost,It took nearly two hours.,2時間近くかかった。,almost とほぼ同じ。
+E01555,1,2,exactly,副詞,正確に,in an accurate way,That is exactly the problem.,まさにそこが問題だ。,not exactly は「そうとも言えない」。
+E01556,1,2,directly,副詞,直接に,without anything between,Ask him directly.,彼に直接聞いてください。,形容詞は direct。
+E01557,1,2,probably,副詞,たぶん,very likely,It's probably a setting issue.,たぶん設定の問題だ。,maybe より確からしい。
+E01558,1,2,certainly,副詞,確かに,without doubt,That certainly helps.,それは確かに助かる。,返事では「もちろん」。
+E01559,1,2,actually,副詞,実は,in fact,"Actually, the file was empty.",実はそのファイルは空だった。,「現在」の意味はない。
+E01560,1,2,especially,副詞,特に,more than usual,Especially on old machines.,特に古い機械では。,specially は「専用に」。
+E01561,1,2,recently,副詞,最近,not long ago,We changed it recently.,最近それを変えた。,現在完了や過去とともに使う。
+E01562,1,2,suddenly,副詞,突然,quickly and unexpectedly,The window suddenly closed.,窓が突然閉じた。,形容詞は sudden。
+E01563,1,2,hardly,副詞,ほとんど～ない,almost not,I could hardly read the log.,記録はほとんど読めなかった。,hard（熱心に）とは意味が違う。
+E01564,1,2,rarely,副詞,めったに～ない,not often,This error rarely happens.,この異常はめったに起きない。,seldom とほぼ同じ。
+E01565,1,2,usually,副詞,たいてい,in most cases,I usually start at nine.,たいてい9時に始める。,形容詞は usual。
+E01566,1,2,simply,副詞,単に、簡単に,in a simple way,Simply press the reset button.,リセットのボタンを押すだけです。,形容詞は simple。
+E01567,1,2,carefully,副詞,注意深く,with attention,Read the notice carefully.,その注意書きをよく読む。,形容詞は careful。
+E01568,1,2,completely,副詞,完全に,totally,The data was completely lost.,資料は完全に失われた。,形容詞は complete。
+E01569,1,2,immediately,副詞,ただちに,at once,Report it immediately.,ただちに報告してください。,at once と同じ意味。
+E01570,1,2,otherwise,副詞,そうでなければ,if not,Save it; otherwise you lose it.,保存すること。でないと失う。,文をつなぐときに使う。
+E01571,1,2,therefore,副詞,したがって,for that reason,The test failed; therefore we stopped.,試験が通らなかった。よって中止した。,so よりかたい書き言葉。
+E01572,1,2,besides,副詞,その上,in addition,"Besides, the cost is lower.",その上、費用も安い。,前置詞では「～のほかに」。
+E01573,1,2,meanwhile,副詞,その間に,at the same time,"Meanwhile, check the log.",その間に記録を確かめて。,in the meantime も同じ。
+E01574,1,2,anyway,副詞,とにかく,in any case,"Anyway, let's move on.",とにかく先へ進みましょう。,話を切り替えるときに使う。
+E01575,1,2,above,前置詞,～の上に,higher than,The note is above the table.,その注記は表の上にある。,副詞でも「上に」。反対は below。
+E01576,1,2,below,前置詞,～の下に,lower than,See the note below.,下の注記を見てください。,under は真下、below は「より下」。
+E01577,1,2,beyond,前置詞,～を越えて,on the far side of,That is beyond my authority.,それは私の権限を越えている。,「～以上に」の意味でも使う。
+E01578,1,2,toward,前置詞,～のほうへ,in the direction of,We are moving toward automation.,自動化へ向かって進んでいる。,英式の綴りは towards。
+E01579,1,2,across,前置詞,～を横切って、～にわたって,from one side to the other,The rule applies across all teams.,その規則は全班に共通して当てはまる。,副詞でも「向こう側へ」。
+E01580,1,2,along,前置詞,～に沿って,following the length of,Walk along the corridor.,廊下に沿って進む。,along with は「～と一緒に」。
+E01581,1,2,behind,前置詞,～の後ろに、遅れて,at the back of,We are behind schedule.,予定より遅れている。,副詞でも「後ろに」。
+E01582,1,2,beside,前置詞,～のそばに,next to,Put the icon beside the title.,絵記号は題名の横に置く。,besides（その上）と混同しやすい。
+E01583,1,2,despite,前置詞,～にもかかわらず,in spite of,"Despite the delay, we finished.",遅れにもかかわらず終えた。,あとに節は取れない（although を使う）。
+E01584,1,2,except,前置詞,～を除いて,not including,Everyone except me had left.,私以外は皆帰っていた。,expect（期待する）と綴りが似ている。
+E01585,1,2,unlike,前置詞,～と違って,different from,"Unlike the old tool, this one is free.",古い道具と違って、これは無料だ。,形容詞では「似ていない」。
+E01586,1,2,throughout,前置詞,～の間じゅう、至るところ,in every part of,The rule holds throughout the year.,その規則は一年を通して有効だ。,through ＋ out の組み合わせ。
+E01587,1,2,upon,前置詞,～の上に、～するとすぐ,on,"Upon arrival, sign the sheet.",着いたらすぐ用紙に署名する。,on よりかたい言い方。
+E01588,1,2,whereas,接続詞,～であるのに対して,in contrast to the fact that,"He prefers charts, whereas I prefer tables.",彼は図が好きだが、私は表が好きだ。,対比を表すかたい語。
+E01589,1,2,moreover,副詞,さらに,in addition,"Moreover, the cost is lower.",さらに、費用も安い。,besides よりかたい書き言葉。
+E01590,1,2,nevertheless,副詞,それにもかかわらず,in spite of that,"Nevertheless, we shipped on time.",それでも予定どおり出せた。,however とほぼ同じ意味でかたい。
+E01591,1,2,thus,副詞,このように、したがって,in this way,Thus the process ends here.,こうしてこの工程は終わる。,therefore とほぼ同じ。
+E01592,1,2,indeed,副詞,実に、確かに,really,It is indeed a rare case.,確かにまれな例だ。,強調に使う。
+E01593,1,2,rather,副詞,むしろ、かなり,instead or fairly,It is rather slow today.,今日はかなり遅い。,would rather は「むしろ～したい」。
+E01594,1,2,quite,副詞,かなり、まったく,to some degree or completely,The result was quite good.,結果はかなり良かった。,英米で強さの感じ方が少し違う。
+E01595,1,2,somewhat,副詞,いくぶん,a little,The screen is somewhat narrow.,画面がいくぶん狭い。,a little よりかたい。
+E01596,1,2,apart,副詞,離れて,separated,Keep the two files apart.,その二つのファイルは分けておく。,apart from は「～は別として」。
+E01597,1,2,aside,副詞,わきへ,to one side,Set that issue aside for now.,その課題はいったん脇に置く。,aside from は「～のほかに」。
+E01598,1,2,forward,副詞,前へ,toward the front,Move the date forward by a week.,日付を一週間前倒しにする。,動詞では「転送する」。
+E01599,1,2,backward,副詞,後ろへ,toward the back,Read the list backward.,一覧を逆から読む。,英式では backwards。
+E01600,1,2,ahead,副詞,前方に、先に,in front or in advance,Plan ahead for the busy season.,繁忙期に備えて前もって計画する。,ahead of は「～より先に」。
