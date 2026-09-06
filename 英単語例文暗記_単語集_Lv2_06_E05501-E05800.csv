@@ -1,0 +1,301 @@
+登録NO,枝番,レベル,英単語,品詞,意味(日本語),意味(英語),例文(英語),例文(日本語),解説
+E05501,1,2,overt,形容詞,公然の、あからさまな,done openly and not hidden,There was no overt opposition.,公然たる反対はなかった。,反対は covert。
+E05502,1,2,perjury,名詞,偽証、偽証罪,the crime of lying after promising to tell the truth,He was charged with perjury.,彼は偽証罪で起訴された。,法廷での虚偽の証言。
+E05503,1,2,pious,形容詞,信心深い、敬虔な,having strong religious belief,She came from a pious family.,彼女は信心深い家庭の出だ。,名詞は piety。
+E05504,1,2,resurgence,名詞,復活、再燃,a return of something after a period of decline,There was a resurgence of interest.,関心が再び高まった。,surge（うねる）から。
+E05505,1,2,stagnant,形容詞,停滞した、よどんだ,not moving or developing,Sales have been stagnant.,売上は停滞している。,stagnant water はよどんだ水。
+E05506,1,2,valiant,形容詞,勇敢な、果敢な,showing courage and determination,They made a valiant effort.,彼らは果敢に努力した。,brave の文語的な言い方。
+E05507,1,2,woe,名詞,苦悩、悩みごと,great sadness; troubles,The company's woes continued.,その会社の苦難は続いた。,通例は複数形 woes。
+E05508,1,2,hamster,名詞,ハムスター,a small animal with pouches in its cheeks,The children keep a hamster.,子どもたちはハムスターを飼っている。,ペットとして人気がある。
+E05509,1,2,muzzle,名詞,口輪、（銃の）銃口,a cover for an animal's mouth; the end of a gun barrel,Put a muzzle on the dog.,犬に口輪をつけてください。,動詞で「発言を封じる」。
+E05510,1,2,rooster,名詞,おんどり,an adult male chicken,The rooster crows at dawn.,おんどりは夜明けに鳴く。,イギリスでは cock。
+E05511,1,2,slug,名詞,なめくじ,a small soft creature like a snail without a shell,Slugs damaged the lettuce.,なめくじがレタスを傷めた。,動詞で「強く殴る」（口語）。
+E05512,1,2,tendon,名詞,腱、けん,strong tissue joining muscle to bone,He injured a tendon in his ankle.,彼は足首の腱を痛めた。,Achilles tendon はアキレス腱。
+E05513,1,2,embargo,名詞,禁輸、通商停止,an official ban on trade with a country,An embargo was placed on exports.,輸出に禁輸措置が取られた。,報道の「発表解禁」にも使う。
+E05514,1,2,latency,名詞,遅延、潜伏,the delay before something responds,Network latency is under 20 ms.,通信の遅延は20ミリ秒未満だ。,latent（潜在的な）の名詞形。
+E05515,1,2,rebate,名詞,割戻し、払い戻し,an amount of money returned to you,Customers receive a rebate.,顧客には割戻しがある。,refund は全額返金。
+E05516,1,2,spreadsheet,名詞,表計算ソフト、表計算表,a computer program for working with tables of numbers,Export the data to a spreadsheet.,データを表計算表に出力してください。,Excel が代表例。
+E05517,1,2,biopsy,名詞,生検、組織検査,the removal of tissue for medical examination,The biopsy showed no problem.,生検の結果、異常はなかった。,発音はバイオプシー。
+E05518,1,2,dehydration,名詞,脱水、脱水症状,the loss of too much water from the body,Drink water to avoid dehydration.,脱水を防ぐため水を飲んでください。,hydrate は水分を与える。
+E05519,1,2,denomination,名詞,額面、宗派,the value of a note or coin; a religious group,Notes come in several denominations.,紙幣にはいくつかの額面がある。,2つの意味を持つ。
+E05520,1,2,engraving,名詞,彫刻、版画,a picture printed from a cut metal plate,The engraving dates from 1750.,その版画は1750年のものだ。,engrave（彫る）から。
+E05521,1,2,silhouette,名詞,シルエット、輪郭,a dark outline seen against a light background,The tower's silhouette stood out.,塔の輪郭が浮かび上がった。,フランス語由来。
+E05522,1,2,ice cap,名詞,氷冠、氷床,a thick layer of ice covering a polar region,The ice cap is shrinking.,氷床は縮小している。,polar ice cap が定型。
+E05523,1,2,lock in,熟語,固定する、閉じ込める,to fix something so it cannot be changed,We locked in the price for a year.,1年間の価格を固定した。,名詞の lock-in は「囲い込み」。
+E05524,1,2,broaden,動詞,広げる、広がる,to make or become wider,Travel broadens your view.,旅は視野を広げる。,broad（広い）の動詞形。
+E05525,1,2,disperse,動詞,散らす、解散する,to spread over a wide area; to break up,The crowd dispersed quickly.,群衆はすぐに散った。,名詞は dispersion。
+E05526,1,2,incur,動詞,（損失などを）招く、被る,to experience something bad as a result of your actions,We incurred extra costs.,追加費用が発生した。,incur a penalty（罰則を受ける）。
+E05527,1,2,carnage,名詞,大虐殺、惨状,the killing of many people,The report described the carnage.,報告書は惨状を伝えた。,強い語なので使う場面に注意。
+E05528,1,2,omission,名詞,省略、抜け落ち,something that has been left out,The omission was noticed late.,その抜けは遅れて気づかれた。,omit（省く）の名詞形。
+E05529,1,2,remnant,名詞,名残、残り,a small part left after the rest is gone,Only remnants of the old wall stand.,古い壁の名残だけが残っている。,布の「端切れ」の意味もある。
+E05530,1,2,beak,名詞,くちばし,the hard pointed mouth of a bird,The bird cleaned its beak.,鳥はくちばしを手入れした。,bill とも言う。
+E05531,1,2,bran,名詞,ふすま、ぬか,the outer covering of grain,Bran is high in fibre.,ふすまは食物繊維が多い。,bran flakes は朝食用の食品。
+E05532,1,2,jug,名詞,水差し、ジャグ,a container with a handle for pouring liquid,Fill the jug with water.,水差しに水を入れてください。,アメリカでは pitcher。
+E05533,1,2,orchid,名詞,ラン、蘭,a plant with beautiful unusual flowers,The orchid blooms twice a year.,そのランは年に2回咲く。,発音はオーキッド。
+E05534,1,2,zipper,名詞,ファスナー、ジッパー,a fastener with two rows of teeth,The zipper is stuck.,ファスナーが引っかかっている。,イギリスでは zip。
+E05535,1,2,epidemiology,名詞,疫学,the study of how diseases spread,She works in epidemiology.,彼女は疫学の分野で働いている。,epidemic（流行）から。
+E05536,1,2,writ,名詞,令状、書状,a legal document ordering someone to act,The court issued a writ.,裁判所は令状を出した。,write の古い過去分詞形が語源。
+E05537,1,2,gastric,形容詞,胃の,relating to the stomach,He has gastric problems.,彼は胃の不調がある。,gastric acid は胃酸。
+E05538,1,2,toxin,名詞,毒素,a poisonous substance produced by living things,The bacteria release a toxin.,その細菌は毒素を出す。,toxic は形容詞。
+E05539,1,2,hastily,副詞,急いで、あわてて,quickly and without enough care,The note was written hastily.,そのメモは急いで書かれた。,haste（急ぎ）から。
+E05540,1,2,subtly,副詞,微妙に、巧妙に,in a delicate way that is hard to notice,The colours differ subtly.,色は微妙に異なる。,b は発音しない（サトリー）。
+E05541,1,2,conservatory,名詞,温室、音楽学校,a glass room for plants; a school of music,Plants fill the conservatory.,温室は植物でいっぱいだ。,2つの意味を持つ。
+E05542,1,2,prelude,名詞,前奏曲、前触れ,something that comes before a more important event,The talks were a prelude to the deal.,その協議は契約の前触れだった。,音楽では前奏曲。
+E05543,1,2,denote,動詞,示す、意味する,to be a sign of something,A red light denotes danger.,赤い光は危険を示す。,connote は「暗に示す」。
+E05544,1,2,ascertain,動詞,確かめる、突き止める,to find out something for certain,We must ascertain the cause.,原因を突き止めなければならない。,find out の硬い言い方。
+E05545,1,2,crumble,動詞,崩れる、砕ける,to break into small pieces,The old wall is crumbling.,古い壁が崩れかけている。,比喩で「崩壊する」。
+E05546,1,2,eradicate,動詞,根絶する、撲滅する,to destroy something completely,The disease was eradicated.,その病気は根絶された。,radix（根）から。
+E05547,1,2,malfunction,名詞,故障、誤作動,a failure to work correctly,A sensor malfunction stopped the line.,センサーの誤作動でラインが止まった。,動詞でも同じ形。
+E05548,1,2,proficient,形容詞,熟達した、堪能な,able to do something well,She is proficient in Python.,彼女はPythonに堪能だ。,be proficient in / at の形。
+E05549,1,2,purported,形容詞,～とされる、うわさの,claimed to be true but not proved,The purported cause was a bug.,不具合が原因とされていた。,purport（主張する）から。
+E05550,1,2,retrospect,名詞,回顧、振り返り,thinking about the past,"In retrospect, the risk was clear.",振り返れば、危険は明らかだった。,in retrospect が定型。
+E05551,1,2,sporadic,形容詞,散発的な、時々の,happening occasionally and irregularly,There were sporadic failures.,散発的な障害があった。,副詞は sporadically。
+E05552,1,2,chariot,名詞,戦車、二輪馬車,a two-wheeled vehicle pulled by horses in ancient times,The chariot race drew crowds.,戦車競走は観衆を集めた。,古代ローマの競技で有名。
+E05553,1,2,hangar,名詞,格納庫,a large building where aircraft are kept,The plane is in the hangar.,飛行機は格納庫にある。,hanger（ハンガー）とは別語。
+E05554,1,2,mahogany,名詞,マホガニー,a hard reddish-brown wood,The desk is made of mahogany.,その机はマホガニー製だ。,高級家具に使われる。
+E05555,1,2,perch,動詞,止まる、腰かける,to sit on the edge of something,A bird perched on the wire.,鳥が電線に止まった。,名詞で「止まり木」。
+E05556,1,2,tone down,熟語,（表現を）和らげる、控えめにする,to make something less strong or extreme,Tone down the wording a little.,言い回しを少し和らげてください。,反対は play up。
+E05557,1,2,beat around the bush,慣用句,遠回しに言う,to avoid saying something directly,Don't beat around the bush.,遠回しに言わないでください。,イギリスでは beat about the bush。
+E05558,1,2,dossier,名詞,一件書類、調査書,a set of papers about a person or subject,They compiled a dossier on the case.,彼らはその件の一件書類をまとめた。,フランス語由来。
+E05559,1,2,congenital,形容詞,先天性の、生まれつきの,present from birth,It is a congenital condition.,それは先天性の疾患だ。,acquired（後天性の）の反対。
+E05560,1,2,markedly,副詞,著しく、目立って,in a way that is very noticeable,Costs fell markedly.,費用は著しく下がった。,marked（顕著な）の副詞形。
+E05561,1,2,compel,動詞,強制する、余儀なくさせる,to force someone to do something,The rule compels us to record it.,その規則は記録を義務づけている。,形容詞は compelling。
+E05562,1,2,degrade,動詞,低下させる、劣化する,to make something worse in quality,Heat degrades the material.,熱がその材料を劣化させる。,名詞は degradation。
+E05563,1,2,adamant,形容詞,断固とした、譲らない,refusing to change your mind,He was adamant about the date.,彼は日程について譲らなかった。,もとは「非常に硬い石」。
+E05564,1,2,ardent,形容詞,熱心な、熱烈な,showing strong feeling or enthusiasm,She is an ardent supporter.,彼女は熱烈な支持者だ。,ラテン語の「燃える」から。
+E05565,1,2,epitome,名詞,典型、縮図,a perfect example of something,The design is the epitome of simplicity.,その意匠は簡素さの典型だ。,発音はエピトミー。
+E05566,1,2,frail,形容詞,虚弱な、もろい,weak and easily damaged,The old frame is frail.,その古い枠はもろい。,名詞は frailty。
+E05567,1,2,harass,動詞,悩ます、嫌がらせをする,to annoy or trouble someone repeatedly,Staff must not be harassed.,職員が嫌がらせを受けてはならない。,名詞は harassment。
+E05568,1,2,predicament,名詞,窮地、苦境,a difficult situation with no easy answer,We are in a predicament.,私たちは窮地にある。,plight とほぼ同じ意味。
+E05569,1,2,predominant,形容詞,主要な、支配的な,most common or most important,The predominant cause is human error.,主な原因は人的ミスだ。,副詞は predominantly。
+E05570,1,2,rupture,名詞,破裂、断絶,a break or tear in something,A pipe rupture flooded the room.,配管の破裂で部屋が浸水した。,関係の「断絶」にも使う。
+E05571,1,2,solace,名詞,慰め、安らぎ,comfort at a time of sadness,She found solace in music.,彼女は音楽に慰めを見いだした。,find solace in が定型。
+E05572,1,2,withhold,動詞,差し控える、保留する,to refuse to give something,They withheld the details.,彼らは詳細を明かさなかった。,withhold-withheld-withheld。
+E05573,1,2,zeal,名詞,熱意、情熱,great energy for a cause or aim,He worked with zeal.,彼は熱意をもって働いた。,形容詞は zealous。
+E05574,1,2,dune,名詞,砂丘,a hill of sand made by the wind,Sand dunes line the coast.,砂丘が沿岸に連なっている。,sand dune が定型。
+E05575,1,2,glaze,名詞,うわ薬、つや出し,a shiny coating on pottery or food,The pot has a blue glaze.,そのつぼは青いうわ薬がかかっている。,動詞で「つやを出す」。
+E05576,1,2,pore,名詞,毛穴、細孔,a very small hole in the skin or a surface,The material has fine pores.,その素材には細かい孔がある。,動詞で pore over（熟読する）。
+E05577,1,2,splinter,名詞,とげ、破片,a small sharp piece of wood or glass,He got a splinter in his finger.,彼は指にとげが刺さった。,splinter group は分派。
+E05578,1,2,assay,名詞,分析、試金,a test of the quality of a metal or substance,The assay showed high purity.,分析で高い純度が示された。,essay とつづりが似ている。
+E05579,1,2,uptake,名詞,取り込み、利用率,the rate at which something is taken up or used,The uptake of the new tool was slow.,新しい道具の利用は緩やかだった。,quick on the uptake は「のみこみが早い」。
+E05580,1,2,boardwalk,名詞,板張りの遊歩道,a path made of wooden boards near the sea,We walked along the boardwalk.,私たちは板張りの遊歩道を歩いた。,アメリカの海辺でよく見る。
+E05581,1,2,recital,名詞,独奏会、朗読,a musical performance by one person,She gave a piano recital.,彼女はピアノの独奏会を開いた。,recite（暗唱する）から。
+E05582,1,2,encompass,動詞,含む、取り囲む,to include a wide range of things,The role encompasses testing.,その職務は試験も含む。,include より広い範囲。
+E05583,1,2,gruesome,形容詞,恐ろしい、身の毛のよだつ,very unpleasant and shocking,The details were gruesome.,その詳細は恐ろしいものだった。,事故や犯罪の描写に使う。
+E05584,1,2,impetus,名詞,勢い、推進力,something that makes a process happen faster,The award gave impetus to the work.,その賞は仕事に弾みをつけた。,give impetus to が定型。
+E05585,1,2,impulsive,形容詞,衝動的な、出来心の,acting suddenly without thinking,It was an impulsive decision.,それは衝動的な決定だった。,impulse（衝動）から。
+E05586,1,2,incense,名詞,香、線香,a substance burned to give a sweet smell,Incense burned in the hall.,広間で香がたかれていた。,動詞では「激怒させる」。
+E05587,1,2,latent,形容詞,潜在的な、隠れた,present but not yet active or visible,There is a latent risk.,潜在的な危険がある。,latent defect は隠れた欠陥。
+E05588,1,2,lucid,形容詞,明快な、意識のはっきりした,clear and easy to understand,He gave a lucid explanation.,彼は明快な説明をした。,lucid dream は明晰夢。
+E05589,1,2,mutiny,名詞,反乱、暴動,a refusal to obey those in authority,The crew staged a mutiny.,乗組員は反乱を起こした。,もとは船上の反乱。
+E05590,1,2,poignant,形容詞,胸を打つ、痛切な,causing a strong feeling of sadness,It was a poignant moment.,それは胸を打つ瞬間だった。,g は発音しない（ポイナント）。
+E05591,1,2,precarious,形容詞,不安定な、危うい,not safe or certain,The company is in a precarious position.,その会社は危うい立場にある。,副詞は precariously。
+E05592,1,2,serene,形容詞,穏やかな、静かな,calm and peaceful,The lake was serene at dawn.,夜明けの湖は穏やかだった。,名詞は serenity。
+E05593,1,2,fern,名詞,シダ,a green plant with feathery leaves and no flowers,Ferns grow in the shade.,シダは日陰に生える。,胞子で増える植物。
+E05594,1,2,parsley,名詞,パセリ,a herb with curly green leaves used in cooking,Sprinkle parsley on the soup.,汁物にパセリをふってください。,飾りにも使われる。
+E05595,1,2,dialysis,名詞,人工透析,a medical treatment that cleans the blood,He needs dialysis three times a week.,彼は週3回の透析が必要だ。,発音はダイアリシス。
+E05596,1,2,midwife,名詞,助産師,a person trained to help women give birth,The midwife arrived quickly.,助産師はすぐに到着した。,複数形は midwives。
+E05597,1,2,syringe,名詞,注射器,a tube with a needle for injecting liquid,Use a new syringe each time.,毎回新しい注射器を使ってください。,発音はシリンジ。
+E05598,1,2,monologue,名詞,独白、長話,a long speech by one person,The play opens with a monologue.,その劇は独白で始まる。,dialogue（対話）の対。
+E05599,1,2,thin out,熟語,まばらになる、間引く,to become fewer; to remove some to make space,The crowd thinned out after noon.,昼過ぎに人出はまばらになった。,植物の間引きにも使う。
+E05600,1,2,get the ball rolling,慣用句,物事を始める、口火を切る,to start something happening,Let's get the ball rolling.,さっそく始めましょう。,会議の開始によく使う。
+E05601,1,2,hamper,動詞,妨げる、じゃまする,to prevent something from progressing easily,Bad weather hampered the work.,悪天候が作業を妨げた。,名詞では「ふた付きのかご」。
+E05602,1,2,apathy,名詞,無関心、無気力,a lack of interest or enthusiasm,Voter apathy is a concern.,有権者の無関心が懸念だ。,形容詞は apathetic。
+E05603,1,2,dismay,名詞,落胆、狼狽,a feeling of shock and disappointment,"To our dismay, the test failed.",落胆したことに、試験は失敗した。,to one's dismay が定型。
+E05604,1,2,disparate,形容詞,異質な、まったく異なる,very different from each other,The two systems are disparate.,2つの仕組みはまったく異なる。,名詞は disparity。
+E05605,1,2,knack,名詞,こつ、才能,a special skill for doing something,She has a knack for explaining.,彼女は説明のこつを心得ている。,have a knack for が定型。
+E05606,1,2,mercenary,名詞,傭兵,a soldier who fights for money,The army hired mercenaries.,軍は傭兵を雇った。,形容詞で「金目当ての」。
+E05607,1,2,morbid,形容詞,病的な、陰気な,showing an unhealthy interest in death,He has a morbid curiosity.,彼は病的な好奇心を持っている。,医学では「疾病の」。
+E05608,1,2,revoke,動詞,取り消す、無効にする,to officially cancel something,His licence was revoked.,彼の免許は取り消された。,名詞は revocation。
+E05609,1,2,railing,名詞,手すり、柵,a fence made of bars,Hold the railing on the stairs.,階段では手すりにつかまってください。,handrail とも言う。
+E05610,1,2,tortoise,名詞,陸がめ,a slow-moving land reptile with a hard shell,The tortoise moved slowly.,陸がめはゆっくり動いた。,水生は turtle。
+E05611,1,2,gear up for,熟語,～に備える、準備する,to prepare for something,We are gearing up for the release.,私たちは公開に備えている。,prepare for のくだけた言い方。
+E05612,1,2,excise,名詞,物品税、消費税,a tax on goods produced within a country,Excise on fuel was raised.,燃料の物品税が上がった。,動詞では「切除する」。
+E05613,1,2,remuneration,名詞,報酬、給与,payment for work done,The remuneration package is generous.,報酬体系は手厚い。,硬い書き言葉。
+E05614,1,2,cartilage,名詞,軟骨,the strong flexible tissue in joints,The cartilage in his knee is worn.,彼のひざの軟骨がすり減っている。,発音はカーティリッジ。
+E05615,1,2,concurrently,副詞,同時に、並行して,at the same time,The two tasks run concurrently.,2つの処理は並行して動く。,IT の「並行処理」でよく使う。
+E05616,1,2,artisan,名詞,職人、工芸家,a skilled worker who makes things by hand,The bowl was made by an artisan.,その器は職人の手作りだ。,artisan bread は手作りパン。
+E05617,1,2,concerto,名詞,協奏曲、コンチェルト,music for a solo instrument and an orchestra,She played a piano concerto.,彼女はピアノ協奏曲を演奏した。,イタリア語由来。
+E05618,1,2,quay,名詞,埠頭、岸壁,a solid landing place for ships,Boats tied up at the quay.,船が岸壁に係留された。,発音はキー。
+E05619,1,2,emit,動詞,放出する、発する,"to send out light, heat, sound or gas",The device emits a soft beep.,その装置は小さな音を出す。,名詞は emission。
+E05620,1,2,antidote,名詞,解毒剤、対策,a substance that stops the effect of poison,There is no known antidote.,知られている解毒剤はない。,比喩で「打開策」。
+E05621,1,2,attest,動詞,証明する、証言する,to show or prove that something is true,The records attest to the change.,記録がその変更を裏づけている。,attest to の形で使う。
+E05622,1,2,brood,動詞,くよくよ考える,to think about something sad for a long time,Don't brood over the mistake.,その失敗をくよくよ考えないでください。,名詞では「ひな鳥の群れ」。
+E05623,1,2,commend,動詞,称賛する、推薦する,to praise someone formally,The team was commended for its work.,チームはその仕事で称賛された。,recommend と同語源。
+E05624,1,2,extant,形容詞,現存する、残っている,still existing,Only three copies are extant.,現存するのは3部だけだ。,extinct（絶滅した）の反対。
+E05625,1,2,fathom,動詞,理解する、見抜く,to understand something difficult,I cannot fathom the reason.,その理由が理解できない。,名詞では水深の単位。
+E05626,1,2,heinous,形容詞,極悪な、憎むべき,extremely wicked,It was a heinous crime.,それは極悪な犯罪だった。,発音はヘイナス。
+E05627,1,2,impeccable,形容詞,申し分のない、完璧な,without any faults,Her timing was impeccable.,彼女の間の取り方は完璧だった。,peccare（罪を犯す）＋否定。
+E05628,1,2,infiltrate,動詞,潜入する、浸透する,to enter secretly; to pass through gradually,Water infiltrated the wall.,水が壁に浸透した。,名詞は infiltration。
+E05629,1,2,prodigy,名詞,神童、天才,a young person with exceptional ability,She was a musical prodigy.,彼女は音楽の神童だった。,child prodigy が定型。
+E05630,1,2,sluggish,形容詞,動きの鈍い、緩慢な,moving or working slowly,The system feels sluggish today.,今日は動作が重く感じる。,slug（なめくじ）から。
+E05631,1,2,submissive,形容詞,従順な、服従的な,willing to obey without question,A submissive reply is not helpful.,従順なだけの返答は役に立たない。,submit（従う）から。
+E05632,1,2,timid,形容詞,臆病な、内気な,not brave; easily frightened,He gave a timid answer.,彼はおずおずと答えた。,名詞は timidity。
+E05633,1,2,asparagus,名詞,アスパラガス,a vegetable with long green stems,Steam the asparagus lightly.,アスパラガスを軽く蒸してください。,集合名詞で数えないことが多い。
+E05634,1,2,cypress,名詞,糸杉、ヒノキ,a tall evergreen tree with dark leaves,Cypress trees line the road.,糸杉が道沿いに並んでいる。,地中海地方に多い。
+E05635,1,2,nectar,名詞,花蜜、甘い汁,the sweet liquid produced by flowers,Bees collect nectar.,蜂は花蜜を集める。,果汁飲料にも使う。
+E05636,1,2,platter,名詞,大皿,a large flat dish for serving food,She brought in a platter of fruit.,彼女は果物の大皿を運んできた。,on a silver platter は「苦労なしに」。
+E05637,1,2,quilt,名詞,キルト、掛け布団,a warm bed cover made of layers of cloth,She made a patchwork quilt.,彼女はパッチワークのキルトを作った。,quilting はキルト作り。
+E05638,1,2,sod,名詞,芝土、芝生,a piece of earth with grass growing on it,They laid sod over the yard.,彼らは庭に芝生を張った。,turf とほぼ同じ意味。
+E05639,1,2,stag,名詞,雄鹿,an adult male deer,A stag stood at the forest edge.,雄鹿が森の縁に立っていた。,雌は doe。
+E05640,1,2,inbound,形容詞,到着の、内向きの,travelling towards a place,Inbound calls increased.,受信の電話が増えた。,反対は outbound。
+E05641,1,2,malpractice,名詞,医療過誤、不正行為,careless or illegal behaviour by a professional,The hospital faced a malpractice claim.,病院は医療過誤の請求に直面した。,mal（悪い）＋ practice。
+E05642,1,2,instinctively,副詞,本能的に、直感的に,"without thinking, by natural feeling",She instinctively stepped back.,彼女は本能的に後ずさりした。,instinct（本能）から。
+E05643,1,2,archery,名詞,アーチェリー、弓術,the sport of shooting with a bow and arrows,He practises archery on Sundays.,彼は日曜にアーチェリーを練習する。,日本の弓道も archery と訳す。
+E05644,1,2,troupe,名詞,一座、劇団,a group of performers who work together,The troupe tours every summer.,その一座は毎夏巡業する。,troop（軍隊）と同音。
+E05645,1,2,denounce,動詞,非難する、告発する,to criticize something publicly,They denounced the decision.,彼らはその決定を非難した。,announce と同語源。
+E05646,1,2,dismantle,動詞,分解する、解体する,to take something apart,We dismantled the old rig.,私たちは古い装置を解体した。,組織を「解体する」意味でも使う。
+E05647,1,2,blight,名詞,荒廃、（植物の）胴枯れ病,something that spoils or damages,Neglect brought urban blight.,放置が都市の荒廃を招いた。,動詞で「だめにする」。
+E05648,1,2,conducive,形容詞,助けとなる、資する,making something likely to happen,The room is not conducive to focus.,その部屋は集中に向かない。,be conducive to の形。
+E05649,1,2,conscientious,形容詞,良心的な、几帳面な,careful to do work well and thoroughly,He is a conscientious worker.,彼は几帳面な働き手だ。,conscience（良心）から。
+E05650,1,2,derogatory,形容詞,軽蔑的な、けなす,showing a critical or disrespectful attitude,Avoid derogatory language.,軽蔑的な言葉は避けてください。,derogate（傷つける）から。
+E05651,1,2,enigma,名詞,なぞ、不可解なもの,something that is difficult to understand,The fault remains an enigma.,その不具合は依然としてなぞだ。,形容詞は enigmatic。
+E05652,1,2,euphoria,名詞,強い幸福感、陶酔,a feeling of great happiness,Euphoria followed the launch.,発売の後、高揚感が続いた。,形容詞は euphoric。
+E05653,1,2,insidious,形容詞,じわじわと進む、陰険な,developing gradually and harmfully,The damage was insidious.,その損傷はじわじわ進んだ。,気づきにくい害に使う。
+E05654,1,2,luminous,形容詞,光る、明るい,giving out light; bright,The dial is luminous at night.,文字盤は夜に光る。,lumen（光）から。
+E05655,1,2,nocturnal,形容詞,夜行性の、夜の,active at night,Owls are nocturnal.,ふくろうは夜行性だ。,反対は diurnal。
+E05656,1,2,prerequisite,名詞,前提条件、必要条件,something needed before something else can happen,Basic training is a prerequisite.,基礎研修が前提条件だ。,pre（前）＋ requisite。
+E05657,1,2,requisite,形容詞,必要な、不可欠な,needed for a particular purpose,He lacks the requisite experience.,彼には必要な経験がない。,硬い書き言葉。
+E05658,1,2,seduce,動詞,そそのかす、引きつける,to persuade someone to do something unwise,Low prices seduce buyers.,安値が買い手を引きつける。,名詞は seduction。
+E05659,1,2,shun,動詞,避ける、遠ざける,to deliberately avoid someone or something,He shunned publicity.,彼は世間の注目を避けた。,avoid より強い。
+E05660,1,2,braid,名詞,組みひも、編んだ髪,hair or threads woven together,She wore her hair in a braid.,彼女は髪を編んでいた。,イギリスでは plait。
+E05661,1,2,nozzle,名詞,ノズル、噴出口,the narrow end of a tube through which liquid comes out,Clean the nozzle after use.,使用後はノズルを掃除してください。,印刷機や噴霧器で使う。
+E05662,1,2,thistle,名詞,あざみ,a wild plant with prickly leaves and purple flowers,Thistles grow along the fence.,柵沿いにあざみが生えている。,スコットランドの国花。
+E05663,1,2,chase up,熟語,催促する、追跡確認する,to ask someone about something they have not done,Please chase up the missing invoice.,未着の請求書を催促してください。,イギリス英語でよく使う。
+E05664,1,2,cut to the chase,慣用句,本題に入る,to get to the important point quickly,Let's cut to the chase.,本題に入りましょう。,映画編集の用語が由来。
+E05665,1,2,bandage,名詞,包帯,a strip of cloth used to cover a wound,She wrapped a bandage around it.,彼女はそこに包帯を巻いた。,動詞でも同じ形。
+E05666,1,2,cabaret,名詞,キャバレー、演芸,entertainment with music at a restaurant or club,The hotel has a cabaret show.,そのホテルには演芸の催しがある。,フランス語由来。
+E05667,1,2,embroidery,名詞,刺しゅう,the art of sewing patterns onto cloth,The cloth has fine embroidery.,その布には見事な刺しゅうがある。,embroider（刺しゅうする）から。
+E05668,1,2,tapestry,名詞,タペストリー、つづれ織り,a heavy cloth with a woven picture,A tapestry hangs in the hall.,広間にタペストリーが掛かっている。,比喩で「織りなすもの」。
+E05669,1,2,converge,動詞,集まる、収束する,to come together at one point,The two lines converge here.,2本の線はここで交わる。,反対は diverge。
+E05670,1,2,discern,動詞,識別する、見分ける,to notice or understand something with difficulty,I could discern a pattern.,ある傾向を見て取ることができた。,形容詞は discerning。
+E05671,1,2,itinerary,名詞,旅程、日程表,a plan of a journey,Send me the itinerary.,旅程表を送ってください。,発音はアイティネラリー。
+E05672,1,2,cryptic,形容詞,なぞめいた、分かりにくい,having a hidden meaning,The error message is cryptic.,そのエラーメッセージは分かりにくい。,crypt（隠された）から。
+E05673,1,2,fanatic,名詞,熱狂者、マニア,a person with extreme enthusiasm,He is a fitness fanatic.,彼は運動狂だ。,形容詞は fanatical。
+E05674,1,2,hoard,動詞,ため込む、買いだめする,to collect and store large amounts,People hoarded supplies.,人々は物資をため込んだ。,horde（群れ）と同音。
+E05675,1,2,unfounded,形容詞,根拠のない、事実無根の,not based on facts,The rumour is unfounded.,そのうわさは根拠がない。,found（基礎を置く）＋否定。
+E05676,1,2,virtuous,形容詞,徳の高い、道徳的な,behaving in a morally good way,It is a virtuous circle.,それは好循環だ。,virtuous circle は好循環。
+E05677,1,2,eel,名詞,うなぎ,a long thin fish that looks like a snake,Grilled eel is a summer dish.,うなぎの蒲焼きは夏の料理だ。,slippery as an eel は「つかみどころがない」。
+E05678,1,2,pantry,名詞,食品庫、パントリー,a small room for storing food,Flour is kept in the pantry.,小麦粉は食品庫にしまってある。,larder とも言う。
+E05679,1,2,parchment,名詞,羊皮紙,"material made from animal skin, used for writing",The deed is written on parchment.,その証書は羊皮紙に書かれている。,高級な紙にも使う。
+E05680,1,2,sash,名詞,飾り帯、サッシ,a wide band of cloth worn around the body,She wore a red sash.,彼女は赤い飾り帯を締めていた。,窓枠の「サッシ」も同じ語。
+E05681,1,2,sled,名詞,そり,a vehicle for sliding over snow,The children pulled a sled.,子どもたちはそりを引いた。,イギリスでは sledge。
+E05682,1,2,implicitly,副詞,暗黙のうちに、暗に,in a way that is suggested but not stated,The rule is implicitly accepted.,その規則は暗黙のうちに受け入れられている。,反対は explicitly。
+E05683,1,2,pitch in,熟語,協力する、手を貸す,to join in and help with a task,Everyone pitched in to finish.,終わらせるため全員が手を貸した。,口語的な表現。
+E05684,1,2,against the clock,慣用句,時間と競争して,working fast to finish before a deadline,We worked against the clock.,私たちは時間と競争して働いた。,締め切り前によく使う。
+E05685,1,2,down to the wire,慣用句,最後の最後まで,until the very last moment,The decision went down to the wire.,決定は最後の最後までもつれた。,競馬のゴール線が由来。
+E05686,1,2,play it by ear,慣用句,臨機応変にやる,to decide as the situation develops,Let's play it by ear.,様子を見ながらやりましょう。,楽譜なしで演奏するのが由来。
+E05687,1,2,enlighten,動詞,啓発する、教える,to give someone information or understanding,Could you enlighten me on this?,この点を教えていただけますか。,名詞は enlightenment。
+E05688,1,2,abrasive,形容詞,粗い、とげとげしい,rough enough to scratch; unpleasantly harsh,His manner is abrasive.,彼の態度はとげとげしい。,名詞で「研磨材」。
+E05689,1,2,armistice,名詞,休戦、休戦協定,an agreement to stop fighting,The armistice was signed in November.,休戦協定は11月に調印された。,truce より公式な語。
+E05690,1,2,calamity,名詞,災難、大惨事,a serious event causing great damage,The flood was a calamity.,その洪水は大惨事だった。,disaster とほぼ同じ意味。
+E05691,1,2,cripple,動詞,機能を損なう、まひさせる,to seriously damage something,The outage crippled the service.,その停止でサービスが機能不全になった。,人について使うのは避ける語。
+E05692,1,2,frivolous,形容詞,軽薄な、ふまじめな,not serious or sensible,The claim was dismissed as frivolous.,その請求は不真面目だとして退けられた。,法律で「濫訴の」の意味も。
+E05693,1,2,homogeneous,形容詞,均質な、同種の,of the same kind throughout,The mixture is homogeneous.,その混合物は均質だ。,反対は heterogeneous。
+E05694,1,2,intangible,形容詞,無形の、触れられない,not able to be touched; hard to define,Goodwill is an intangible asset.,のれんは無形資産だ。,反対は tangible。
+E05695,1,2,reciprocal,形容詞,相互の、互恵の,given and received in return,They have a reciprocal agreement.,彼らは相互協定を結んでいる。,数学では「逆数の」。
+E05696,1,2,signify,動詞,意味する、示す,to be a sign of something,A green light signifies approval.,緑の光は承認を示す。,sign から。
+E05697,1,2,clam,名詞,二枚貝、あさり,a sea creature with a shell in two parts,We dug for clams on the beach.,浜で貝を掘った。,clam up は「口を閉ざす」。
+E05698,1,2,knuckle,名詞,指の関節、こぶし,a joint in the finger,He rapped on the door with his knuckles.,彼は指の関節で扉をたたいた。,knuckle down は「本腰を入れる」。
+E05699,1,2,seaweed,名詞,海藻、のり,a plant that grows in the sea,Seaweed is used in many dishes.,海藻は多くの料理に使われる。,のりは laver / nori とも言う。
+E05700,1,2,clientele,名詞,顧客層、常連客,the customers of a business,The shop has a loyal clientele.,その店には常連客がついている。,フランス語由来。
+E05701,1,2,negotiable,形容詞,交渉の余地がある、譲渡できる,open to discussion; able to be transferred,The price is negotiable.,価格は交渉の余地がある。,non-negotiable は「譲れない」。
+E05702,1,2,prospectus,名詞,目論見書、案内書,a document describing a company or course,Read the prospectus before investing.,投資の前に目論見書を読んでください。,学校の案内書にも使う。
+E05703,1,2,thermometer,名詞,温度計、体温計,an instrument for measuring temperature,Check the thermometer hourly.,1時間ごとに温度計を確認してください。,thermo（熱）＋ meter。
+E05704,1,2,detain,動詞,拘留する、引き止める,to keep someone in an official place; to delay,He was detained for questioning.,彼は取り調べのため拘留された。,名詞は detention。
+E05705,1,2,entail,動詞,伴う、必要とする,to involve something as a necessary part,The change entails extra testing.,その変更は追加試験を伴う。,involve より硬い。
+E05706,1,2,clandestine,形容詞,秘密の、内密の,"done secretly, often illegally",They held clandestine meetings.,彼らは秘密の会合を開いた。,covert とほぼ同じ意味。
+E05707,1,2,debacle,名詞,大失敗、崩壊,a complete failure,The launch was a debacle.,その発売は大失敗だった。,フランス語由来。発音はデバークル。
+E05708,1,2,defiant,形容詞,反抗的な、挑戦的な,openly refusing to obey,He gave a defiant reply.,彼は反抗的な返事をした。,名詞は defiance。
+E05709,1,2,eloquent,形容詞,雄弁な、説得力のある,speaking or writing in a powerful way,She made an eloquent case.,彼女は雄弁に主張した。,名詞は eloquence。
+E05710,1,2,fallacy,名詞,誤り、誤った考え,a false belief or mistaken idea,It is a common fallacy.,それはよくある誤解だ。,論理学の「誤謬」。
+E05711,1,2,ferocious,形容詞,獰猛な、激しい,very fierce and violent,There was ferocious competition.,激しい競争があった。,名詞は ferocity。
+E05712,1,2,gallant,形容詞,勇敢な、礼儀正しい,brave; polite to women,He made a gallant attempt.,彼は勇敢な試みをした。,古風な響きの語。
+E05713,1,2,indebted,形容詞,恩義がある、負債のある,owing thanks or money,I am indebted to my mentor.,私は恩師に恩義がある。,be indebted to の形で使う。
+E05714,1,2,translucent,形容詞,半透明の,letting light through but not clear,The panel is translucent.,その板は半透明だ。,transparent は完全な透明。
+E05715,1,2,cardigan,名詞,カーディガン,a knitted jacket that fastens at the front,She put on a grey cardigan.,彼女は灰色のカーディガンを羽織った。,人名に由来する語。
+E05716,1,2,carousel,名詞,回転木馬、荷物受取台,a merry-go-round; a rotating baggage belt,Bags appear on carousel three.,荷物は3番の受取台に出ます。,空港でよく使う。
+E05717,1,2,compost,名詞,堆肥、コンポスト,decayed plant material used to feed soil,Add compost to the garden bed.,花壇に堆肥を入れてください。,動詞でも使う。
+E05718,1,2,flake,名詞,薄片、かけら,a small thin piece of something,Paint flakes fell from the wall.,壁から塗料の薄片が落ちた。,snowflake は雪片。
+E05719,1,2,plow,名詞,すき、プラウ,a farm tool for turning over soil,The plow cut through the field.,すきが畑を切り開いた。,イギリスでは plough。
+E05720,1,2,crack down on,熟語,厳しく取り締まる,to become much stricter about something,They cracked down on unsafe practices.,彼らは危険な慣行を厳しく取り締まった。,名詞の crackdown は「取り締まり」。
+E05721,1,2,root out,熟語,根絶する、探し出す,to find and remove something completely,We rooted out the remaining bugs.,残る不具合を洗い出して取り除いた。,根から抜くのが原義。
+E05722,1,2,nomenclature,名詞,命名法、名称体系,a system of names used in a field,The nomenclature is confusing.,その名称体系は分かりにくい。,発音はノウメンクレイチャー。
+E05723,1,2,brisk,形容詞,活発な、てきぱきした,quick and energetic,Trade was brisk this morning.,今朝は取引が活発だった。,a brisk walk は「速足の散歩」。
+E05724,1,2,correlate,動詞,相関する、関連づける,to have a connection with something else,Errors correlate with workload.,誤りは作業量と相関する。,名詞は correlation。
+E05725,1,2,courteous,形容詞,礼儀正しい、丁寧な,polite and respectful,The staff were courteous.,職員は礼儀正しかった。,名詞は courtesy。
+E05726,1,2,equate,動詞,同一視する、等しいとみなす,to consider two things as the same,Do not equate speed with quality.,速さと品質を同一視しないでください。,equate A with B の形。
+E05727,1,2,anecdote,名詞,逸話、小話,a short interesting story about a real event,He told an anecdote about the founder.,彼は創業者の逸話を語った。,形容詞は anecdotal。
+E05728,1,2,appease,動詞,なだめる、和らげる,to make someone less angry by giving them what they want,They tried to appease the client.,彼らは顧客をなだめようとした。,名詞は appeasement。
+E05729,1,2,aptitude,名詞,素質、適性,a natural ability to do something well,She has an aptitude for numbers.,彼女は数字に強い素質がある。,aptitude test は適性検査。
+E05730,1,2,demeanor,名詞,態度、物腰,the way a person behaves and looks,His calm demeanor helped.,彼の落ち着いた物腰が役に立った。,イギリスでは demeanour。
+E05731,1,2,deranged,形容詞,錯乱した、狂った,not able to think or behave normally,The plan sounded deranged.,その計画は正気とは思えなかった。,強い語なので注意。
+E05732,1,2,ethereal,形容詞,この世のものとは思えない、幽玄な,extremely delicate and light,The music had an ethereal quality.,その音楽は幽玄な趣があった。,ether（天空）から。
+E05733,1,2,insurgent,名詞,反乱者、反政府勢力,a person fighting against the government,Insurgents attacked the base.,反乱勢力が基地を襲った。,形容詞でも使う。
+E05734,1,2,oblique,形容詞,斜めの、遠回しの,at an angle; not said directly,He made an oblique reference.,彼は遠回しに触れた。,発音はオブリーク。
+E05735,1,2,onslaught,名詞,猛攻、殺到,a violent attack; a large amount arriving at once,An onslaught of requests followed.,要望が殺到した。,強い勢いを表す。
+E05736,1,2,revamp,動詞,刷新する、作り直す,to change and improve something,We revamped the interface.,画面を刷新した。,名詞でも同じ形。
+E05737,1,2,staunch,形容詞,忠実な、堅固な,very loyal and committed,He is a staunch supporter.,彼は忠実な支持者だ。,動詞で「（出血を）止める」。
+E05738,1,2,vocation,名詞,天職、使命,a job you feel strongly suited to,Teaching is her vocation.,教えることが彼女の天職だ。,vocational は「職業の」。
+E05739,1,2,cauliflower,名詞,カリフラワー,a vegetable with a large white head,Boil the cauliflower briefly.,カリフラワーを短時間ゆでてください。,broccoli の仲間。
+E05740,1,2,flask,名詞,フラスコ、水筒,a bottle with a narrow neck,Pour the liquid into the flask.,液体をフラスコに注いでください。,vacuum flask は魔法びん。
+E05741,1,2,germ,名詞,細菌、芽,a very small living thing that causes disease,Wash your hands to remove germs.,細菌を落とすため手を洗ってください。,the germ of an idea は「着想の芽」。
+E05742,1,2,partridge,名詞,ヤマウズラ,a brown bird that is hunted for food,Partridges nest in the field.,ヤマウズラが畑に巣を作る。,狩猟鳥として知られる。
+E05743,1,2,rudder,名詞,舵、方向舵,a flat part at the back of a boat used for steering,The rudder was damaged.,舵が損傷した。,飛行機の方向舵も rudder。
+E05744,1,2,set forth,熟語,述べる、明記する、出発する,to state clearly; to begin a journey,The terms are set forth in Article 3.,条件は第3条に明記されている。,契約書でよく使う。
+E05745,1,2,smooth over,熟語,丸く収める、取りつくろう,to make a problem seem less serious,She smoothed over the disagreement.,彼女は意見の食い違いを丸く収めた。,人間関係でよく使う。
+E05746,1,2,lien,名詞,先取特権、留置権,a legal right to keep property until a debt is paid,The bank has a lien on the asset.,銀行はその資産に先取特権を持つ。,発音はリーンまたはリーエン。
+E05747,1,2,multiplier,名詞,乗数、増幅要因,a number used to multiply; something that increases an effect,Automation acts as a multiplier.,自動化は増幅要因として働く。,経済学の「乗数効果」でも使う。
+E05748,1,2,anew,副詞,改めて、新たに,"again, in a new way",We started the design anew.,私たちは設計を一からやり直した。,文語的な語。
+E05749,1,2,fanfare,名詞,ファンファーレ、華々しい宣伝,a short loud tune; showy publicity,The product launched with fanfare.,その製品は華々しく発売された。,without fanfare は「静かに」。
+E05750,1,2,confer,動詞,協議する、授与する,to discuss; to give an honour or title,The two teams conferred briefly.,2つのチームは短く協議した。,名詞は conference。
+E05751,1,2,augment,動詞,増やす、補強する,to increase the size or value of something,We augmented the team with two testers.,試験担当2名でチームを増強した。,augmented reality は拡張現実。
+E05752,1,2,carefree,形容詞,気楽な、のんきな,having no worries,He spent a carefree summer.,彼は気楽な夏を過ごした。,care（心配）＋ free。
+E05753,1,2,caricature,名詞,風刺画、戯画,a drawing that exaggerates features for humour,The cartoon is a caricature.,その漫画は風刺画だ。,動詞でも使う。
+E05754,1,2,complacent,形容詞,独りよがりの、油断した,too satisfied with yourself,We must not become complacent.,油断してはならない。,名詞は complacency。
+E05755,1,2,complicit,形容詞,共謀した、加担した,involved in something wrong,He was complicit in the cover-up.,彼は隠蔽に加担していた。,名詞は complicity。
+E05756,1,2,craven,形容詞,臆病な、卑怯な,completely lacking courage,It was a craven retreat.,それは卑怯な退却だった。,文語的な語。
+E05757,1,2,enclave,名詞,飛び地、居住区,a small area inside a larger different one,The district is a quiet enclave.,その地区は静かな一角だ。,フランス語由来。
+E05758,1,2,gimmick,名詞,仕掛け、客寄せの工夫,a trick used to attract attention,The feature is just a gimmick.,その機能は単なる客寄せだ。,やや否定的な響き。
+E05759,1,2,impromptu,形容詞,即席の、即興の,done without preparation,She gave an impromptu talk.,彼女は即興で話をした。,ラテン語由来。
+E05760,1,2,ornate,形容詞,華麗な、装飾の多い,covered with a lot of decoration,The frame is ornate.,その額縁は装飾が多い。,反対は plain。
+E05761,1,2,palpable,形容詞,明白な、感じ取れる,so obvious that it can be felt,The tension was palpable.,緊張がはっきり感じられた。,医学では「触知できる」。
+E05762,1,2,prophetic,形容詞,予言的な、先見の,correctly describing what will happen,His warning proved prophetic.,彼の警告は予言的だった。,prophet（預言者）から。
+E05763,1,2,resonate,動詞,共鳴する、心に響く,to produce a deep sound; to have a strong effect,The message resonated with staff.,そのメッセージは職員の心に響いた。,名詞は resonance。
+E05764,1,2,scourge,名詞,災い、苦しみの元,something that causes great suffering,Fraud is the scourge of the industry.,詐欺はその業界の災いだ。,発音はスカージ。
+E05765,1,2,unravel,動詞,ほどける、解明する、破綻する,to come apart; to explain something complex,The plan began to unravel.,計画は破綻し始めた。,糸がほどけるのが原義。
+E05766,1,2,chandelier,名詞,シャンデリア,a large hanging light with many bulbs,A chandelier hangs in the hall.,広間にシャンデリアが下がっている。,フランス語由来。
+E05767,1,2,clot,名詞,血の塊、凝血,"a thick lump formed from liquid, especially blood",A clot blocked the vessel.,血の塊が血管をふさいだ。,動詞で「固まる」。
+E05768,1,2,plume,名詞,羽飾り、（煙の）筋,a large feather; a rising column of smoke,A plume of smoke rose slowly.,煙の筋がゆっくり立ち上った。,羽根飾りが原義。
+E05769,1,2,shrub,名詞,低木、灌木,a plant smaller than a tree with many stems,Shrubs line the driveway.,低木が私道に並んでいる。,bush とほぼ同じ意味。
+E05770,1,2,weasel,名詞,いたち,a small thin animal that hunts other animals,A weasel slipped through the fence.,いたちが柵をすり抜けた。,weasel words は「言い逃れの言葉」。
+E05771,1,2,restitution,名詞,返還、賠償,the return of something or payment for loss,The court ordered restitution.,裁判所は賠償を命じた。,restore と同語源。
+E05772,1,2,remission,名詞,寛解、軽減,a period when an illness improves,The disease is in remission.,その病気は寛解している。,刑期の「短縮」の意味もある。
+E05773,1,2,uniformly,副詞,一様に、均一に,in the same way everywhere,Apply the coating uniformly.,塗膜を均一に塗ってください。,uniform（一様な）の副詞形。
+E05774,1,2,narrow down,熟語,絞り込む,to reduce the number of possibilities,We narrowed down the causes to two.,原因を2つに絞り込んだ。,候補を減らすときに使う。
+E05775,1,2,pan out,熟語,うまくいく、結果が出る,to develop in a successful way,The idea did not pan out.,その案はうまくいかなかった。,砂金採りの皿が由来。
+E05776,1,2,demolish,動詞,取り壊す、論破する,to destroy a building; to prove an argument wrong,The old wing was demolished.,古い棟は取り壊された。,名詞は demolition。
+E05777,1,2,arduous,形容詞,骨の折れる、困難な,needing a lot of effort,It was an arduous task.,それは骨の折れる仕事だった。,発音はアーデュアス。
+E05778,1,2,composure,名詞,落ち着き、平静,the state of being calm and in control,She kept her composure.,彼女は落ち着きを保った。,compose（落ち着かせる）から。
+E05779,1,2,concur,動詞,同意する、一致する,to agree with someone,I concur with that view.,私はその見解に同意する。,名詞は concurrence。
+E05780,1,2,facet,名詞,面、側面,one part or aspect of something,Every facet of the plan was reviewed.,計画のあらゆる面が検討された。,宝石のカット面が原義。
+E05781,1,2,finesse,名詞,手際のよさ、巧みさ,great skill and delicacy,He handled it with finesse.,彼はそれを巧みに処理した。,フランス語由来。
+E05782,1,2,respite,名詞,小休止、猶予,a short break from something difficult,The rain gave no respite.,雨は小やみになる気配がなかった。,発音はレスパイト。
+E05783,1,2,tout,動詞,売り込む、宣伝する,to praise something to sell it,The tool is touted as a time-saver.,その道具は時間短縮になると宣伝されている。,名詞で「客引き」。
+E05784,1,2,bruise,名詞,打撲傷、あざ,a dark mark on the skin from a blow,He had a bruise on his arm.,彼は腕にあざができていた。,果物の「傷み」にも使う。
+E05785,1,2,carp,名詞,こい,a large freshwater fish,Carp swim in the castle moat.,こいが城の堀を泳いでいる。,動詞で「あら探しをする」。
+E05786,1,2,flannel,名詞,フランネル、ネル,a soft woollen or cotton cloth,He wore a flannel shirt.,彼はネルのシャツを着ていた。,イギリスでは「洗面タオル」の意味も。
+E05787,1,2,handkerchief,名詞,ハンカチ,a small square of cloth for wiping the face,He offered her a handkerchief.,彼は彼女にハンカチを差し出した。,複数形は handkerchiefs。
+E05788,1,2,tulip,名詞,チューリップ,a spring flower shaped like a cup,Tulips bloom in April.,チューリップは4月に咲く。,オランダの名産。
+E05789,1,2,vulture,名詞,はげたか、ハゲワシ,a large bird that eats dead animals,Vultures circled overhead.,はげたかが上空を旋回した。,比喩で「弱みにつけ込む人」。
+E05790,1,2,geothermal,形容詞,地熱の,relating to heat from inside the earth,The plant uses geothermal energy.,その発電所は地熱を利用している。,geo（地球）＋ thermal（熱）。
+E05791,1,2,insolvency,名詞,支払い不能、破産状態,the state of being unable to pay debts,The firm faced insolvency.,その会社は支払い不能に直面した。,形容詞は insolvent。
+E05792,1,2,whistleblower,名詞,内部告発者,a person who reports wrongdoing inside an organization,The whistleblower is protected by law.,内部告発者は法律で保護される。,whistle（笛）を吹くのが由来。
+E05793,1,2,delicacy,名詞,珍味、繊細さ,a rare food; the quality of being delicate,The dish is a local delicacy.,その料理は地元の珍味だ。,扱いの「慎重さ」も意味する。
+E05794,1,2,animosity,名詞,敵意、憎しみ,strong dislike or hatred,There was animosity between them.,彼らの間には敵意があった。,hostility とほぼ同じ意味。
+E05795,1,2,condone,動詞,大目に見る、容認する,to accept behaviour that is wrong,We cannot condone that practice.,その慣行は容認できない。,condemn（非難する）と混同注意。
+E05796,1,2,deflect,動詞,そらす、かわす,to make something change direction,He deflected the question.,彼は質問をかわした。,名詞は deflection。
+E05797,1,2,desolate,形容詞,荒涼とした、寂しい,empty and without people; very sad,The site looked desolate.,その場所は荒涼として見えた。,名詞は desolation。
+E05798,1,2,embody,動詞,体現する、具体化する,to be a clear example of an idea,The design embodies simplicity.,その意匠は簡素さを体現している。,名詞は embodiment。
+E05799,1,2,envision,動詞,思い描く、構想する,to imagine something in the future,We envision a fully automated flow.,完全に自動化された流れを構想している。,envisage とほぼ同じ意味。
+E05800,1,2,hone,動詞,磨く、研ぎ澄ます,to improve a skill; to sharpen a blade,She honed her skills over years.,彼女は何年もかけて技能を磨いた。,hone in on は「焦点を絞る」。

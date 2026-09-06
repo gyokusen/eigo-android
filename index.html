@@ -97,7 +97,7 @@ label.f{color:var(--sub); font-size:12px}
 .empty{padding:28px 12px; text-align:center; color:var(--sub); font-size:13px}
 .more{padding:10px 12px; text-align:center; color:var(--sub); font-size:12px}
 
-/* Lv.（単語の難易度） */
+/* Lv.（何番目の3000語か） */
 .lvl{display:inline-block; border-radius:9px; padding:1px 7px; font-size:11px;
      border:1px solid var(--line2); background:#F7F2E3; color:var(--sub); white-space:nowrap}
 .lvl b{color:var(--ink); font-weight:700}
@@ -444,30 +444,54 @@ label.f{color:var(--sub); font-size:12px}
 
 <script>
 "use strict";
-const APP_VERSION = "1.0.2";
+const APP_VERSION = "1.1.0";
 const DB_NAME = "eigo_app", DB_VER = 1;   /* ★ 作業時間管理（work_time）とは別の名前。
    IndexedDB は gyokusen.github.io というオリジン単位で分かれ、URL の下の階層では
    分かれない。同じ github.io に置く別アプリは、必ず別の名前にすること。 */
 
 const SEED_CSV = "初期単語.csv";
-/* 基本3000語（頻度順に300語ずつ Lv.1〜10）。⚙から選んで読み込む。
+/* 単語集。**Lv. は「何番目の3000語か」**を表す（v1.1.0 で意味を変えた）。
+   Lv.1 = 基本3000語（E01001〜E04000）／Lv.2 = その次の3000語（E04001〜E07000）。
+   1つの Lv. は 300語 × 10本。⚙から選んで読み込む。
    ここに無いファイルを指しても、fetch が失敗するだけで害はない。
 
    ★ 登録NO は **E＋5桁**（v1.0.2 でそろえた）。一覧の並びは**文字列順**なので、
      桁数が混ざると E10000 が E1001 より前へ回ってしまう。
-     これから足す単語も5桁で入れること（［＋新しく登録］は自動で5桁にする）。 */
+     これから足す単語も5桁で入れること（［＋新しく登録］は自動で5桁にする）。
+   ★ ファイル名を変えたら、ここも必ず直すこと。 */
+const PACK_SETS = [1, 2];
 const PACKS = {
-  1:"英単語例文暗記_基本3000語_Lv1_E01001-E01300.csv",
-  2:"英単語例文暗記_基本3000語_Lv2_E01301-E01600.csv",
-  3:"英単語例文暗記_基本3000語_Lv3_E01601-E01900.csv",
-  4:"英単語例文暗記_基本3000語_Lv4_E01901-E02200.csv",
-  5:"英単語例文暗記_基本3000語_Lv5_E02201-E02500.csv",
-  6:"英単語例文暗記_基本3000語_Lv6_E02501-E02800.csv",
-  7:"英単語例文暗記_基本3000語_Lv7_E02801-E03100.csv",
-  8:"英単語例文暗記_基本3000語_Lv8_E03101-E03400.csv",
-  9:"英単語例文暗記_基本3000語_Lv9_E03401-E03700.csv",
-  10:"英単語例文暗記_基本3000語_Lv10_E03701-E04000.csv"
+  "1-01":"英単語例文暗記_単語集_Lv1_01_E01001-E01300.csv",
+  "1-02":"英単語例文暗記_単語集_Lv1_02_E01301-E01600.csv",
+  "1-03":"英単語例文暗記_単語集_Lv1_03_E01601-E01900.csv",
+  "1-04":"英単語例文暗記_単語集_Lv1_04_E01901-E02200.csv",
+  "1-05":"英単語例文暗記_単語集_Lv1_05_E02201-E02500.csv",
+  "1-06":"英単語例文暗記_単語集_Lv1_06_E02501-E02800.csv",
+  "1-07":"英単語例文暗記_単語集_Lv1_07_E02801-E03100.csv",
+  "1-08":"英単語例文暗記_単語集_Lv1_08_E03101-E03400.csv",
+  "1-09":"英単語例文暗記_単語集_Lv1_09_E03401-E03700.csv",
+  "1-10":"英単語例文暗記_単語集_Lv1_10_E03701-E04000.csv",
+  "2-01":"英単語例文暗記_単語集_Lv2_01_E04001-E04300.csv",
+  "2-02":"英単語例文暗記_単語集_Lv2_02_E04301-E04600.csv",
+  "2-03":"英単語例文暗記_単語集_Lv2_03_E04601-E04900.csv",
+  "2-04":"英単語例文暗記_単語集_Lv2_04_E04901-E05200.csv",
+  "2-05":"英単語例文暗記_単語集_Lv2_05_E05201-E05500.csv",
+  "2-06":"英単語例文暗記_単語集_Lv2_06_E05501-E05800.csv",
+  "2-07":"英単語例文暗記_単語集_Lv2_07_E05801-E06100.csv",
+  "2-08":"英単語例文暗記_単語集_Lv2_08_E06101-E06400.csv",
+  "2-09":"英単語例文暗記_単語集_Lv2_09_E06401-E06700.csv",
+  "2-10":"英単語例文暗記_単語集_Lv2_10_E06701-E07000.csv"
 };
+/* 表示用の見出し（Lv. と 何本目 と 登録NOの範囲）。ファイル名から作る。 */
+function packLabel(key){
+  const name = PACKS[key] || "";
+  const m = name.match(/_Lv(\d+)_(\d+)_(E\d+-E\d+)\.csv$/);
+  if(!m) return key;
+  return "Lv." + m[1] + " の " + parseInt(m[2],10) + "本目（" + m[3] + "・300語）";
+}
+function packKeysOf(lv){
+  return Object.keys(PACKS).filter(k => k.indexOf(lv + "-") === 0);
+}
 
 /* テストで選ぶ「記憶レベル」。並び順がそのまま画面のボタンの並びになる（PC版と同じ）。 */
 const LEVELS = ["覚えていた", "思い出した", "初めて出会った", "忘れてた"];
@@ -514,7 +538,7 @@ function busy(on, text){
 }
 function lvClass(v){ const i = LEVELS.indexOf(v); return i < 0 ? "" : (" l" + i); }
 function lvTag(v){ return v ? '<span class="lv'+lvClass(v)+'">'+esc(v)+"</span>" : ""; }
-/* 単語の難易度（Lv.）。空のときは「－」を出す（項目が抜けて見えないように） */
+/* Lv.（何番目の3000語か）。空のときは「－」を出す（項目が抜けて見えないように） */
 function lvlTag(v){
   v = String(v==null?"":v).trim();
   return v ? '<span class="lvl">Lv.<b>'+esc(v)+"</b></span>"
@@ -1305,7 +1329,7 @@ function openWord(d){
       + '<div><label class="k">枝番</label><input id="wdBr" type="number" min="1" step="1" value="'
         + (b.branch_no||1) + '" inputmode="numeric"></div></div>'
     + '<div class="hint">同じ単語の別の意味・別の例文は、同じ登録NO の枝番を増やして足します。</div>'
-    + '<div><label class="k">レベル（単語の難易度 1〜10・空でも構いません）</label>'
+    + '<div><label class="k">レベル（何番目の3000語か 1〜10・空でも構いません）</label>'
       + '<input id="wdLevel" type="number" min="1" max="10" step="1" value="'+esc(b.level||"")
       + '" inputmode="numeric" placeholder="（未設定）"></div>'
     + '<div><label class="k">英単語（熟語・慣用句もここに入れます）</label>'
@@ -1605,25 +1629,27 @@ async function loadSeed(){
   if(r.err || !r.rows.length) return null;
   return await upsertWords(r.rows, true);
 }
-async function loadPack(lv){
-  const name = PACKS[lv];
-  if(!name){ toast("その Lv. はありません"); return; }
-  busy(true, "Lv." + lv + " を読み込んでいます…");
+async function loadPack(key){
+  const name = PACKS[key];
+  if(!name){ toast("その単語集はありません"); return; }
+  busy(true, packLabel(key) + " を読み込んでいます…");
   let d;
   try { d = await fetchCsv(name); } finally { busy(false); }
   if(!d){ toast(name + " が置き場に見つかりませんでした", 5000); return; }
   await importWordsText(d.text, true, d.enc);
   loadList();
 }
-async function loadPackAll(){
-  if(!confirm("基本3000語（Lv.1〜10）をぜんぶ読み込みます。\n"
+async function loadPackAll(lv){
+  const keys = packKeysOf(lv);
+  if(!keys.length){ toast("Lv." + lv + " はありません"); return; }
+  if(!confirm("Lv." + lv + " の 3000語（10本）をぜんぶ読み込みます。\n"
     + "少し時間がかかります。よろしいですか。")) return;
   let add = 0, upd = 0, miss = 0;
-  busy(true, "基本3000語を読み込んでいます…");
+  busy(true, "Lv." + lv + " を読み込んでいます…");
   try {
-    for(let lv = 1; lv <= 10; lv++){
-      $("busyText").textContent = "Lv." + lv + " を読み込んでいます…";
-      const d = await fetchCsv(PACKS[lv]);
+    for(let i = 0; i < keys.length; i++){
+      $("busyText").textContent = packLabel(keys[i]) + " を読み込んでいます…";
+      const d = await fetchCsv(PACKS[keys[i]]);
       if(!d){ miss++; continue; }
       const r = csvToWords(d.text);
       if(r.err){ miss++; continue; }
@@ -1711,7 +1737,7 @@ async function doUpdate(){
 /* ---------------- 設定（⚙） ---------------- */
 function openCfgDlg(){
   const packOpts = Object.keys(PACKS).map(k =>
-    '<option value="'+k+'">Lv.'+k+"（300語）</option>").join("");
+    '<option value="'+k+'">'+esc(packLabel(k))+"</option>").join("");
   dlg("設定",
     '<div class="sec">読み上げ</div>'
     + '<div class="kv" id="cfgVoiceNote">'+voiceText()+"</div>"
@@ -1748,7 +1774,8 @@ function openCfgDlg(){
     + '<div class="inline" style="margin-top:9px"><select id="cfgPack">'+packOpts+"</select>"
       + '<button class="btn" id="cPack">読み込む</button></div>'
     + '<div class="stack" style="margin-top:8px">'
-      + '<button class="btn" id="cPackAll">基本3000語をぜんぶ読み込む（Lv.1〜10）</button>'
+      + PACK_SETS.map(lv => '<button class="btn" id="cPackAll'+lv+'">Lv.'+lv
+          +' の3000語をぜんぶ読み込む（10本）</button>').join("")
       + '<button class="btn" id="cSeed">見本の単語を読み込む（'+esc(SEED_CSV)+"）</button>"
       + '<button class="btn" id="cImport">控え／CSVを取り込む（この端末のファイル）</button>'
     + "</div>"
@@ -1800,8 +1827,8 @@ function openCfgDlg(){
     speak(SAMPLE);
   };
   $("cTry").onclick = () => speak(SAMPLE);
-  $("cPack").onclick = () => loadPack(+$("cfgPack").value);
-  $("cPackAll").onclick = loadPackAll;
+  $("cPack").onclick = () => loadPack($("cfgPack").value);
+  PACK_SETS.forEach(lv => { $("cPackAll" + lv).onclick = () => loadPackAll(lv); });
   $("cSeed").onclick = async () => {
     busy(true, "見本を読み込んでいます…");
     let r;

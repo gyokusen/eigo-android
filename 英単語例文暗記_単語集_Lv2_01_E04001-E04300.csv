@@ -1,0 +1,301 @@
+登録NO,枝番,レベル,英単語,品詞,意味(日本語),意味(英語),例文(英語),例文(日本語),解説
+E04001,1,2,well,名詞,井戸、泉,a deep hole in the ground for water,They dug a well behind the farmhouse.,彼らは農家の裏に井戸を掘った。,「よい・うまく」の well と同じつづりだが別の語。oil well（油井）にも使う。
+E04002,1,2,post,名詞,柱、杭,a strong upright piece of wood or metal fixed in the ground,The gate hangs on two wooden posts.,門は2本の木の柱に取り付けられている。,「郵便」「地位」「投稿する」も同じ post。goalpost（ゴールポスト）。
+E04003,1,2,federal,形容詞,連邦の、国家の,relating to the central government of a country made up of states,Federal law takes priority over state law.,連邦法は州法に優先する。,アメリカの文書で頻出。federal government（連邦政府）。
+E04004,1,2,get by,熟語,何とかやっていく、やりくりする,to manage to live or continue with what you have,We can get by on a small budget for a while.,しばらくは少ない予算で何とかやっていける。,「十分ではないが足りる」というニュアンス。
+E04005,1,2,get on with,熟語,（仕事などを）続ける、はかどらせる,"to continue doing something, especially work",Let me get on with the report before lunch.,昼食前に報告書を進めさせてください。,イギリス英語では「人とうまくやる」の意味でも使う。
+E04006,1,2,seriously,副詞,真剣に、本気で、深刻に,in a serious way; to a serious degree,We are seriously considering the proposal.,その提案を真剣に検討しています。,take it seriously（本気に受け取る）の形が多い。
+E04007,1,2,get over,熟語,（病気・つらさから）立ち直る、克服する,to recover from an illness or an unpleasant experience,It took her a month to get over the flu.,彼女がインフルエンザから回復するのに1か月かかった。,「柵などを乗り越える」の物理的な意味もある。
+E04008,1,2,make do with,熟語,～で間に合わせる,to manage with something that is not what you really want,We had to make do with an old laptop.,古いノートパソコンで間に合わせるしかなかった。,make do の do は「済ませる」。with の後ろは代わりのもの。
+E04009,1,2,make out,熟語,（かろうじて）見分ける、聞き取る,"to manage to see, hear or understand something with difficulty",I could barely make out his signature.,彼の署名はかろうじて読み取れる程度だった。,「小切手を作成する」「うまくやる」の意味もある。
+E04010,1,2,go about,熟語,（物事に）取りかかる、～のやり方で進める,to start to deal with a task in a particular way,How should we go about solving this problem?,この問題はどう解決していけばよいでしょうか。,go about doing の形で使うことが多い。
+E04011,1,2,go back on,熟語,（約束などを）破る、ひるがえす,to fail to keep a promise or agreement,He went back on his word at the last minute.,彼は土壇場で約束を破った。,go back on one's word がよくある形。
+E04012,1,2,go for,熟語,～を選ぶ、～を目指す,to choose something; to try to get something,I think we should go for the cheaper option.,安いほうの案を選ぶべきだと思う。,Go for it!（やってみなよ）は励ましの決まり文句。
+E04013,1,2,previously,副詞,以前に、前もって,before the present time or the time mentioned,She previously worked for a trading company.,彼女は以前、商社に勤めていた。,before より書き言葉向き。previously mentioned（前述の）。
+E04014,1,2,even out,熟語,ならす、平均化する,to become or make something more equal or level,Costs should even out over the year.,費用は1年を通じてならされるはずだ。,でこぼこを平らにする、が元の意味。
+E04015,1,2,net,名詞,網、ネット,material made of threads or wires with spaces between them,The fisherman pulled the net out of the water.,漁師は網を水から引き上げた。,「正味の」（net profit 純利益）という形容詞もある。
+E04016,1,2,bay,名詞,湾、入り江,a part of the sea partly surrounded by land,The town sits at the head of a wide bay.,町は広い湾の奥にある。,gulf は bay より大きい湾を指すことが多い。
+E04017,1,2,take after,熟語,（親などに）似ている,to look or behave like an older member of your family,She takes after her mother in temperament.,彼女は気質が母親に似ている。,resemble より口語的。血縁者にだけ使う。
+E04018,1,2,path,名詞,小道、進路,a way or track made for walking; a course of action,A narrow path leads down to the river.,細い小道が川へ下っている。,career path（経歴の道筋）のように比喩でも使う。
+E04019,1,2,attorney,名詞,弁護士、代理人,"a lawyer, especially one who represents someone in court",Please consult your attorney before signing.,署名の前に弁護士に相談してください。,アメリカ英語。イギリスでは solicitor / barrister。
+E04020,1,2,back down,熟語,引き下がる、主張を取り下げる,to stop demanding something or arguing for it,The company backed down after the protest.,抗議を受けて会社は主張を取り下げた。,相手に押されて譲るときに使う。
+E04021,1,2,get down to,熟語,（本腰を入れて）取りかかる,to start doing something seriously,Let's get down to business.,さっそく本題に入りましょう。,get down to business は会議の決まり文句。
+E04022,1,2,go through with,熟語,（つらいことを）やり通す,"to do something you have planned or promised, even if it is difficult",He decided to go through with the operation.,彼は手術を受け通すことに決めた。,go through（経験する）とは意味が違うので注意。
+E04023,1,2,see through,熟語,見抜く、最後までやり遂げる,to realize the truth about someone; to finish something,I saw through his excuse at once.,彼の言い訳はすぐに見抜いた。,see a project through なら「やり遂げる」。
+E04024,1,2,think through,熟語,じっくり考え抜く,to consider all the details and results of something,We need to think this plan through carefully.,この計画は慎重に考え抜く必要がある。,think over（考え直す）より「最後まで筋を通す」感じ。
+E04025,1,2,studio,名詞,仕事場、スタジオ、ワンルーム,a room where an artist works or where recordings are made,The interview was recorded in a small studio.,そのインタビューは小さなスタジオで収録された。,studio apartment はワンルームの部屋。
+E04026,1,2,specifically,副詞,具体的には、とりわけ,in a way that is exact and clear; particularly,The rule applies specifically to part-time staff.,その規定はとりわけ短時間勤務者に適用される。,文頭で「具体的に言うと」と話を絞るときにも使う。
+E04027,1,2,novel,名詞,小説,a long written story about imaginary people and events,She published her first novel last year.,彼女は昨年、最初の小説を出版した。,形容詞では「目新しい」（a novel approach）。
+E04028,1,2,stadium,名詞,競技場、スタジアム,a large sports ground with rows of seats around it,The stadium holds fifty thousand people.,その競技場は5万人を収容する。,複数形は stadiums / stadia のどちらも使われる。
+E04029,1,2,stream,名詞,小川、流れ,a small narrow river; a continuous flow,A clear stream runs through the village.,澄んだ小川が村を流れている。,IT では「データの流れ」（streaming）にも使う。
+E04030,1,2,look out for,熟語,気をつける、目を配る,to watch carefully so as to notice or avoid something,Look out for icy patches on the road.,路面の凍結に気をつけてください。,「（人を）気にかける」の意味でも使う。
+E04031,1,2,look over,熟語,ざっと目を通す,to examine something quickly,Could you look over this draft?,この草案にざっと目を通してもらえますか。,look through より軽く見るニュアンス。
+E04032,1,2,look up to,熟語,尊敬する,to admire and respect someone,Young engineers look up to her.,若い技術者たちは彼女を尊敬している。,反対は look down on（見下す）。
+E04033,1,2,bond,名詞,絆、結束、債券,a close connection between people; a certificate of debt,A strong bond formed between the two teams.,2つのチームの間に強い絆ができた。,金融では「債券」。化学では「結合」。
+E04034,1,2,come by,熟語,手に入れる、立ち寄る,to obtain something; to visit briefly,Good staff are hard to come by.,よい人材はなかなか手に入らない。,hard to come by（入手しにくい）が定型。
+E04035,1,2,bunch,名詞,束、房、一団,a group of things fastened or growing together,She bought a bunch of grapes.,彼女はぶどうを一房買った。,a bunch of people で「人の一団」（口語）。
+E04036,1,2,tank,名詞,タンク、水槽,a large container for liquid or gas,The water tank is on the roof.,貯水タンクは屋上にある。,戦車の意味もある。fish tank は水槽。
+E04037,1,2,yard,名詞,庭、作業場、ヤード（長さ）,an area of ground next to a building; a unit of length,The children are playing in the back yard.,子どもたちは裏庭で遊んでいる。,1ヤードは約0.914メートル。
+E04038,1,2,panel,名詞,（板状の）面、パネル、討論者の一団,a flat board; a group of people chosen to discuss something,The control panel has six switches.,制御盤にはスイッチが6つある。,panel discussion は公開討論。
+E04039,1,2,cable,名詞,ケーブル、太い綱,a thick wire or rope used to carry electricity or signals,The cable runs under the floor.,ケーブルは床下を通っている。,電報の意味もあった（cable を送る）。
+E04040,1,2,peak,名詞,頂上、最高点,the top of a mountain; the highest level of something,Sales reached their peak in December.,売上は12月に最高になった。,peak hours（ピーク時）。動詞でも使う。
+E04041,1,2,go under,熟語,倒産する、沈む,to fail as a business; to sink,Two small suppliers went under last year.,昨年、小さな取引先が2社倒産した。,go bankrupt より口語的。
+E04042,1,2,principal,名詞,校長、主要な、元金,the head of a school; most important; an original sum of money,The principal reason is cost.,主な理由は費用だ。,principle（原則）と混同しやすいので注意。
+E04043,1,2,therapy,名詞,療法、治療,treatment for an illness or mental problem,Physical therapy helped him walk again.,理学療法のおかげで彼は再び歩けるようになった。,心の治療にも体の治療にも使う。
+E04044,1,2,theatre,名詞,劇場、演劇,a building where plays are performed,We booked seats at the theatre for Friday.,金曜の劇場の席を予約した。,アメリカ式のつづりは theater。
+E04045,1,2,give way to,熟語,～に道を譲る、～に取って代わられる,to be replaced by something; to yield,Anger gave way to sadness.,怒りはやがて悲しみに変わった。,交通の「譲れ」の標識にも使う。
+E04046,1,2,campus,名詞,キャンパス、構内,the grounds and buildings of a university or company,The new laboratory is on the north campus.,新しい研究棟は北キャンパスにある。,企業の広い敷地にも使う（corporate campus）。
+E04047,1,2,tower,名詞,塔、タワー,a tall narrow building or part of a building,A stone tower stands on the hill.,丘の上に石の塔が立っている。,動詞で「そびえる」（tower over）。
+E04048,1,2,bush,名詞,低木、茂み,"a plant with many thin branches, smaller than a tree",A rabbit hid behind the bush.,うさぎが茂みの陰に隠れた。,beat around the bush は「遠回しに言う」。
+E04049,1,2,coal,名詞,石炭,a hard black substance burned to produce heat,The country still burns coal for power.,その国は今も発電に石炭を燃やしている。,charcoal は木炭。
+E04050,1,2,gallery,名詞,画廊、美術館、回廊,a room or building for showing works of art,Her paintings are on show at a small gallery.,彼女の絵は小さな画廊で展示されている。,劇場の最上階席の意味もある。
+E04051,1,2,do without,熟語,～なしで済ませる,to manage without something,We can do without a printer for now.,当面はプリンターなしで済ませられる。,can do without で「なくてもよい」。
+E04052,1,2,settlement,名詞,解決、和解、集落,an official agreement ending a dispute; a small community,They reached a settlement out of court.,彼らは法廷外で和解に達した。,入植地・支払いの決済の意味もある。
+E04053,1,2,initially,副詞,最初は、当初,at the beginning,Initially we planned only two sessions.,当初は2回だけの予定だった。,後で状況が変わった、という含みで使うことが多い。
+E04054,1,2,come up against,熟語,（困難に）ぶつかる,to have to deal with a problem or difficulty,We came up against strong opposition.,強い反対にぶつかった。,face より「予期せず出くわす」感じ。
+E04055,1,2,team up with,熟語,～と組む、協力する,to join with someone to work together,We teamed up with a local supplier.,地元の業者と組んだ。,team up の後は with。
+E04056,1,2,gear,名詞,歯車、装備、ギア,a toothed wheel; equipment for an activity,Bring your climbing gear.,登山用具を持ってきてください。,gear up for（～に備える）という熟語もある。
+E04057,1,2,keep up with,熟語,（遅れずに）ついていく,to move or progress at the same rate as someone,It is hard to keep up with the latest tools.,最新の道具についていくのは大変だ。,keep up with the news（時事に遅れずにいる）。
+E04058,1,2,elsewhere,副詞,どこかほかで、他の場所へ,in or to another place,The parts are made elsewhere and shipped here.,部品はよそで作られ、ここへ送られる。,somewhere else の1語版で、書き言葉向き。
+E04059,1,2,castle,名詞,城,"a large strong building with thick walls, built long ago",The castle overlooks the whole town.,その城は町全体を見下ろしている。,チェスの「ルーク」も castle と呼ぶ。
+E04060,1,2,trail,名詞,小道、跡,a rough path; a series of marks left behind,We followed the trail through the forest.,森の中の小道をたどった。,動詞で「引きずる」「後を追う」。
+E04061,1,2,tape,名詞,テープ、粘着テープ,a long narrow strip of material used to stick or record,Fix the poster with tape.,ポスターをテープで留めてください。,red tape は「お役所仕事」。
+E04062,1,2,thread,名詞,糸、（話の）筋,a long thin strand of cotton used in sewing,She sewed the button on with strong thread.,彼女は丈夫な糸でボタンを縫い付けた。,掲示板の「スレッド」も同じ語。
+E04063,1,2,legend,名詞,伝説、（地図の）凡例,an old story that may not be true; an explanatory key,The legend says a dragon lived in the lake.,伝説では竜が湖にすんでいたという。,地図や図の「凡例」も legend。
+E04064,1,2,free up,熟語,（時間や資源を）空ける、解放する,to make something available for use,Automating the report freed up two hours a week.,報告書の自動化で週2時間が空いた。,free up space（容量を空ける）。
+E04065,1,2,commissioner,名詞,委員、長官,an official in charge of a government department or organization,The commissioner announced new safety rules.,長官は新しい安全規則を発表した。,スポーツ団体の代表にも使う。
+E04066,1,2,soil,名詞,土、土壌,the top layer of earth in which plants grow,This soil is too dry for vegetables.,この土は野菜には乾きすぎている。,動詞で「汚す」の意味もある。
+E04067,1,2,do away with,熟語,廃止する、なくす,to get rid of something; to abolish,They did away with the paper form.,彼らは紙の書式を廃止した。,abolish のくだけた言い方。
+E04068,1,2,get away with,熟語,（罰を受けずに）やり過ごす,to escape punishment or criticism for something,He got away with a warning.,彼は警告だけで済んだ。,get away with it が定型。
+E04069,1,2,essentially,副詞,本質的には、要するに,in the most important way; basically,The two plans are essentially the same.,2つの案は本質的には同じだ。,basically よりやや硬い。
+E04070,1,2,deck,名詞,甲板、（家の）デッキ,the flat floor of a ship; a raised platform outside a house,We had lunch on the deck.,デッキで昼食をとった。,a deck of cards はトランプ1組。
+E04071,1,2,play down,熟語,控えめに言う、軽く扱う,to make something seem less important than it is,The manager played down the delay.,部長は遅れを軽く扱った。,反対は play up（大げさに言う）。
+E04072,1,2,pot,名詞,鍋、つぼ、鉢,a deep round container for cooking or for plants,Put the pot on the stove.,鍋をコンロにかけてください。,flower pot は植木鉢。
+E04073,1,2,let up,熟語,（雨や勢いが）弱まる、やむ,to become less strong; to stop,The rain finally let up in the evening.,夕方になってようやく雨が弱まった。,休みなく続くことを not let up と言う。
+E04074,1,2,bench,名詞,ベンチ、長椅子、作業台,a long seat for several people; a work table,They sat on a bench by the pond.,彼らは池のそばのベンチに座った。,workbench は作業台。
+E04075,1,2,cricket,名詞,コオロギ、クリケット,a small jumping insect that makes a sharp sound; a ball game,Crickets chirped all night.,コオロギが一晩中鳴いていた。,虫と球技で同じつづり。
+E04076,1,2,shell,名詞,貝殻、殻,"the hard outer covering of an egg, nut or sea creature",She collected shells on the beach.,彼女は浜辺で貝殻を集めた。,IT では「シェル」（コマンドの入り口）。
+E04077,1,2,set back,熟語,遅らせる、後退させる,to delay progress; to cost someone money,The storm set the schedule back a week.,嵐で予定が1週間遅れた。,名詞の setback は「つまずき」。
+E04078,1,2,set in,熟語,（悪い状態が）始まる、定着する,to begin and seem likely to continue,Winter has set in early this year.,今年は冬の訪れが早い。,好ましくないものについて使うことが多い。
+E04079,1,2,set out,熟語,出発する、着手する、明示する,to start a journey; to state something clearly,The contract sets out the payment terms.,契約書は支払条件を明示している。,set out to do で「～しようと乗り出す」。
+E04080,1,2,narrative,名詞,物語、語り口,a description of events; the way a story is told,The report follows a clear narrative.,報告書は明快な筋立てになっている。,近年は「物語られ方」の意味でよく使う。
+E04081,1,2,mill,名詞,製粉所、工場,a building with machinery for grinding grain or making goods,The old mill by the river is now a museum.,川沿いの古い製粉所は今は博物館だ。,steel mill は製鉄所。
+E04082,1,2,fraud,名詞,詐欺、不正,the crime of cheating someone to get money,The audit uncovered a case of fraud.,監査で不正が1件発覚した。,人を指して「詐欺師」の意味にもなる。
+E04083,1,2,creek,名詞,小川、入り江,a small stream; a narrow inlet,We camped beside a shallow creek.,浅い小川のそばで野営した。,アメリカでは小川、イギリスでは入り江。
+E04084,1,2,log,名詞,丸太、記録,a thick piece of tree trunk; a written record of events,Check the server log for errors.,エラーはサーバーの記録を確認してください。,log in（ログインする）も同じ語源。
+E04085,1,2,sword,名詞,剣,a weapon with a long metal blade,The knight drew his sword.,騎士は剣を抜いた。,w は発音しない（ソード）。
+E04086,1,2,ward,名詞,病棟、区,a room in a hospital; an administrative district,She was moved to the surgical ward.,彼女は外科病棟へ移された。,東京の「区」も ward と訳す。
+E04087,1,2,keep on top of,熟語,遅れずにこなす、把握しておく,to stay in control of a task or situation,I use a checklist to keep on top of my work.,仕事を把握しておくために一覧表を使っている。,たまった仕事に埋もれない、という含み。
+E04088,1,2,top up,熟語,注ぎ足す、補充する,to add more to something to fill it again,Let me top up your coffee.,コーヒーを注ぎ足しましょう。,携帯のチャージにも使う（top up a card）。
+E04089,1,2,resort,名詞,行楽地、（最後の）手段,a place people go for holidays; something you turn to for help,Legal action is a last resort.,法的措置は最後の手段だ。,動詞で resort to（～に訴える）。
+E04090,1,2,strip,名詞,細長い一片、帯,a long narrow piece of something,Cut the paper into thin strips.,紙を細長く切ってください。,動詞では「はぎ取る」。
+E04091,1,2,cotton,名詞,綿、木綿,"a soft white material from a plant, used to make cloth",This shirt is one hundred percent cotton.,このシャツは綿100パーセントだ。,cotton wool は脱脂綿（英）。
+E04092,1,2,leather,名詞,革、皮革,material made from animal skin,The chair is covered in black leather.,その椅子は黒い革張りだ。,fur（毛皮）とは別物。
+E04093,1,2,wolf,名詞,おおかみ,a wild animal of the dog family,Wolves hunt in packs.,おおかみは群れで狩りをする。,複数形は wolves。
+E04094,1,2,epic,名詞,叙事詩、壮大な作品,a long poem or film about heroic deeds,The film is a three-hour epic.,その映画は3時間の大作だ。,形容詞で「壮大な」。
+E04095,1,2,rally,名詞,集会、（相場の）反発,a large public meeting; a recovery in prices,Thousands joined the rally downtown.,何千人もが中心街の集会に加わった。,動詞で「立て直す」「結集する」。
+E04096,1,2,tail,名詞,尾、しっぽ、末尾,the part at the back of an animal or object,The dog wagged its tail.,犬はしっぽを振った。,tail end は「末尾」。
+E04097,1,2,arena,名詞,競技場、（活動の）舞台,a large area for sports or entertainment; a field of activity,She entered the political arena at thirty.,彼女は30歳で政治の舞台に入った。,比喩の「舞台」でよく使う。
+E04098,1,2,fundamental,形容詞,根本的な、基本の,forming the base of something; most important,There is a fundamental difference between the two.,両者には根本的な違いがある。,名詞の複数形 fundamentals は「基礎」。
+E04099,1,2,knee,名詞,ひざ,the joint in the middle of the leg,He hurt his knee playing football.,彼はサッカーでひざを痛めた。,k は発音しない（ニー）。
+E04100,1,2,shore,名詞,岸、海岸,the land along the edge of a sea or lake,We walked along the shore at sunset.,日没時に岸辺を歩いた。,coast は地理的な海岸線、shore は水際。
+E04101,1,2,faculty,名詞,（大学の）学部、教員、能力,a department of a university; the teaching staff; an ability,She joined the faculty of engineering.,彼女は工学部に加わった。,the faculty of speech は「話す能力」。
+E04102,1,2,trailer,名詞,トレーラー、予告編,a vehicle pulled by another; a short advertisement for a film,The trailer was hitched to the truck.,トレーラーがトラックに連結された。,映画の「予告編」も trailer。
+E04103,1,2,mask,名詞,マスク、仮面,a covering worn over the face,Everyone wore a mask in the clean room.,クリーンルームでは全員がマスクを着けた。,動詞で「隠す」（mask a smell）。
+E04104,1,2,head off,熟語,（悪い事態を）未然に防ぐ,to prevent something from happening,We headed off the problem with an early check.,早めの点検で問題を未然に防いだ。,「出発する」の意味でも使う。
+E04105,1,2,off the top of my head,慣用句,（調べずに）思いつきで言うと,without checking or thinking carefully,"Off the top of my head, about thirty cases.",ぱっと思いつく限りでは30件ほどです。,正確でないことを断るときの前置き。
+E04106,1,2,petition,名詞,請願、嘆願書,a formal written request signed by many people,They filed a petition with the city.,彼らは市に請願書を提出した。,動詞でも使う（petition the court）。
+E04107,1,2,cape,名詞,岬、ケープ（外套）,a piece of land sticking out into the sea; a loose coat,The lighthouse stands on the cape.,灯台は岬に立っている。,衣類の「ケープ」も同じつづり。
+E04108,1,2,seal,名詞,封印、密閉、アザラシ,something that closes an opening tightly; a sea animal,Check the rubber seal on the lid.,ふたのゴムパッキンを確認してください。,動詞で「密閉する」「取り決める」。
+E04109,1,2,throat,名詞,のど,the front part of the neck; the passage to the stomach,I have a sore throat today.,今日はのどが痛い。,clear one's throat は「せき払いする」。
+E04110,1,2,try out,熟語,試してみる,to test something to see if it works or suits you,Let's try out the new template first.,まず新しい様式を試してみよう。,名詞の tryout は「選考会」。
+E04111,1,2,few and far between,慣用句,めったにない、まれな,rare; not happening often,Chances like this are few and far between.,こんな機会はめったにない。,主語は複数扱い。
+E04112,1,2,awkward,形容詞,気まずい、扱いにくい,causing difficulty or embarrassment,There was an awkward silence.,気まずい沈黙が流れた。,形が扱いにくい物にも使う。
+E04113,1,2,franchise,名詞,フランチャイズ、営業権,the right to sell a company's goods in a particular area,They bought a coffee shop franchise.,彼らはコーヒー店のフランチャイズ権を買った。,「選挙権」という古い意味もある。
+E04114,1,2,clay,名詞,粘土,heavy sticky earth used for making pots and bricks,The pot is made of baked clay.,そのつぼは焼いた粘土でできている。,clay court はテニスの土のコート。
+E04115,1,2,loop,名詞,輪、ループ,a shape made by a line curving back to cross itself,Tie the rope in a loop.,ロープを輪にして結んでください。,in the loop は「情報を共有している」。
+E04116,1,2,sole,形容詞,唯一の、単独の,being the only one,She is the sole owner of the shop.,彼女がその店の唯一の所有者だ。,名詞では「足の裏」「舌平目」。
+E04117,1,2,line up,熟語,並ぶ、手配する,to form a line; to arrange something in advance,We lined up three speakers for the event.,催しに向けて講演者を3人手配した。,名詞の lineup は「顔ぶれ」。
+E04118,1,2,run out of,熟語,～を切らす、使い果たす,to use all of something and have none left,We ran out of paper halfway through.,途中で紙を切らしてしまった。,run out（尽きる）は自動詞。
+E04119,1,2,bass,名詞,低音、ベース,the lowest range of musical sound,Turn the bass down a little.,低音を少し下げてください。,発音はベイス。魚の「バス」は発音がバス。
+E04120,1,2,globe,名詞,地球、地球儀、球,the world; a round model of the earth,Their products sell across the globe.,彼らの製品は世界中で売れている。,global（世界的な）の名詞形。
+E04121,1,2,knight,名詞,騎士、ナイト,a soldier of high rank in the Middle Ages,The knight rode into the castle.,騎士は城へ馬で入っていった。,k は発音しない。チェスの駒でもある。
+E04122,1,2,specialist,名詞,専門家、専門医,a person with special knowledge of a subject,We called in a network specialist.,ネットワークの専門家を呼んだ。,医療では「専門医」。
+E04123,1,2,tourism,名詞,観光、観光業,the business of providing services for people on holiday,Tourism is the island's main industry.,観光がその島の主要産業だ。,tourist（観光客）から。
+E04124,1,2,quest,名詞,探求、追求,a long search for something important,The quest for a cure continues.,治療法の探求は続いている。,in quest of は「～を求めて」。
+E04125,1,2,pit,名詞,穴、くぼみ、坑,a large hole in the ground,They dug a pit for the foundation.,彼らは基礎のために穴を掘った。,果物の「種」の意味もある（米）。
+E04126,1,2,weed,名詞,雑草,a wild plant growing where it is not wanted,The garden is full of weeds.,庭は雑草だらけだ。,動詞で weed out（不要なものを除く）。
+E04127,1,2,opera,名詞,オペラ、歌劇,a play in which the words are sung,We went to the opera on Saturday.,土曜日にオペラを見に行った。,soap opera は連続ドラマ。
+E04128,1,2,venture,名詞,冒険的な事業、ベンチャー,a new business activity that involves risk,The joint venture starts next April.,その合弁事業は来年4月に始まる。,動詞で「思い切って～する」。
+E04129,1,2,fiscal,形容詞,会計の、財政の,relating to government money or taxes,The fiscal year ends in March.,会計年度は3月に終わる。,fiscal policy は財政政策。
+E04130,1,2,brick,名詞,れんが,a hard block of baked clay used for building,The wall is made of red brick.,その壁は赤れんがでできている。,hit a brick wall は「行き詰まる」。
+E04131,1,2,lion,名詞,ライオン、獅子,a large wild cat living in Africa,Lions live in family groups.,ライオンは家族の群れで暮らす。,雌は lioness。
+E04132,1,2,pipe,名詞,管、パイプ,a tube through which liquid or gas flows,The water pipe burst in the cold.,寒さで水道管が破裂した。,動詞で「配管する」「送る」。
+E04133,1,2,screw,名詞,ねじ,"a metal pin with a spiral groove, turned to fasten things",Tighten the screw with a screwdriver.,ドライバーでねじを締めてください。,bolt はナットと組む太いねじ。
+E04134,1,2,spider,名詞,くも,a small creature with eight legs that spins webs,A spider spun a web in the corner.,くもが隅に巣を張った。,web crawler を spider とも呼ぶ。
+E04135,1,2,face up to,熟語,（つらい事実を）直視する,to accept and deal with a difficult situation,We must face up to the cost.,費用の問題を直視しなければならない。,逃げずに向き合う、という含み。
+E04136,1,2,face the music,慣用句,結果を受け入れる、報いを受ける,to accept criticism or punishment for what you have done,He had to face the music after the error.,誤りの後、彼は責任を取らざるを得なかった。,舞台に立って批評を受ける、が由来という説。
+E04137,1,2,inspector,名詞,検査官、警部,an official who checks that rules are followed,The inspector visited the plant today.,検査官が今日、工場を訪れた。,警察の階級としても使う。
+E04138,1,2,venue,名詞,会場、開催地,the place where an event happens,We changed the venue to a larger hall.,会場をより大きなホールに変更した。,裁判の「管轄地」の意味もある。
+E04139,1,2,warrant,名詞,令状、正当な理由,an official document giving permission; a good reason,The police obtained a search warrant.,警察は捜索令状を取得した。,動詞で「～に値する」（warrant attention）。
+E04140,1,2,copyright,名詞,著作権,the legal right to publish or copy a work,The images are protected by copyright.,それらの画像は著作権で保護されている。,動詞や形容詞としても使う。
+E04141,1,2,municipal,形容詞,市の、地方自治体の,relating to a town or city government,Municipal services include waste collection.,市の業務にはごみ収集が含まれる。,municipality は自治体。
+E04142,1,2,beneath,前置詞,～の下に,in or to a lower position than something,The pipes run beneath the floor.,配管は床下を通っている。,under より書き言葉向き。
+E04143,1,2,formerly,副詞,以前は、かつて,in the past; before now,The building was formerly a school.,その建物はかつて学校だった。,現在は違う、という含みがある。
+E04144,1,2,asset,名詞,資産、貴重なもの,something valuable that a person or company owns,Her experience is a real asset to the team.,彼女の経験はチームの大きな財産だ。,会計では「資産」。反対は liability。
+E04145,1,2,casual,形容詞,何気ない、略式の、臨時の,not formal; not planned or serious,It was just a casual remark.,それはただの何気ない一言だった。,casual worker は臨時雇い。
+E04146,1,2,coalition,名詞,連立、連合,a union of groups or parties for a common purpose,A coalition government took power.,連立政権が発足した。,政治のほか市民団体の連合にも使う。
+E04147,1,2,palm,名詞,手のひら、ヤシ,the inner surface of the hand; a tropical tree,He held the coin in his palm.,彼は手のひらに硬貨を握っていた。,palm tree はヤシの木。
+E04148,1,2,pole,名詞,棒、柱、極,a long thin piece of wood or metal; the end of an axis,The flag hangs from a tall pole.,旗は高い柱に掲げられている。,the North Pole は北極。
+E04149,1,2,shed,名詞,小屋、物置,a small simple building used for storing things,The tools are kept in the garden shed.,道具は庭の物置にしまってある。,動詞で「（葉や涙を）落とす」。
+E04150,1,2,by the book,慣用句,規則どおりに,exactly according to the rules,He always does things by the book.,彼はいつも規則どおりに事を運ぶ。,融通が利かない、という含みにもなる。
+E04151,1,2,custody,名詞,保管、拘留、親権,the state of being kept or guarded; the right to care for a child,The records are in the custody of the archive.,記録は文書館の保管下にある。,in custody は「拘留中」。
+E04152,1,2,integrity,名詞,誠実さ、完全性,the quality of being honest; the state of being whole,Data integrity is checked every night.,データの完全性は毎晩点検される。,人にも仕組みにも使う。
+E04153,1,2,legitimate,形容詞,正当な、合法の,allowed by law; reasonable and acceptable,That is a legitimate concern.,それはもっともな懸念だ。,動詞では発音が変わる（正当化する）。
+E04154,1,2,slight,形容詞,わずかな、ささいな,small in amount or degree,There was a slight delay in delivery.,納品にわずかな遅れがあった。,副詞 slightly の形でよく使う。
+E04155,1,2,bin,名詞,容器、ごみ箱,a container for storing or throwing away things,Put the used paper in the blue bin.,使用済みの紙は青い箱に入れてください。,イギリスでは「ごみ箱」を指すことが多い。
+E04156,1,2,canal,名詞,運河、水路,a long channel of water made by people,Goods were carried along the canal.,物資は運河を通って運ばれた。,体内の「管」にも使う（ear canal）。
+E04157,1,2,portrait,名詞,肖像画、人物写真,a painting or photograph of a person,A portrait of the founder hangs in the hall.,創業者の肖像画が広間に掛かっている。,用紙の向きの「縦」も portrait。
+E04158,1,2,talk over,熟語,話し合う、相談する,to discuss something thoroughly,Let's talk it over tomorrow.,明日それについて話し合いましょう。,discuss よりくだけた言い方。
+E04159,1,2,fever,名詞,熱、発熱,a body temperature higher than normal,He stayed home with a fever.,彼は熱を出して家にいた。,「熱狂」の意味でも使う。
+E04160,1,2,imperial,形容詞,帝国の、皇室の,relating to an empire or emperor,The imperial palace is open twice a year.,皇居は年に2回公開される。,imperial units はヤード・ポンド法。
+E04161,1,2,fence,名詞,柵、垣根,a barrier made of wood or wire around an area,A wooden fence surrounds the yard.,木の柵が庭を囲んでいる。,sit on the fence は「どっちつかずでいる」。
+E04162,1,2,nail,名詞,くぎ、つめ,a thin pointed piece of metal; the hard part on a finger,Hammer the nail into the board.,板にくぎを打ち込んでください。,hit the nail on the head は「的を射る」。
+E04163,1,2,level off,熟語,横ばいになる、安定する,to stop rising or falling and stay steady,Prices leveled off in the second half.,価格は後半に横ばいになった。,level out も同じ意味。
+E04164,1,2,single out,熟語,選び出す、名指しする,to choose one person or thing from a group,She was singled out for praise.,彼女は名指しでほめられた。,よい意味でも悪い意味でも使う。
+E04165,1,2,clinic,名詞,診療所、クリニック,a place where people go for medical treatment or advice,The clinic opens at nine.,診療所は9時に開く。,講習会の意味もある（a writing clinic）。
+E04166,1,2,gradually,副詞,徐々に、少しずつ,"slowly, over a period of time",The system was gradually replaced.,そのシステムは徐々に置き換えられた。,suddenly の反対。
+E04167,1,2,repeatedly,副詞,繰り返して、何度も,many times,We repeatedly asked for a reply.,私たちは何度も返答を求めた。,again and again の1語版。
+E04168,1,2,patch,名詞,当て布、区画、修正プログラム,a small piece used to cover a hole; a small area,Apply the security patch tonight.,今夜、セキュリティ修正を適用してください。,IT の「パッチ」も同じ語。
+E04169,1,2,pay off,熟語,報われる、完済する,to bring a good result; to finish paying a debt,The extra testing paid off.,追加の試験は報われた。,名詞の payoff は「見返り」。
+E04170,1,2,solely,副詞,もっぱら、単独で,only; not involving anyone or anything else,The decision rests solely with the manager.,決定は部長ひとりに委ねられている。,only より硬い言い方。
+E04171,1,2,villa,名詞,別荘、屋敷,"a large country house, often for holidays",They rented a villa by the lake.,彼らは湖畔の別荘を借りた。,地中海地方の家によく使う。
+E04172,1,2,bulk,名詞,大部分、かさ,the main part of something; large size,The bulk of the work is done.,仕事の大部分は終わっている。,in bulk は「大量に」。
+E04173,1,2,census,名詞,国勢調査,an official count of the people in a country,The census is taken every five years.,国勢調査は5年ごとに行われる。,take a census（調査を行う）。
+E04174,1,2,mar,動詞,損なう、傷つける,to spoil the appearance or quality of something,A scratch marred the new panel.,傷が新しい板の見た目を損ねた。,spoil より書き言葉向き。
+E04175,1,2,scenario,名詞,筋書き、想定,a description of how things might happen,"In the worst scenario, we lose a day.",最悪の想定では1日を失う。,映画の脚本の意味もある。
+E04176,1,2,blade,名詞,刃、羽根,the flat cutting part of a knife or tool,Replace the blade when it gets dull.,切れ味が落ちたら刃を交換してください。,扇風機の羽根も blade。
+E04177,1,2,corn,名詞,とうもろこし、穀物,a tall plant with yellow seeds; grain,The field is planted with corn.,畑にはとうもろこしが植えられている。,イギリスでは麦などの穀物全般。
+E04178,1,2,ram,名詞,雄羊、衝角,a male sheep,The ram lowered its head.,雄羊は頭を下げた。,動詞で「激しくぶつける」。
+E04179,1,2,partially,副詞,部分的に、一部,not completely; in part,The road is partially closed.,その道路は一部通行止めだ。,partly とほぼ同義。
+E04180,1,2,win over,熟語,説得して味方につける,to persuade someone to support you,She won over the whole committee.,彼女は委員会全体を味方につけた。,時間をかけて心を動かす感じ。
+E04181,1,2,bias,名詞,偏り、先入観,an unfair preference for or against something,We checked the data for bias.,データに偏りがないか確認した。,動詞で「偏らせる」。
+E04182,1,2,reserved,形容詞,控えめな、予約済みの,not showing feelings openly; kept for someone,This seat is reserved.,この席は予約済みです。,人柄について言うと「口数の少ない」。
+E04183,1,2,carpet,名詞,じゅうたん、カーペット,a thick material for covering floors,They laid a new carpet in the office.,事務所に新しいじゅうたんを敷いた。,rug は部分敷きの小さいもの。
+E04184,1,2,cherry,名詞,さくらんぼ、桜,a small round red fruit; the tree it grows on,The cherry trees bloom in April.,桜は4月に咲く。,cherry blossom は桜の花。
+E04185,1,2,grid,名詞,格子、送電網,a pattern of straight lines crossing each other; a power network,The city is laid out on a grid.,その都市は碁盤の目状に区画されている。,power grid は電力網。
+E04186,1,2,oak,名詞,かし、オーク,a large tree with hard wood,The table is made of solid oak.,そのテーブルは無垢のオーク材でできている。,acorn（どんぐり）がなる木。
+E04187,1,2,go along with,熟語,（意見などに）従う、賛成する,to agree with or accept a plan or idea,I will go along with the majority.,私は多数意見に従います。,しぶしぶ従う場合にも使う。
+E04188,1,2,patent,名詞,特許,the official right to be the only maker of an invention,They applied for a patent last year.,彼らは昨年、特許を出願した。,形容詞で「明白な」の意味もある。
+E04189,1,2,physician,名詞,医師、内科医,"a doctor, especially one who is not a surgeon",Consult a physician before taking it.,服用前に医師に相談してください。,surgeon は外科医。
+E04190,1,2,anonymous,形容詞,匿名の、名前のない,with a name that is not known or made public,The survey answers are anonymous.,調査の回答は匿名です。,anonymity は「匿名性」。
+E04191,1,2,contrary,形容詞,反対の、逆の,opposite in nature or direction,We found the contrary result.,私たちは逆の結果を得た。,on the contrary は「それどころか」。
+E04192,1,2,couch,名詞,ソファー、長いす,a long comfortable seat for two or more people,He fell asleep on the couch.,彼はソファーで眠り込んだ。,sofa とほぼ同じ意味。
+E04193,1,2,dam,名詞,ダム、堰,a wall built across a river to hold back water,The dam supplies water to the city.,そのダムが市に水を供給している。,動詞で「せき止める」。
+E04194,1,2,up in the air,慣用句,未定で、宙に浮いて,not yet decided,The schedule is still up in the air.,日程はまだ未定だ。,undecided のくだけた言い方。
+E04195,1,2,surveillance,名詞,監視、見張り,the careful watching of a person or place,The area is under video surveillance.,その区域は映像で監視されている。,フランス語由来。発音はサーベイランス。
+E04196,1,2,diabetes,名詞,糖尿病,a disease in which the body cannot control blood sugar,He was diagnosed with diabetes.,彼は糖尿病と診断された。,発音はダイアビーティーズ。
+E04197,1,2,simultaneously,副詞,同時に,at the same time,Both machines start simultaneously.,両方の機械が同時に始動する。,simultaneous interpretation は同時通訳。
+E04198,1,2,cinema,名詞,映画館、映画,a building where films are shown; the art of film,We met outside the cinema.,私たちは映画館の前で会った。,アメリカでは movie theater が普通。
+E04199,1,2,indigenous,形容詞,土着の、先住の,originating naturally in a particular place,These plants are indigenous to the island.,これらの植物はその島固有のものだ。,indigenous people は先住民。
+E04200,1,2,marvel,名詞,驚くべきもの、驚嘆,something that causes great surprise and admiration,The bridge is a marvel of engineering.,その橋は工学の驚異だ。,動詞で「驚嘆する」（marvel at）。
+E04201,1,2,close down,熟語,閉鎖する、廃業する,to stop operating permanently,The branch closed down last month.,その支店は先月閉鎖された。,shut down とほぼ同じ意味。
+E04202,1,2,parade,名詞,行進、パレード,a public procession of people celebrating something,The parade passes the station at noon.,行進は正午に駅前を通る。,動詞で「行進する」「見せびらかす」。
+E04203,1,2,premiere,名詞,初演、初公開,the first public performance of a film or play,The premiere is scheduled for June.,初公開は6月の予定だ。,フランス語由来。発音はプレミア。
+E04204,1,2,swift,形容詞,素早い、迅速な,happening quickly or without delay,We need a swift response.,迅速な対応が必要だ。,名詞ではアマツバメという鳥。
+E04205,1,2,protocol,名詞,手順、規約、儀礼,a set of rules for how something must be done,Follow the safety protocol exactly.,安全手順を正確に守ってください。,通信の「プロトコル」も同じ語。
+E04206,1,2,timeline,名詞,日程表、時系列,a plan showing when things will happen,Please share the project timeline.,プロジェクトの日程表を共有してください。,出来事を時間順に並べた図にも使う。
+E04207,1,2,workshop,名詞,作業場、研修会,a room where things are made; a practical training session,We held a two-day workshop on testing.,試験に関する2日間の研修会を開いた。,もとは「工房」の意味。
+E04208,1,2,wait on,熟語,給仕する、～を待つ,to serve food to someone; to wait for something,We are waiting on the final figures.,最終的な数字を待っているところだ。,アメリカ英語では wait for の意味でも使う。
+E04209,1,2,corrupt,形容詞,腐敗した、（データが）壊れた,dishonest; damaged so that it cannot be used,The file appears to be corrupt.,そのファイルは壊れているようだ。,動詞で「堕落させる」「破損させる」。
+E04210,1,2,judicial,形容詞,司法の、裁判の,relating to courts of law or judges,The case is under judicial review.,その件は司法審査中だ。,judicial branch は司法府。
+E04211,1,2,conviction,名詞,確信、有罪判決,a strong belief; a court decision that someone is guilty,She spoke with real conviction.,彼女は強い確信をもって話した。,convince（確信させる）と同語源。
+E04212,1,2,peer,名詞,同僚、同等の人,"a person of the same age, rank or ability",Her work was reviewed by her peers.,彼女の仕事は同僚たちに査読された。,peer review は「査読」。
+E04213,1,2,beam,名詞,梁、光線,a long piece of wood or metal supporting a roof; a ray of light,A steel beam runs across the ceiling.,鋼の梁が天井を横切っている。,動詞で「にっこり笑う」「発信する」。
+E04214,1,2,buffalo,名詞,水牛、バイソン,a large wild animal of the cattle family,A herd of buffalo crossed the river.,水牛の群れが川を渡った。,複数形は buffalo / buffaloes の両方。
+E04215,1,2,pearl,名詞,真珠,a small round white jewel formed inside an oyster,She wore a string of pearls.,彼女は真珠のネックレスを着けていた。,mother-of-pearl は真珠層。
+E04216,1,2,pepper,名詞,こしょう、ピーマン,a hot-tasting powder used in cooking; a vegetable,Add salt and pepper to taste.,お好みで塩とこしょうを加えてください。,bell pepper はピーマン。
+E04217,1,2,plug,名詞,プラグ、栓,a device for connecting to electricity; something that fills a hole,Pull the plug out of the socket.,コンセントからプラグを抜いてください。,pull the plug は「打ち切る」。
+E04218,1,2,rod,名詞,棒、さお,a thin straight bar of wood or metal,The curtain hangs on a metal rod.,カーテンは金属の棒に掛かっている。,fishing rod は釣りざお。
+E04219,1,2,thunder,名詞,雷、雷鳴,the loud noise that follows lightning,Thunder rumbled in the distance.,遠くで雷が鳴った。,lightning は稲光のほう。
+E04220,1,2,migration,名詞,移住、移行,the movement of people or animals to a new place,The data migration takes one night.,データ移行には一晩かかる。,IT の「移行」にもよく使う。
+E04221,1,2,trauma,名詞,外傷、心的外傷,a serious injury; a shocking experience,The accident left lasting trauma.,その事故は長く残る心の傷を残した。,発音はトラウマまたはトローマ。
+E04222,1,2,haven,名詞,避難所、安息の地,a safe place,The library is a haven for students.,図書館は学生の安息の場だ。,tax haven は租税回避地。
+E04223,1,2,keen,形容詞,熱心な、鋭い,very interested; sharp,He is keen to learn the new tool.,彼は新しい道具を学ぶことに熱心だ。,a keen sense of smell は「鋭い嗅覚」。
+E04224,1,2,cabin,名詞,小屋、（船や飛行機の）客室,a small simple house; a room on a ship or plane,We stayed in a log cabin.,私たちは丸太小屋に泊まった。,cabin crew は客室乗務員。
+E04225,1,2,cage,名詞,かご、おり,a container with bars for keeping animals,The bird flew out of the cage.,鳥がかごから飛び出した。,動詞で「閉じ込める」。
+E04226,1,2,closet,名詞,戸棚、押し入れ,a small room or cupboard for storing clothes,Hang your coat in the closet.,コートは押し入れに掛けてください。,アメリカ英語。イギリスでは wardrobe。
+E04227,1,2,eagle,名詞,わし,a large strong bird that hunts other animals,An eagle circled above the valley.,わしが谷の上を旋回した。,ゴルフでは基準より2打少ないこと。
+E04228,1,2,light up,熟語,明るくなる、照らす,to become bright; to make something bright,The screen lit up when I touched it.,触れると画面が明るくなった。,顔がぱっと輝く意味でも使う。
+E04229,1,2,long story short,慣用句,手短に言うと,to explain something briefly,"Long story short, we finished on time.",手短に言えば、予定どおりに終わりました。,to make a long story short の省略形。
+E04230,1,2,surgeon,名詞,外科医,a doctor who performs operations,The surgeon explained the procedure.,外科医が手術の手順を説明した。,surgery は手術・診療所。
+E04231,1,2,banner,名詞,横断幕、バナー,a long piece of cloth with a message on it,A banner hung above the entrance.,入り口の上に横断幕が掛かっていた。,ウェブの「バナー広告」も同じ語。
+E04232,1,2,charm,名詞,魅力、お守り,a quality that pleases people; a small object for luck,The old town has a quiet charm.,その旧市街には静かな趣がある。,動詞で「魅了する」。
+E04233,1,2,jungle,名詞,ジャングル、密林,a thick tropical forest,They hiked through the jungle.,彼らは密林を歩き抜けた。,混沌とした状態の比喩にも使う。
+E04234,1,2,ridge,名詞,尾根、隆起,a long narrow raised part of a surface,We walked along the mountain ridge.,私たちは山の尾根を歩いた。,屋根の棟も ridge。
+E04235,1,2,turn around,熟語,向きを変える、好転させる,to change direction; to make something successful again,New management turned the company around.,新しい経営陣が会社を立て直した。,名詞の turnaround は「立て直し」。
+E04236,1,2,turn to,熟語,頼る、～に向かう,to go to someone for help or advice,She turned to her mentor for advice.,彼女は助言を求めて恩師を頼った。,turn to page 10 なら「10ページを開く」。
+E04237,1,2,turn up,熟語,現れる、（音量を）上げる,to arrive or appear; to increase the volume,He turned up an hour late.,彼は1時間遅れて現れた。,反対は turn down（下げる）。
+E04238,1,2,hybrid,名詞,混成物、ハイブリッド,something made by combining two different things,We use a hybrid of both methods.,両方の方法を組み合わせて使っている。,動植物の交配種にも使う。
+E04239,1,2,drum,名詞,太鼓、ドラム缶,a musical instrument you hit; a large cylindrical container,Oil is stored in metal drums.,油は金属のドラム缶で保管される。,drum up support は「支持を集める」。
+E04240,1,2,grip,名詞,握り、把握,a firm hold on something,Keep a firm grip on the handle.,取っ手をしっかり握ってください。,get a grip は「落ち着く」。
+E04241,1,2,silk,名詞,絹、シルク,a soft smooth cloth made by silkworms,The scarf is pure silk.,そのスカーフは純絹だ。,the Silk Road はシルクロード。
+E04242,1,2,nowadays,副詞,近ごろ、今日では,"at the present time, in contrast with the past",Nowadays most reports are digital.,近ごろは報告書のほとんどが電子だ。,昔と比べる文脈で使う。
+E04243,1,2,ally,名詞,味方、同盟国,a country or person that helps another,We found an ally in the finance team.,経理部に味方を得た。,動詞では ally with（同盟する）。
+E04244,1,2,cliff,名詞,崖,"a high steep rock face, often by the sea",The path runs along the cliff.,小道は崖沿いに続いている。,cliffhanger は「はらはらさせる展開」。
+E04245,1,2,fig,名詞,いちじく,a soft sweet fruit with many small seeds,Dried figs are sold at the market.,干しいちじくが市場で売られている。,fig leaf は「隠すためのもの」の比喩。
+E04246,1,2,hurricane,名詞,ハリケーン、暴風,a violent tropical storm with very strong winds,The hurricane damaged the coast.,ハリケーンが沿岸に被害を与えた。,太平洋では typhoon（台風）と呼ぶ。
+E04247,1,2,lung,名詞,肺,one of the two organs used for breathing,Smoking damages the lungs.,喫煙は肺を傷める。,通例は複数形 lungs で使う。
+E04248,1,2,pine,名詞,松,a tall evergreen tree with needle-shaped leaves,The hills are covered with pine.,丘は松に覆われている。,動詞で「思い焦がれる」（pine for）。
+E04249,1,2,act on,熟語,（助言などに）基づいて行動する,to take action because of information or advice,We acted on her recommendation.,私たちは彼女の勧めに従って動いた。,act on a report（報告を受けて動く）。
+E04250,1,2,jurisdiction,名詞,管轄、司法権,the official power to make legal decisions,That matter is outside our jurisdiction.,その件は当方の管轄外です。,会社の権限範囲の比喩にも使う。
+E04251,1,2,seemingly,副詞,一見したところ、見たところ,"appearing to be true, but perhaps not",The two issues are seemingly unrelated.,2つの問題は一見無関係に見える。,apparently とほぼ同義。
+E04252,1,2,surrender,動詞,降伏する、明け渡す,to stop fighting and admit defeat; to give something up,They surrendered the documents to the court.,彼らは書類を裁判所に引き渡した。,名詞でも同じ形。
+E04253,1,2,dairy,名詞,乳製品、酪農場,milk and products made from milk; a place where milk is processed,She avoids dairy products.,彼女は乳製品を避けている。,diary（日記）とつづりが似ているので注意。
+E04254,1,2,olive,名詞,オリーブ,a small green or black fruit used for oil and food,Add a little olive oil to the pan.,フライパンにオリーブ油を少し加えてください。,olive branch は「和解の申し出」。
+E04255,1,2,skull,名詞,頭蓋骨,the bones of the head,The helmet protects the skull.,ヘルメットは頭蓋骨を守る。,skeleton は骨格全体。
+E04256,1,2,governance,名詞,統治、ガバナンス,the way an organization is controlled and managed,The report reviews corporate governance.,報告書は企業統治を検証している。,government（政府）とは別語なので注意。
+E04257,1,2,thoroughly,副詞,徹底的に、完全に,completely and carefully,Test the change thoroughly before release.,公開前に変更を徹底的に試験してください。,through（通して）と混同しやすい。
+E04258,1,2,basin,名詞,洗面器、盆地,a bowl for water; a low area of land,The river basin is very fertile.,その川の流域は非常に肥沃だ。,地形の「盆地」でもよく使う。
+E04259,1,2,bud,名詞,つぼみ、芽,a small growth on a plant that becomes a flower or leaf,The buds open in early spring.,つぼみは春先に開く。,nip in the bud は「芽のうちに摘む」。
+E04260,1,2,butler,名詞,執事,the chief male servant of a large house,The butler answered the door.,執事が玄関に出た。,housekeeper は家政婦長。
+E04261,1,2,fabric,名詞,布地、構造,cloth; the basic structure of something,The chair is covered in a heavy fabric.,その椅子は厚い布地で覆われている。,the fabric of society は「社会の構造」。
+E04262,1,2,lodge,名詞,山小屋、宿舎,"a small house in the country, often for visitors",We stayed at a ski lodge.,私たちはスキー宿舎に泊まった。,動詞で「（苦情を）申し立てる」。
+E04263,1,2,toll,名詞,通行料、犠牲,a charge for using a road; the amount of damage or deaths,The bridge toll went up last year.,橋の通行料が昨年上がった。,take a toll on は「打撃を与える」。
+E04264,1,2,contractor,名詞,請負業者、契約者,a person or company that does work under a contract,The contractor starts on Monday.,請負業者は月曜に着手する。,subcontractor は下請け。
+E04265,1,2,petty,形容詞,ささいな、けちな,small and unimportant; mean about small things,Let's not argue over petty details.,ささいな点で言い争うのはやめよう。,petty cash は小口現金。
+E04266,1,2,bucket,名詞,バケツ,a round open container with a handle for carrying liquid,Fill the bucket with water.,バケツに水を入れてください。,bucket list は「死ぬまでにやりたいこと」。
+E04267,1,2,nest,名詞,巣,a structure built by a bird for its eggs,Two birds built a nest under the eaves.,2羽の鳥が軒下に巣を作った。,nested（入れ子の）は IT でも使う。
+E04268,1,2,rainbow,名詞,虹,a curved band of colours in the sky after rain,A rainbow appeared over the hills.,丘の上に虹が現れた。,rainbow-colored は「虹色の」。
+E04269,1,2,reed,名詞,あし、（楽器の）リード,a tall plant growing near water,Reeds grow along the riverbank.,川岸にあしが生えている。,クラリネットのリードも同じ語。
+E04270,1,2,toe,名詞,足の指、つま先,one of the five parts at the end of the foot,He stubbed his toe on the step.,彼は段差で足の指をぶつけた。,on one's toes は「気を抜かないで」。
+E04271,1,2,matrix,名詞,行列、母体,a rectangular arrangement of numbers; something that gives origin,The results are shown in a matrix.,結果は行列の形で示されている。,複数形は matrices。
+E04272,1,2,altogether,副詞,全部で、まったく,completely; in total,That is altogether a different problem.,それはまったく別の問題だ。,all together（みんな一緒に）とは別。
+E04273,1,2,intimate,形容詞,親密な、詳しい,very close; detailed and deep,He has an intimate knowledge of the system.,彼はその仕組みを細部まで知っている。,動詞では「ほのめかす」で発音が変わる。
+E04274,1,2,martial,形容詞,軍の、武の,relating to war or the army,Martial arts are taught after school.,武道は放課後に教えられている。,martial law は戒厳令。
+E04275,1,2,rope,名詞,ロープ、綱,very thick strong string,Tie the boxes with rope.,箱をロープで縛ってください。,learn the ropes は「こつを覚える」。
+E04276,1,2,pulse,名詞,脈拍、鼓動,the regular beat of blood in the body,The nurse checked his pulse.,看護師が彼の脈を測った。,電気の「パルス」も同じ語。
+E04277,1,2,allegedly,副詞,伝えられるところでは,"according to what people say, though not proved",The device allegedly failed twice.,伝えられるところでは、その装置は2回故障した。,報道で「容疑」の段階を示すのに使う。
+E04278,1,2,exceptional,形容詞,並外れた、例外的な,unusually good; not typical,Her attention to detail is exceptional.,彼女の細部への注意は並外れている。,exception（例外）の形容詞形。
+E04279,1,2,foul,形容詞,不快な、反則の,very unpleasant; against the rules,There was a foul smell in the room.,部屋にいやなにおいがした。,スポーツの「ファウル」も同じ語。
+E04280,1,2,brass,名詞,真ちゅう、金管楽器,a yellow metal made of copper and zinc,The door handle is polished brass.,ドアの取っ手は磨いた真ちゅうだ。,brass band は吹奏楽団。
+E04281,1,2,lamp,名詞,ランプ、電気スタンド,a device that gives light,Turn on the desk lamp.,机の電気スタンドをつけてください。,street lamp は街灯。
+E04282,1,2,oven,名詞,オーブン、かまど,a closed box that is heated for cooking,Preheat the oven to 200 degrees.,オーブンを200度に予熱してください。,発音はアヴン。
+E04283,1,2,stack,名詞,積み重ね、山,a neat pile of things one on top of another,A stack of documents sat on the desk.,書類の山が机に置かれていた。,IT の「スタック」も同じ語。
+E04284,1,2,tent,名詞,テント,a shelter made of cloth held up by poles,They pitched the tent near the river.,彼らは川の近くにテントを張った。,pitch a tent がテントを張るの定型。
+E04285,1,2,tide,名詞,潮、潮流、流れ,the regular rise and fall of the sea,The tide comes in twice a day.,潮は1日に2回満ちる。,the tide of opinion は「世論の流れ」。
+E04286,1,2,proceeds,名詞,収益、売上金,the money received from an event or sale,The proceeds go to charity.,収益は慈善団体に寄付される。,常に複数形で使う。
+E04287,1,2,withdrawal,名詞,引き出し、撤退,the act of taking money out or moving back,He made a cash withdrawal at the bank.,彼は銀行で現金を引き出した。,withdraw の名詞形。
+E04288,1,2,frankly,副詞,率直に言って,in an open and honest way,"Frankly, the plan needs more work.",率直に言って、その計画はもっと詰めが必要だ。,文頭で意見の前置きに使う。
+E04289,1,2,donate,動詞,寄付する、提供する,to give money or goods to help an organization,The company donated ten computers.,その会社はパソコンを10台寄付した。,名詞は donation。
+E04290,1,2,collar,名詞,襟、首輪,the part of a shirt around the neck,His collar was neatly pressed.,彼の襟はきれいにアイロンがけされていた。,white-collar は事務職。
+E04291,1,2,sketch,名詞,下絵、概略,a quick simple drawing; a short description,He drew a sketch of the layout.,彼は配置の下絵を描いた。,動詞で「素描する」「概略を述べる」。
+E04292,1,2,cut back on,熟語,（量を）減らす、削減する,to reduce the amount of something,We cut back on overtime this quarter.,今期は残業を減らした。,cut back だけでも使える。
+E04293,1,2,cut down on,熟語,（消費を）控える、減らす,to consume or use less of something,She cut down on sugar.,彼女は砂糖を控えた。,cut back on とほぼ同義。
+E04294,1,2,take on board,熟語,（意見を）受け入れる、考慮に入れる,to accept and consider an idea or advice,We took your comments on board.,いただいた意見は受け止めました。,イギリス英語でよく使う。
+E04295,1,2,across the board,慣用句,全面的に、一律に,affecting everyone or everything equally,Prices rose across the board.,価格は全面的に上がった。,賃金・料金の話でよく使う。
+E04296,1,2,finale,名詞,（劇や曲の）終幕、フィナーレ,the last part of a performance or event,The finale drew a standing ovation.,終幕は総立ちの拍手を浴びた。,イタリア語由来。発音はフィナーリ。
+E04297,1,2,essence,名詞,本質、精髄,the most important quality of something,The essence of the problem is timing.,問題の本質は時期だ。,in essence は「要するに」。
+E04298,1,2,modest,形容詞,控えめな、ささやかな,not large; not boastful,We saw a modest increase in sales.,売上はわずかな伸びを見せた。,人柄では「謙虚な」。
+E04299,1,2,sentiment,名詞,感情、心情、世論,a feeling or opinion about something,Market sentiment turned negative.,市場心理は弱気に転じた。,sentimental は「感傷的な」。
+E04300,1,2,fork,名詞,フォーク、分岐,a tool with points for eating; a place where a road divides,Take the left fork after the bridge.,橋を過ぎたら左の分岐を進んでください。,IT では「フォーク（分岐）」にも使う。

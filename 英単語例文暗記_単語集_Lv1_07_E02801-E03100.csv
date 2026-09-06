@@ -1,0 +1,301 @@
+登録NO,枝番,レベル,英単語,品詞,意味(日本語),意味(英語),例文(英語),例文(日本語),解説
+E02801,1,1,namely,副詞,すなわち,that is to say,"One thing is missing, namely the date.",一つ抜けている。日付だ。,具体名を挙げるときに使う。
+E02802,1,1,nonetheless,副詞,それでもなお,in spite of that,"Nonetheless, we shipped it.",それでも出した。,nevertheless と同じ意味。
+E02803,1,1,primarily,副詞,主に,mainly,It is primarily a display issue.,それは主に表示の問題だ。,形容詞は primary。
+E02804,1,1,regardless,副詞,それでも、かまわず,without paying attention to,Proceed regardless of the warning.,警告があっても進める。,regardless of の形。
+E02805,1,1,relatively,副詞,比較的,in comparison,It is relatively fast.,それは比較的速い。,形容詞は relative。
+E02806,1,1,respectively,副詞,それぞれ,in the order mentioned,The values are 3 and 5 respectively.,値はそれぞれ3と5だ。,並べた順に対応させる語。
+E02807,1,1,virtually,副詞,事実上、ほぼ,almost completely,It is virtually the same.,それはほぼ同じだ。,形容詞は virtual（仮想の）。
+E02808,1,1,accelerate,動詞,加速する,to go faster,We accelerated the schedule.,日程を前倒しにした。,反対は decelerate。
+E02809,1,1,alert,動詞,警告する,to warn,The system alerts on failure.,その仕組みは失敗時に知らせる。,名詞では「警報」。
+E02810,1,1,amuse,動詞,楽しませる,to make someone laugh,The demo amused the audience.,その実演は聴衆を楽しませた。,形容詞は amusing / amused。
+E02811,1,1,annoy,動詞,いらだたせる,to make slightly angry,Pop-ups annoy users.,飛び出す窓は利用者をいらだたせる。,形容詞は annoying。
+E02812,1,1,arouse,動詞,引き起こす、目覚めさせる,to cause a feeling,It aroused some concern.,それは多少の懸念を呼んだ。,arise（生じる）と混同しやすい。
+E02813,1,1,bid,動詞,入札する,to offer a price,Three firms bid for the work.,3社がその仕事に入札した。,過去形も bid。名詞では「入札」。
+E02814,1,1,blend,動詞,混ぜ合わせる,to mix smoothly,Blend the two lists into one.,その2つの一覧を溶け合わせる。,名詞でも「混合」。
+E02815,1,1,boast,動詞,自慢する,to talk proudly,Do not boast about the numbers.,その数字を自慢しないこと。,名詞でも「自慢」。
+E02816,1,1,cling,動詞,しがみつく,to hold tightly,Do not cling to the old design.,古い設計に執着しないこと。,cling to の形。過去形は clung。
+E02817,1,1,compensate,動詞,補償する、埋め合わせる,to make up for,Extra RAM compensates for slow disks.,記憶を増やせば遅い装置を補える。,名詞は compensation。
+E02818,1,1,compile,動詞,編集する、コンパイルする,to put together or translate code,Compile the list from three files.,3つのファイルから一覧をまとめる。,名詞は compiler。
+E02819,1,1,conclude,動詞,結論づける、終える,to decide or finish,We concluded that it is safe.,安全だと結論した。,名詞は conclusion。
+E02820,1,1,confess,動詞,白状する,to admit something bad,I confess I skipped that test.,その試験を飛ばしたことを白状します。,名詞は confession。
+E02821,1,1,confuse,動詞,混乱させる、混同する,to mix up,Do not confuse the two IDs.,その2つの識別子を混同しないこと。,名詞は confusion。
+E02822,1,1,conserve,動詞,保存する、節約する,to keep from being wasted,Conserve battery on the road.,外では電池を節約する。,名詞は conservation。
+E02823,1,1,convey,動詞,伝える,to make known,The chart conveys it better.,その図のほうがよく伝わる。,「運ぶ」の意味もある。
+E02824,1,1,crush,動詞,押しつぶす,to press very hard,Do not crush the packaging.,梱包をつぶさないこと。,名詞では「圧搾、片思い」。
+E02825,1,1,dampen,動詞,そぐ、湿らせる,to make less strong,The delay dampened enthusiasm.,遅れが熱意をそいだ。,形容詞は damp（湿った）。
+E02826,1,1,decorate,動詞,飾る,to make more attractive,Do not decorate the report.,報告書を飾り立てないこと。,名詞は decoration。
+E02827,1,1,deduct,動詞,差し引く,to take away an amount,Tax is deducted at source.,税は源泉で差し引かれる。,名詞は deduction。
+E02828,1,1,defeat,動詞,打ち負かす,to win against,Complexity defeated the plan.,複雑さが計画を打ち砕いた。,名詞でも「敗北」。
+E02829,1,1,delegate,動詞,委任する,to give a task to someone,Delegate the routine checks.,決まった確認は任せる。,名詞では「代表者」。
+E02830,1,1,depict,動詞,描く、表す,to show in a picture or words,The diagram depicts the flow.,その図は流れを表している。,名詞は depiction。
+E02831,1,1,descend,動詞,下る,to go down,The numbers descend by month.,その数字は月ごとに下がる。,反対は ascend。
+E02832,1,1,despise,動詞,軽蔑する,to hate strongly,He despises manual work.,彼は手作業をひどく嫌う。,hate よりかたい語。
+E02833,1,1,detach,動詞,取り外す,to separate,Detach the cable before moving.,動かす前に線を外す。,反対は attach。
+E02834,1,1,devise,動詞,考案する,to invent a plan,We devised a simpler check.,もっと単純な確認を考え出した。,名詞 device と発音が違う。
+E02835,1,1,dictate,動詞,指示する、書き取らせる,to say what must happen,The policy dictates the format.,その方針が書式を決める。,名詞は dictation。
+E02836,1,1,digest,動詞,消化する、要約する,to break down or summarize,Digest the report before the call.,通話の前に報告を頭に入れる。,名詞では「要約」で発音が変わる。
+E02837,1,1,dilute,動詞,薄める,to make weaker,Do not dilute the message.,伝えたいことをぼやけさせないこと。,名詞は dilution。
+E02838,1,1,discard,動詞,捨てる,to throw away,Discard the draft and start over.,下書きを捨ててやり直す。,IT では「破棄する」。
+E02839,1,1,discourage,動詞,思いとどまらせる,to make less willing,We discourage direct edits.,直接の書き換えは勧めていない。,反対は encourage。
+E02840,1,1,distract,動詞,気を散らす,to take attention away,Notifications distract the team.,通知が班の気を散らす。,名詞は distraction。
+E02841,1,1,distort,動詞,ゆがめる,to change the true shape,Scaling distorts the image.,拡大縮小で画像がゆがむ。,名詞は distortion。
+E02842,1,1,dominate,動詞,支配する,to have control over,One vendor dominates the market.,1社がその市場を占めている。,形容詞は dominant。
+E02843,1,1,drain,動詞,排出する、消耗させる,to empty or use up,The job drains the battery.,その処理は電池を消耗させる。,名詞では「排水口」。
+E02844,1,1,embrace,動詞,受け入れる、抱きしめる,to accept willingly,Embrace small releases.,小刻みな公開を受け入れる。,「抱擁する」の意味もある。
+E02845,1,1,endure,動詞,耐える,to suffer patiently,The design endured the load.,その設計は負荷に耐えた。,形容詞は enduring（長続きする）。
+E02846,1,1,engrave,動詞,刻む,to cut into a surface,The date is engraved on the plate.,日付が板に刻まれている。,名詞は engraving。
+E02847,1,1,erase,動詞,消す,to remove writing,Erase the temporary marks.,仮の印を消す。,名詞は eraser（消しゴム）。
+E02848,1,1,evacuate,動詞,避難させる,to leave a dangerous place,Evacuate the floor at the alarm.,警報が鳴ったら階から避難する。,名詞は evacuation。
+E02849,1,1,exaggerate,動詞,誇張する,to make seem larger,Do not exaggerate the gain.,改善を大げさに言わないこと。,名詞は exaggeration。
+E02850,1,1,excel,動詞,秀でる,to be very good at,She excels at debugging.,彼女は不具合探しに秀でている。,excel at / in の形。
+E02851,1,1,exhibit,動詞,示す、展示する,to show publicly,The log exhibits a clear pattern.,その記録ははっきりした型を示している。,名詞では「展示品」。
+E02852,1,1,expend,動詞,費やす,to use up,We expended two weeks on it.,それに2週間を費やした。,名詞は expenditure。
+E02853,1,1,explode,動詞,爆発する、急増する,to burst or grow fast,The row count exploded.,行数が一気に増えた。,名詞は explosion。
+E02854,1,1,fascinate,動詞,魅了する,to interest greatly,The problem fascinated him.,その問題は彼を引き込んだ。,形容詞は fascinating。
+E02855,1,1,flourish,動詞,栄える,to grow well,The team flourished after the move.,移ってから班は伸びた。,「繁栄する」の意味。
+E02856,1,1,foster,動詞,育む,to help develop,Foster a habit of testing.,試験する習慣を育てる。,「里親になる」の意味もある。
+E02857,1,1,frustrate,動詞,いらだたせる、挫折させる,to prevent or annoy,Slow tools frustrate everyone.,遅い道具は皆をいらだたせる。,名詞は frustration。
+E02858,1,1,govern,動詞,統治する、支配する,to control,This rule governs all files.,この規則が全ファイルを律する。,名詞は government。
+E02859,1,1,grasp,動詞,つかむ、理解する,to hold or understand,I finally grasped the design.,ようやく設計が飲み込めた。,名詞でも「把握」。
+E02860,1,1,halt,動詞,停止する,to stop,The job halted at step three.,その処理は3段階目で止まった。,名詞でも「停止」。
+E02861,1,1,harvest,動詞,収穫する、集める,to gather,Harvest the logs weekly.,記録を毎週集める。,名詞でも「収穫」。
+E02862,1,1,heal,動詞,治す、癒える,to become healthy again,The system self-heals after a crash.,その仕組みは落ちても自分で立て直す。,形容詞は healthy。
+E02863,1,1,hint,動詞,ほのめかす,to suggest indirectly,The message hints at a timeout.,その表示は時間切れをほのめかす。,名詞では「手がかり」。
+E02864,1,1,hook,動詞,引っ掛ける,to attach with a hook,Hook the script into the build.,その台本を組み立てに差し込む。,IT では「フック（差し込み口）」。
+E02865,1,1,ignite,動詞,火をつける,to start burning,That idea ignited the project.,その考えが計画に火をつけた。,名詞は ignition。
+E02866,1,1,imitate,動詞,まねる,to copy the behavior of,Do not imitate bad examples.,悪い例をまねないこと。,名詞は imitation。
+E02867,1,1,immerse,動詞,没頭させる、浸す,to put deeply into,Immerse yourself in the logs.,記録にどっぷり浸かる。,形容詞は immersive。
+E02868,1,1,impair,動詞,損なう,to make worse,Noise impairs the signal.,雑音が信号を損なう。,名詞は impairment。
+E02869,1,1,indulge,動詞,ふける、甘やかす,to allow yourself something,Do not indulge in premature tuning.,早すぎる調整にふけらないこと。,indulge in の形。
+E02870,1,1,infer,動詞,推論する,to work out from evidence,We infer the cause from the log.,記録から原因を推し量る。,名詞は inference。imply と対になる。
+E02871,1,1,inhabit,動詞,住む,to live in,Few people inhabit the island.,その島にはほとんど人が住んでいない。,名詞は inhabitant。
+E02872,1,1,inspire,動詞,刺激する、着想を与える,to give ideas,The talk inspired two changes.,その講演が2つの変更を生んだ。,名詞は inspiration。
+E02873,1,1,intend,動詞,意図する,to plan to do,We intend to ship in May.,5月に出すつもりだ。,名詞は intention。
+E02874,1,1,interfere,動詞,干渉する,to get involved and cause trouble,The plugin interferes with saving.,その追加機能が保存の邪魔をする。,interfere with の形。
+E02875,1,1,invade,動詞,侵入する,to enter by force,Ads invade the reading space.,広告が読む場所を侵している。,名詞は invasion。
+E02876,1,1,lag,動詞,遅れる,to fall behind,The screen lags on old machines.,古い機械では画面が遅れる。,名詞でも「遅れ」。
+E02877,1,1,lament,動詞,嘆く,to express sadness,They lamented the lost data.,彼らは失われた資料を嘆いた。,名詞でも「嘆き」。
+E02878,1,1,linger,動詞,長引く、残る,to stay longer than expected,The bug lingered for months.,その不具合は数か月残った。,「ぐずぐずする」の意味も。
+E02879,1,1,magnify,動詞,拡大する,to make bigger,This magnifies small errors.,これは小さな誤りを大きくする。,名詞は magnification。
+E02880,1,1,mediate,動詞,仲裁する,to help settle a dispute,The manager mediated the dispute.,課長が争いを仲裁した。,名詞は mediation / mediator。
+E02881,1,1,mimic,動詞,まねる,to copy the way of,The test mimics real users.,その試験は実際の利用者をまねる。,過去形は mimicked。
+E02882,1,1,mock,動詞,あざける、模擬する,to make fun of or imitate,We mock the API in tests.,試験では窓口を偽物に差し替える。,IT の「モック」も同じ語。
+E02883,1,1,mount,動詞,取り付ける、載せる,to fix in place,Mount the folder as a drive.,そのフォルダを装置として割り当てる。,名詞では「台、山」。
+E02884,1,1,multiply,動詞,掛ける、増やす,to increase greatly,The cases multiplied overnight.,件数が一晩で膨らんだ。,数学では「掛ける」。
+E02885,1,1,navigate,動詞,たどる、操縦する,to find the way,Navigate to the settings page.,設定の画面へ移動する。,名詞は navigation。
+E02886,1,1,nurture,動詞,育てる,to care for and help grow,Nurture the habit of small commits.,小刻みに記録する習慣を育てる。,名詞でも「養育」。
+E02887,1,1,obscure,動詞,覆い隠す,to make hard to see,The banner obscures the button.,その帯がボタンを隠している。,形容詞では「無名の、曖昧な」。
+E02888,1,1,offset,動詞,相殺する,to balance against,The gain offsets the cost.,その改善が費用を打ち消す。,名詞では「ずれ、相殺」。
+E02889,1,1,oppose,動詞,反対する,to be against,Two members opposed the plan.,2人がその計画に反対した。,名詞は opposition。
+E02890,1,1,overlook,動詞,見落とす、見渡す,to fail to notice,We overlooked one case.,1つの場合を見落とした。,「見渡す」の意味もある。
+E02891,1,1,penetrate,動詞,貫く、浸透する,to go through,The tool penetrated the market slowly.,その道具は徐々に市場へ浸透した。,名詞は penetration。
+E02892,1,1,perceive,動詞,知覚する、とらえる,to become aware of,Users perceive it as slow.,利用者はそれを遅いと感じる。,名詞は perception。
+E02893,1,1,plunge,動詞,急落する、飛び込む,to fall suddenly,Sales plunged in March.,3月に売上が急落した。,名詞でも「急落」。
+E02894,1,1,praise,動詞,ほめる,to say good things about,"Praise the work, not the person.",人ではなく仕事をほめる。,名詞でも「称賛」。
+E02895,1,1,preach,動詞,説く,to give moral advice,Do not preach about clean code.,きれいなコードを説教しないこと。,「説教する」の意味。
+E02896,1,1,presume,動詞,推定する,to think likely,We presume it is fixed.,直ったものと考えている。,名詞は presumption。
+E02897,1,1,prosper,動詞,繁栄する,to be successful,Small tools prosper here.,ここでは小さな道具が育つ。,形容詞は prosperous。
+E02898,1,1,provoke,動詞,引き起こす、怒らせる,to cause a reaction,The wording provoked a reply.,その言い回しが反発を招いた。,名詞は provocation。
+E02899,1,1,purify,動詞,浄化する,to make clean,Purify the data before loading.,取り込む前に資料をきれいにする。,名詞は purification。
+E02900,1,1,radiate,動詞,放射する,to send out from a center,The heat radiates from the case.,熱が筐体から放たれる。,名詞は radiation。
+E02901,1,1,reassure,動詞,安心させる,to make less worried,The status page reassures users.,状況の画面が利用者を安心させる。,名詞は reassurance。
+E02902,1,1,rebuild,動詞,作り直す,to build again,Rebuild the index every night.,索引を毎晩作り直す。,過去形は rebuilt。
+E02903,1,1,reconcile,動詞,照合する、和解させる,to make two things agree,Reconcile the two totals.,その2つの合計を突き合わせる。,名詞は reconciliation。
+E02904,1,1,redeem,動詞,引き換える、償う,to exchange or make up for,Redeem the coupon by June.,6月までに券を引き換える。,名詞は redemption。
+E02905,1,1,refrain,動詞,控える,to stop yourself doing,Please refrain from editing live data.,本番の資料を直接いじるのは控えてください。,refrain from の形。
+E02906,1,1,regenerate,動詞,再生する,to create again,Regenerate the report from source.,元の資料から報告を作り直す。,名詞は regeneration。
+E02907,1,1,reap,動詞,刈り取る、得る,to gain as a result,We reaped the benefit later.,その恩恵は後で受けた。,reap the benefits の形でよく使う。
+E02908,1,1,acceleration,名詞,加速,an increase in speed,Acceleration was hard to sustain.,加速を保つのは難しかった。,動詞は accelerate。
+E02909,1,1,accommodation,名詞,宿泊、便宜,a place to stay,Accommodation is booked.,宿は押さえてある。,動詞は accommodate。
+E02910,1,1,acquisition,名詞,取得、買収,the act of getting,The acquisition closed in May.,その買収は5月に成立した。,動詞は acquire。
+E02911,1,1,administration,名詞,管理、行政,the running of an organization,System administration takes time.,仕組みの管理には時間がかかる。,略して admin。
+E02912,1,1,agriculture,名詞,農業,the growing of crops,Agriculture uses a lot of water.,農業は水を多く使う。,形容詞は agricultural。
+E02913,1,1,alarm,名詞,警報,a warning sound,The alarm sounded at two.,警報は2時に鳴った。,動詞では「驚かせる」。
+E02914,1,1,altitude,名詞,高度,height above sea level,The altitude affects the reading.,高度が測定値に影響する。,attitude（態度）と綴りが似ている。
+E02915,1,1,ancestor,名詞,祖先,a person from an earlier time,This class has one ancestor.,この分類には親が1つある。,反対は descendant。
+E02916,1,1,apparatus,名詞,装置,equipment for a purpose,The apparatus needs power.,その装置には電源が要る。,単複同形。
+E02917,1,1,appliance,名詞,家電、器具,a machine for a home task,The appliance draws little power.,その器具は電力をあまり使わない。,動詞は apply。
+E02918,1,1,architecture,名詞,建築、構造,the design of a building or a system,The architecture is layered.,その構造は層に分かれている。,略して arch。
+E02919,1,1,assurance,名詞,保証、確信,a promise or confidence,Quality assurance runs the tests.,品質保証が試験を担当する。,動詞は assure。
+E02920,1,1,bacteria,名詞,細菌,very small living things,Bacteria grow in warm water.,細菌は温かい水で増える。,単数形は bacterium。
+E02921,1,1,breakthrough,名詞,突破口,an important discovery,The log was the breakthrough.,その記録が突破口だった。,break ＋ through。
+E02922,1,1,cabinet,名詞,戸棚、内閣,a cupboard or a group of ministers,The papers are in the cabinet.,書類は戸棚の中だ。,「内閣」の意味もある。
+E02923,1,1,campaign,名詞,運動、企画,a planned series of actions,The campaign runs for a month.,その企画は1か月続く。,g は発音しない。
+E02924,1,1,capital,名詞,首都、資本、大文字,a main city or money,Use a capital letter here.,ここは大文字にする。,capitol（議事堂）とは別語。
+E02925,1,1,carbon,名詞,炭素,a chemical element,Carbon output is measured yearly.,炭素の排出は毎年測られる。,carbon copy が CC の語源。
+E02926,1,1,cargo,名詞,貨物,goods carried by ship or plane,The cargo arrives Thursday.,貨物は木曜に着く。,複数形は cargoes。
+E02927,1,1,catalog,名詞,目録,a list of items,Search the parts catalog.,部品の目録を検索する。,英式の綴りは catalogue。
+E02928,1,1,cathedral,名詞,大聖堂,a large church,The cathedral dates from 1300.,その大聖堂は1300年からのものだ。,church より大きい建物。
+E02929,1,1,certificate,名詞,証明書,an official document,Renew the server certificate.,サーバの証明書を更新する。,動詞は certify。
+E02930,1,1,chemistry,名詞,化学、相性,the science of substances,The team has good chemistry.,その班は相性が良い。,形容詞は chemical。
+E02931,1,1,circuit,名詞,回路,a path for electricity,The circuit broke at the joint.,回路は継ぎ目で切れた。,short circuit は「短絡」。
+E02932,1,1,civilization,名詞,文明,an advanced society,Writing changed civilization.,文字が文明を変えた。,英式は civilisation。
+E02933,1,1,climate,名詞,気候、風土,the usual weather or atmosphere,The team climate improved.,班の空気が良くなった。,weather は日々の天気。
+E02934,1,1,colony,名詞,植民地、群体,a settled area,The colony gained independence.,その植民地は独立した。,形容詞は colonial。
+E02935,1,1,committee,名詞,委員会,a group chosen to decide,The committee meets monthly.,委員会は毎月開かれる。,t が2つ、e が2つ。
+E02936,1,1,compound,名詞,化合物、複合体,a mixture of parts,It is a compound problem.,それは複合的な問題だ。,動詞では「悪化させる」。
+E02937,1,1,conference,名詞,会議、学会,a large formal meeting,The conference is online this year.,その会議は今年は画面越しだ。,動詞は confer。
+E02938,1,1,consensus,名詞,総意,general agreement,We reached a consensus.,総意に達した。,綴りに注意（-sus）。
+E02939,1,1,constitution,名詞,憲法、構成,the basic laws or make-up,The constitution guarantees it.,憲法がそれを保障している。,動詞は constitute。
+E02940,1,1,continent,名詞,大陸,a large land mass,The service covers three continents.,そのサービスは3大陸に及ぶ。,形容詞は continental。
+E02941,1,1,corporation,名詞,法人、企業,a large company,The corporation was founded in 1950.,その法人は1950年に設立された。,略して Corp.。
+E02942,1,1,corridor,名詞,廊下,a long passage,The meeting spilled into the corridor.,会議は廊下まではみ出した。,「回廊、通路」の意味も。
+E02943,1,1,crime,名詞,犯罪,an illegal act,"That is not a crime, just a mistake.",それは犯罪ではなく単なる誤りだ。,形容詞は criminal。
+E02944,1,1,crop,名詞,作物,plants grown for food,The crop failed this year.,今年は作物が不作だった。,動詞では「切り取る」。
+E02945,1,1,curriculum,名詞,教育課程,a course of study,The curriculum covers ten weeks.,その課程は10週にわたる。,複数形は curricula。
+E02946,1,1,database,名詞,データベース,an organized store of data,The database is read-only.,そのデータベースは読み取り専用だ。,data ＋ base。
+E02947,1,1,debate,名詞,討論,a formal discussion,The debate lasted two hours.,討論は2時間続いた。,動詞でも「討論する」。
+E02948,1,1,democracy,名詞,民主主義,government by the people,Democracy needs information.,民主主義には情報が要る。,形容詞は democratic。
+E02949,1,1,diameter,名詞,直径,the width across a circle,The diameter is ten millimeters.,直径は10ミリだ。,半径は radius。
+E02950,1,1,diet,名詞,食事、国会,what you eat or a parliament,A balanced diet helps focus.,偏りのない食事は集中を助ける。,日本の「国会」も the Diet。
+E02951,1,1,disease,名詞,病気,an illness,The disease spread slowly.,その病はゆっくり広がった。,形容詞は diseased。
+E02952,1,1,dose,名詞,服用量,an amount of medicine,Take one dose after meals.,食後に1回分を飲む。,動詞でも「投与する」。
+E02953,1,1,drug,名詞,薬、麻薬,a medicine or an illegal substance,The drug is sold by prescription.,その薬は処方で売られる。,「麻薬」の意味もある。
+E02954,1,1,ecology,名詞,生態、生態学,the study of living things and their home,Software has its own ecology.,ソフトにも独自の生態系がある。,形容詞は ecological。
+E02955,1,1,economics,名詞,経済学,the study of money and trade,Economics explains the trade-off.,経済学がその取捨を説明する。,学問名は単数扱い。
+E02956,1,1,election,名詞,選挙,a vote to choose someone,The election is in November.,選挙は11月だ。,動詞は elect。
+E02957,1,1,electricity,名詞,電気,energy from charged particles,Electricity costs went up.,電気代が上がった。,形容詞は electric。
+E02958,1,1,empire,名詞,帝国,a group of countries under one rule,The empire fell slowly.,その帝国はゆっくり滅んだ。,形容詞は imperial。
+E02959,1,1,engagement,名詞,関与、婚約、予定,involvement or a promise,User engagement rose.,利用者の関わりが増えた。,動詞は engage。
+E02960,1,1,enterprise,名詞,企業、事業,a business or a bold project,Enterprise tools cost more.,企業向けの道具は高い。,「進取の気性」の意味も。
+E02961,1,1,equation,名詞,方程式、等式,a math statement,Solve the equation for x.,x について方程式を解く。,動詞は equate。
+E02962,1,1,essay,名詞,小論文,a short piece of writing,Write a one-page essay.,1ページの小論を書く。,動詞では「試みる」。
+E02963,1,1,ethics,名詞,倫理,moral principles,Ethics matter in data work.,資料を扱う仕事では倫理が大事だ。,形容詞は ethical。
+E02964,1,1,evolution,名詞,進化,gradual development,The evolution of the tool is slow.,その道具の進化は遅い。,動詞は evolve。
+E02965,1,1,exercise,名詞,運動、練習問題,physical activity or practice,Do the exercise at the end.,章末の練習問題をやる。,動詞でも「行使する」。
+E02966,1,1,expedition,名詞,遠征、探検,an organized journey,The expedition took a month.,その遠征は1か月かかった。,「迅速さ」の意味も。
+E02967,1,1,faith,名詞,信頼、信仰,strong belief,I have faith in the design.,その設計を信じている。,形容詞は faithful。
+E02968,1,1,fatigue,名詞,疲労,extreme tiredness,Alert fatigue is real.,警報の出しすぎは効き目を鈍らせる。,金属では「金属疲労」。
+E02969,1,1,fiction,名詞,作り話、小説,made-up stories,That estimate is fiction.,その見積りは絵空事だ。,反対は nonfiction。
+E02970,1,1,finance,名詞,財務、資金,the management of money,Finance approved the budget.,財務が予算を承認した。,形容詞は financial。
+E02971,1,1,flame,名詞,炎,burning gas,Keep it away from flame.,火気から遠ざけること。,ネットでは「非難の応酬」の意味も。
+E02972,1,1,fossil,名詞,化石,remains preserved in rock,Fossil fuels are limited.,化石燃料には限りがある。,fossil fuel は「化石燃料」。
+E02973,1,1,fund,名詞,資金,money for a purpose,The fund covers two years.,その資金は2年分をまかなう。,動詞でも「資金を出す」。
+E02974,1,1,gene,名詞,遺伝子,a unit of heredity,The gene was identified in 2001.,その遺伝子は2001年に特定された。,形容詞は genetic。
+E02975,1,1,geography,名詞,地理,the study of the earth,Geography affects latency.,地理が遅延に影響する。,形容詞は geographical。
+E02976,1,1,grain,名詞,穀物、粒,seeds of food plants or a tiny piece,Take it with a grain of salt.,話半分に聞いておく。,「木目」の意味もある。
+E02977,1,1,gravity,名詞,重力、重大さ,the force pulling down,The gravity of the issue is clear.,その問題の重大さは明らかだ。,形容詞は grave（重大な）。
+E02978,1,1,harbor,名詞,港,a safe place for ships,The harbor is closed in storms.,嵐のとき港は閉じる。,英式の綴りは harbour。
+E02979,1,1,hazard,名詞,危険,a possible source of harm,Trip hazard on the floor.,床につまずく危険がある。,形容詞は hazardous。
+E02980,1,1,horizon,名詞,地平線、視野,the line where earth meets sky,Broaden your horizons.,視野を広げる。,形容詞は horizontal（水平の）。
+E02981,1,1,humor,名詞,ユーモア,the quality of being funny,A little humor helps a long meeting.,長い会議には少しのユーモアが効く。,英式の綴りは humour。
+E02982,1,1,hypothesis,名詞,仮説,an idea to be tested,Test the hypothesis first.,まず仮説を検証する。,複数形は hypotheses。
+E02983,1,1,immigration,名詞,入国、移住,the act of coming to live,Immigration rules changed.,入国の規則が変わった。,反対は emigration。
+E02984,1,1,import,名詞,輸入、取り込み,goods brought in,The import failed on row 12.,取り込みは12行目で失敗した。,動詞では発音の位置が変わる。
+E02985,1,1,export,名詞,輸出、書き出し,goods sent out,Run the CSV export at five.,5時に CSV の書き出しを回す。,反対は import。
+E02986,1,1,infection,名詞,感染,the act of catching a disease,The infection spread to two machines.,その感染は2台に広がった。,動詞は infect。
+E02987,1,1,ingredient,名詞,材料、要素,one of the parts,Trust is a key ingredient.,信頼が鍵になる要素だ。,料理でよく使う語。
+E02988,1,1,injury,名詞,けが,physical harm,No injuries were reported.,けが人の報告はなかった。,動詞は injure。
+E02989,1,1,institution,名詞,機関、制度,an organization or an established practice,The institution has strict rules.,その機関は規則が厳しい。,動詞は institute。
+E02990,1,1,insurance,名詞,保険,protection against loss,Backups are our insurance.,控えが我々の保険だ。,動詞は insure。
+E02991,1,1,iron,名詞,鉄、アイロン,a hard metal,Strike while the iron is hot.,鉄は熱いうちに打て。,r は弱く発音する。
+E02992,1,1,jury,名詞,陪審,a group that decides in court,The jury reached a verdict.,陪審は評決に達した。,「審査員団」の意味もある。
+E02993,1,1,laundry,名詞,洗濯物,clothes to be washed,Do not air dirty laundry here.,内輪の恥をここでさらさないこと。,「洗濯屋」の意味もある。
+E02994,1,1,literature,名詞,文学、文献,written works,Read the literature first.,まず先行の文献を読む。,形容詞は literary。
+E02995,1,1,mainstream,名詞,主流,the usual way,It joined the mainstream in 2020.,それは2020年に主流に入った。,main ＋ stream。
+E02996,1,1,mammal,名詞,哺乳類,an animal that feeds milk,Whales are mammals.,クジラは哺乳類だ。,形容詞は mammalian。
+E02997,1,1,manufacturer,名詞,製造元,a company that makes goods,Ask the manufacturer for parts.,部品は製造元に頼む。,動詞は manufacture。
+E02998,1,1,mayor,名詞,市長,the head of a city,The mayor opened the site.,市長がその施設を開いた。,major（主要な）とは別語。
+E02999,1,1,medicine,名詞,薬、医学,a drug or the science of healing,Take the medicine after meals.,食後に薬を飲む。,形容詞は medical。
+E03000,1,1,metaphor,名詞,比喩,a figure of speech,The folder is a useful metaphor.,フォルダは便利な比喩だ。,形容詞は metaphorical。
+E03001,1,1,microscope,名詞,顕微鏡,a tool for seeing small things,Look at it under a microscope.,顕微鏡で見る。,micro ＋ scope。
+E03002,1,1,military,名詞,軍,the armed forces,The military uses the same standard.,軍も同じ基準を使っている。,形容詞でも「軍の」。
+E03003,1,1,mineral,名詞,鉱物,a natural solid substance,The mineral is rare here.,その鉱物はここでは珍しい。,mineral water は「鉱水」。
+E03004,1,1,missile,名詞,ミサイル,a weapon that flies,The missile test was announced.,その発射実験は公表された。,「投射物」の意味。
+E03005,1,1,monopoly,名詞,独占,complete control of a market,One firm has a monopoly.,1社が市場を独占している。,形容詞は monopolistic。
+E03006,1,1,mortgage,名詞,住宅ローン,a loan for a house,The mortgage runs 30 years.,その住宅ローンは30年ものだ。,t は発音しない。
+E03007,1,1,nationality,名詞,国籍,the country you belong to,Nationality is not required here.,ここでは国籍は問わない。,名詞は nation。
+E03008,1,1,navy,名詞,海軍,the sea forces,The navy uses the same code.,海軍も同じ符号を使う。,navy blue は「濃紺」。
+E03009,1,1,nerve,名詞,神経、度胸,a fiber carrying signals,It takes nerve to say no.,断るには度胸が要る。,形容詞は nervous。
+E03010,1,1,nutrition,名詞,栄養,the food needed for health,Nutrition affects concentration.,栄養は集中力に影響する。,形容詞は nutritional。
+E03011,1,1,odds,名詞,見込み、勝算,the chance of something,The odds are against us.,分は悪い。,いつも複数形。
+E03012,1,1,orbit,名詞,軌道,a curved path around,The satellite is in orbit.,その衛星は軌道上にある。,動詞でも「周回する」。
+E03013,1,1,outbreak,名詞,発生、勃発,a sudden start of something bad,An outbreak of errors followed.,異常が一斉に起きた。,break out が語源。
+E03014,1,1,oxygen,名詞,酸素,a gas needed for life,Oxygen levels are monitored.,酸素の濃度は監視されている。,記号は O。
+E03015,1,1,parliament,名詞,議会,a group that makes laws,Parliament passed the bill.,議会がその法案を可決した。,ia は発音しない。
+E03016,1,1,particle,名詞,粒子,a very small piece,Dust particles clog the fan.,ほこりの粒が送風機を詰まらせる。,文法では「不変化詞」。
+E03017,1,1,passenger,名詞,乗客,a person traveling,The passenger list is confidential.,乗客の名簿は機密だ。,pass ＋ -enger。
+E03018,1,1,pension,名詞,年金,money paid after retiring,The pension starts at 65.,年金は65歳から始まる。,「下宿」の意味は仏語由来。
+E03019,1,1,pest,名詞,害虫、厄介者,an insect or an annoying thing,That warning is a pest.,その警告は厄介だ。,pesticide は「殺虫剤」。
+E03020,1,1,plot,名詞,筋書き、区画、図,a story line or a graph,Draw a plot of the response times.,応答時間の図を描く。,動詞では「作図する、たくらむ」。
+E03021,1,1,pollution,名詞,汚染,harmful substances in the air or water,Pollution levels dropped.,汚染の度合いが下がった。,動詞は pollute。
+E03022,1,1,portfolio,名詞,作品集、資産構成,a collection of works or investments,Show your portfolio at the interview.,面接で作品集を見せる。,複数形は portfolios。
+E03023,1,1,premise,名詞,前提,an idea taken as true,The premise is wrong.,その前提が誤っている。,複数形 premises は「敷地」。
+E03024,1,1,premium,名詞,割増、保険料,an extra amount,There is a premium for speed.,速さには割増がある。,形容詞でも「上等の」。
+E03025,1,1,prescription,名詞,処方箋,a doctor's written order,The drug needs a prescription.,その薬には処方箋が要る。,動詞は prescribe。
+E03026,1,1,prey,名詞,獲物,an animal hunted,Do not fall prey to hype.,宣伝文句の餌食にならないこと。,pray（祈る）と同音。
+E03027,1,1,prison,名詞,刑務所,a place for criminals,The prison was built in 1890.,その刑務所は1890年に建てられた。,prisoner は「囚人」。
+E03028,1,1,procession,名詞,行列,a line of people moving,A procession of errors followed.,異常が次々と続いた。,動詞は proceed。
+E03029,1,1,province,名詞,州、領域,an area of a country,The province has its own rules.,その州には独自の規則がある。,形容詞は provincial。
+E03030,1,1,psychology,名詞,心理学,the study of the mind,User psychology shapes the design.,利用者の心理が設計を決める。,p は発音しない。
+E03031,1,1,radius,名詞,半径,the distance from center to edge,Search within a 5 km radius.,半径5キロで探す。,複数形は radii。直径は diameter。
+E03032,1,1,ratio,名詞,比率,the relation between two numbers,The ratio is three to one.,その比は3対1だ。,複数形は ratios。
+E03033,1,1,reactor,名詞,原子炉、反応装置,a device where reactions happen,The reactor was shut down.,その炉は停止された。,動詞は react。
+E03034,1,1,realm,名詞,領域、王国,an area of activity,That is outside our realm.,それは我々の領域の外だ。,l は発音しない。
+E03035,1,1,rebellion,名詞,反乱,an act against authority,The change met quiet rebellion.,その変更は静かな抵抗に遭った。,動詞は rebel。
+E03036,1,1,recipe,名詞,調理法、手順,instructions for making,That is a recipe for trouble.,それは面倒のもとだ。,発音は「レシピ」で e を読む。
+E03037,1,1,recession,名詞,景気後退,a period of economic decline,The recession cut budgets.,景気後退で予算が削られた。,動詞は recede。
+E03038,1,1,refugee,名詞,難民,a person who fled danger,Refugee support is coordinated locally.,難民の支援は地元で調整される。,動詞は refuge（避難する）。
+E03039,1,1,registry,名詞,登録簿、レジストリ,an official list,Do not edit the registry by hand.,レジストリを手で書き換えないこと。,動詞は register。
+E03040,1,1,rehearsal,名詞,リハーサル,a practice before a performance,Do a rehearsal of the migration.,移行の予行演習をする。,動詞は rehearse。
+E03041,1,1,reign,名詞,統治期間,the period of a ruler,It survived three reigns.,それは3代を生き延びた。,rain / rein と同音。
+E03042,1,1,remainder,名詞,残り,what is left,The remainder can wait.,残りは後回しでよい。,数学では「余り」。
+E03043,1,1,rental,名詞,賃貸,the act of renting,The rental runs for a year.,その賃貸は1年契約だ。,動詞は rent。
+E03044,1,1,residence,名詞,住居,a place where someone lives,The residence is registered.,その住所は登録されている。,動詞は reside。
+E03045,1,1,retail,名詞,小売,selling to the public,Retail prices include tax.,小売価格は税込みだ。,卸は wholesale。
+E03046,1,1,ritual,名詞,儀式、決まりごと,a set of fixed actions,The daily stand-up is a ritual.,毎日の短い打ち合わせは決まりごとだ。,形容詞でも「儀式の」。
+E03047,1,1,rumor,名詞,うわさ,unconfirmed information,A rumor spread about the merger.,合併のうわさが広まった。,英式の綴りは rumour。
+E03048,1,1,satellite,名詞,衛星,an object orbiting a planet,The satellite link is slow.,衛星回線は遅い。,「支所」の意味でも使う。
+E03049,1,1,scandal,名詞,不祥事,a shocking event,The scandal cost him the job.,その不祥事で彼は職を失った。,形容詞は scandalous。
+E03050,1,1,sculpture,名詞,彫刻,art made by carving,The sculpture stands at the entrance.,その彫刻は入口に立っている。,動詞は sculpt。
+E03051,1,1,shelter,名詞,避難所,a safe place,The shelter opens in storms.,その避難所は嵐のとき開く。,動詞でも「かくまう」。
+E03052,1,1,slot,名詞,枠、差し込み口,a narrow opening or a time period,Book a slot for the review.,見直しの枠を押さえる。,「時間帯」の意味でよく使う。
+E03053,1,1,specimen,名詞,標本、見本,an example for study,Take three specimens.,標本を3つ取る。,sample よりかたい語。
+E03054,1,1,spectrum,名詞,範囲、スペクトル,a range,It covers the whole spectrum.,それは全域をカバーしている。,複数形は spectra。
+E03055,1,1,sphere,名詞,球、領域,a round shape or an area,That is outside my sphere.,それは私の領分の外だ。,形容詞は spherical。
+E03056,1,1,stake,名詞,利害、賭け金、杭,an interest or a risk,The stakes are high here.,ここは失敗の代償が大きい。,stakeholder は「利害関係者」。
+E03057,1,1,statue,名詞,像,a carved or cast figure,The statue was moved indoors.,その像は屋内へ移された。,status（状態）と綴りが似ている。
+E03058,1,1,stem,名詞,茎、語幹,the main part of a plant or a word,The stem of the word is 'act'.,その語の語幹は act だ。,動詞では「由来する、食い止める」。
+E03059,1,1,strand,名詞,より糸、一本,a single thread,Trace one strand at a time.,一筋ずつたどる。,動詞では「立ち往生させる」。
+E03060,1,1,stroke,名詞,一打ち、脳卒中,a hit or a medical event,A stroke of luck saved it.,運の一撃がそれを救った。,「一筆」の意味も。
+E03061,1,1,suburb,名詞,郊外,an area outside a city,They moved to the suburbs.,彼らは郊外へ移った。,形容詞は suburban。
+E03062,1,1,summit,名詞,頂上、首脳会議,the top or a top-level meeting,The summit ended without a deal.,その首脳会議は合意なしに終わった。,「頂上」が本来の意味。
+E03063,1,1,surgery,名詞,手術,medical cutting treatment,The surgery went well.,手術はうまくいった。,英式では「診療所」の意味も。
+E03064,1,1,survival,名詞,生き残り,the act of staying alive,Survival depends on backups.,生き残りは控え次第だ。,動詞は survive。
+E03065,1,1,suspect,名詞,容疑者,a person thought guilty,The cache is the main suspect.,一時保存が一番怪しい。,動詞では発音の位置が変わる。
+E03066,1,1,symptom,名詞,症状、兆候,a sign of a problem,"Slowness is a symptom, not the cause.",遅さは症状であって原因ではない。,p は発音する。
+E03067,1,1,syndrome,名詞,症候群,a set of symptoms,It is a known syndrome.,それは知られた症候群だ。,「一連の傾向」の意味でも使う。
+E03068,1,1,tariff,名詞,関税、料金表,a tax on imports or a price list,The tariff rose last year.,関税は昨年上がった。,r が2つ、f が2つ。
+E03069,1,1,temple,名詞,寺院,a place of worship,The temple opens at dawn.,その寺は夜明けに開く。,「こめかみ」の意味もある。
+E03070,1,1,terminal,名詞,端末、終着駅,an end point or a device,Open a terminal window.,端末の窓を開く。,形容詞では「末期の」。
+E03071,1,1,testimony,名詞,証言,a formal statement,The log is our testimony.,その記録が我々の証言だ。,動詞は testify。
+E03072,1,1,texture,名詞,手触り、質感,the feel of a surface,The texture looks rough on screen.,画面では質感が粗く見える。,形容詞は textured。
+E03073,1,1,theme,名詞,主題、テーマ,a main subject,Pick a theme for the deck.,資料の主題を決める。,「配色」の意味でも使う。
+E03074,1,1,thesis,名詞,論文、主張,a long piece of research,The thesis is 80 pages.,その論文は80ページだ。,複数形は theses。
+E03075,1,1,throne,名詞,王座,a royal seat,The throne passed to his son.,王位は息子に移った。,thrown（投げられた）と同音。
+E03076,1,1,timber,名詞,木材,wood for building,The timber came from abroad.,その木材は海外から来た。,米語では lumber。
+E03077,1,1,tissue,名詞,組織、ティッシュ,body material or soft paper,The tissue sample was tested.,その組織の標本が調べられた。,「ちり紙」の意味も。
+E03078,1,1,tournament,名詞,大会,a competition series,The tournament runs three days.,その大会は3日間だ。,「勝ち抜き戦」。
+E03079,1,1,trader,名詞,商人、トレーダー,a person who buys and sells,The trader closed the position.,その商人は持ち高を閉じた。,動詞は trade。
+E03080,1,1,tradition,名詞,伝統,a long-established custom,It is a team tradition.,それは班の慣わしだ。,形容詞は traditional。
+E03081,1,1,tragedy,名詞,悲劇,a very sad event,It was a tragedy of small errors.,小さな誤りが重なった悲劇だった。,形容詞は tragic。
+E03082,1,1,transit,名詞,輸送、通過,the act of moving through,The goods are in transit.,商品は輸送中だ。,動詞でも「通過する」。
+E03083,1,1,treaty,名詞,条約,a formal agreement between countries,The treaty took years.,その条約には年月がかかった。,「協定」の意味。
+E03084,1,1,tribe,名詞,部族,a social group,Each team becomes a tribe.,どの班も部族のようになる。,形容詞は tribal。
+E03085,1,1,triumph,名詞,勝利,a great success,It was a quiet triumph.,それは静かな勝利だった。,形容詞は triumphant。
+E03086,1,1,tunnel,名詞,トンネル,an underground passage,The tunnel is closed at night.,そのトンネルは夜は閉じる。,IT では「通信のトンネル」。
+E03087,1,1,universe,名詞,宇宙、全体,everything that exists,The test universe is small.,試験の対象全体は小さい。,形容詞は universal。
+E03088,1,1,vacuum,名詞,真空、掃除機,a space with no air,It does not work in a vacuum.,それは孤立しては機能しない。,u が2つ。
+E03089,1,1,valley,名詞,谷,low land between hills,The valley has poor signal.,その谷は電波が悪い。,複数形は valleys。
+E03090,1,1,vessel,名詞,船、容器、血管,a ship or a container,The vessel arrives Friday.,その船は金曜に着く。,「血管」の意味もある。
+E03091,1,1,veteran,名詞,熟練者、退役軍人,an experienced person,A veteran caught the bug.,熟練者がその不具合を見つけた。,形容詞でも「歴戦の」。
+E03092,1,1,virtue,名詞,美徳、長所,a good quality,Patience is a virtue here.,ここでは忍耐が美徳だ。,by virtue of は「～のおかげで」。
+E03093,1,1,virus,名詞,ウイルス,a tiny infectious agent,The virus spread by mail.,そのウイルスはメールで広がった。,複数形は viruses。
+E03094,1,1,volcano,名詞,火山,a mountain that erupts,The volcano closed the airport.,その火山で空港が閉じた。,複数形は volcanoes。
+E03095,1,1,voyage,名詞,航海,a long journey by sea,The voyage took six weeks.,その航海は6週間かかった。,動詞でも「航海する」。
+E03096,1,1,wage,名詞,賃金,money paid by the hour,Wages are paid weekly.,賃金は週ごとに払われる。,月給は salary。
+E03097,1,1,warranty,名詞,保証（書）,a written promise to repair,The warranty covers two years.,保証は2年だ。,guarantee とほぼ同じ意味。
+E03098,1,1,wheel,名詞,車輪、ハンドル,a round part that turns,Do not reinvent the wheel.,車輪の再発明はしないこと。,「ハンドル」も steering wheel。
+E03099,1,1,wire,名詞,針金、電線,a thin metal thread,The wire came loose.,その線がゆるんだ。,動詞では「配線する」。
+E03100,1,1,witness,名詞,目撃者,a person who saw something,The log is the only witness.,唯一の目撃者はその記録だ。,動詞でも「目撃する」。
