@@ -444,7 +444,7 @@ label.f{color:var(--sub); font-size:12px}
 
 <script>
 "use strict";
-const APP_VERSION = "1.0.0";
+const APP_VERSION = "1.0.1";
 const DB_NAME = "eigo_app", DB_VER = 1;   /* ★ 作業時間管理（work_time）とは別の名前。
    IndexedDB は gyokusen.github.io というオリジン単位で分かれ、URL の下の階層では
    分かれない。同じ github.io に置く別アプリは、必ず別の名前にすること。 */
@@ -477,7 +477,7 @@ const CSV_KEYS = ["reg_no","branch_no","level","word","pos","ja","en","ex_en","e
 
 const DEF_CFG = {
   speak_lang:"en-US", speak_rate:0.9, speak_voice:"", speak_auto:1,
-  speak_leadin:15, test_count:20, list_chunk:300
+  speak_leadin:0, test_count:20, list_chunk:300
 };
 
 /* ---------------- 小さな道具 ---------------- */
@@ -689,8 +689,12 @@ async function upsertWords(list, overwrite){
    ★ 声の一覧（getVoices）は、開いた直後は空のことがある。
      空のまま speak すると声が決まらず、**端末の既定＝日本語の声で英語を読む**
      （＝カタカナ発音になる）。そこで、声がそろうまで読み上げを待たせる。
-   ★ しばらく鳴らしていないと音の通り道が閉じ、頭の何文字かが欠ける。
-     本文の直前に「句読点だけの助走」をふつうの音量で積んで開けておく。 */
+   ★ しばらく鳴らしていないと音の通り道が閉じ、頭の何文字かが欠けることがある。
+     その対策が「助走」（本文の直前に句読点だけを積んで通り道を開ける）だが、
+     **スマホの音声エンジンは句読点を「カンマ」と読み上げてしまう**（v1.0.1 で分かった）。
+     Windows の音声合成では無音だったが、端末によって違う。
+     そのため**既定は 0（助走を入れない）**にしてある。頭が欠ける端末では
+     ⚙で秒数を入れて使う（そのとき「カンマ」と聞こえたら 0 に戻す）。 */
 let VOICES = [], VOICE_READY = false, VOICE_USED = null, SPOKE_WARN = false;
 let PENDING = null, VOICE_TRIES = 0;
 const LEADIN_TEXT = ", , ,";
@@ -769,7 +773,7 @@ function showVoice(){
     sel.disabled = !VOICES.length;
   }
 }
-function leadinSec(){ const n = parseInt(CFG.speak_leadin, 10); return isFinite(n) ? n : 15; }
+function leadinSec(){ const n = parseInt(CFG.speak_leadin, 10); return isFinite(n) ? n : 0; }
 function needLeadin(){
   const sec = leadinSec();
   if(sec <= 0) return false;
@@ -1715,8 +1719,10 @@ function openCfgDlg(){
       + '<div><label class="k">速さ</label><select id="cfgRate">'+rateOptions()+"</select></div>"
       + '<div><label class="k">助走（秒）</label><input id="cfgLead" type="number" min="0" max="120" value="'
         + leadinSec() + '" inputmode="numeric"></div></div>'
-    + '<div class="hint">助走：しばらく鳴らしていないと発音の頭が欠けるので、'
-      + "その前に声に出ない句読点を鳴らして音の通り道を開けます。0 で入れません。</div>"
+    + '<div class="hint">助走：発音の頭が欠ける端末で、本文の前に句読点を鳴らして'
+      + "音の通り道を開ける秒数です。<b>既定は 0（入れません）</b>。"
+      + "入れると端末によっては「カンマ」と読み上げてしまうので、"
+      + "そのときは 0 に戻してください。</div>"
     + '<div><label class="k">テストの自動読み上げ</label><select id="cfgAuto">'
       + '<option value="1"'+(CFG.speak_auto?" selected":"")+">する（④は問題／⑤は答えのとき）</option>"
       + '<option value="0"'+(!CFG.speak_auto?" selected":"")+">しない</option></select></div>"
@@ -1828,7 +1834,7 @@ function openCfgDlg(){
 }
 async function saveCfgDlg(){
   const lead = parseInt($("cfgLead").value, 10);
-  CFG.speak_leadin = isFinite(lead) && lead >= 0 ? Math.min(120, lead) : 15;
+  CFG.speak_leadin = isFinite(lead) && lead >= 0 ? Math.min(120, lead) : 0;
   CFG.speak_auto = $("cfgAuto").value === "1" ? 1 : 0;
   const ch = parseInt($("cfgChunk").value, 10);
   CFG.list_chunk = isFinite(ch) && ch >= 50 ? Math.min(5000, ch) : 300;
@@ -1873,6 +1879,13 @@ async function boot(){
   pollVoices();
   await openDB();
   CFG = Object.assign({}, DEF_CFG, await getMeta("cfg", {}));
+  /* v1.0.1：助走の既定を 15 → 0 にした（句読点を「カンマ」と読み上げる端末があるため）。
+     v1.0.0 の既定のまま覚えている端末は、一度だけ 0 に直す。
+     自分で秒数を入れ直した人は、次からそのまま残る。 */
+  if(!(await getMeta("leadin_v101", 0))){
+    if(parseInt(CFG.speak_leadin, 10) === 15){ CFG.speak_leadin = 0; await setMeta("cfg", CFG); }
+    await setMeta("leadin_v101", 1);
+  }
   TEST_PREF = await getMeta("test_pref", {}) || {};
   await loadWords();
   if(!WORDS.length){
