@@ -1,0 +1,301 @@
+登録NO,枝番,レベル,英単語,品詞,意味(日本語),意味(英語),例文(英語),例文(日本語),解説
+E1001,1,1,have,動詞,持っている、（経験を）持つ,to own or hold something,We have three meetings this afternoon.,今日の午後は会議が3つある。,have + 過去分詞 で完了の意味にもなる（I have finished）。
+E1002,1,1,do,動詞,する、行う,to perform an action,What do you do for a living?,お仕事は何をされていますか。,疑問文・否定文を作る助動詞としても使う。
+E1003,1,1,say,動詞,言う、述べる,to speak words,He said that the report was ready.,彼は報告書ができたと言った。,say は「内容」を言う。相手を示すときは say to 人。
+E1004,1,1,go,動詞,行く,to move to another place,I go to the office three days a week.,週に3日は事務所へ行く。,go -ing で「～しに行く」（go shopping）。
+E1005,1,1,get,動詞,手に入れる、～になる,"to obtain, or to become",I got your email this morning.,今朝メールを受け取りました。,意味が非常に広い。get + 形容詞 で「～になる」（get tired）。
+E1006,1,1,make,動詞,作る、～させる,"to create, or to cause someone to do",This tool makes the work much easier.,この道具のおかげで作業がずっと楽になる。,make + 人 + 動詞の原形 で「～させる」。
+E1007,1,1,know,動詞,知っている,to have information in your mind,I do not know the reason yet.,まだ理由が分からない。,進行形にしない動詞（× I am knowing）。
+E1008,1,1,think,動詞,考える、思う,to have an opinion or idea,I think we should wait one more day.,もう1日待つべきだと思う。,think about（あれこれ考える）と think of（思いつく）を区別する。
+E1009,1,1,take,動詞,取る、（時間が）かかる,"to get hold of, or to need time",It takes about ten minutes to build.,ビルドに10分ほどかかる。,It takes + 時間 + to 動詞 の形でよく使う。
+E1010,1,1,see,動詞,見える、分かる,"to notice with your eyes, or to understand",I see what you mean.,おっしゃることは分かります。,意識して見るのは look at、見える状態が see。
+E1011,1,1,come,動詞,来る,to move toward the speaker,The parts will come next Monday.,部品は来週の月曜に届く。,come from ～ で「～の出身だ」。
+E1012,1,1,want,動詞,欲しい、～したい,to wish for something,I want to check the log first.,まずログを確かめたい。,want to 動詞 の形が基本。進行形にしない。
+E1013,1,1,look,動詞,見る、～に見える,"to direct your eyes, or to seem",The numbers look strange.,その数字はおかしく見える。,look at（見る）／look for（探す）／look like（～に似ている）。
+E1014,1,1,use,動詞,使う,to employ something for a purpose,We use Python for all our tools.,ツールはすべて Python で作っている。,名詞の use は「ユース」、動詞は「ユーズ」と濁る。
+E1015,1,1,find,動詞,見つける、分かる,to discover something,I found three errors in the file.,そのファイルに誤りを3つ見つけた。,find out は「調べて分かる」。
+E1016,1,1,give,動詞,与える,to hand something to someone,Please give me a call when you arrive.,着いたら電話をください。,give 人 もの ＝ give もの to 人。
+E1017,1,1,tell,動詞,伝える、話す,to inform someone,Tell me if anything goes wrong.,何かあったら教えてください。,tell は必ず相手を書く（tell 人 こと）。say との違い。
+E1018,1,1,work,動詞,働く、（機械が）動く,"to do a job, or to function",The new script works without errors.,新しいスクリプトはエラーなく動く。,名詞では「仕事」。数えられない名詞。
+E1019,1,1,call,動詞,呼ぶ、電話する,"to telephone, or to name",I will call you after the meeting.,会議のあとで電話します。,call A B で「A を B と呼ぶ」。
+E1020,1,1,try,動詞,試す、努力する,to attempt something,Try restarting the application first.,まずアプリを立ち上げ直してみて。,try to 動詞（努力する）と try -ing（試しにやる）で意味が違う。
+E1021,1,1,ask,動詞,尋ねる、頼む,"to put a question, or to request",She asked me to review the design.,彼女は設計を見てほしいと言ってきた。,ask 人 to 動詞 で「～するよう頼む」。
+E1022,1,1,need,動詞,必要とする,to require something,You need administrator rights for this.,これには管理者権限が要る。,need to 動詞。否定は don't need to（～する必要はない）。
+E1023,1,1,feel,動詞,感じる,to experience an emotion or sensation,I feel that this approach is safer.,こちらのやり方のほうが安全だと感じる。,feel + 形容詞（I feel tired）。feel like -ing は「～したい気分」。
+E1024,1,1,become,動詞,～になる,to start to be something,The tool has become part of our routine.,そのツールは日課の一部になった。,become + 名詞／形容詞。過去形 became、過去分詞 become。
+E1025,1,1,leave,動詞,去る、置いていく,"to go away, or to let something stay",Please leave the file as it is.,そのファイルはそのままにしておいてください。,leave + もの + 状態 で「～のままにする」。
+E1026,1,1,put,動詞,置く,to move something into a place,Put the backup in the shared folder.,控えは共有フォルダに置いてください。,過去形も過去分詞も put のまま。
+E1027,1,1,mean,動詞,意味する、～のつもりだ,"to signify, or to intend",What does this error mean?,このエラーはどういう意味ですか。,I mean … は言い直すときの前置きにも使う。
+E1028,1,1,keep,動詞,保つ、～し続ける,to continue to have or do,Keep the original file just in case.,念のため元のファイルは残しておいて。,keep -ing で「～し続ける」。
+E1029,1,1,let,動詞,～させる、許す,to allow someone to do something,Let me know your schedule.,予定を教えてください。,let + 人 + 動詞の原形。to は付けない。
+E1030,1,1,begin,動詞,始まる、始める,to start,The test begins at nine.,テストは9時に始まる。,start より少し硬い。過去形 began、過去分詞 begun。
+E1031,1,1,seem,動詞,～のように見える,to appear to be,It seems that the server is down.,サーバーが止まっているようだ。,It seems that … の形が便利。
+E1032,1,1,help,動詞,助ける、役に立つ,to make it easier for someone,This note will help new members.,この覚書は新しい人の役に立つ。,help 人 (to) 動詞 の to は省いてよい。
+E1033,1,1,talk,動詞,話す,to speak with someone,Let us talk about it tomorrow.,その件は明日話しましょう。,talk about（話題）／talk to（相手）。
+E1034,1,1,turn,動詞,回す、～になる,"to move around, or to change into",Turn off the machine before you leave.,帰る前に機械の電源を切ってください。,turn on／off（つける・消す）は日常で頻出。
+E1035,1,1,start,動詞,始める、始まる,to begin,We started the project last April.,その案件は去年の4月に始めた。,begin とほぼ同じ。機械を「始動させる」意味は start だけ。
+E1036,1,1,show,動詞,見せる、示す,to let someone see,The log shows what happened.,ログを見れば何が起きたか分かる。,show 人 もの ＝ show もの to 人。
+E1037,1,1,hear,動詞,聞こえる、耳にする,to receive sound with your ears,I heard about the change from Tanaka.,その変更は田中さんから聞いた。,意識して聞くのは listen to、聞こえるのが hear。
+E1038,1,1,play,動詞,遊ぶ、（競技を）する,to take part in a game,The team plays an important role here.,そのチームはここで重要な役割を担っている。,play a role（役割を果たす）は仕事の文章でよく出る。
+E1039,1,1,run,動詞,走る、運営する、（機械を）動かす,"to move fast, or to operate",Run the batch file to build it.,バッチを実行するとビルドできる。,IT では「実行する」の意味で毎日使う。
+E1040,1,1,move,動詞,動く、移す,to change position,We moved the folder to the D drive.,そのフォルダは D ドライブへ移した。,move on は「先へ進む」。
+E1041,1,1,live,動詞,住む、生きる,to have your home somewhere,I live about an hour from the office.,事務所から1時間ほどのところに住んでいる。,形容詞の live（生の）は「ライブ」と発音が変わる。
+E1042,1,1,believe,動詞,信じる、思う,to think something is true,I believe the setting is correct.,その設定で合っていると思う。,think より確信が強い。進行形にしない。
+E1043,1,1,hold,動詞,持つ、（会を）開く,"to carry, or to organize an event",We hold a review every Friday.,毎週金曜に見直しの会を開いている。,Hold on. は電話で「少しお待ちください」。
+E1044,1,1,bring,動詞,持ってくる,to carry something to a place,Bring your laptop to the meeting.,会議にはノートPCを持ってきてください。,持っていくのは take、持ってくるのは bring。
+E1045,1,1,happen,動詞,起こる,to take place,The same error happened again.,同じエラーがまた起きた。,happen to 動詞 で「たまたま～する」。
+E1046,1,1,write,動詞,書く,to put words on paper or a screen,I wrote the manual last week.,先週その手引書を書いた。,write down は「書き留める」。
+E1047,1,1,provide,動詞,提供する、与える,to supply something,The tool provides a daily report.,そのツールは日報を出してくれる。,provide 人 with もの ／ provide もの for 人。
+E1048,1,1,sit,動詞,座る,to rest on a seat,Please sit anywhere you like.,どこでも好きなところにお座りください。,座っている状態は be sitting。
+E1049,1,1,stand,動詞,立つ、耐える,"to be on your feet, or to bear",I cannot stand this slow response.,この反応の遅さには耐えられない。,stand for は「～を表す」（略語の説明で使う）。
+E1050,1,1,lose,動詞,失う、負ける,to no longer have something,Do not lose the license key.,ライセンスキーをなくさないように。,loose（ゆるい）と綴りを間違えやすい。
+E1051,1,1,pay,動詞,払う,to give money for something,The company pays for the training.,研修の費用は会社が払う。,pay attention to（注意を払う）も頻出。
+E1052,1,1,meet,動詞,会う、満たす,"to come together, or to satisfy",Does this meet the requirement?,これで要件を満たしていますか。,meet a deadline（締切に間に合う）も覚えたい。
+E1053,1,1,include,動詞,含む,to have as a part,The price includes shipping.,その値段には送料が含まれる。,including は前置詞のように使う（～を含めて）。
+E1054,1,1,continue,動詞,続ける、続く,to keep going,We will continue the test tomorrow.,テストは明日も続けます。,continue to 動詞 でも continue -ing でもよい。
+E1055,1,1,set,動詞,設定する、置く,to fix or arrange something,Set the timeout to thirty seconds.,待ち時間は30秒にしてください。,過去形も過去分詞も set のまま。
+E1056,1,1,learn,動詞,学ぶ、知る,to gain knowledge,I learned a lot from that mistake.,あの失敗から多くを学んだ。,study は「勉強する」、learn は「身につく」。
+E1057,1,1,change,動詞,変える、変わる,to make or become different,We changed the name of the file.,そのファイルの名前を変えた。,名詞では「変更」「おつり」。
+E1058,1,1,understand,動詞,理解する,to know the meaning of something,I understand the problem now.,問題が分かりました。,進行形にしない。過去形は understood。
+E1059,1,1,watch,動詞,じっと見る、見守る,to look at something for a time,Watch the screen while it installs.,入れている間は画面を見ていてください。,動くものをしばらく見るのが watch。
+E1060,1,1,follow,動詞,従う、ついていく,"to go after, or to obey",Follow the steps in this order.,この順番どおりに進めてください。,as follows は「次のとおり」。
+E1061,1,1,stop,動詞,止める、やめる,to end a movement or action,Stop the process before you copy.,コピーの前に処理を止めてください。,stop -ing（やめる）と stop to 動詞（～するために止まる）は別。
+E1062,1,1,create,動詞,作り出す,to make something new,Create a folder for each month.,月ごとにフォルダを作ってください。,make より「新しく生み出す」感じが強い。
+E1063,1,1,speak,動詞,話す,to say words,Could you speak more slowly?,もう少しゆっくり話していただけますか。,speak English のように言語を目的語に取れる。
+E1064,1,1,read,動詞,読む,to look at and understand words,Read the notes before you build.,ビルドの前に注意書きを読んでください。,過去形・過去分詞も read だが発音は「レッド」。
+E1065,1,1,allow,動詞,許す、可能にする,to let something happen,The setting allows two connections.,その設定なら接続は2本まで使える。,allow 人 to 動詞 の形で覚える。
+E1066,1,1,add,動詞,加える,to put something with another thing,Add a comment so others understand.,ほかの人が分かるように注記を足して。,add A to B（B に A を足す）。
+E1067,1,1,spend,動詞,（金・時間を）使う,to use money or time,We spent two hours on that bug.,その不具合に2時間かけた。,spend 時間 -ing の形（spend time reading）。
+E1068,1,1,grow,動詞,育つ、増える,to become bigger,The file grows about 1 MB a day.,そのファイルは1日に1MBほど増える。,grow up は「大人になる」。
+E1069,1,1,open,動詞,開く、開ける,to make something not closed,Open the file with a text editor.,そのファイルはテキストエディタで開いて。,形容詞でも「開いている」（The shop is open）。
+E1070,1,1,walk,動詞,歩く,to move on foot,I walk to the station every morning.,毎朝、駅まで歩いている。,walk through は「順を追って説明する」。
+E1071,1,1,win,動詞,勝つ、獲得する,to be the best in a contest,Our team won the contract.,うちのチームがその契約を取った。,過去形も過去分詞も won（発音はワン）。
+E1072,1,1,offer,動詞,申し出る、提供する,to say you are willing to give,They offered to help with the test.,テストを手伝うと申し出てくれた。,名詞では「申し出」「特価」。
+E1073,1,1,remember,動詞,覚えている、思い出す,to keep something in your memory,Remember to save before you close.,閉じる前に保存するのを忘れずに。,remember to 動詞（これからする）と remember -ing（したことを覚えている）。
+E1074,1,1,consider,動詞,よく考える、みなす,to think about carefully,Please consider the risk first.,まずリスクをよく考えてください。,consider -ing。to 動詞は取らない。
+E1075,1,1,appear,動詞,現れる、～のように見える,"to come into sight, or to seem",A warning appeared on the screen.,画面に警告が出た。,disappear は「消える」。
+E1076,1,1,buy,動詞,買う,to get something by paying,We bought two more licenses.,ライセンスをあと2つ買った。,過去形・過去分詞は bought。
+E1077,1,1,wait,動詞,待つ,to stay until something happens,Wait until the copy finishes.,コピーが終わるまで待ってください。,wait for 人／もの。目的語の前に for が要る。
+E1078,1,1,serve,動詞,仕える、役立つ、（食事を）出す,"to work for, or to be useful",This folder serves as a backup.,このフォルダは控えの役目をしている。,serve as は「～の役目を果たす」。
+E1079,1,1,send,動詞,送る,to make something go somewhere,I sent the file this morning.,そのファイルは今朝送りました。,send 人 もの ＝ send もの to 人。
+E1080,1,1,build,動詞,建てる、組み立てる,to make something by putting parts together,It takes ten minutes to build the exe.,exe を作るのに10分かかる。,IT では「ビルドする」でそのまま通じる。
+E1081,1,1,stay,動詞,とどまる、泊まる,to remain in a place,Stay on this screen until it ends.,終わるまでこの画面のままにしてください。,stay + 形容詞 で「～のままでいる」。
+E1082,1,1,fall,動詞,落ちる、下がる,to move down,Sales fell by ten percent.,売上が1割下がった。,過去形 fell、過去分詞 fallen。米語では名詞で「秋」。
+E1083,1,1,cut,動詞,切る、削る,to make something shorter or smaller,We cut the run time in half.,処理時間を半分に減らした。,過去形も過去分詞も cut のまま。
+E1084,1,1,reach,動詞,着く、達する、連絡がつく,"to arrive at, or to contact",You can reach me by email.,メールで連絡がつきます。,reach は他動詞。× reach to the station。
+E1085,1,1,kill,動詞,殺す、（処理を）強制終了する,to make something die or stop,Kill the process if it hangs.,固まったらその処理を強制終了して。,IT では「強制終了」の意味で日常的に使う。
+E1086,1,1,remain,動詞,残る、～のままである,to stay the same,Two items remain unfinished.,2件が未完のまま残っている。,remain + 形容詞 の形が多い。
+E1087,1,1,suggest,動詞,提案する、示唆する,to put forward an idea,I suggest we test it once more.,もう一度試すことを提案します。,suggest that 人 (should) 動詞の原形。× suggest 人 to 動詞。
+E1088,1,1,raise,動詞,上げる、（問題を）持ち出す,"to lift, or to bring up",He raised a good point.,彼はよい点を挙げた。,raise は他動詞、rise（上がる）は自動詞。
+E1089,1,1,pass,動詞,通る、渡す、合格する,"to go by, or to hand over",All the tests passed this time.,今回はテストが全部通った。,pass on は「次へ伝える」。
+E1090,1,1,sell,動詞,売る,to give something for money,They sell the same tool overseas.,同じ道具を海外でも売っている。,過去形・過去分詞は sold。
+E1091,1,1,require,動詞,必要とする、求める,to need something,This task requires careful checking.,この作業には入念な確認が要る。,need より硬い。規則や仕様の文章に多い。
+E1092,1,1,report,動詞,報告する,to give information about something,Report any error to the team.,エラーがあればチームに報告してください。,名詞では「報告書」。
+E1093,1,1,decide,動詞,決める,to make a choice,We decided to postpone the release.,リリースを延ばすことに決めた。,decide to 動詞。名詞は decision。
+E1094,1,1,return,動詞,戻る、返す,"to go back, or to give back",The function returns a list.,その関数はリストを返す。,IT の「戻り値」も return。
+E1095,1,1,explain,動詞,説明する,to make something clear,Let me explain the reason.,理由を説明させてください。,explain 人 とは言わない。explain to 人。
+E1096,1,1,develop,動詞,開発する、発展させる,to make something grow or come into being,We developed this tool in-house.,この道具は自分たちで作った。,名詞は development。
+E1097,1,1,carry,動詞,運ぶ、持ち歩く,to hold and move something,Carry out the check every morning.,毎朝その確認を行ってください。,carry out は「実施する」で仕事の文章に頻出。
+E1098,1,1,break,動詞,壊す、壊れる、休む,"to damage, or to pause",The update broke the old macro.,その更新で古いマクロが動かなくなった。,break down（故障する）。名詞では「休憩」。
+E1099,1,1,receive,動詞,受け取る,to get something that is sent,"I received your file, thank you.",ファイルを受け取りました、ありがとう。,get より硬い。ビジネスメールで使いやすい。
+E1100,1,1,agree,動詞,同意する,to have the same opinion,I agree with your plan.,あなたの案に賛成です。,agree with 人／agree to 提案。
+E1101,1,1,support,動詞,支える、支持する,to help or hold up,The tool supports Windows 11.,その道具は Windows 11 に対応している。,IT では「対応している」の意味で使う。
+E1102,1,1,check,動詞,確かめる,to look at something to be sure,Check the log before you ask.,尋ねる前にログを確かめてください。,check on 人（様子を見る）／check in（受付をする）。
+E1103,1,1,choose,動詞,選ぶ,to pick one from several,Choose the folder you want to scan.,調べたいフォルダを選んでください。,過去形 chose、過去分詞 chosen。
+E1104,1,1,apply,動詞,当てはめる、適用する、申し込む,"to put into use, or to make a request",Apply the same rule to all files.,同じ規則をすべてのファイルに当てはめてください。,apply for（申し込む）／apply to（当てはまる）。
+E1105,1,1,time,名詞,時間、時、～回,the thing measured in hours and minutes,We do not have time for another test.,もう一度試す時間はない。,「～回」の意味では数えられる（three times）。
+E1106,1,1,year,名詞,年,a period of twelve months,The system has run for three years.,その仕組みは3年動いている。,this year には前置詞を付けない（× in this year）。
+E1107,1,1,people,名詞,人々,more than one person,Ten people joined the meeting.,会議には10人が参加した。,person の複数。people 自体が複数扱い。
+E1108,1,1,way,名詞,方法、道,"a method, or a road",There is a faster way to do this.,これにはもっと速いやり方がある。,by the way は「ところで」。
+E1109,1,1,day,名詞,日,a period of 24 hours,The batch runs once a day.,そのバッチは1日1回動く。,these days は「最近」。
+E1110,1,1,thing,名詞,もの、こと,an object or a matter,One thing still bothers me.,ひとつだけ引っかかっている。,漠然と指すときに便利。
+E1111,1,1,man,名詞,男性、人間,an adult male,The man at the desk will help you.,受付の男性が案内してくれます。,複数は men。発音が変わるので注意。
+E1112,1,1,woman,名詞,女性,an adult female,The woman who wrote this left last year.,これを書いた女性は昨年退職した。,複数は women（発音はウィミン）。
+E1113,1,1,life,名詞,生活、人生、寿命,the time a person is alive,The battery life is about six hours.,電池は6時間ほどもつ。,複数は lives。
+E1114,1,1,child,名詞,子ども,a young person,The program is for children under ten.,その催しは10歳未満の子ども向けだ。,複数は children。
+E1115,1,1,world,名詞,世界,the earth and all its people,This tool is used all over the world.,この道具は世界中で使われている。,in the world と the が付く。
+E1116,1,1,school,名詞,学校,a place where children learn,I studied English at a night school.,夜学で英語を学んだ。,go to school は「通学する」（建物ではなく行為）。
+E1117,1,1,state,名詞,状態、州,"a condition, or a region of a country",The machine is in a stable state.,その機械は安定した状態にある。,動詞では「述べる」（The rule states that …）。
+E1118,1,1,family,名詞,家族,parents and children,My family lives in Chiba.,家族は千葉に住んでいる。,ひとまとまりとみれば単数扱い。
+E1119,1,1,group,名詞,集団、班,a number of people or things together,We split the work into three groups.,作業を3つの班に分けた。,a group of + 複数名詞。
+E1120,1,1,country,名詞,国、田舎,"a nation, or land away from cities",The rule differs from country to country.,決まりは国ごとに違う。,the country だけだと「田舎」の意味にもなる。
+E1121,1,1,problem,名詞,問題、困りごと,a difficult situation,We found the cause of the problem.,問題の原因が分かった。,issue より「困った」感じが強い。
+E1122,1,1,hand,名詞,手,the part of the body at the end of the arm,Please hand me the manual.,手引書を渡してください。,動詞では「手渡す」。on the other hand は「一方で」。
+E1123,1,1,part,名詞,部分、部品,a piece of something,This part of the code is old.,コードのこの部分は古い。,take part in は「参加する」。
+E1124,1,1,place,名詞,場所,a particular position or area,Keep the backup in a safe place.,控えは安全な場所に置いてください。,take place は「起こる、開かれる」。
+E1125,1,1,case,名詞,場合、事例,a situation or an example,"In that case, use the old version.",その場合は古い版を使ってください。,in case は「～に備えて」。
+E1126,1,1,week,名詞,週,seven days,The review is once a week.,見直しは週に1回だ。,last week／next week に前置詞は付けない。
+E1127,1,1,company,名詞,会社,a business organization,The company has about 200 employees.,その会社の社員は200人ほどだ。,「同席」の意味もある（keep someone company）。
+E1128,1,1,system,名詞,仕組み、システム,a set of connected parts,The new system started last month.,新しいシステムは先月始まった。,IT に限らず「仕組み」全般に使う。
+E1129,1,1,program,名詞,計画、番組、プログラム,"a plan, or a set of instructions",The training program starts in May.,研修は5月に始まる。,英国式の綴りは programme（IT では program）。
+E1130,1,1,question,名詞,質問、問題,something you ask,Do you have any questions?,何か質問はありますか。,out of the question は「論外だ」。
+E1131,1,1,government,名詞,政府,the group that rules a country,The government changed the rule.,政府がその規則を変えた。,発音は「ガヴァ(ン)メント」。n を落としがち。
+E1132,1,1,number,名詞,数、番号,a quantity or a figure,The number of errors went down.,エラーの数が減った。,a number of は「いくつかの」、the number of は「～の数」。
+E1133,1,1,night,名詞,夜,the dark part of the day,The batch runs at night.,そのバッチは夜に動く。,at night と前置詞は at。
+E1134,1,1,point,名詞,点、要点,"an idea, or a place in space",That is a good point.,それはよい指摘だ。,動詞では「指さす」。point out は「指摘する」。
+E1135,1,1,home,名詞,家、自宅,the place where you live,I work from home on Fridays.,金曜は在宅で働いている。,go home に to は付けない。
+E1136,1,1,water,名詞,水,the liquid we drink,Keep water away from the machine.,機械に水がかからないように。,数えられない名詞。
+E1137,1,1,room,名詞,部屋、余地,a space inside a building,There is room for improvement.,改善の余地がある。,「余地」の意味では数えられない。
+E1138,1,1,mother,名詞,母,a female parent,My mother taught me to be careful.,母から慎重にするよう教わった。,father と対で覚える。
+E1139,1,1,area,名詞,地域、範囲、面積,a part of a place or subject,This area of the code needs work.,コードのこの範囲は手を入れる必要がある。,発音は「エリア」でなく「エアリア」に近い。
+E1140,1,1,money,名詞,お金,coins and notes,The tool saves both time and money.,その道具は時間もお金も節約する。,数えられない名詞。× moneys。
+E1141,1,1,story,名詞,話、物語,an account of events,That is a long story.,それは長い話になる。,英国式では「階」の意味は storey。
+E1142,1,1,fact,名詞,事実,something that is true,"In fact, the file was never saved.",実のところ、そのファイルは保存されていなかった。,in fact は「実は」で話の切り返しに使う。
+E1143,1,1,month,名詞,月（暦の）,one of the twelve parts of a year,We check it every month.,毎月それを確かめている。,発音の th に注意。複数は months。
+E1144,1,1,lot,名詞,たくさん,a large amount,There is a lot of work left.,残りの仕事がたくさんある。,a lot of は数えられる名詞にも使える。
+E1145,1,1,study,名詞,勉強、研究,the act of learning,The study took six months.,その調査には半年かかった。,動詞では「勉強する」。
+E1146,1,1,book,名詞,本,a set of printed pages,This book explains it well.,この本はそれをうまく説明している。,動詞では「予約する」。
+E1147,1,1,eye,名詞,目,the organ you see with,Keep an eye on the log file.,ログファイルを見ておいてください。,keep an eye on は「注意して見ておく」。
+E1148,1,1,job,名詞,仕事、職,the work someone does for money,The job takes about two hours.,その作業には2時間ほどかかる。,IT では「処理の単位」も job。
+E1149,1,1,word,名詞,語、言葉,a unit of language,I do not know this word.,この単語は知らない。,in other words は「言い換えると」。
+E1150,1,1,business,名詞,商売、業務,trade and work,This is a business decision.,これは経営上の判断だ。,数えられない名詞（会社の意味では数えられる）。
+E1151,1,1,issue,名詞,問題、課題,an important topic or problem,We found three issues in the test.,テストで問題が3件見つかった。,problem より中立的で、仕事の場面ではこちらが好まれる。
+E1152,1,1,side,名詞,側、面,one of the two parts of something,Look at it from the user side.,使う人の側から見てみて。,on the other side は「反対側に」。
+E1153,1,1,head,名詞,頭、長,"the top part of the body, or a leader",She is the head of the team.,彼女はそのチームの長だ。,動詞では「向かう」（head for）。
+E1154,1,1,house,名詞,家,a building where people live,We built the tool in house.,その道具は自社で作った。,in-house は「社内で」という決まり文句。
+E1155,1,1,service,名詞,サービス、業務,work done for others,The service starts at eight.,そのサービスは8時に始まる。,Windows の「サービス」も同じ語。
+E1156,1,1,friend,名詞,友人,a person you like and know well,A friend told me about this tool.,友人からこの道具のことを聞いた。,make friends with は「友達になる」。
+E1157,1,1,father,名詞,父,a male parent,My father worked at a factory.,父は工場で働いていた。,mother と対で覚える。
+E1158,1,1,power,名詞,力、電力、権限,"strength, energy, or authority",Check the power cable first.,まず電源ケーブルを確かめて。,power supply（電源）、power user（上級者）。
+E1159,1,1,hour,名詞,時間（1時間）,sixty minutes,The build takes half an hour.,ビルドに30分かかる。,h を発音しないので an hour。
+E1160,1,1,game,名詞,試合、ゲーム,an activity with rules,It is a numbers game in the end.,結局は数の勝負だ。,「試合」も「遊び」も game。
+E1161,1,1,line,名詞,線、行、列,"a long thin mark, or a row",The error is on line 42.,エラーは42行目にある。,in line は「並んで」。
+E1162,1,1,end,名詞,終わり、端,the last part,"At the end of the day, it works.",結局のところ、それは動く。,at the end of the day は「結局は」。
+E1163,1,1,member,名詞,一員、会員,a person in a group,Every member has a copy.,全員が写しを持っている。,membership は「会員であること」。
+E1164,1,1,law,名詞,法律、法則,a rule made by a government,The law changed this April.,その法律は今年の4月に変わった。,lawyer は「弁護士」。
+E1165,1,1,car,名詞,車,a vehicle with four wheels,I go by car when it rains.,雨のときは車で行く。,by car に a は付けない。
+E1166,1,1,city,名詞,市、都市,a large town,The office moved to another city.,事務所は別の市へ移った。,複数は cities。
+E1167,1,1,community,名詞,地域社会、共同体,a group of people living in one place,There is a large user community.,利用者の集まりが大きい。,IT では「利用者の集まり」の意味でよく使う。
+E1168,1,1,name,名詞,名前,what someone or something is called,Give the file a clear name.,そのファイルに分かりやすい名前を付けて。,動詞では「名づける」。
+E1169,1,1,president,名詞,大統領、社長,the leader of a country or company,The president signed the order.,社長がその注文書に署名した。,会社では「社長」の意味になる。
+E1170,1,1,team,名詞,チーム、班,a group working together,Our team has five members.,うちのチームは5人だ。,英国では複数扱いになることもある。
+E1171,1,1,minute,名詞,分,sixty seconds,Give me five minutes.,5分ください。,複数形の minutes は「議事録」の意味にもなる。
+E1172,1,1,idea,名詞,考え、着想,a thought or plan,That is a good idea.,それはよい考えだ。,have no idea は「まったく分からない」。
+E1173,1,1,kid,名詞,子ども,a child,The app is easy enough for kids.,そのアプリは子どもでも使えるくらい簡単だ。,くだけた言い方。動詞では「からかう」。
+E1174,1,1,body,名詞,体、本体,the physical structure of a person,The body of the mail was empty.,メールの本文は空だった。,文章の「本文」も body。
+E1175,1,1,information,名詞,情報,facts about something,We need more information.,もっと情報が要る。,数えられない名詞。× informations。
+E1176,1,1,level,名詞,水準、段階,a position on a scale,The error level is set to warning.,エラーの水準は警告になっている。,この単語帳の Lv. もこの語。
+E1177,1,1,office,名詞,事務所、会社,a place where people work,I will be in the office all day.,一日じゅう事務所にいます。,at the office（勤務先で）。
+E1178,1,1,door,名詞,ドア、戸,the thing you open to enter,Please close the door quietly.,静かにドアを閉めてください。,next door は「隣の家」。
+E1179,1,1,health,名詞,健康,the condition of your body,Take care of your health.,体に気をつけて。,数えられない名詞。
+E1180,1,1,person,名詞,人,one human being,Ask the person who wrote it.,書いた本人に聞いてください。,複数は people を使うのがふつう。
+E1181,1,1,art,名詞,芸術、技術,the making of beautiful things,There is an art to writing manuals.,手引書を書くにはこつがいる。,「こつ、技」の意味でも使う。
+E1182,1,1,war,名詞,戦争,fighting between countries,The word came into use after the war.,その語は戦後に使われ始めた。,数えられる場合と数えられない場合がある。
+E1183,1,1,history,名詞,歴史、履歴,past events,Check the change history first.,まず変更の履歴を確かめて。,IT では「履歴」の意味で毎日使う。
+E1184,1,1,party,名詞,党、パーティー、当事者,"a group, or a social event",Both parties agreed to the change.,両者ともその変更に同意した。,契約書では「当事者」の意味になる。
+E1185,1,1,result,名詞,結果,what happens because of something,The result was better than expected.,結果は思ったよりよかった。,as a result は「その結果」。
+E1186,1,1,morning,名詞,朝、午前,the early part of the day,Let us talk in the morning.,朝に話しましょう。,in the morning と前置詞は in。
+E1187,1,1,reason,名詞,理由,why something happens,The reason is not clear yet.,理由はまだはっきりしない。,the reason why … の why は省いてよい。
+E1188,1,1,research,名詞,調査、研究,careful study of a subject,We did some research on the tool.,その道具について少し調べた。,数えられない名詞。× researches。
+E1189,1,1,girl,名詞,少女,a female child,The girl in the photo is my niece.,写真の女の子は姪だ。,boy と対で覚える。
+E1190,1,1,guy,名詞,男、やつ,a man,The guys in the next room know it.,隣の部屋の人たちが知っている。,you guys は男女を問わず「みんな」。
+E1191,1,1,food,名詞,食べ物,what people eat,"No food near the equipment, please.",機器の近くで飲食はご遠慮ください。,数えられない名詞として使うことが多い。
+E1192,1,1,moment,名詞,瞬間、少しの間,a very short time,"Wait a moment, please.",少々お待ちください。,at the moment は「いまのところ」。
+E1193,1,1,air,名詞,空気,the gas we breathe,Keep the air vents clear.,通気口をふさがないように。,数えられない名詞。
+E1194,1,1,teacher,名詞,教師,a person who teaches,My teacher told me to read aloud.,先生から音読するよう言われた。,teach（教える）＋ -er。
+E1195,1,1,force,名詞,力、強制,physical strength or pressure,Do not force the connector.,コネクタを無理に押し込まないで。,動詞では「無理に～させる」。
+E1196,1,1,step,名詞,段階、一歩,one action in a process,Follow the steps in order.,手順を順番どおりに進めてください。,step by step は「一歩ずつ」。
+E1197,1,1,value,名詞,価値、値,how much something is worth,The value must be a number.,その値は数字でなければならない。,IT では変数の「値」も value。
+E1198,1,1,list,名詞,一覧、表,a series of items written down,Add your name to the list.,その一覧に名前を足してください。,動詞では「並べる、載せる」。
+E1199,1,1,file,名詞,ファイル、書類,a set of data with a name,The file is 3 MB.,そのファイルは3MBある。,動詞では「（書類を）提出する」。
+E1200,1,1,data,名詞,データ,information in a form a computer can use,The data is stored in a database.,データはデータベースに入っている。,本来は複数形。いまは単数扱いがふつう。
+E1201,1,1,record,名詞,記録,a written account of facts,Keep a record of every change.,変更はすべて記録に残してください。,動詞は「レコード」ではなく「リコード」と発音が変わる。
+E1202,1,1,test,名詞,試験、検査,a way of checking something,The test found two defects.,その試験で欠陥が2件見つかった。,動詞でも同じ形。
+E1203,1,1,date,名詞,日付,a particular day,Write the date in this format.,日付はこの形式で書いてください。,up to date は「最新の」。
+E1204,1,1,form,名詞,形、書式、申込用紙,"a shape, or a printed document",Fill in the form and send it back.,用紙に記入して送り返してください。,in the form of は「～という形で」。
+E1205,1,1,good,形容詞,よい,of a high quality,That is a good way to check it.,それは確かめるのによいやり方だ。,比較級は better、最上級は best。
+E1206,1,1,new,形容詞,新しい,recently made or begun,The new version fixed the bug.,新しい版でその不具合が直った。,brand-new は「新品の」。
+E1207,1,1,first,形容詞,最初の,coming before all others,The first step is to take a backup.,最初にすることは控えを取ることだ。,at first は「はじめのうちは」。
+E1208,1,1,last,形容詞,最後の、この前の,"final, or most recent",The last check failed.,最後の確認で引っかかった。,動詞では「続く」（The meeting lasted an hour）。
+E1209,1,1,long,形容詞,長い,measuring a great distance or time,It takes a long time to finish.,終わるまでに長い時間がかかる。,as long as は「～する限り」。
+E1210,1,1,great,形容詞,すばらしい、大きな,"very good, or very large",That is a great improvement.,それは大きな改善だ。,口語では「よかったね」の相づちにも使う。
+E1211,1,1,little,形容詞,小さい、少しの,small in size or amount,We have little time left.,残り時間がほとんどない。,a little（少しある）と little（ほとんどない）で意味が逆。
+E1212,1,1,own,形容詞,自分自身の,belonging to oneself,"Use your own account, not a shared one.",共有ではなく自分のアカウントを使って。,動詞では「所有する」。
+E1213,1,1,other,形容詞,ほかの,different from the one mentioned,Check the other folder as well.,もう一方のフォルダも確かめて。,the other（残りの一方）と another（もう1つ）を区別。
+E1214,1,1,old,形容詞,古い、年をとった,having lived or existed a long time,Delete the old backups every month.,古い控えは毎月消してください。,How old are you? は年齢を聞く決まり文句。
+E1215,1,1,right,形容詞,正しい、右の,"correct, or the opposite of left",You are right about the cause.,原因についてはあなたが正しい。,名詞では「権利」。
+E1216,1,1,big,形容詞,大きい,large in size,That is a big change.,それは大きな変更だ。,large より口語的。
+E1217,1,1,high,形容詞,高い,"far above the ground, or great in amount",The error rate is still high.,エラー率はまだ高い。,値段が「高い」は expensive を使う。
+E1218,1,1,different,形容詞,異なる,not the same,The result was different this time.,今回は結果が違った。,different from が基本（米語では than も）。
+E1219,1,1,small,形容詞,小さい,little in size,It is a small but useful change.,小さいが役に立つ変更だ。,big の反対。
+E1220,1,1,large,形容詞,大きい、多量の,big in size or amount,A large number of files were changed.,多数のファイルが変わった。,a large number of は「多数の」。
+E1221,1,1,next,形容詞,次の,coming immediately after,The next release is in October.,次のリリースは10月だ。,next week に前置詞は付けない。
+E1222,1,1,early,形容詞,早い（時期が）,before the usual time,We found it at an early stage.,早い段階で気づけた。,「速い」は fast。early は時期の早さ。
+E1223,1,1,young,形容詞,若い,not old,The tool is popular with younger staff.,その道具は若い人に人気だ。,old の反対。
+E1224,1,1,important,形容詞,重要な,having great value,This is an important point.,これは重要な点だ。,It is important to 動詞 の形が便利。
+E1225,1,1,few,形容詞,ほとんどない、少数の,not many,A few people noticed the change.,何人かはその変更に気づいた。,a few（少しある）と few（ほとんどない）で意味が逆。
+E1226,1,1,public,形容詞,公の、公開の,open to everyone,Do not put it in a public folder.,公開フォルダには置かないで。,private の反対。
+E1227,1,1,bad,形容詞,悪い,not good,It is not a bad idea.,悪くない考えだ。,比較級は worse、最上級は worst。
+E1228,1,1,same,形容詞,同じ,not different,The same error happened twice.,同じエラーが2回起きた。,必ず the が付く。the same as ～。
+E1229,1,1,able,形容詞,～できる,having the power to do something,We were able to fix it in an hour.,1時間で直すことができた。,be able to 動詞。can より丁寧・硬い。
+E1230,1,1,local,形容詞,地元の、その場の,of a particular area,Save it to a local drive first.,まずローカルのドライブに保存して。,IT では「手元の端末の」の意味。
+E1231,1,1,sure,形容詞,確信して,certain,Are you sure about that number?,その数字は確かですか。,make sure は「確かめる」。
+E1232,1,1,clear,形容詞,はっきりした、澄んだ,easy to see or understand,The instructions are not clear.,その指示ははっきりしない。,動詞では「片づける、消す」。
+E1233,1,1,free,形容詞,自由な、無料の,"not costing money, or not restricted",The tool is free for internal use.,その道具は社内なら無料で使える。,free of charge は「無料で」。
+E1234,1,1,simple,形容詞,簡単な、単純な,not complicated,Keep the setting as simple as possible.,設定はできるだけ簡単にしておいて。,easy（やさしい）と simple（単純）は少し違う。
+E1235,1,1,full,形容詞,いっぱいの、完全な,holding as much as possible,The disk is almost full.,ディスクがほぼいっぱいだ。,full of ～（～でいっぱい）。
+E1236,1,1,real,形容詞,本当の、実際の,actually existing,Let us test with real data.,実際のデータで試そう。,real time は「実時間、リアルタイム」。
+E1237,1,1,possible,形容詞,可能な,able to happen,It is possible to run it twice.,2回動かすこともできる。,as soon as possible（できるだけ早く）。
+E1238,1,1,available,形容詞,利用できる、手が空いている,able to be used or obtained,The report will be available tomorrow.,報告書は明日出せます。,人にも使える（Are you available at three?）。
+E1239,1,1,similar,形容詞,似ている,almost the same,We had a similar problem last year.,去年も似た問題があった。,similar to ～。
+E1240,1,1,difficult,形容詞,難しい,not easy,The cause was difficult to find.,原因を見つけるのが難しかった。,hard より硬い言い方。
+E1241,1,1,recent,形容詞,最近の,happening a short time ago,Check the recent changes.,最近の変更を確かめて。,副詞は recently（最近）。
+E1242,1,1,common,形容詞,共通の、よくある,"shared, or happening often",This is a common mistake.,これはよくある間違いだ。,in common は「共通して」。
+E1243,1,1,main,形容詞,主な,most important,The main cause was a typo.,主な原因は打ち間違いだった。,mainly は「主に」。
+E1244,1,1,single,形容詞,たった1つの、独身の,only one,A single file broke the build.,たった1つのファイルでビルドが壊れた。,not a single ～ は「1つも～ない」。
+E1245,1,1,special,形容詞,特別な,not ordinary,No special setting is needed.,特別な設定は要らない。,特殊文字は special characters。
+E1246,1,1,current,形容詞,現在の,happening now,What is the current version?,いまの版はいくつですか。,名詞では「電流、流れ」。
+E1247,1,1,certain,形容詞,確かな、ある一定の,"sure, or particular",It fails under certain conditions.,ある条件のもとで失敗する。,a certain ～ は「ある～」。
+E1248,1,1,whole,形容詞,全体の,complete,It took the whole afternoon.,午後いっぱいかかった。,on the whole は「全体として」。
+E1249,1,1,hard,形容詞,難しい、固い,"difficult, or not soft",It is hard to say without the log.,ログが無いと何とも言えない。,副詞では「熱心に」（work hard）。
+E1250,1,1,easy,形容詞,やさしい、楽な,not difficult,The screen is easy to read.,その画面は読みやすい。,take it easy は「気楽にね」。
+E1251,1,1,often,副詞,しばしば、よく,many times,This happens more often than I thought.,これは思ったよりよく起こる。,頻度は always > often > sometimes > rarely。
+E1252,1,1,always,副詞,いつも,at all times,Always take a backup first.,必ず先に控えを取ってください。,not always は「いつも～とは限らない」。
+E1253,1,1,never,副詞,決して～ない,at no time,I have never seen this error.,このエラーは見たことがない。,それだけで否定なので not は要らない。
+E1254,1,1,really,副詞,本当に,"actually, or very",Do we really need this step?,この手順は本当に必要ですか。,口語で強調によく使う。
+E1255,1,1,almost,副詞,ほとんど,nearly,The work is almost done.,作業はほぼ終わった。,almost all（ほとんど全部）。almost の後に of は付けない。
+E1256,1,1,already,副詞,すでに,before now,I have already sent the file.,そのファイルはもう送りました。,肯定文で使う。疑問文は yet が基本。
+E1257,1,1,still,副詞,まだ、それでも,continuing until now,The bug is still there.,その不具合はまだ残っている。,文中の位置に注意（be動詞の後、一般動詞の前）。
+E1258,1,1,together,副詞,一緒に,with each other,Let us look at it together.,一緒に見てみましょう。,put together は「まとめる」。
+E1259,1,1,however,副詞,しかしながら,but,"However, the result was the same.",しかし、結果は同じだった。,but より硬い。文頭でカンマを付ける。
+E1260,1,1,instead,副詞,その代わりに,in place of something,Use the new script instead.,代わりに新しいスクリプトを使って。,instead of ～ は「～の代わりに」。
+E1261,1,1,perhaps,副詞,たぶん、おそらく,possibly,Perhaps the setting is wrong.,たぶん設定が間違っている。,maybe よりやや硬い。
+E1262,1,1,finally,副詞,ついに、最後に,at last,"Finally, save and close the file.",最後に、保存して閉じてください。,手順の最後を示すのに便利。
+E1263,1,1,quickly,副詞,すばやく,fast,The list loads quickly now.,一覧がすぐ出るようになった。,quick（形容詞）＋ -ly。
+E1264,1,1,clearly,副詞,はっきりと,in a way that is easy to see,Please write it clearly.,はっきり書いてください。,文全体を修飾すると「明らかに」。
+E1265,1,1,about,前置詞,～について、およそ,"on the subject of, or approximately",It takes about ten minutes.,10分ほどかかる。,「およそ」の意味でも非常によく使う。
+E1266,1,1,through,前置詞,～を通って、～を通じて,from one side to the other,We found it through the log.,ログを通じてそれが分かった。,発音は「スルー」。綴りに注意。
+E1267,1,1,during,前置詞,～の間ずっと,throughout a period,Do not close it during the update.,更新中は閉じないでください。,期間の長さは for、いつかは during。
+E1268,1,1,between,前置詞,～の間に（2つ）,in the space separating two things,The difference between the two is small.,その2つの違いは小さい。,3つ以上は among。
+E1269,1,1,among,前置詞,～の中で（3つ以上）,surrounded by,It is popular among new members.,それは新しい人たちの間で人気だ。,between との使い分けを覚える。
+E1270,1,1,without,前置詞,～なしで,not having something,It runs without an internet connection.,ネットにつながっていなくても動く。,without -ing で「～せずに」。
+E1271,1,1,within,前置詞,～以内に,inside a period or limit,Reply within two business days.,2営業日以内に返事をください。,in（～後に）と within（～以内に）は別。
+E1272,1,1,against,前置詞,～に対して、～に反対して,in opposition to,Check the value against the master.,その値を台帳と突き合わせて。,check A against B は「照合する」。
+E1273,1,1,although,接続詞,～だけれども,in spite of the fact that,"Although it works, it is slow.",動きはするが、遅い。,though より硬い。文頭で使いやすい。
+E1274,1,1,because,接続詞,～だから,for the reason that,It failed because the path was wrong.,パスが違っていたので失敗した。,because of + 名詞（because of the rain）。
+E1275,1,1,while,接続詞,～する間に、一方で,during the time that,Do not touch it while it is running.,動いている間は触らないで。,「一方で」の対比の意味もある。
+E1276,1,1,since,接続詞,～以来、～なので,"from a time in the past, or because",It has worked since last April.,去年の4月から動いている。,現在完了と一緒に使うことが多い。
+E1277,1,1,until,接続詞,～まで,up to the time that,Wait until it finishes.,終わるまで待ってください。,till も同じ意味（till はくだけた形）。
+E1278,1,1,unless,接続詞,～でない限り,except if,Do not restart unless it hangs.,固まらない限り再起動しないで。,if not とほぼ同じ意味。
+E1279,1,1,whether,接続詞,～かどうか,if something is true or not,I do not know whether it works.,それが動くかどうか分からない。,whether A or B（A か B か）。
+E1280,1,1,increase,動詞,増える、増やす,to become or make larger,The number increased by ten percent.,その数は1割増えた。,名詞では強勢が前に移る（インクリース）。
+E1281,1,1,reduce,動詞,減らす,to make smaller,We reduced the run time by half.,処理時間を半分に減らした。,increase の反対。
+E1282,1,1,improve,動詞,改善する、よくなる,to make or become better,The screen improved a lot.,画面がずいぶんよくなった。,名詞は improvement。
+E1283,1,1,manage,動詞,管理する、なんとかやる,"to control, or to succeed in doing",I managed to finish it today.,なんとか今日中に終えられた。,manage to 動詞 は「どうにか～する」。
+E1284,1,1,control,動詞,制御する、管理する,to have power over something,This file controls the settings.,このファイルが設定を握っている。,under control は「制御できている」。
+E1285,1,1,produce,動詞,生産する、生み出す,to make or create,The script produces a CSV file.,そのスクリプトは CSV を出力する。,名詞では強勢が前（プロデュース）。
+E1286,1,1,design,動詞,設計する,to plan how something will look or work,We designed it for one person.,1人で使う前提で設計した。,名詞でも同じ形（設計、意匠）。
+E1287,1,1,release,動詞,解放する、公開する,"to let go, or to make available",We released version 1.2 today.,今日 1.2 版を出した。,名詞では「リリース、公開」。
+E1288,1,1,update,動詞,更新する,to make something more modern or correct,Update the manual when you change it.,直したら手引書も更新して。,名詞でも同じ形。
+E1289,1,1,install,動詞,設置する、導入する,to put software or equipment in place,Install it under the Public folder.,パブリックの下に入れてください。,名詞は installation。
+E1290,1,1,connect,動詞,つなぐ,to join two things,Connect the cable before you start.,始める前にケーブルをつないで。,connect A to B。名詞は connection。
+E1291,1,1,prepare,動詞,準備する,to get ready,Prepare the data before the meeting.,会議の前にデータを用意して。,prepare for ～（～に備える）。
+E1292,1,1,compare,動詞,比べる,to look at differences and similarities,Compare the two files line by line.,その2つのファイルを1行ずつ比べて。,compare A with B が基本。
+E1293,1,1,select,動詞,選ぶ,to choose,Select the rows you want to delete.,消したい行を選んでください。,choose より硬い。SQL の SELECT も同じ語。
+E1294,1,1,delete,動詞,削除する,to remove something,Delete the temporary files.,一時ファイルを消してください。,名詞は deletion。
+E1295,1,1,save,動詞,保存する、節約する,"to keep, or to use less",Save the file before you close it.,閉じる前に保存してください。,save time／save money（節約する）。
+E1296,1,1,share,動詞,共有する、分け合う,to use or have together,We share the folder with the team.,そのフォルダはチームで共有している。,share A with B。
+E1297,1,1,solve,動詞,解決する,to find an answer to a problem,That solved the problem.,それで問題が解決した。,名詞は solution。
+E1298,1,1,avoid,動詞,避ける,to keep away from,Avoid using spaces in file names.,ファイル名に空白を使うのは避けて。,avoid -ing。to 動詞は取らない。
+E1299,1,1,expect,動詞,予想する、期待する,to think something will happen,I expect it to finish by noon.,昼までには終わると思う。,expect 人 to 動詞。
+E1300,1,1,realize,動詞,気づく、実現する,to become aware of,I realized my mistake too late.,自分の間違いに気づくのが遅かった。,英国式の綴りは realise。

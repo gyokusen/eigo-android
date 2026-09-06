@@ -1,0 +1,1973 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#1F4E79">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon/icon-192.png">
+<link rel="apple-touch-icon" href="icon/icon-192.png">
+<title>英単語・例文暗記</title>
+<style>
+:root{
+  --bg:#F6F1E4; --panel:#FBF8F0; --line:#D8CFB8; --line2:#EAE2CD;
+  --ink:#241F14; --sub:#6B6350; --navy:#1F4E79; --navy-d:#163A5B;
+  --warn:#8A5A00; --err:#A22C2C; --ok:#2C6E3F;
+  --safe-b:env(safe-area-inset-bottom,0px);
+  --safe-t:env(safe-area-inset-top,0px);
+}
+*{box-sizing:border-box; -webkit-tap-highlight-color:transparent}
+html,body{height:100%}
+body{
+  margin:0; background:var(--bg); color:var(--ink);
+  font-family:"Hiragino Sans","Noto Sans JP","Yu Gothic",sans-serif; font-size:15px;
+  display:flex; flex-direction:column; overflow:hidden;
+  -webkit-text-size-adjust:100%;
+}
+button{font-family:inherit; font-size:15px; cursor:pointer}
+input,select,textarea{font-family:inherit; font-size:16px; color:var(--ink)}
+
+.btn{border:1px solid var(--line); background:var(--panel); color:var(--ink);
+     padding:9px 14px; border-radius:7px; line-height:1.4; min-height:40px}
+.btn:active{background:#EFE8D6}
+.btn:disabled{opacity:.45}
+.btn.primary{background:var(--navy); border-color:var(--navy); color:#fff}
+.btn.danger{color:var(--err); border-color:#D9BDBD}
+.btn.sm{padding:6px 10px; font-size:13px; min-height:34px}
+.btn.q{width:38px;height:38px;padding:0;border-radius:50%;font-weight:700;color:var(--navy)}
+
+/* ---- ヘッダ ---- */
+header{
+  background:var(--panel); border-bottom:1px solid var(--line);
+  padding:calc(8px + var(--safe-t)) 12px 8px; display:flex; align-items:center; gap:8px; flex:none;
+}
+.brand{font-size:15px; font-weight:700; color:var(--navy); letter-spacing:.02em; white-space:nowrap}
+.ver{font-size:10px; color:var(--sub); font-weight:400; margin-left:4px}
+.chips{display:flex; gap:5px; margin-left:auto; align-items:center}
+.chip{background:#fff; border:1px solid var(--line2); border-radius:14px;
+      padding:3px 8px; font-size:10.5px; color:var(--sub); white-space:nowrap}
+.chip b{color:var(--ink); font-size:12.5px; margin-left:3px}
+
+/* ---- ページ ---- */
+main{flex:1; min-height:0; position:relative}
+.page{display:none; position:absolute; inset:0; overflow:auto; -webkit-overflow-scrolling:touch;
+      padding-bottom:14px}
+.page.on{display:block}
+
+/* ---- 下タブ（7つ） ---- */
+nav.tabs{display:flex; background:var(--panel); border-top:1px solid var(--line); flex:none;
+     padding-bottom:var(--safe-b)}
+nav.tabs button{flex:1; border:0; background:transparent; color:var(--sub);
+     padding:7px 0 6px; font-size:10.5px; display:flex; flex-direction:column;
+     align-items:center; gap:2px; min-height:50px; min-width:0; white-space:nowrap}
+nav.tabs button .ic{font-size:15px; line-height:1.1}
+nav.tabs button.on{color:var(--navy); font-weight:700}
+nav.tabs button.on .ic{transform:translateY(-1px)}
+
+/* ---- ツールバー ---- */
+.bar{padding:8px 12px; display:flex; gap:7px; align-items:center; flex-wrap:wrap;
+     border-bottom:1px solid var(--line2)}
+.bar input[type=text],.bar input[type=date],.bar input[type=number],.bar select{
+  border:1px solid var(--line); background:#fff; border-radius:7px; padding:8px 9px; min-height:40px}
+.bar input[type=text]{flex:1; min-width:0}
+.bar select{min-width:0}
+.sp{flex:1}
+label.f{color:var(--sub); font-size:12px}
+.bar .f{color:var(--sub); font-size:12px}
+
+/* ---- カード行の一覧 ---- */
+.rows{padding:10px 12px 0; display:flex; flex-direction:column; gap:7px}
+.row{background:#fff; border:1px solid var(--line); border-radius:9px; padding:9px 11px;
+     display:block; width:100%; text-align:left}
+.row.done{background:#F4F8F5}
+.row .l1{display:flex; align-items:center; gap:7px; font-size:11.5px; color:var(--sub);
+         font-variant-numeric:tabular-nums}
+.row .l1 .no{font-weight:700; color:var(--navy)}
+.row .l1 .rg{white-space:nowrap}
+.row .l1 .sp{flex:1}
+.row .w{font-size:17px; font-weight:700; margin-top:3px; word-break:break-word;
+        display:flex; align-items:center; gap:6px; flex-wrap:wrap}
+.row .ja{font-size:14px; margin-top:2px; line-height:1.6; word-break:break-word}
+.row .mt{font-size:11.5px; color:var(--sub); margin-top:3px; line-height:1.6;
+         word-break:break-word}
+.row .ck{width:22px; height:22px; flex:none}
+.empty{padding:28px 12px; text-align:center; color:var(--sub); font-size:13px}
+.more{padding:10px 12px; text-align:center; color:var(--sub); font-size:12px}
+
+/* Lv.（単語の難易度） */
+.lvl{display:inline-block; border-radius:9px; padding:1px 7px; font-size:11px;
+     border:1px solid var(--line2); background:#F7F2E3; color:var(--sub); white-space:nowrap}
+.lvl b{color:var(--ink); font-weight:700}
+
+/* 記憶レベルの札 */
+.lv{display:inline-block; border-radius:10px; padding:1px 8px; font-size:11px;
+    border:1px solid var(--line2); background:#fff; color:var(--sub); white-space:nowrap}
+.lv.l0{background:#EDF4EF; border-color:#CBE0D1; color:var(--ok)}
+.lv.l1{background:#EAF1F8; border-color:#C7D9EA; color:var(--navy)}
+.lv.l2{background:#FBF4E4; border-color:#E9DCB9; color:var(--warn)}
+.lv.l3{background:#FBEFEF; border-color:#E7CACA; color:var(--err)}
+
+/* 読み上げボタン */
+.spk{border:1px solid var(--line2); background:#fff; border-radius:6px; width:30px;
+     height:28px; padding:0; line-height:1; font-size:13px; color:var(--navy); flex:none}
+.spk:active{background:#EAF1F8}
+.spk.big{width:38px; height:34px; font-size:16px}
+
+/* 赤シート（隠して押すと出す） */
+.hide{display:inline-block; min-width:80px; border-radius:4px; cursor:pointer;
+      background:#F3C9C4; color:transparent; border:1px solid #E3ADA7; padding:0 6px;
+      user-select:none; white-space:pre-wrap}
+.hide.show{background:transparent; color:inherit; border-color:transparent}
+
+/* ---- ③詳細 ---- */
+.dt-head{background:var(--panel); border-bottom:1px solid var(--line);
+         padding:8px 12px; display:flex; gap:6px; align-items:center; flex-wrap:wrap}
+.dt-in{padding:12px}
+.dt-word{font-size:26px; font-weight:700; color:var(--navy); word-break:break-word;
+         display:flex; align-items:center; gap:8px; flex-wrap:wrap}
+.dt-sub{color:var(--sub); font-size:12.5px; margin-top:6px; line-height:1.8}
+.dt-grid{display:grid; grid-template-columns:1fr; gap:4px; margin-top:14px}
+.dt-grid > .k{color:var(--sub); font-size:11.5px; margin-top:8px}
+.dt-grid > .v{background:#fff; border:1px solid var(--line2); border-radius:7px;
+              padding:9px 11px; font-size:14px; line-height:1.8; white-space:pre-wrap;
+              word-break:break-word; min-height:38px}
+.dt-grid > .v.en{font-weight:600}
+.dt-grid > .v.empty2{color:var(--sub); background:#FBF8F0}
+
+/* ---- ④⑤テスト ---- */
+.card{padding:10px 12px 18px}
+.card-in{background:#fff; border:1px solid var(--line); border-radius:10px;
+         padding:16px 14px; text-align:center}
+.q-head{color:var(--sub); font-size:11.5px; margin:0 0 12px; line-height:1.7}
+.q-main{font-size:28px; font-weight:700; line-height:1.4; word-break:break-word;
+        color:var(--navy); white-space:pre-wrap}
+.q-main.small{font-size:19px; font-weight:600; color:var(--ink)}
+.q-sub{color:var(--sub); font-size:12.5px; margin-top:8px; line-height:1.7}
+.a-box{margin-top:16px; padding-top:14px; border-top:1px solid var(--line2); text-align:left}
+.a-row{margin:9px 0; font-size:14px; line-height:1.7}
+.a-row .k{color:var(--sub); font-size:11.5px; margin-bottom:3px}
+.a-row .v{word-break:break-word; white-space:pre-wrap}
+.a-row .v.en{font-weight:600}
+.lv-btns{display:grid; grid-template-columns:1fr 1fr; gap:8px; margin-top:16px}
+.lv-btns.one{grid-template-columns:1fr}
+.lv-btns button{border:1px solid var(--line); background:var(--panel); border-radius:8px;
+  padding:11px 8px; font-size:13.5px; min-height:46px}
+.lv-btns button[data-lv="覚えていた"]{border-color:#CBE0D1; color:var(--ok)}
+.lv-btns button[data-lv="思い出した"]{border-color:#C7D9EA; color:var(--navy)}
+.lv-btns button[data-lv="初めて出会った"]{border-color:#E9DCB9; color:var(--warn)}
+.lv-btns button[data-lv="忘れてた"]{border-color:#E7CACA; color:var(--err)}
+.prog{display:flex; gap:8px; align-items:center; color:var(--sub); font-size:11.5px;
+      margin:0 0 8px}
+.pbar{flex:1; height:6px; background:#EFE8D6; border-radius:3px; overflow:hidden; min-width:60px}
+.pbar > i{display:block; height:100%; background:var(--navy)}
+
+/* ---- 集計カード ---- */
+.sum-tot{display:flex; gap:8px; flex-wrap:wrap; margin:12px 12px 0}
+.sum-card{background:#fff; border:1px solid var(--line); border-radius:9px;
+          padding:9px 12px; flex:1; min-width:92px}
+.sum-card .k{font-size:11px; color:var(--sub)}
+.sum-card .v{font-size:21px; font-weight:700; font-variant-numeric:tabular-nums}
+.res{display:flex; gap:8px; flex-wrap:wrap; margin-top:12px}
+
+/* ---- ダイアログ ---- */
+.mask{position:fixed; inset:0; background:rgba(36,31,20,.45); display:none;
+      align-items:flex-end; justify-content:center; z-index:50}
+.mask.on{display:flex}
+.dlg{background:var(--panel); border-top:1px solid var(--line);
+     border-radius:14px 14px 0 0; width:100%; max-width:560px;
+     max-height:92%; display:flex; flex-direction:column;
+     padding-bottom:var(--safe-b)}
+.dlg h2{margin:0; padding:13px 16px; font-size:15px; color:var(--navy);
+        border-bottom:1px solid var(--line2); display:flex; align-items:center; flex:none}
+.dlg h2 .x{margin-left:auto; width:30px; height:30px; padding:0; border:1px solid var(--line);
+  border-radius:7px; background:transparent; color:var(--sub); font-size:17px; line-height:1}
+/* 窓が縦に長くなっても、中身だけがスクロールして
+   ［保存］［やめる］は上と下に貼り付いたまま見えるようにする（PC版 v1.3.0 と同じ）。 */
+.dlg .body{padding:13px 16px; overflow:auto; flex:1; min-height:0;
+           -webkit-overflow-scrolling:touch}
+.dlg .foot{padding:11px 16px; border-top:1px solid var(--line2);
+           display:flex; gap:8px; justify-content:flex-end; flex-wrap:wrap; flex:none}
+.dlg .foot.top{border-top:0; border-bottom:1px solid var(--line2)}
+.form{display:grid; grid-template-columns:1fr; gap:11px}
+.form label.k{color:var(--sub); font-size:12px; display:block; margin-bottom:4px}
+.form input,.form select,.form textarea{
+  width:100%; border:1px solid var(--line); border-radius:7px; padding:9px 10px;
+  background:#fff; min-height:42px}
+.form textarea{resize:vertical; min-height:64px; font-family:inherit}
+.hint{color:var(--sub); font-size:11.5px; margin-top:4px; line-height:1.6}
+.two2{display:grid; grid-template-columns:1fr 1fr; gap:10px}
+.msg{padding:8px 11px; border-radius:7px; font-size:12.5px; margin:0 0 9px; line-height:1.6}
+.msg.error{background:#FBEFEF; color:var(--err); border:1px solid #E7CACA}
+.msg.warn{background:#FBF4E4; color:var(--warn); border:1px solid #E9DCB9}
+.msg.ok{background:#EDF4EF; color:var(--ok); border:1px solid #CBE0D1}
+.sec{margin:0 0 8px; font-size:13px; font-weight:700; color:var(--navy);
+     padding-top:14px; border-top:1px solid var(--line2)}
+.sec:first-child{padding-top:0; border-top:0}
+.stack{display:flex; flex-direction:column; gap:8px}
+.kv{font-size:12.5px; color:var(--sub); line-height:1.8; word-break:break-word}
+.kv b{color:var(--ink)}
+.inline{display:flex; gap:8px; align-items:center}
+.inline select{flex:1; min-width:0; border:1px solid var(--line); border-radius:7px;
+               padding:9px 10px; background:#fff; min-height:42px}
+
+/* ---- 画面が広いとき ----
+   スマホ向けに作ってあるので、PCの広い画面だと間延びする。
+   幅に上限を付けて中央に寄せ、外側を少し濃くして端を分かるようにする。 */
+@media (min-width:620px){
+  body{background:#E7DFC9}
+  header, main, nav.tabs, #upd, #bk{
+    width:100%; max-width:560px; margin-left:auto; margin-right:auto;
+    border-left:1px solid var(--line); border-right:1px solid var(--line);
+  }
+  main{background:var(--bg)}
+  header{border-top:0}
+  nav.tabs{border-bottom:1px solid var(--line)}
+}
+
+/* ---- 新しい版のお知らせ／控えの催促 ---- */
+#upd{display:none; flex:none; align-items:center; gap:8px; flex-wrap:wrap;
+     background:#EAF1F8; border-top:1px solid var(--navy); padding:9px 12px}
+#upd.on{display:flex}
+#updText{flex:1; min-width:150px; font-size:13px; color:var(--navy); font-weight:700; line-height:1.5}
+#bk{display:none; flex:none; align-items:center; gap:8px; flex-wrap:wrap;
+    background:#FBF4E4; border-top:1px solid #E9DCB9; padding:9px 12px}
+#bk.on{display:flex}
+#bkText{flex:1; min-width:150px; font-size:13px; color:var(--warn); font-weight:700; line-height:1.5}
+
+/* ---- お知らせ ---- */
+#toast{position:fixed; left:50%; bottom:calc(68px + var(--safe-b));
+  transform:translateX(-50%) translateY(12px);
+  background:#241F14; color:#fff; padding:10px 18px; border-radius:22px; font-size:13px;
+  opacity:0; pointer-events:none; transition:.18s; z-index:60; max-width:86vw; text-align:center;
+  line-height:1.6}
+#toast.on{opacity:.95; transform:translateX(-50%) translateY(0)}
+#busy{position:fixed; inset:0; background:rgba(246,241,228,.78); display:none;
+  align-items:center; justify-content:center; flex-direction:column; gap:12px; z-index:70}
+#busy.on{display:flex}
+.spin{width:32px; height:32px; border:3px solid var(--line); border-top-color:var(--navy);
+  border-radius:50%; animation:sp .8s linear infinite}
+@keyframes sp{to{transform:rotate(360deg)}}
+#busyText{color:var(--sub); font-size:13px}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="brand">英単語・例文暗記<span class="ver" id="ver"></span></div>
+  <div class="chips">
+    <span class="chip">単語<b id="chipWords">0</b></span>
+    <span class="chip">☑<b id="chipChecked">0</b></span>
+    <span class="chip">今日<b id="chipToday">0</b></span>
+    <button class="btn q" id="bCfg" title="設定">⚙</button>
+  </div>
+</header>
+
+<main>
+<!-- ======================= ①学習 ======================= -->
+<div class="page on" id="pg-study">
+  <div class="bar">
+    <input type="text" id="stFind" placeholder="英単語・意味・例文で絞り込む">
+  </div>
+  <div class="bar">
+    <select id="stOnly" style="flex:1">
+      <option value="">ぜんぶ</option>
+      <option value="checked">チェックしたものだけ</option>
+      <option value="unchecked">チェックしていないものだけ</option>
+    </select>
+    <span class="f" id="stCount">－</span>
+    <button class="btn sm" id="stClearCk">☑を全部外す</button>
+  </div>
+  <div class="rows" id="stRows"></div>
+  <div class="more" id="stMore"></div>
+</div>
+
+<!-- ======================= ②赤シート ======================= -->
+<div class="page" id="pg-red">
+  <div class="bar">
+    <input type="text" id="rdFind" placeholder="英単語・意味・例文で絞り込む">
+  </div>
+  <div class="bar">
+    <select id="rdOnly" style="flex:1">
+      <option value="">ぜんぶ</option>
+      <option value="checked">チェックしたものだけ</option>
+      <option value="unchecked">チェックしていないものだけ</option>
+    </select>
+    <span class="f" id="rdCount">－</span>
+    <button class="btn sm" id="rdShowAll">ぜんぶ見せる</button>
+    <button class="btn sm" id="rdHideAll">ぜんぶ隠す</button>
+  </div>
+  <div class="rows" id="rdRows"></div>
+  <div class="more" id="rdMore"></div>
+</div>
+
+<!-- ======================= ③詳細 ======================= -->
+<div class="page" id="pg-dt">
+  <div class="dt-head">
+    <button class="btn sm" id="dtBack">← 一覧へ戻る</button>
+    <span class="sp"></span>
+    <button class="btn sm" id="dtPrev">← 前</button>
+    <button class="btn sm" id="dtNext">次 →</button>
+    <button class="btn sm" id="dtEdit">直す</button>
+  </div>
+  <div class="dt-in" id="dtIn"></div>
+</div>
+
+<!-- ======================= ④単語テスト ======================= -->
+<div class="page" id="pg-tw">
+  <div class="bar">
+    <span class="f">出題順</span>
+    <select id="twOrder"><option>登録No順</option><option>ランダム</option></select>
+    <span class="f">対象</span>
+    <select id="twPick">
+      <option>ぜんぶ</option><option selected>覚えていた以外</option>
+      <option>まだ出していない</option>
+    </select>
+  </div>
+  <div class="bar">
+    <span class="f">Lv.</span>
+    <select id="twLevel" style="width:92px">
+      <option value="">ぜんぶ</option>
+      <option value="1">1</option><option value="2">2</option><option value="3">3</option>
+      <option value="4">4</option><option value="5">5</option><option value="6">6</option>
+      <option value="7">7</option><option value="8">8</option><option value="9">9</option>
+      <option value="10">10</option>
+      <option value="未設定">未設定</option>
+    </select>
+    <span class="f">出題数</span>
+    <input type="number" id="twCount" min="0" max="9999" step="5" style="width:62px" inputmode="numeric">
+    <button class="btn primary sm" id="twStart">はじめる</button>
+    <button class="btn sm" id="twStop">やめる</button>
+  </div>
+  <div class="card" id="twCard"></div>
+</div>
+
+<!-- ======================= ⑤例文テスト ======================= -->
+<div class="page" id="pg-te">
+  <div class="bar">
+    <span class="f">出題順</span>
+    <select id="teOrder"><option>登録No順</option><option>ランダム</option></select>
+    <span class="f">対象</span>
+    <select id="tePick">
+      <option>ぜんぶ</option><option selected>覚えていた以外</option>
+      <option>まだ出していない</option>
+    </select>
+  </div>
+  <div class="bar">
+    <span class="f">Lv.</span>
+    <select id="teLevel" style="width:92px">
+      <option value="">ぜんぶ</option>
+      <option value="1">1</option><option value="2">2</option><option value="3">3</option>
+      <option value="4">4</option><option value="5">5</option><option value="6">6</option>
+      <option value="7">7</option><option value="8">8</option><option value="9">9</option>
+      <option value="10">10</option>
+      <option value="未設定">未設定</option>
+    </select>
+    <span class="f">出題数</span>
+    <input type="number" id="teCount" min="0" max="9999" step="5" style="width:62px" inputmode="numeric">
+    <button class="btn primary sm" id="teStart">はじめる</button>
+    <button class="btn sm" id="teStop">やめる</button>
+  </div>
+  <div class="card" id="teCard"></div>
+</div>
+
+<!-- ======================= 登録 ======================= -->
+<div class="page" id="pg-reg">
+  <div class="bar">
+    <input type="text" id="rgFind" placeholder="英単語・意味・例文で絞り込む">
+  </div>
+  <div class="bar">
+    <button class="btn primary sm" id="rgAdd">＋新しく登録</button>
+    <label class="f" style="display:flex;gap:5px;align-items:center">
+      <input type="checkbox" id="rgAll" style="width:20px;height:20px">全部選ぶ</label>
+    <span class="sp"></span>
+    <span class="f" id="rgCount">－</span>
+    <button class="btn danger sm" id="rgDel">選んだものを消す</button>
+  </div>
+  <div class="rows" id="rgRows"></div>
+  <div class="more" id="rgMore"></div>
+</div>
+
+<!-- ======================= 記録 ======================= -->
+<div class="page" id="pg-log">
+  <div class="bar">
+    <span class="f">種別</span>
+    <select id="lgKind"><option value="">ぜんぶ</option><option>単語</option><option>例文</option></select>
+    <span class="sp"></span>
+    <button class="btn sm" id="lgAll">期間をはずす</button>
+  </div>
+  <div class="bar">
+    <input type="date" id="lgFrom" style="flex:1"><span class="f">〜</span>
+    <input type="date" id="lgTo" style="flex:1">
+    <button class="btn primary sm" id="lgGo">表示</button>
+  </div>
+  <div class="sum-tot" id="lgCards"></div>
+  <div class="rows" id="lgRows"></div>
+  <div class="more" id="lgMore"></div>
+</div>
+</main>
+
+<div id="upd">
+  <span id="updText"></span>
+  <button class="btn sm primary" id="updGo">更新する</button>
+  <button class="btn sm" id="updNo">あとで</button>
+</div>
+
+<div id="bk">
+  <span id="bkText"></span>
+  <button class="btn sm primary" id="bkGo">控えを書き出す</button>
+  <button class="btn sm" id="bkNo">あとで</button>
+</div>
+
+<nav class="tabs" id="tabs">
+  <button data-page="study" class="on"><span class="ic">①</span>学習</button>
+  <button data-page="red"><span class="ic">②</span>赤シート</button>
+  <button data-page="dt"><span class="ic">③</span>詳細</button>
+  <button data-page="tw"><span class="ic">④</span>単語</button>
+  <button data-page="te"><span class="ic">⑤</span>例文</button>
+  <button data-page="reg"><span class="ic">✎</span>登録</button>
+  <button data-page="log"><span class="ic">📋</span>記録</button>
+</nav>
+
+<div class="mask" id="mDlg"><div class="dlg">
+  <h2><span id="dlgTitle">　</span><button class="x" data-close>✕</button></h2>
+  <div class="foot top" id="dlgFootTop" style="display:none"></div>
+  <div class="body" id="dlgBody"></div>
+  <div class="foot" id="dlgFoot"></div>
+</div></div>
+
+<div id="toast"></div>
+<div id="busy"><div class="spin"></div><div id="busyText">処理しています…</div></div>
+<input type="file" id="filePick" accept=".json,.csv,text/csv,application/json" style="display:none">
+
+<script>
+"use strict";
+const APP_VERSION = "1.0.0";
+const DB_NAME = "eigo_app", DB_VER = 1;   /* ★ 作業時間管理（work_time）とは別の名前。
+   IndexedDB は gyokusen.github.io というオリジン単位で分かれ、URL の下の階層では
+   分かれない。同じ github.io に置く別アプリは、必ず別の名前にすること。 */
+
+const SEED_CSV = "初期単語.csv";
+/* 基本3000語（頻度順に300語ずつ Lv.1〜10）。⚙から選んで読み込む。
+   ここに無いファイルを指しても、fetch が失敗するだけで害はない。 */
+const PACKS = {
+  1:"英単語例文暗記_基本3000語_Lv1_E1001-E1300.csv",
+  2:"英単語例文暗記_基本3000語_Lv2_E1301-E1600.csv",
+  3:"英単語例文暗記_基本3000語_Lv3_E1601-E1900.csv",
+  4:"英単語例文暗記_基本3000語_Lv4_E1901-E2200.csv",
+  5:"英単語例文暗記_基本3000語_Lv5_E2201-E2500.csv",
+  6:"英単語例文暗記_基本3000語_Lv6_E2501-E2800.csv",
+  7:"英単語例文暗記_基本3000語_Lv7_E2801-E3100.csv",
+  8:"英単語例文暗記_基本3000語_Lv8_E3101-E3400.csv",
+  9:"英単語例文暗記_基本3000語_Lv9_E3401-E3700.csv",
+  10:"英単語例文暗記_基本3000語_Lv10_E3701-E4000.csv"
+};
+
+/* テストで選ぶ「記憶レベル」。並び順がそのまま画面のボタンの並びになる（PC版と同じ）。 */
+const LEVELS = ["覚えていた", "思い出した", "初めて出会った", "忘れてた"];
+const LEVEL_MIN = 1, LEVEL_MAX = 10;
+const RATE_MIN = 0.5, RATE_MAX = 2.0;
+
+/* CSV の見出しと、こちらの持ちかたの対応（PC版とまったく同じ並び） */
+const CSV_COLS = ["登録NO","枝番","レベル","英単語","品詞","意味(日本語)","意味(英語)",
+                  "例文(英語)","例文(日本語)","解説"];
+const CSV_KEYS = ["reg_no","branch_no","level","word","pos","ja","en","ex_en","ex_ja","note"];
+
+const DEF_CFG = {
+  speak_lang:"en-US", speak_rate:0.9, speak_voice:"", speak_auto:1,
+  speak_leadin:15, test_count:20, list_chunk:300
+};
+
+/* ---------------- 小さな道具 ---------------- */
+const $ = (id) => document.getElementById(id);
+const pad2 = (n) => (n < 10 ? "0" + n : "" + n);
+function nowDT(){ const d = new Date(); d.setMilliseconds(0); return d; }
+function fmtDT(d){ return d.getFullYear()+"-"+pad2(d.getMonth()+1)+"-"+pad2(d.getDate())+" "+
+  pad2(d.getHours())+":"+pad2(d.getMinutes())+":"+pad2(d.getSeconds()); }
+function fmtD(d){ return d.getFullYear()+"-"+pad2(d.getMonth()+1)+"-"+pad2(d.getDate()); }
+function fmtHM(d){ return pad2(d.getHours())+":"+pad2(d.getMinutes()); }
+function today(){ return fmtD(nowDT()); }
+function now(){ return fmtDT(nowDT()); }
+function parseDT(s){
+  const m = String(s||"").trim().replace("T"," ")
+      .match(/^(\d{4})-(\d{1,2})-(\d{1,2})[ ]+(\d{1,2}):(\d{2})(?::(\d{2}))?$/);
+  return m ? new Date(+m[1], +m[2]-1, +m[3], +m[4], +m[5], +(m[6]||0), 0) : null;
+}
+function esc(s){ return String(s==null?"":s).replace(/[&<>"']/g,
+  c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
+function num(v){ return (v||0).toLocaleString("ja-JP"); }
+
+let toastTimer = null;
+function toast(msg, ms){
+  const t = $("toast"); t.textContent = msg; t.classList.add("on");
+  clearTimeout(toastTimer); toastTimer = setTimeout(() => t.classList.remove("on"), ms || 2600);
+}
+function busy(on, text){
+  $("busyText").textContent = text || "処理しています…";
+  $("busy").classList.toggle("on", !!on);
+}
+function lvClass(v){ const i = LEVELS.indexOf(v); return i < 0 ? "" : (" l" + i); }
+function lvTag(v){ return v ? '<span class="lv'+lvClass(v)+'">'+esc(v)+"</span>" : ""; }
+/* 単語の難易度（Lv.）。空のときは「－」を出す（項目が抜けて見えないように） */
+function lvlTag(v){
+  v = String(v==null?"":v).trim();
+  return v ? '<span class="lvl">Lv.<b>'+esc(v)+"</b></span>"
+           : '<span class="lvl" title="レベル未設定">Lv.－</span>';
+}
+function normLevel(v){
+  v = String(v==null?"":v).trim();
+  if(!v) return "";
+  const n = parseInt(parseFloat(v), 10);
+  if(!isFinite(n)) return "";
+  return (n >= LEVEL_MIN && n <= LEVEL_MAX) ? String(n) : "";
+}
+function normRate(v){
+  const f = Math.round(parseFloat(v) * 100) / 100;
+  if(!isFinite(f)) return 0;
+  return (f >= RATE_MIN && f <= RATE_MAX) ? f : 0;
+}
+
+let CFG = Object.assign({}, DEF_CFG);
+let TEST_PREF = {};
+
+/* ---------------- IndexedDB ---------------- */
+let db = null;
+function openDB(){
+  return new Promise((res, rej) => {
+    const rq = indexedDB.open(DB_NAME, DB_VER);
+    rq.onupgradeneeded = () => {
+      const d = rq.result;
+      if(!d.objectStoreNames.contains("words")){
+        const s = d.createObjectStore("words", {keyPath:"id", autoIncrement:true});
+        s.createIndex("reg_no", "reg_no");
+      }
+      if(!d.objectStoreNames.contains("tests")){
+        const s = d.createObjectStore("tests", {keyPath:"id", autoIncrement:true});
+        s.createIndex("done_at", "done_at");
+      }
+      if(!d.objectStoreNames.contains("meta")) d.createObjectStore("meta", {keyPath:"k"});
+    };
+    rq.onsuccess = () => { db = rq.result; res(db); };
+    rq.onerror = () => rej(rq.error);
+  });
+}
+function tx(stores, mode){ return db.transaction(stores, mode||"readonly"); }
+function pr(rq){ return new Promise((res, rej) => {
+  rq.onsuccess = () => res(rq.result); rq.onerror = () => rej(rq.error); }); }
+function getAll(store){ return pr(tx([store]).objectStore(store).getAll()); }
+function putRec(store, rec){ return pr(tx([store], "readwrite").objectStore(store).put(rec)); }
+function putMany(store, recs){
+  return new Promise((res, rej) => {
+    if(!recs.length) return res(true);
+    const t = tx([store], "readwrite"), s = t.objectStore(store);
+    recs.forEach(r => s.put(r));
+    t.oncomplete = () => res(true); t.onerror = () => rej(t.error);
+  });
+}
+function delMany(store, keys){
+  return new Promise((res, rej) => {
+    if(!keys.length) return res(true);
+    const t = tx([store], "readwrite"), s = t.objectStore(store);
+    keys.forEach(k => s.delete(k));
+    t.oncomplete = () => res(true); t.onerror = () => rej(t.error);
+  });
+}
+function clearStore(store){ return pr(tx([store], "readwrite").objectStore(store).clear()); }
+
+async function getMeta(k, dflt){
+  try { const r = await pr(tx(["meta"]).objectStore("meta").get(k));
+        return (r && r.v != null) ? r.v : dflt; } catch(e){ return dflt; }
+}
+function setMeta(k, v){ return putRec("meta", {k:k, v:v}); }
+
+/* ---------------- 単語・テストの土台（PC版の Python 側と同じ数えかた） ---- */
+let WORDS = [];              // 全件（reg_no, branch_no 順）
+let LAST = {};               // (reg_no,branch_no) ごとの「いちばん新しいテスト結果」
+let TESTS_N = 0, TODAY_N = 0;
+
+function keyOf(r){ return r.reg_no + "" + r.branch_no; }
+function cmpWord(a, b){
+  if(a.reg_no !== b.reg_no) return a.reg_no < b.reg_no ? -1 : 1;
+  return (a.branch_no||1) - (b.branch_no||1);
+}
+
+/* テスト記録から、カードごと・種別ごとの「いちばん新しい結果」を作る。
+   PC版の _last_results() と同じ（同じ日時なら id の大きいほうが新しい）。 */
+async function loadTests(){
+  const rows = await getAll("tests");
+  LAST = {};
+  TESTS_N = rows.length;
+  const t = today();
+  TODAY_N = 0;
+  rows.forEach(r => {
+    if(String(r.done_at||"").slice(0,10) === t) TODAY_N++;
+    const k = keyOf(r), m = LAST[k] || (LAST[k] = {});
+    const cur = m[r.kind];
+    if(!cur || r.done_at > cur.done_at || (r.done_at === cur.done_at && r.id > cur.id))
+      m[r.kind] = {result:r.result, done_at:r.done_at, id:r.id};
+  });
+  return rows;
+}
+async function loadWords(){
+  WORDS = (await getAll("words")).sort(cmpWord);
+}
+async function reloadAll(){
+  await loadWords(); await loadTests();
+  refreshChips();
+}
+function refreshChips(){
+  $("chipWords").textContent = num(WORDS.length);
+  $("chipChecked").textContent = num(WORDS.filter(w => w.checked).length);
+  $("chipToday").textContent = num(TODAY_N);
+}
+
+/* 一覧の材料。PC版 list_words と同じ絞り込み（品詞も対象に入れる）。 */
+function listWords(q, only){
+  q = String(q||"").trim().toLowerCase();
+  let rows = WORDS;
+  if(q){
+    rows = rows.filter(d => ["word","pos","ja","en","ex_en","ex_ja","note","reg_no","level"]
+      .some(k => String(d[k]||"").toLowerCase().indexOf(q) >= 0));
+  }
+  if(only === "checked") rows = rows.filter(d => d.checked);
+  else if(only === "unchecked") rows = rows.filter(d => !d.checked);
+  return rows.map((d, i) => {
+    const lr = LAST[keyOf(d)] || {};
+    return Object.assign({}, d, {
+      no: i + 1,
+      last_check: String(d.last_check_at||"").slice(0,16),
+      last_word: (lr["単語"]||{}).result || "",
+      last_ex: (lr["例文"]||{}).result || ""
+    });
+  });
+}
+
+/* チェックは「入れたときだけ」通算回数を増やし、最終日時を書く（外すと数えない）。 */
+async function toggleCheck(id, on){
+  const rec = await pr(tx(["words"]).objectStore("words").get(id));
+  if(!rec) return null;
+  const t = now();
+  if(on){ rec.checked = 1; rec.check_count = (rec.check_count||0) + 1; rec.last_check_at = t; }
+  else rec.checked = 0;
+  rec.updated_at = t;
+  await putRec("words", rec);
+  const w = WORDS.find(x => x.id === id);
+  if(w) Object.assign(w, rec);
+  refreshChips();
+  return rec;
+}
+
+/* 登録NO＋枝番 が同じものがあれば更新、無ければ追加（PC版 upsert_word と同じ）。 */
+async function upsertWords(list, overwrite){
+  const map = {};
+  WORDS.forEach(w => map[keyOf(w)] = w);
+  const t = now();
+  const put = []; let add = 0, upd = 0, skip = 0;
+  list.forEach(r => {
+    const k = r.reg_no + "" + r.branch_no;
+    const old = map[k];
+    if(old){
+      if(!overwrite){ skip++; return; }
+      put.push(Object.assign({}, old, r, {updated_at:t}));
+      upd++;
+    } else {
+      const rec = Object.assign({checked:0, check_count:0, last_check_at:"",
+                                 created_at:t, updated_at:t}, r);
+      put.push(rec); map[k] = rec; add++;
+    }
+  });
+  await putMany("words", put);
+  await loadWords(); refreshChips();
+  return {add:add, update:upd, skip:skip};
+}
+
+/* ---------------- 読み上げ ----------------
+   スマホのブラウザ（Android Chrome / iOS Safari）の音声合成を使う。
+
+   ★ 声の一覧（getVoices）は、開いた直後は空のことがある。
+     空のまま speak すると声が決まらず、**端末の既定＝日本語の声で英語を読む**
+     （＝カタカナ発音になる）。そこで、声がそろうまで読み上げを待たせる。
+   ★ しばらく鳴らしていないと音の通り道が閉じ、頭の何文字かが欠ける。
+     本文の直前に「句読点だけの助走」をふつうの音量で積んで開けておく。 */
+let VOICES = [], VOICE_READY = false, VOICE_USED = null, SPOKE_WARN = false;
+let PENDING = null, VOICE_TRIES = 0;
+const LEADIN_TEXT = ", , ,";
+let LAST_SPOKE = 0;
+const SAMPLE = "We need to maintain the current quality level.";
+const RATES = [0.6, 0.7, 0.8, 0.9, 1.0, 1.1, 1.2];
+const RATE_NOTE = {0.6:"（ゆっくり）", 1.0:"（標準）", 1.2:"（速い）"};
+
+function loadVoices(){
+  let v = [];
+  try { v = window.speechSynthesis ? (speechSynthesis.getVoices() || []) : []; }
+  catch(e){ v = []; }
+  if(v.length){ VOICES = v; VOICE_READY = true; }
+  showVoice();
+  if(VOICE_READY && PENDING !== null){ const t = PENDING; PENDING = null; doSpeak(t); }
+  return VOICE_READY;
+}
+function pollVoices(){
+  if(VOICE_READY || VOICE_TRIES >= 10) return;
+  VOICE_TRIES++;
+  loadVoices();
+  if(!VOICE_READY) setTimeout(pollVoices, 250);
+}
+function pickVoice(){
+  const want = String(CFG.speak_voice||"").trim().toLowerCase();
+  if(want){
+    const v = VOICES.find(v => String(v.name||"").toLowerCase() === want)
+           || VOICES.find(v => String(v.name||"").toLowerCase().indexOf(want) >= 0);
+    if(v) return v;
+  }
+  return pickVoiceAuto();
+}
+function pickVoiceAuto(){
+  const lang = String(CFG.speak_lang||"en-US").toLowerCase().replace("_","-");
+  const L = v => String(v.lang||"").toLowerCase().replace("_","-");
+  return VOICES.find(v => L(v) === lang)
+      || VOICES.find(v => L(v).split("-")[0] === lang.split("-")[0])
+      || null;                        // 英語の声が無ければ選ばない
+}
+function voiceOptions(){
+  const head = String(CFG.speak_lang||"en-US").toLowerCase().split("-")[0];
+  const en = [], other = [];
+  VOICES.forEach(v => (String(v.lang||"").toLowerCase().indexOf(head) === 0 ? en : other).push(v));
+  const auto = pickVoiceAuto();
+  const opt = v => '<option value="'+esc(v.name)+'">'+esc(v.name)+"（"+esc(v.lang)+"）</option>";
+  return '<option value="">（自動'
+      + (auto ? "：" + esc(auto.name) : "：合う声がありません") + "）</option>"
+    + (en.length ? '<optgroup label="'+esc(head)+' の声">'+en.map(opt).join("")+"</optgroup>" : "")
+    + (other.length ? '<optgroup label="そのほかの声">'+other.map(opt).join("")+"</optgroup>" : "");
+}
+function rateOptions(){
+  const nowv = Math.round((parseFloat(CFG.speak_rate)||0.9)*100)/100;
+  const list = RATES.slice();
+  if(list.indexOf(nowv) < 0) list.push(nowv);
+  list.sort((a,b) => a-b);
+  return list.map(v => '<option value="'+v+'">'+v+(RATE_NOTE[v]||"")+"</option>").join("");
+}
+function voiceText(){
+  if(!window.speechSynthesis) return "この端末では読み上げが使えません";
+  if(!VOICE_READY) return "声を読み込んでいます…";
+  const v = pickVoice();
+  VOICE_USED = v;
+  return v ? ("いま使う声：<b>"+esc(v.name)+"</b>（"+esc(v.lang)+"）")
+           : ("<b>"+esc(CFG.speak_lang||"en-US")+" の声がありません</b>"
+              +"（この端末に英語の音声が入っていません）");
+}
+/* ⚙が開いているときは、声がそろった時点で表示を書き換える */
+function showVoice(){
+  const box = $("cfgVoiceNote");
+  if(box) box.innerHTML = voiceText();
+  const sel = $("cfgVoice");
+  if(sel){
+    const want = String(CFG.speak_voice||"").trim();
+    sel.innerHTML = voiceOptions();
+    sel.value = (want && VOICES.some(v => v.name === want)) ? want : "";
+    sel.disabled = !VOICES.length;
+  }
+}
+function leadinSec(){ const n = parseInt(CFG.speak_leadin, 10); return isFinite(n) ? n : 15; }
+function needLeadin(){
+  const sec = leadinSec();
+  if(sec <= 0) return false;
+  return LAST_SPOKE === 0 || (Date.now() - LAST_SPOKE) > sec * 1000;
+}
+function doSpeak(text){
+  const v = pickVoice();
+  if(!v){
+    /* 英語の声が無いまま読ませると、日本語の声が英語をカタカナで読んでしまう。
+       覚え間違いのもとになるので、読まずにはっきり知らせる。 */
+    if(!SPOKE_WARN){
+      SPOKE_WARN = true;
+      toast((CFG.speak_lang||"en-US")+" の音声がこの端末にありません。⚙の「読み上げ」を見てください", 7000);
+    }
+    return;
+  }
+  try {
+    if(speechSynthesis.speaking || speechSynthesis.pending) speechSynthesis.cancel();
+  } catch(e){}
+  try {
+    if(needLeadin()){                    // 先に助走を積む（句読点は声に出ない）
+      const w = new SpeechSynthesisUtterance(LEADIN_TEXT);
+      w.voice = v; w.lang = v.lang; w.rate = 1;
+      speechSynthesis.speak(w);
+    }
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = v.lang || String(CFG.speak_lang||"en-US");
+    const r = parseFloat(CFG.speak_rate); u.rate = (isFinite(r) && r > 0) ? r : 0.9;
+    u.voice = v;
+    speechSynthesis.speak(u);
+    LAST_SPOKE = Date.now();
+  } catch(e){ toast("読み上げできません: " + e, 4000); }
+}
+function speak(text){
+  text = String(text||"").trim();
+  if(!text) return;
+  if(!window.speechSynthesis || !window.SpeechSynthesisUtterance){
+    if(!SPOKE_WARN){ SPOKE_WARN = true; toast("この端末では読み上げが使えません", 4000); }
+    return;
+  }
+  if(!VOICE_READY && !loadVoices()){
+    PENDING = text;                      // 声がそろってから読む（既定の声で読ませない）
+    VOICE_TRIES = 0; pollVoices();
+    return;
+  }
+  doSpeak(text);
+}
+function spkBtn(text, big){
+  if(!String(text||"").trim()) return "";
+  return '<button class="spk'+(big?" big":"")+'" data-say="'+esc(text)+'" title="読み上げ">&#128266;</button>';
+}
+/* 一覧・カードのどこを押しても読み上げが効くよう、1か所で受ける */
+document.addEventListener("click", e => {
+  const b = e.target.closest && e.target.closest("[data-say]");
+  if(b){ e.preventDefault(); e.stopPropagation(); speak(b.dataset.say); }
+}, true);
+
+/* ---------------- ダイアログの土台 ---------------- */
+function dlg(title, bodyHTML, buttons, topButtons){
+  $("dlgTitle").textContent = title;
+  $("dlgBody").innerHTML = bodyHTML;
+  const fill = (el, list) => {
+    el.innerHTML = "";
+    (list||[]).forEach(b => {
+      const x = document.createElement("button");
+      x.className = "btn" + (b.kind ? " " + b.kind : "");
+      x.textContent = b.label; x.onclick = b.on;
+      el.appendChild(x);
+    });
+  };
+  fill($("dlgFoot"), buttons);
+  fill($("dlgFootTop"), topButtons);
+  $("dlgFootTop").style.display = (topButtons && topButtons.length) ? "" : "none";
+  $("dlgBody").scrollTop = 0;
+  $("mDlg").classList.add("on");
+}
+function closeDlg(){ $("mDlg").classList.remove("on"); }
+function dlgMsgs(msgs){
+  const box = $("dlgMsgs");
+  if(!box) return;
+  box.innerHTML = (msgs||[]).map(m => '<div class="msg error">'+esc(m)+"</div>").join("");
+  if(msgs && msgs.length) $("dlgBody").scrollTop = $("dlgBody").scrollHeight;
+}
+
+/* ---------------- 一覧（①学習・②赤シート・登録・記録） ----------------
+   何千件も一度に描くと固まるので「全件を持ち、少しずつ描く」方式。
+     LIST  … 絞り込みの結果（全件）
+     DRAWN … そのうち何行まで描いたか
+   下までスクロールすると chunk() 行ずつ足していく（PC版 v1.7.0 と同じ）。 */
+let LIST = [], DRAWN = 0, DRAW_BOX = "", DRAW_KIND = "";
+function chunk(){ const n = parseInt(CFG.list_chunk, 10); return (n > 0) ? n : 300; }
+
+function findBox(){
+  return PAGE === "red" ? $("rdFind").value
+       : PAGE === "reg" ? $("rgFind").value : $("stFind").value;
+}
+function onlyBox(){
+  return PAGE === "red" ? $("rdOnly").value : (PAGE === "reg" ? "" : $("stOnly").value);
+}
+function loadList(){
+  LIST = listWords(findBox(), onlyBox());
+  const note = num(LIST.length) + " 件";
+  if(PAGE === "red"){ $("rdCount").textContent = note; renderRows("rdRows", "red"); }
+  else if(PAGE === "reg"){ $("rgCount").textContent = note; $("rgAll").checked = false;
+                           renderRows("rgRows", "reg"); }
+  else { $("stCount").textContent = note; renderRows("stRows", "study"); }
+}
+function rowHtml(d, kind){
+  if(kind === "reg"){
+    return '<div class="row" data-id="'+d.id+'">'
+      + '<div class="l1"><input type="checkbox" class="ck sel" data-sel="'+d.id+'">'
+      + '<span class="rg">'+esc(d.reg_no)+"・"+d.branch_no+"</span>"
+      + lvlTag(d.level)
+      + '<span class="sp"></span>'
+      + '<button class="btn sm" data-edit="'+d.id+'">直す</button></div>'
+      + '<div class="w">'+esc(d.word)+"</div>"
+      + '<div class="ja">'+esc(d.ja)+"</div>"
+      + (d.ex_en ? '<div class="mt">'+esc(d.ex_en)+"</div>" : "")
+      + '<div class="mt">'+esc(d.pos||"")
+        + (d.last_word ? "　単語 "+lvTag(d.last_word) : "")
+        + (d.last_ex ? "　例文 "+lvTag(d.last_ex) : "") + "</div></div>";
+  }
+  const ja = (kind === "red")
+    ? '<span class="hide" title="押すと出ます">'+esc(d.ja||"（意味がありません）")+"</span>"
+    : esc(d.ja);
+  return '<div class="row'+(d.checked?" done":"")+'" data-id="'+d.id+'" data-detail="'+d.id+'">'
+    + '<div class="l1"><span class="no">'+d.no+"</span>"
+    + '<span class="rg">'+esc(d.reg_no)+"・"+d.branch_no+"</span>"
+    + lvlTag(d.level)
+    + '<span class="sp"></span>'
+    + '<input type="checkbox" class="ck" data-ck="'+d.id+'"'+(d.checked?" checked":"")
+      + ' title="覚えた印。入れた回数を数えます"></div>'
+    + '<div class="w">'+esc(d.word)+spkBtn(d.word)+"</div>"
+    + '<div class="ja">'+ja+"</div>"
+    + '<div class="mt">'+esc(d.pos||"")+"　通算 "+(d.check_count||0)+" 回"
+    + (d.last_check ? "　最終 "+esc(d.last_check) : "") + "</div></div>";
+}
+function renderRows(box, kind){
+  const b = $(box);
+  DRAW_BOX = box; DRAW_KIND = kind; DRAWN = 0;
+  b.innerHTML = "";
+  if(!LIST.length){
+    b.innerHTML = '<div class="empty">単語がありません。<br>'
+      + "［登録］タブで足すか、⚙から CSV を取り込んでください。</div>";
+    setMore(); return;
+  }
+  const w = b.closest(".page");
+  w.scrollTop = 0;
+  w.onscroll = () => { if(w.scrollTop + w.clientHeight >= w.scrollHeight - 300) drawMore(); };
+  drawMore();
+  /* 画面が縦に余っているうちは、埋まるまで足す。
+     見えていないタブに描くときは高さが 0 なので、そのときは1回ぶんで止める。 */
+  let guard = 0;
+  while(DRAWN < LIST.length && w.classList.contains("on")
+        && w.scrollHeight <= w.clientHeight + 200 && guard++ < 50) drawMore();
+}
+function drawMore(){
+  if(!DRAW_BOX || DRAWN >= LIST.length) return false;
+  const b = $(DRAW_BOX), from = DRAWN, to = Math.min(DRAWN + chunk(), LIST.length);
+  b.insertAdjacentHTML("beforeend",
+    LIST.slice(from, to).map(d => rowHtml(d, DRAW_KIND)).join(""));
+  for(let i = from; i < to; i++) wireRow(b.children[i], DRAW_KIND);
+  DRAWN = to; setMore();
+  return true;
+}
+function drawAll(){ let g = 0; while(drawMore() && g++ < 100000){} }
+function setMore(){
+  const id = DRAW_BOX === "rdRows" ? "rdMore" : DRAW_BOX === "rgRows" ? "rgMore" : "stMore";
+  const el = $(id); if(!el) return;
+  el.textContent = (DRAWN < LIST.length)
+    ? ("ここまで " + num(DRAWN) + " 件／" + num(LIST.length) + " 件（下へ送ると続きが出ます）")
+    : (LIST.length ? "以上 " + num(LIST.length) + " 件" : "");
+}
+function wireRow(el, kind){
+  if(!el) return;
+  if(kind === "reg"){
+    el.querySelectorAll("[data-edit]").forEach(x => x.onclick = (ev) => {
+      ev.stopPropagation();
+      const d = LIST.find(r => r.id === +x.dataset.edit);
+      if(d) openWord(d);
+    });
+    el.querySelectorAll("[data-sel]").forEach(x => x.onclick = (ev) => ev.stopPropagation());
+    return;
+  }
+  el.querySelectorAll("[data-ck]").forEach(x => x.onclick = async (ev) => {
+    ev.stopPropagation();
+    const r = await toggleCheck(+x.dataset.ck, x.checked);
+    if(!r) return;
+    const d = LIST.find(v => v.id === r.id);
+    if(d){ d.checked = r.checked; d.check_count = r.check_count;
+           d.last_check = String(r.last_check_at||"").slice(0,16); }
+    const mt = el.querySelector(".mt");
+    if(mt) mt.textContent = (r.pos||"") + "　通算 " + (r.check_count||0) + " 回"
+      + (r.last_check_at ? "　最終 " + String(r.last_check_at).slice(0,16) : "");
+    el.classList.toggle("done", !!r.checked);
+  });
+  if(kind === "red"){
+    el.querySelectorAll(".hide").forEach(s => s.onclick = (ev) => {
+      ev.stopPropagation(); s.classList.toggle("show");
+    });
+  }
+  el.onclick = () => { BACK_TO = PAGE; openDetail(+el.dataset.id, kind === "red"); };
+}
+
+async function doClearChecks(){
+  if(!confirm("チェックを全部外します。よろしいですか。\n"
+    + "（通算チェック回数と最終チェック日時は残ります）")) return;
+  const t = now();
+  const put = [];
+  (await getAll("words")).forEach(w => { if(w.checked){ w.checked = 0; w.updated_at = t; put.push(w); } });
+  await putMany("words", put);
+  await loadWords(); refreshChips(); loadList();
+  toast("チェックを " + put.length + " 件外しました");
+}
+
+/* ---------------- ③詳細 ----------------
+   ③はタブでもあり、一覧の行からも開ける。どちらで来ても中身は同じ。
+   ［← 一覧へ戻る］は「どのタブから来たか」を覚えておいて、そこへ返す。 */
+let DT = null, RED = false, BACK_TO = "study";
+
+function openDetail(id, red){
+  const d = WORDS.find(w => w.id === id);
+  if(!d){ toast("その単語は見つかりません"); return; }
+  DT = d; RED = !!red;
+  if(PAGE !== "dt"){ tab("dt"); }       // tab() の中で描き直す
+  else renderDetail();
+}
+function openDetailTab(){
+  if(!LIST.length) loadList();
+  if(!LIST.length){
+    DT = null;
+    $("dtPrev").disabled = $("dtNext").disabled = $("dtEdit").disabled = true;
+    $("dtIn").innerHTML = '<p class="q-sub">単語がありません。'
+      + "［登録］タブで足すか、⚙から CSV を取り込んでください。</p>";
+    return;
+  }
+  $("dtEdit").disabled = false;
+  const still = DT && LIST.some(d => d.id === DT.id);
+  if(!still){ DT = WORDS.find(w => w.id === LIST[0].id); }
+  renderDetail();
+}
+function closeDetail(){ tab(BACK_TO === "dt" ? "study" : BACK_TO); }
+function stepDetail(n){
+  if(!DT) return;
+  const i = LIST.findIndex(d => d.id === DT.id), j = i + n;
+  if(i < 0 || j < 0 || j >= LIST.length){ toast(n < 0 ? "先頭です" : "最後です"); return; }
+  openDetail(LIST[j].id, RED);
+}
+async function renderDetail(){
+  const d = DT;
+  if(!d) return;
+  const pos = LIST.findIndex(x => x.id === d.id);
+  $("dtPrev").disabled = pos <= 0;
+  $("dtNext").disabled = pos < 0 || pos >= LIST.length - 1;
+  const rows = (await getAll("tests"))
+    .filter(t => t.reg_no === d.reg_no && (t.branch_no||1) === (d.branch_no||1))
+    .sort((a, b) => a.done_at < b.done_at ? 1 : a.done_at > b.done_at ? -1 : b.id - a.id)
+    .slice(0, 30);
+  const cell = (v, cls) => v ? '<div class="v '+(cls||"")+'">'+esc(v)+"</div>"
+                             : '<div class="v empty2">（ありません）</div>';
+  const ja = RED ? '<div class="v"><span class="hide" title="押すと出ます">'
+                   + esc(d.ja||"（意味がありません）") + "</span></div>"
+                 : cell(d.ja);
+  $("dtIn").innerHTML =
+     '<div class="dt-word">'+esc(d.word)+spkBtn(d.word, true)+"</div>"
+    + '<div class="dt-sub">'
+      + (pos >= 0 ? "表示番号 " + LIST[pos].no + "／" + num(LIST.length) + "　" : "")
+      + "登録NO " + esc(d.reg_no) + "　枝番 " + d.branch_no + "<br>"
+      + '<label style="cursor:pointer"><input type="checkbox" id="dtCk"'
+      + (d.checked ? " checked" : "") + ' style="width:20px;height:20px;vertical-align:-4px">'
+      + " チェック（通算 " + (d.check_count||0) + " 回"
+      + (d.last_check_at ? "／最終 " + esc(String(d.last_check_at).slice(0,16)) : "") + "）</label></div>"
+    + '<div class="dt-grid">'
+    + '<div class="k">品詞</div>' + cell(d.pos)
+    + '<div class="k">レベル</div>'
+      + (d.level ? '<div class="v">Lv.'+esc(d.level)+"</div>"
+                 : '<div class="v empty2">（未設定）</div>')
+    + '<div class="k">意味(日本語)</div>' + ja
+    + '<div class="k">意味(英語)</div>'
+      + (d.en ? '<div class="v en">'+esc(d.en)+spkBtn(d.en)+"</div>"
+              : '<div class="v empty2">（ありません）</div>')
+    + '<div class="k">例文(英語)</div>'
+      + (d.ex_en ? '<div class="v en">'+esc(d.ex_en)+spkBtn(d.ex_en)+"</div>"
+                 : '<div class="v empty2">（ありません）</div>')
+    + '<div class="k">例文(日本語)</div>' + cell(d.ex_ja)
+    + '<div class="k">解説</div>' + cell(d.note)
+    + "</div>"
+    + (rows.length
+      ? '<div class="k" style="color:var(--sub);font-size:11.5px;margin-top:18px">テストの記録</div>'
+        + '<div class="rows" style="padding:6px 0 0">'
+        + rows.map(t => '<div class="row"><div class="l1"><span class="rg">'+esc(t.done_at)+"</span>"
+            + '<span class="sp"></span>'+lvTag(t.result)+"</div>"
+            + '<div class="mt">'+esc(t.kind)+"　通算 "+t.seq+" 回</div></div>").join("")
+        + "</div>"
+      : '<p class="q-sub" style="margin-top:18px">まだテストの記録はありません。</p>');
+  $("dtIn").querySelectorAll(".hide").forEach(s => s.onclick = () => s.classList.toggle("show"));
+  const ck = $("dtCk");
+  if(ck) ck.onchange = async () => {
+    const r = await toggleCheck(d.id, ck.checked);
+    if(r){ DT = WORDS.find(w => w.id === d.id); renderDetail(); loadList(); }
+  };
+}
+
+/* ---------------- ④単語テスト・⑤例文テスト ---------------- */
+const T = {"単語":{rows:[], i:0, shown:false, counts:{}, running:false},
+           "例文":{rows:[], i:0, shown:false, counts:{}, running:false}};
+const BOX = {"単語":"twCard", "例文":"teCard"};
+
+/* 出題する札を並べる（PC版 test_start と同じ選びかた）。
+   level は対象（pick）とは別の軸で、掛け合わせで効く。 */
+function pickRows(kind, order, pick, count, level){
+  let rows = WORDS.slice();
+  if(kind === "例文") rows = rows.filter(d => d.ex_ja || d.ex_en);
+  const lv = String(level||"").trim();
+  if(lv === "未設定") rows = rows.filter(d => !(d.level||""));
+  else if(lv){
+    const n = normLevel(lv);
+    if(n) rows = rows.filter(d => (d.level||"") === n);
+  }
+  if(pick === "覚えていた以外"){
+    rows = rows.filter(d => ((LAST[keyOf(d)]||{})[kind]||{}).result !== "覚えていた");
+  } else if(pick === "まだ出していない"){
+    rows = rows.filter(d => !((LAST[keyOf(d)]||{})[kind]));
+  }
+  if(order === "ランダム"){
+    for(let i = rows.length - 1; i > 0; i--){
+      const j = Math.floor(Math.random() * (i + 1));
+      const t = rows[i]; rows[i] = rows[j]; rows[j] = t;
+    }
+  }
+  /* 出題数。0 なら対象のものを全部出す（画面の案内どおり）。
+     欄を空にしたときだけ、既定の出題数（⚙の「出題数の既定」）を使う。 */
+  const n = parseInt(count, 10) || 0;
+  if(n > 0) rows = rows.slice(0, n);
+  return rows.map((d, i) => {
+    const lr = (LAST[keyOf(d)]||{})[kind] || {};
+    return Object.assign({}, d, {no:i+1, last_result:lr.result||"",
+                                 last_at:String(lr.done_at||"").slice(0,16)});
+  });
+}
+async function testStart(kind){
+  const pre = kind === "単語" ? "tw" : "te";
+  const raw = String($(pre+"Count").value || "").trim();
+  const p = {o:$(pre+"Order").value, k:$(pre+"Pick").value, lv:$(pre+"Level").value,
+             n: raw === "" ? (parseInt(CFG.test_count, 10) || 0) : (parseInt(raw, 10) || 0)};
+  busy(true, "問題を選んでいます…");
+  let rows;
+  try {
+    rows = pickRows(kind, p.o, p.k, p.n, p.lv);
+    TEST_PREF[kind] = {order:p.o, pick:p.k, count:p.n, level:p.lv};
+    await setMeta("test_pref", TEST_PREF);       // 次も同じ条件から始められる
+  } finally { busy(false); }
+  const st = T[kind];
+  st.rows = rows; st.i = 0; st.shown = false; st.running = rows.length > 0;
+  st.counts = {}; LEVELS.forEach(l => st.counts[l] = 0);
+  if(!rows.length){
+    toast("出題できるものがありませんでした（対象"
+      + (p.lv ? "／Lv." + p.lv : "") + "を変えてみてください）", 4000);
+  }
+  testRender(kind);
+}
+function testStop(kind){
+  const st = T[kind];
+  st.running = false; st.rows = []; st.i = 0; st.shown = false;
+  testRender(kind);
+}
+function testCur(kind){
+  const st = T[kind];
+  return st.running && st.i < st.rows.length ? st.rows[st.i] : null;
+}
+function testShow(kind){
+  if(!testCur(kind)) return;
+  T[kind].shown = true; testRender(kind);
+}
+function testSpeak(kind){
+  const d = testCur(kind); if(!d) return;
+  if(kind === "単語"){ speak(d.word); return; }
+  /* ⑤例文テストの英文は答えそのもの。答えを見る前は読まない */
+  if(!T["例文"].shown){ toast("答えを見てから読み上げます"); return; }
+  speak(d.ex_en || d.word);
+}
+async function testAnswer(kind, level){
+  const d = testCur(kind);
+  if(!d || LEVELS.indexOf(level) < 0) return;
+  const all = await getAll("tests");
+  const seq = all.filter(t => t.reg_no === d.reg_no
+    && (t.branch_no||1) === (d.branch_no||1) && t.kind === kind).length + 1;
+  await putRec("tests", {reg_no:d.reg_no, branch_no:d.branch_no||1, kind:kind,
+                         done_at:now(), result:level, seq:seq});
+  await loadTests(); refreshChips();
+  const st = T[kind];
+  st.counts[level] = (st.counts[level]||0) + 1;
+  st.i++; st.shown = false;
+  testRender(kind);
+}
+async function testBack(kind){
+  const st = T[kind];
+  if(st.i <= 0){ toast("最初の問題です"); return; }
+  const prev = st.rows[st.i-1];
+  const all = (await getAll("tests"))
+    .filter(t => t.reg_no === prev.reg_no && (t.branch_no||1) === (prev.branch_no||1)
+                 && t.kind === kind)
+    .sort((a,b) => a.id - b.id);
+  const last = all[all.length-1];
+  if(last){
+    await delMany("tests", [last.id]);
+    if(st.counts[last.result]) st.counts[last.result]--;
+    await loadTests(); refreshChips();
+    toast("「" + last.result + "」を取り消しました");
+  }
+  st.i--; st.shown = false;
+  testRender(kind);
+}
+function testRender(kind){
+  const st = T[kind], box = $(BOX[kind]);
+  if(!st.running || !st.rows.length){
+    box.innerHTML = '<div class="card-in"><p class="q-head">'
+      + (kind === "単語"
+        ? "英単語を見て、意味を思い出すテストです。"
+        : "例文（日本語）を見て、英語を思い出すテストです。")
+      + '</p><p class="q-sub">上の［はじめる］を押してください。<br>'
+      + "出題順・対象・Lv.・出題数は上のバーで選べます。"
+      + "Lv. は対象との掛け合わせで効きます（例 Lv.5 の「覚えていた以外」）。<br>"
+      + "出題数を 0 にすると、対象のものを全部出します。</p></div>";
+    return;
+  }
+  if(st.i >= st.rows.length){
+    const total = st.rows.length;
+    box.innerHTML = '<div class="card-in">'
+      + '<p class="q-head">おつかれさまでした</p>'
+      + '<div class="q-main small">'+total+" 問おわりました</div>"
+      + '<div class="res">'+LEVELS.map(l =>
+         '<div class="sum-card"><div class="k">'+esc(l)+"</div>"
+         + '<div class="v">'+(st.counts[l]||0)+"</div></div>").join("")+"</div>"
+      + '<div class="lv-btns"><button class="btn primary" data-again>もう一度はじめる</button>'
+      + '<button class="btn" data-back>直前の1問に戻る</button></div></div>';
+    box.querySelector("[data-again]").onclick = () => testStart(kind);
+    box.querySelector("[data-back]").onclick = () => testBack(kind);
+    return;
+  }
+  const d = st.rows[st.i];
+  const n = st.i + 1, total = st.rows.length, pct = Math.round(n/total*100);
+  const hidden = (v, label) => st.shown
+      ? '<div class="v'+(label==="en"?" en":"")+'">'+esc(v||"（ありません）")
+        + (label === "en" ? spkBtn(v) : "") + "</div>"
+      : '<div class="v"><span class="hide" data-reveal>'+esc(v||"（ありません）")+"</span></div>";
+  let head, main, ans;
+  if(kind === "単語"){
+    head = "④単語テスト　登録NO " + esc(d.reg_no) + "　枝番 " + d.branch_no
+        + (d.level ? "　Lv." + esc(d.level) : "")
+        + (d.last_result ? "　前回 " + esc(d.last_result) + "（" + esc(d.last_at) + "）" : "　初めて");
+    main = '<div class="q-main">'+esc(d.word)+spkBtn(d.word, true)+"</div>"
+        + '<div class="q-sub">'+esc(d.pos||"")+"</div>";
+    ans = '<div class="a-row"><div class="k">意味(日本語)</div>'+hidden(d.ja)+"</div>"
+       + (st.shown && d.en ? '<div class="a-row"><div class="k">意味(英語)</div>'
+          + '<div class="v en">'+esc(d.en)+spkBtn(d.en)+"</div></div>" : "")
+       + (st.shown && d.ex_en ? '<div class="a-row"><div class="k">例文(英語)</div>'
+          + '<div class="v en">'+esc(d.ex_en)+spkBtn(d.ex_en)+"</div></div>" : "")
+       + (st.shown && d.ex_ja ? '<div class="a-row"><div class="k">例文(日本語)</div>'
+          + '<div class="v">'+esc(d.ex_ja)+"</div></div>" : "");
+  } else {
+    head = "⑤例文テスト　登録NO " + esc(d.reg_no) + "　枝番 " + d.branch_no
+        + (d.level ? "　Lv." + esc(d.level) : "")
+        + (d.last_result ? "　前回 " + esc(d.last_result) + "（" + esc(d.last_at) + "）" : "　初めて");
+    main = '<div class="q-main small">'+esc(d.ex_ja||"（例文(日本語)がありません）")+"</div>"
+        + '<div class="q-sub">'+esc(d.word)+"　"+esc(d.pos||"")+"</div>";
+    ans = '<div class="a-row"><div class="k">例文(英語)</div>'+hidden(d.ex_en,"en")+"</div>"
+       + '<div class="a-row"><div class="k">解説</div>'+hidden(d.note)+"</div>"
+       + (st.shown && d.ja ? '<div class="a-row"><div class="k">意味(日本語)</div>'
+          + '<div class="v">'+esc(d.ja)+"</div></div>" : "");
+  }
+  box.innerHTML = '<div class="card-in">'
+    + '<div class="prog"><span>'+n+" / "+total+"</span>"
+      + '<span class="pbar"><i style="width:'+pct+'%"></i></span>'
+      + '<button class="btn sm" data-back>← やり直す</button></div>'
+    + '<p class="q-head">'+esc(head)+"</p>"
+    + main
+    + '<div class="a-box">'+ans+"</div>"
+    + (st.shown ? "" : '<div class="lv-btns one">'
+        + '<button class="btn primary" data-show>答えを見る</button></div>')
+    + '<div class="lv-btns">'+LEVELS.map((l,i) =>
+        '<button data-lv="'+esc(l)+'">'+(i+1)+". "+esc(l)+"</button>").join("")+"</div>"
+    + '<p class="q-sub" style="margin-top:12px">記憶レベルを押すと記録して次へ進みます。</p>'
+    + "</div>";
+  const sb = box.querySelector("[data-show]");
+  if(sb) sb.onclick = () => testShow(kind);
+  box.querySelectorAll("[data-reveal]").forEach(s => s.onclick = () => testShow(kind));
+  box.querySelector("[data-back]").onclick = () => testBack(kind);
+  box.querySelectorAll("[data-lv]").forEach(b => b.onclick = () => testAnswer(kind, b.dataset.lv));
+  /* 自動の読み上げ。④は「問題＝英単語」なので問題が出たとき、
+     ⑤は「答え＝例文(英語)」なので答えを見たときに読む。
+     ⑤で問題と一緒に読むと、答えを先に言ってしまうことになる。 */
+  if(CFG.speak_auto){
+    if(kind === "単語" && !st.shown) setTimeout(() => testSpeak(kind), 250);
+    if(kind === "例文" &&  st.shown) setTimeout(() => testSpeak(kind), 250);
+  }
+}
+
+/* ---------------- 登録・修正 ---------------- */
+function nextRegNo(){
+  let mx = 0, digits = 4, prefix = "E";
+  WORDS.forEach(w => {
+    const v = String(w.reg_no||"").trim();
+    const head = v.replace(/[0-9]/g, "");
+    const tail = v.slice(head.length);
+    if(tail && /^\d+$/.test(tail)){
+      mx = Math.max(mx, parseInt(tail, 10));
+      digits = Math.max(digits, tail.length);
+      if(head) prefix = head;
+    }
+  });
+  return prefix + ("0000000000" + (mx+1)).slice(-digits);
+}
+const POS_LIST = ["名詞","動詞","形容詞","副詞","前置詞","接続詞","代名詞","助動詞",
+                  "熟語","慣用句","句動詞"];
+function openWord(d){
+  const isNew = !d;
+  const b = d || {id:0, reg_no:nextRegNo(), branch_no:1, level:"", word:"", pos:"",
+                  ja:"", en:"", ex_en:"", ex_ja:"", note:""};
+  const save = async () => { await saveWord(isNew ? 0 : b.id); };
+  dlg(isNew ? "単語を登録する" : "単語を直す",
+    '<div class="form">'
+    + '<div class="two2">'
+      + '<div><label class="k">登録NO</label><input id="wdReg" value="'+esc(b.reg_no)+'"></div>'
+      + '<div><label class="k">枝番</label><input id="wdBr" type="number" min="1" step="1" value="'
+        + (b.branch_no||1) + '" inputmode="numeric"></div></div>'
+    + '<div class="hint">同じ単語の別の意味・別の例文は、同じ登録NO の枝番を増やして足します。</div>'
+    + '<div><label class="k">レベル（単語の難易度 1〜10・空でも構いません）</label>'
+      + '<input id="wdLevel" type="number" min="1" max="10" step="1" value="'+esc(b.level||"")
+      + '" inputmode="numeric" placeholder="（未設定）"></div>'
+    + '<div><label class="k">英単語（熟語・慣用句もここに入れます）</label>'
+      + '<input id="wdWord" value="'+esc(b.word)+'" placeholder="example"></div>'
+    + '<div><label class="k">品詞</label><input id="wdPos" list="posList" value="'+esc(b.pos)
+      + '" placeholder="名詞・動詞・熟語・慣用句 …">'
+      + '<datalist id="posList">'+POS_LIST.map(p => "<option>"+p+"</option>").join("")+"</datalist>"
+      + '<div class="hint">熟語・慣用句も同じように登録できます。英単語の欄に '
+      + "<code>look forward to</code> のようにそのまま入れ、品詞に「熟語」「慣用句」を選びます。</div></div>"
+    + '<div><label class="k">意味(日本語)</label><input id="wdJa" value="'+esc(b.ja)+'"></div>'
+    + '<div><label class="k">意味(英語)</label><input id="wdEn" value="'+esc(b.en)+'"></div>'
+    + '<div><label class="k">例文(英語)</label><textarea id="wdExEn" rows="2">'+esc(b.ex_en)+"</textarea></div>"
+    + '<div><label class="k">例文(日本語)</label><textarea id="wdExJa" rows="2">'+esc(b.ex_ja)+"</textarea></div>"
+    + '<div><label class="k">解説</label><textarea id="wdNote" rows="3" '
+      + 'placeholder="語源・覚え方・使い分けなど">'+esc(b.note)+"</textarea></div>"
+    + "</div>"
+    + '<div id="dlgMsgs" style="margin-top:10px"></div>',
+    [{label:"やめる", on:closeDlg}, {label:"保存", kind:"primary", on:save}],
+    [{label:"やめる", on:closeDlg}, {label:"保存", kind:"primary", on:save}]);
+  setTimeout(() => { const w = $("wdWord"); if(w && !w.value) w.focus(); }, 60);
+}
+async function saveWord(id){
+  const msgs = [];
+  const reg = ($("wdReg").value||"").trim();
+  const word = ($("wdWord").value||"").trim();
+  if(!reg) msgs.push("登録NO を入れてください");
+  if(!word) msgs.push("英単語 を入れてください");
+  let br = parseInt($("wdBr").value||"1", 10);
+  if(!isFinite(br) || br < 1){ br = 1; msgs.push("枝番 は 1 以上の数字で入れてください"); }
+  const rawLv = ($("wdLevel").value||"").trim();
+  const lv = normLevel(rawLv);
+  if(rawLv && !lv) msgs.push("レベル は " + LEVEL_MIN + "〜" + LEVEL_MAX
+    + " の数字で入れてください（空のままでも構いません）");
+  if(msgs.length){ dlgMsgs(msgs); return; }
+  const dup = WORDS.find(w => w.reg_no === reg && (w.branch_no||1) === br);
+  if(dup && (!id || dup.id !== id)){
+    dlgMsgs(["登録NO " + reg + " ／ 枝番 " + br + " は、もう使われています"]); return;
+  }
+  const t = now();
+  const vals = {reg_no:reg, branch_no:br, level:lv,
+    word:word, pos:($("wdPos").value||"").trim(),
+    ja:($("wdJa").value||"").trim(), en:($("wdEn").value||"").trim(),
+    ex_en:$("wdExEn").value, ex_ja:$("wdExJa").value, note:$("wdNote").value};
+  let rec;
+  if(id){
+    rec = await pr(tx(["words"]).objectStore("words").get(id));
+    Object.assign(rec, vals, {updated_at:t});
+  } else {
+    rec = Object.assign({checked:0, check_count:0, last_check_at:"",
+                         created_at:t, updated_at:t}, vals);
+  }
+  const newId = await putRec("words", rec);
+  await loadWords(); refreshChips();
+  closeDlg();
+  toast(word + (id ? " を直しました" : " を足しました"));
+  loadList();
+  if(DT && (DT.id === id || DT.id === newId)){ DT = WORDS.find(w => w.id === (id||newId)); }
+  if(PAGE === "dt") renderDetail();
+}
+async function doDelete(){
+  const ids = [...document.querySelectorAll("#rgRows input.sel:checked")].map(c => +c.dataset.sel);
+  if(!ids.length){ toast("消すものを選んでください"); return; }
+  if(!confirm(ids.length + " 件を消します。テストの記録も一緒に消えます。よろしいですか。")) return;
+  const keys = {};
+  ids.forEach(id => { const w = WORDS.find(x => x.id === id); if(w) keys[keyOf(w)] = 1; });
+  const delT = (await getAll("tests")).filter(t => keys[keyOf(t)]).map(t => t.id);
+  await delMany("words", ids);
+  await delMany("tests", delT);
+  await reloadAll();
+  if(DT && ids.indexOf(DT.id) >= 0) DT = null;
+  toast(ids.length + " 件消しました");
+  loadList();
+}
+
+/* ---------------- 記録 ---------------- */
+let LOG = [], LOG_DRAWN = 0;
+async function loadLog(){
+  const kind = $("lgKind").value, f = $("lgFrom").value, t2 = $("lgTo").value;
+  let rows = await getAll("tests");
+  if(kind) rows = rows.filter(r => r.kind === kind);
+  if(f) rows = rows.filter(r => r.done_at >= f + " 00:00:00");
+  if(t2) rows = rows.filter(r => r.done_at <= t2 + " 23:59:59");
+  rows.sort((a,b) => a.done_at < b.done_at ? 1 : a.done_at > b.done_at ? -1 : b.id - a.id);
+  const wmap = {};
+  WORDS.forEach(w => wmap[keyOf(w)] = w);
+  LOG = rows.map(r => {
+    const w = wmap[keyOf(r)] || {};
+    return Object.assign({}, r, {word:w.word||"", ja:w.ja||""});
+  });
+  const counts = {};
+  LEVELS.forEach(l => counts[l] = 0);
+  LOG.forEach(r => { if(counts[r.result] != null) counts[r.result]++; });
+  $("lgCards").innerHTML =
+     '<div class="sum-card"><div class="k">テストした回数</div><div class="v">'+num(LOG.length)+"</div></div>"
+    + LEVELS.map(l => '<div class="sum-card"><div class="k">'+esc(l)+"</div>"
+       + '<div class="v">'+num(counts[l]||0)+"</div></div>").join("");
+  const b = $("lgRows");
+  LOG_DRAWN = 0; b.innerHTML = "";
+  if(!LOG.length){
+    b.innerHTML = '<div class="empty">この条件のテスト記録はありません。</div>';
+    $("lgMore").textContent = ""; return;
+  }
+  const w = $("pg-log");
+  w.scrollTop = 0;
+  w.onscroll = () => { if(w.scrollTop + w.clientHeight >= w.scrollHeight - 300) drawMoreLog(); };
+  drawMoreLog();
+  let guard = 0;
+  while(LOG_DRAWN < LOG.length && w.scrollHeight <= w.clientHeight + 200 && guard++ < 50) drawMoreLog();
+}
+function drawMoreLog(){
+  if(LOG_DRAWN >= LOG.length) return false;
+  const b = $("lgRows"), from = LOG_DRAWN, to = Math.min(LOG_DRAWN + chunk(), LOG.length);
+  b.insertAdjacentHTML("beforeend", LOG.slice(from, to).map(t =>
+    '<div class="row"><div class="l1"><span class="rg">'+esc(t.done_at)+"</span>"
+    + '<span class="sp"></span>'+lvTag(t.result)+"</div>"
+    + '<div class="w">'+esc(t.word)+"</div>"
+    + '<div class="ja">'+esc(t.ja)+"</div>"
+    + '<div class="mt">'+esc(t.reg_no)+"・"+t.branch_no+"　"+esc(t.kind)
+    + "　通算 "+t.seq+" 回</div></div>").join(""));
+  LOG_DRAWN = to;
+  $("lgMore").textContent = (LOG_DRAWN < LOG.length)
+    ? ("ここまで " + num(LOG_DRAWN) + " 件／" + num(LOG.length) + " 件（下へ送ると続きが出ます）")
+    : ("以上 " + num(LOG.length) + " 件");
+  return true;
+}
+async function doClearTests(){
+  const k = $("lgKind").value;
+  if(!confirm("テストの記録" + (k ? "（"+k+"）" : "") + "を消します。\n"
+    + "単語そのものは消えません。よろしいですか。")) return;
+  const rows = await getAll("tests");
+  const ids = (k ? rows.filter(r => r.kind === k) : rows).map(r => r.id);
+  await delMany("tests", ids);
+  await loadTests(); refreshChips();
+  closeDlg();
+  toast("テスト記録を " + ids.length + " 件消しました");
+  await loadLog();
+}
+
+/* ---------------- CSV・控え ---------------- */
+function csvCell(v){
+  const s = String(v == null ? "" : v);
+  return /[",\r\n]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s;
+}
+function csvOf(rows){ return rows.map(r => r.map(csvCell).join(",")).join("\r\n") + "\r\n"; }
+/* ブラウザでは cp932 を書けないので UTF-8（BOM付き）で書き出す。
+   Excel は BOM 付き UTF-8 をそのまま開ける。PC版は BOM を見て両対応。 */
+function download(name, text, mime){
+  const isCsv = !mime || mime === "text/csv";
+  const blob = new Blob([(isCsv ? "\uFEFF" : "") + text],
+                        {type:(mime||"text/csv") + ";charset=utf-8"});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url; a.download = name; document.body.appendChild(a); a.click();
+  setTimeout(() => { document.body.removeChild(a); URL.revokeObjectURL(url); }, 1500);
+  toast("書き出しました：" + name);
+}
+function stamp(){ const d = nowDT();
+  return fmtD(d).replace(/-/g,"") + "_" + pad2(d.getHours())+pad2(d.getMinutes())+pad2(d.getSeconds()); }
+
+/* 囲み（"…"）の中の改行を残したまま読む。
+   1行ずつに切ってから渡すと、複数行で登録した例文が1行に潰れる（PC版 v1.4.1 の落とし穴）。 */
+function parseCsv(text){
+  if(text.charCodeAt(0) === 0xFEFF) text = text.slice(1);
+  text = text.replace(/\r\n/g, "\n").replace(/\r/g, "\n");
+  const rows = []; let row = [], cell = "", q = false;
+  for(let i = 0; i < text.length; i++){
+    const c = text[i];
+    if(q){
+      if(c === '"'){ if(text[i+1] === '"'){ cell += '"'; i++; } else q = false; }
+      else cell += c;
+    } else {
+      if(c === '"') q = true;
+      else if(c === ","){ row.push(cell); cell = ""; }
+      else if(c === "\n"){ row.push(cell); rows.push(row); row = []; cell = ""; }
+      else cell += c;
+    }
+  }
+  if(cell.length || row.length){ row.push(cell); rows.push(row); }
+  return rows.filter(r => r.length && r.some(c => String(c).trim() !== ""));
+}
+/* 取り込むファイルの文字コードを見分ける。
+   PC版が書き出す CSV は cp932、こちらが書き出すものは UTF-8（BOM付き）。 */
+function decodeBytes(buf){
+  const b = new Uint8Array(buf);
+  if(b.length >= 3 && b[0] === 0xEF && b[1] === 0xBB && b[2] === 0xBF)
+    return {text:new TextDecoder("utf-8").decode(b.subarray(3)), enc:"UTF-8"};
+  try { return {text:new TextDecoder("utf-8", {fatal:true}).decode(b), enc:"UTF-8"}; }
+  catch(e){
+    try { return {text:new TextDecoder("shift_jis").decode(b), enc:"cp932"}; }
+    catch(e2){ return {text:new TextDecoder("utf-8").decode(b), enc:"UTF-8"}; }
+  }
+}
+function csvToWords(text){
+  const rows = parseCsv(text);
+  if(rows.length < 2) return {rows:[], err:"中身がありませんでした"};
+  const head = rows[0].map(s => String(s).trim().replace(/^\uFEFF/, ""));
+  const ix = n => head.indexOf(n);
+  const miss = ["登録NO","英単語"].filter(c => ix(c) < 0);
+  if(miss.length) return {rows:[], err:"見出しに " + miss.join("・") + " がありません"};
+  const out = [];
+  for(let i = 1; i < rows.length; i++){
+    const c = rows[i], d = {};
+    CSV_COLS.forEach((col, j) => {
+      const k = CSV_KEYS[j], p = ix(col);
+      d[k] = p >= 0 ? String(c[p] == null ? "" : c[p]).trim() : "";
+    });
+    if(!d.reg_no) continue;
+    let br = parseInt(d.branch_no, 10);
+    d.branch_no = (isFinite(br) && br >= 1) ? br : 1;
+    d.level = normLevel(d.level);
+    out.push(d);
+  }
+  return {rows:out, err:""};
+}
+async function importWordsText(text, overwrite, enc){
+  const r = csvToWords(text);
+  if(r.err){ toast(r.err, 5000); return null; }
+  busy(true, "取り込んでいます…");
+  let res;
+  try { res = await upsertWords(r.rows, overwrite !== false); }
+  finally { busy(false); }
+  toast("取り込みました（追加 " + num(res.add) + " ／ 更新 " + num(res.update)
+    + " ／ 素通り " + num(res.skip) + "）" + (enc ? "　［" + enc + "］" : ""), 5000);
+  return res;
+}
+async function importText(name, text, enc){
+  if(/\.json$/i.test(name)){
+    let data;
+    try { data = JSON.parse(text); } catch(e){ toast("JSONとして読めませんでした"); return; }
+    if(!data || !data.words){ toast("控えのファイルではないようです"); return; }
+    if(!confirm("控えから戻します。いまの単語とテスト記録は置き換わります。よろしいですか。")) return;
+    busy(true, "戻しています…");
+    try {
+      await clearStore("words"); await clearStore("tests");
+      await putMany("words", (data.words||[]).map(w => { const x = Object.assign({}, w); delete x.id; return x; }));
+      await putMany("tests", (data.tests||[]).map(t => { const x = Object.assign({}, t); delete x.id; return x; }));
+      if(data.cfg){ CFG = Object.assign({}, DEF_CFG, data.cfg); await setMeta("cfg", CFG); }
+      await reloadAll();
+    } finally { busy(false); }
+    closeDlg(); loadList();
+    toast("控えから戻しました（単語 " + num((data.words||[]).length)
+      + " 件／記録 " + num((data.tests||[]).length) + " 件）", 5000);
+    return;
+  }
+  const res = await importWordsText(text, true, enc);
+  if(res){ closeDlg(); loadList(); }
+}
+function pickFile(){
+  const f = $("filePick");
+  f.value = "";
+  f.onchange = () => {
+    const file = f.files && f.files[0]; if(!file) return;
+    const rd = new FileReader();
+    rd.onload = () => { const d = decodeBytes(rd.result); importText(file.name, d.text, d.enc); };
+    rd.readAsArrayBuffer(file);
+  };
+  f.click();
+}
+function exportWordsCsv(){
+  const out = [CSV_COLS.concat(["通算チェック回数","最終チェック日時"])];
+  WORDS.forEach(w => out.push(CSV_KEYS.map(k => w[k]).concat([w.check_count||0, w.last_check_at||""])));
+  download("単語一覧_" + stamp() + ".csv", csvOf(out));
+}
+async function exportTestsCsv(){
+  const rows = (await getAll("tests"))
+    .sort((a,b) => a.done_at < b.done_at ? -1 : a.done_at > b.done_at ? 1 : a.id - b.id);
+  const wmap = {}; WORDS.forEach(w => wmap[keyOf(w)] = w);
+  const out = [["登録NO","枝番","テスト種別","実施日時","テスト結果","テスト実施総回数",
+                "英単語","意味(日本語)"]];
+  rows.forEach(t => { const w = wmap[keyOf(t)] || {};
+    out.push([t.reg_no, t.branch_no, t.kind, t.done_at, t.result, t.seq, w.word||"", w.ja||""]); });
+  download("テスト記録_" + stamp() + ".csv", csvOf(out));
+}
+async function exportBackup(){
+  const data = {app:"英単語・例文暗記", version:APP_VERSION, saved_at:now(),
+    cfg:CFG, words:await getAll("words"), tests:await getAll("tests")};
+  download("英単語例文暗記_控え_" + stamp() + ".json", JSON.stringify(data, null, 1),
+           "application/json");
+  lastBackup = now();
+  await setMeta("last_backup", lastBackup);
+  $("bk").classList.remove("on");
+}
+
+/* 置き場（index.html と同じ場所）にある CSV を取りに行く。無ければ null。 */
+async function fetchCsv(name){
+  try {
+    const r = await fetch(encodeURI(name), {cache:"no-cache"});
+    if(!r.ok) return null;
+    const d = decodeBytes(await r.arrayBuffer());
+    return (d.text && d.text.indexOf("登録NO") >= 0) ? d : null;
+  } catch(e){ return null; }
+}
+async function loadSeed(){
+  const d = await fetchCsv(SEED_CSV);
+  if(!d) return null;
+  const r = csvToWords(d.text);
+  if(r.err || !r.rows.length) return null;
+  return await upsertWords(r.rows, true);
+}
+async function loadPack(lv){
+  const name = PACKS[lv];
+  if(!name){ toast("その Lv. はありません"); return; }
+  busy(true, "Lv." + lv + " を読み込んでいます…");
+  let d;
+  try { d = await fetchCsv(name); } finally { busy(false); }
+  if(!d){ toast(name + " が置き場に見つかりませんでした", 5000); return; }
+  await importWordsText(d.text, true, d.enc);
+  loadList();
+}
+async function loadPackAll(){
+  if(!confirm("基本3000語（Lv.1〜10）をぜんぶ読み込みます。\n"
+    + "少し時間がかかります。よろしいですか。")) return;
+  let add = 0, upd = 0, miss = 0;
+  busy(true, "基本3000語を読み込んでいます…");
+  try {
+    for(let lv = 1; lv <= 10; lv++){
+      $("busyText").textContent = "Lv." + lv + " を読み込んでいます…";
+      const d = await fetchCsv(PACKS[lv]);
+      if(!d){ miss++; continue; }
+      const r = csvToWords(d.text);
+      if(r.err){ miss++; continue; }
+      const res = await upsertWords(r.rows, true);
+      add += res.add; upd += res.update;
+    }
+  } finally { busy(false); }
+  toast("読み込みました（追加 " + num(add) + " ／ 更新 " + num(upd) + "）"
+    + (miss ? "　※ " + miss + " 本は置き場にありませんでした" : ""), 6000);
+  loadList();
+}
+
+/* ---------------- 記録を消されないようにする申請 ----------------
+   ブラウザは、置き場所が足りないときや、しばらく使われなかったサイトの
+   データを勝手に消すことがある（とくに iPhone / Safari）。
+     true  … 申請が通っている／false … まだ／null … 調べられない */
+let persistState = null;
+async function askPersist(){
+  try {
+    if(!navigator.storage || !navigator.storage.persist) return null;
+    if(await navigator.storage.persisted()) return true;
+    return await navigator.storage.persist();
+  } catch(e){ return null; }
+}
+function persistText(){
+  if(persistState === true)
+    return "データの保護：<b>申請できています</b>（ブラウザが勝手に消しません）";
+  if(persistState === false)
+    return "データの保護：<b>まだ通っていません</b>。使い続けると通ることがあります。"
+         + "控えの書き出しをお忘れなく";
+  return "データの保護：この端末では調べられません。控えの書き出しをお忘れなく";
+}
+
+/* ---------------- 控えを取ったのはいつか ---------------- */
+const BACKUP_DAYS = 14;
+let lastBackup = "", bkHidden = false;
+function daysSince(s){ const d = parseDT(s); return d ? Math.floor((nowDT() - d)/86400000) : null; }
+function backupText(){
+  if(!lastBackup) return "控えの書き出し：<b>まだ一度も取っていません</b>";
+  const n = daysSince(lastBackup);
+  return "最後の控え：<b>" + esc(lastBackup.slice(0,10)) + "</b>（"
+       + (n === 0 ? "今日" : n + "日前") + "）";
+}
+async function checkBackup(){
+  if(bkHidden) return;
+  if($("upd").classList.contains("on")) return;
+  /* 入れたばかりの見本だけでは催促しない。テストをした／チェックを付けた人にだけ出す */
+  if(!TESTS_N && !WORDS.some(w => w.check_count)) return;
+  const n = lastBackup ? daysSince(lastBackup) : null;
+  if(n !== null && n < BACKUP_DAYS) return;
+  $("bkText").textContent = lastBackup
+    ? "控えを取ってから " + n + " 日たちました"
+    : "記録の控えを、まだ一度も取っていません";
+  $("bk").classList.add("on");
+}
+
+/* ---------------- 新しい版のお知らせ ----------------
+   ホーム画面アプリは、閉じて開き直しても前の画面をそのまま出すことがある。
+   その場合は読み直しが起きないので、アプリ自身が置き場の版を見て知らせる。 */
+let updSeen = "", updAt = 0, updLast = "";
+async function checkUpdate(force){
+  const t = Date.now();
+  if(!force && t - updAt < 60000) return;
+  updAt = t;
+  try {
+    const r = await fetch("index.html", {cache:"no-store"});
+    if(!r.ok) return;
+    updLast = fmtHM(nowDT());
+    const m = (await r.text()).match(/const APP_VERSION = "([0-9.]+)"/);
+    if(!m) return;
+    const v = m[1];
+    if(v === APP_VERSION || v === updSeen) return;
+    $("updText").textContent = "新しい版 v" + v + " があります（いまは v" + APP_VERSION + "）";
+    $("upd").classList.add("on");
+    $("bk").classList.remove("on");
+    $("updGo").dataset.v = v;
+  } catch(e){ /* 電波が無いときなどは何もしない */ }
+}
+async function doUpdate(){
+  $("updText").textContent = "読み込み直しています…";
+  try { await fetch(location.href, {cache:"reload"}); } catch(e){}
+  location.reload();
+}
+
+/* ---------------- 設定（⚙） ---------------- */
+function openCfgDlg(){
+  const packOpts = Object.keys(PACKS).map(k =>
+    '<option value="'+k+'">Lv.'+k+"（300語）</option>").join("");
+  dlg("設定",
+    '<div class="sec">読み上げ</div>'
+    + '<div class="kv" id="cfgVoiceNote">'+voiceText()+"</div>"
+    + '<div class="form" style="margin-top:9px">'
+    + '<div><label class="k">声</label><select id="cfgVoice">'+voiceOptions()+"</select>"
+      + '<div class="hint">（自動）は「'+esc(CFG.speak_lang||"en-US")
+      + '」に合う声から選びます。いろいろな声を聞き比べられます。</div></div>'
+    + '<div class="two2">'
+      + '<div><label class="k">速さ</label><select id="cfgRate">'+rateOptions()+"</select></div>"
+      + '<div><label class="k">助走（秒）</label><input id="cfgLead" type="number" min="0" max="120" value="'
+        + leadinSec() + '" inputmode="numeric"></div></div>'
+    + '<div class="hint">助走：しばらく鳴らしていないと発音の頭が欠けるので、'
+      + "その前に声に出ない句読点を鳴らして音の通り道を開けます。0 で入れません。</div>"
+    + '<div><label class="k">テストの自動読み上げ</label><select id="cfgAuto">'
+      + '<option value="1"'+(CFG.speak_auto?" selected":"")+">する（④は問題／⑤は答えのとき）</option>"
+      + '<option value="0"'+(!CFG.speak_auto?" selected":"")+">しない</option></select></div>"
+    + "</div>"
+    + '<div class="stack" style="margin-top:10px">'
+      + '<button class="btn" id="cTry">いまの声と速さで試す</button></div>'
+
+    + '<div class="sec">一覧とテスト</div>'
+    + '<div class="form"><div class="two2">'
+    + '<div><label class="k">一度に描く行数</label><input id="cfgChunk" type="number" min="50" max="5000" step="50" value="'
+      + (parseInt(CFG.list_chunk,10)||300) + '" inputmode="numeric"></div>'
+    + '<div><label class="k">出題数の既定</label><input id="cfgCount" type="number" min="0" max="9999" step="5" value="'
+      + (parseInt(CFG.test_count,10)||20) + '" inputmode="numeric"></div>'
+    + '</div><div class="hint">一覧は下へ送ると、この行数ずつ続きが出ます。</div></div>'
+
+    + '<div class="sec">単語を入れる</div>'
+    + '<div class="kv">置き場にある CSV から読み込みます。'
+      + "同じ登録NO＋枝番 は上書きし、無いものは足します（チェックやテスト記録は消えません）。</div>"
+    + '<div class="inline" style="margin-top:9px"><select id="cfgPack">'+packOpts+"</select>"
+      + '<button class="btn" id="cPack">読み込む</button></div>'
+    + '<div class="stack" style="margin-top:8px">'
+      + '<button class="btn" id="cPackAll">基本3000語をぜんぶ読み込む（Lv.1〜10）</button>'
+      + '<button class="btn" id="cSeed">見本の単語を読み込む（'+esc(SEED_CSV)+"）</button>"
+      + '<button class="btn" id="cImport">控え／CSVを取り込む（この端末のファイル）</button>'
+    + "</div>"
+
+    + '<div class="sec">書き出す</div>'
+    + '<div class="stack">'
+      + '<button class="btn" id="cBackup">控えを書き出す（JSON・丸ごと戻せます）</button>'
+      + '<button class="btn" id="cCsvWords">単語一覧をCSVへ</button>'
+      + '<button class="btn" id="cCsvTests">テスト記録をCSVへ</button>'
+    + "</div>"
+
+    + '<div class="sec">データ</div>'
+    + '<div class="kv">単語 <b>'+num(WORDS.length)+"</b> 件／テスト記録 <b>"+num(TESTS_N)+"</b> 件<br>"
+      + backupText() + "<br>" + persistText() + "<br>"
+      + "保存先はこの端末のブラウザの中（IndexedDB）です。"
+      + "アプリのデータを消すと記録も消えるので、ときどき控えを書き出してください。</div>"
+    + '<div class="stack" style="margin-top:10px">'
+      + (persistState === true ? "" : '<button class="btn" id="cPersist">データの保護を申請する</button>')
+      + '<button class="btn" id="cUpd">新しい版があるか確認する</button>'
+      + '<button class="btn danger" id="cWipeTests">テスト記録を全部消す</button>'
+      + '<button class="btn danger" id="cWipeWords">単語を全部消す</button>'
+    + "</div>"
+
+    + '<div class="sec">このアプリ</div>'
+    + '<div class="kv">英単語・例文暗記 スマホ版 <b>v'+APP_VERSION+"</b><br>"
+      + "PC版（Python＋WebView2）と同じ数えかた・同じCSVの並びです。<br>"
+      + "PC版のCSV（cp932）も、UTF-8のCSVも、そのまま取り込めます。<br>"
+      + "更新の確認：" + (updLast ? "最後に見たのは " + esc(updLast) : "まだ見に行っていません")
+      + "（開いたとき・戻ったとき・10分ごと）</div>"
+    + '<div id="dlgMsgs"></div>',
+    [{label:"閉じる", on:closeDlg},
+     {label:"保存", kind:"primary", on:saveCfgDlg}]);
+
+  /* いまの速さを選んだ状態にする（一覧を組むだけでは選ばれない） */
+  $("cfgRate").value = String(Math.round((parseFloat(CFG.speak_rate)||0.9)*100)/100);
+  $("cfgVoice").onchange = async () => {
+    CFG.speak_voice = $("cfgVoice").value;
+    LAST_SPOKE = 0;                         // 声を替えたら、また助走から
+    await setMeta("cfg", CFG);
+    showVoice();
+    speak(SAMPLE);
+  };
+  $("cfgRate").onchange = async () => {
+    const r = normRate($("cfgRate").value);
+    if(!r){ toast("速さは " + RATE_MIN + "〜" + RATE_MAX + " で選んでください"); return; }
+    CFG.speak_rate = r;
+    LAST_SPOKE = 0;
+    await setMeta("cfg", CFG);
+    speak(SAMPLE);
+  };
+  $("cTry").onclick = () => speak(SAMPLE);
+  $("cPack").onclick = () => loadPack(+$("cfgPack").value);
+  $("cPackAll").onclick = loadPackAll;
+  $("cSeed").onclick = async () => {
+    busy(true, "見本を読み込んでいます…");
+    let r;
+    try { r = await loadSeed(); } finally { busy(false); }
+    if(!r){ toast(SEED_CSV + " が置き場に見つかりませんでした", 5000); return; }
+    toast("見本を読み込みました（追加 " + r.add + " ／ 更新 " + r.update + "）", 5000);
+    loadList();
+  };
+  $("cImport").onclick = pickFile;
+  $("cBackup").onclick = exportBackup;
+  $("cCsvWords").onclick = exportWordsCsv;
+  $("cCsvTests").onclick = exportTestsCsv;
+  if($("cPersist")) $("cPersist").onclick = async () => {
+    persistState = await askPersist();
+    closeDlg();
+    toast(persistState === true ? "申請が通りました。勝手に消されません"
+        : persistState === false ? "まだ通りませんでした。使い続けると通ることがあります"
+        : "このブラウザでは申請できませんでした", 5000);
+  };
+  $("cUpd").onclick = async () => {
+    updSeen = "";
+    await checkUpdate(true);
+    if($("upd").classList.contains("on")) closeDlg();
+    else toast("いまが最新です（v" + APP_VERSION + "）");
+  };
+  $("cWipeTests").onclick = doClearTests;
+  $("cWipeWords").onclick = async () => {
+    if(!confirm("単語を全部消します。テストの記録も一緒に消えます。よろしいですか。")) return;
+    await clearStore("words"); await clearStore("tests");
+    await reloadAll(); DT = null;
+    closeDlg(); loadList();
+    toast("単語とテスト記録を全部消しました");
+  };
+}
+async function saveCfgDlg(){
+  const lead = parseInt($("cfgLead").value, 10);
+  CFG.speak_leadin = isFinite(lead) && lead >= 0 ? Math.min(120, lead) : 15;
+  CFG.speak_auto = $("cfgAuto").value === "1" ? 1 : 0;
+  const ch = parseInt($("cfgChunk").value, 10);
+  CFG.list_chunk = isFinite(ch) && ch >= 50 ? Math.min(5000, ch) : 300;
+  const tc = parseInt($("cfgCount").value, 10);
+  CFG.test_count = isFinite(tc) && tc >= 0 ? Math.min(9999, tc) : 20;
+  await setMeta("cfg", CFG);
+  closeDlg();
+  toast("設定を保存しました");
+  loadList();
+}
+
+/* ---------------- 立ち上げ ---------------- */
+let PAGE = "study";
+function tab(name){
+  PAGE = name;
+  document.querySelectorAll("nav.tabs button").forEach(b =>
+    b.classList.toggle("on", b.dataset.page === name));
+  ["study","red","dt","tw","te","reg","log"].forEach(p =>
+    $("pg-"+p).classList.toggle("on", p === name));
+  if(name === "study" || name === "red" || name === "reg") loadList();
+  if(name === "dt") openDetailTab();
+  if(name === "log") loadLog();
+  if(name === "tw" && !T["単語"].rows.length) testRender("単語");
+  if(name === "te" && !T["例文"].rows.length) testRender("例文");
+}
+function debounce(fn, ms){
+  let h = null;
+  return function(){ clearTimeout(h); h = setTimeout(fn, ms || 250); };
+}
+function applyTestPref(kind){
+  const p = TEST_PREF[kind]; if(!p) return;
+  const pre = kind === "単語" ? "tw" : "te";
+  if(p.order) $(pre+"Order").value = p.order;
+  if(p.pick)  $(pre+"Pick").value = p.pick;
+  if(p.count !== "" && p.count != null) $(pre+"Count").value = p.count;
+  $(pre+"Level").value = p.level || "";
+}
+
+async function boot(){
+  $("ver").textContent = "v" + APP_VERSION;
+  if(window.speechSynthesis) speechSynthesis.onvoiceschanged = loadVoices;
+  pollVoices();
+  await openDB();
+  CFG = Object.assign({}, DEF_CFG, await getMeta("cfg", {}));
+  TEST_PREF = await getMeta("test_pref", {}) || {};
+  await loadWords();
+  if(!WORDS.length){
+    /* 置き場に 初期単語.csv があれば、初めて開いたときだけ読む。
+       無ければ空のまま始める（⚙から読み込める）。 */
+    await loadSeed();
+  }
+  await reloadAll();
+  $("twCount").value = CFG.test_count; $("teCount").value = CFG.test_count;
+  applyTestPref("単語"); applyTestPref("例文");
+  loadList();
+  persistState = await askPersist();
+  lastBackup = await getMeta("last_backup", "") || "";
+
+  document.querySelectorAll("nav.tabs button").forEach(b =>
+    b.onclick = () => tab(b.dataset.page));
+  $("bCfg").onclick = openCfgDlg;
+  document.querySelectorAll("[data-close]").forEach(b => b.onclick = closeDlg);
+  $("mDlg").onclick = (ev) => { if(ev.target.id === "mDlg") closeDlg(); };
+
+  $("stFind").oninput = debounce(loadList);
+  $("stOnly").onchange = loadList;
+  $("rdFind").oninput = debounce(loadList);
+  $("rdOnly").onchange = loadList;
+  $("rgFind").oninput = debounce(loadList);
+  $("stClearCk").onclick = doClearChecks;
+  /* まだ描いていない行にも効かせたいので、先に残りを全部描いてから触る */
+  $("rdShowAll").onclick = () => { drawAll();
+    document.querySelectorAll("#rdRows .hide").forEach(s => s.classList.add("show")); };
+  $("rdHideAll").onclick = () => { drawAll();
+    document.querySelectorAll("#rdRows .hide").forEach(s => s.classList.remove("show")); };
+
+  $("dtBack").onclick = closeDetail;
+  $("dtPrev").onclick = () => stepDetail(-1);
+  $("dtNext").onclick = () => stepDetail(1);
+  $("dtEdit").onclick = () => { if(DT) openWord(DT); };
+
+  $("twStart").onclick = () => testStart("単語");
+  $("teStart").onclick = () => testStart("例文");
+  $("twStop").onclick = () => testStop("単語");
+  $("teStop").onclick = () => testStop("例文");
+
+  $("rgAdd").onclick = () => openWord(null);
+  $("rgDel").onclick = doDelete;
+  /* 全部にチェックを付けるので、まだ描いていない行を先に描く
+     （描いていない行が「選んだものを消す」から漏れないように） */
+  $("rgAll").onchange = () => {
+    if($("rgAll").checked) drawAll();
+    document.querySelectorAll("#rgRows input.sel").forEach(c => { c.checked = $("rgAll").checked; });
+  };
+
+  $("lgGo").onclick = loadLog;
+  $("lgKind").onchange = loadLog;
+  $("lgAll").onclick = () => { $("lgFrom").value = ""; $("lgTo").value = ""; loadLog(); };
+
+  $("updGo").onclick = doUpdate;
+  $("updNo").onclick = () => { updSeen = $("updGo").dataset.v || "";
+    $("upd").classList.remove("on"); };
+  $("bkGo").onclick = exportBackup;
+  $("bkNo").onclick = () => { bkHidden = true; $("bk").classList.remove("on"); };
+
+  /* キーの操作（PC のブラウザで開いたとき用。スマホでは使いません） */
+  document.addEventListener("keydown", e => {
+    if(e.key === "Escape"){
+      if($("mDlg").classList.contains("on")){ closeDlg(); return; }
+      if(PAGE === "dt"){ closeDetail(); return; }
+    }
+    if($("mDlg").classList.contains("on")) return;
+    const t = e.target.tagName;
+    if(t === "INPUT" || t === "TEXTAREA" || t === "SELECT") return;
+    const kind = PAGE === "tw" ? "単語" : (PAGE === "te" ? "例文" : "");
+    if(!kind) return;
+    if(e.key === " "){ e.preventDefault(); testShow(kind); return; }
+    if(e.key === "s" || e.key === "S"){ e.preventDefault(); testSpeak(kind); return; }
+    if("1234".indexOf(e.key) >= 0){ e.preventDefault(); testAnswer(kind, LEVELS[+e.key-1]); }
+  });
+
+  let tick = 0;
+  setInterval(() => { if(++tick % 10 === 0) checkUpdate(true); }, 60000);
+  document.addEventListener("visibilitychange", () => {
+    if(document.visibilityState === "visible"){ checkUpdate(); checkBackup(); }
+  });
+  checkUpdate(true);
+  /* 置き場に上げた直後は、まだ反映が終わっていないことがある。30秒後にもう一度 */
+  setTimeout(() => checkUpdate(true), 30000);
+  setTimeout(checkBackup, 1500);
+
+  if("serviceWorker" in navigator && location.protocol !== "file:"){
+    navigator.serviceWorker.register("sw.js").catch(() => {});
+  }
+}
+boot().catch(e => {
+  document.body.innerHTML = '<div style="padding:20px;line-height:1.8">'
+    + "立ち上げに失敗しました。<br>" + esc(e && e.message || e) + "</div>";
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+{
+  "name": "英単語・例文暗記",
+  "short_name": "英単語暗記",
+  "description": "英単語と例文を、見て・聞いて・思い出して覚えるアプリ（スマホ版）",
+  "lang": "ja",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F6F1E4",
+  "theme_color": "#1F4E79",
+  "icons": [
+    { "src": "icon/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon/icon-maskable-512.png", "sizes": "512x512", "type": "image/png",
+      "purpose": "maskable" }
+  ]
+}
