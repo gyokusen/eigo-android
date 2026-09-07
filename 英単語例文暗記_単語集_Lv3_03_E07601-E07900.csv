@@ -1,0 +1,301 @@
+登録NO,枝番,レベル,英単語,品詞,意味(日本語),意味(英語),例文(英語),例文(日本語),解説
+E07601,1,3,hunt,動詞,狩る、探し求める,"to chase and kill animals, or to search hard for something",Police are hunting for the missing driver.,警察は行方不明の運転手を捜している。,job hunt（就職活動）のように「探し回る」の意味でもよく使う。
+E07602,1,3,inch,名詞,インチ、少し,a unit of length equal to about 2.54 centimeters,The shelf is two inches too wide.,その棚は2インチ幅が広すぎる。,1インチ＝約2.54cm。inch by inch（少しずつ）という言い方もある。
+E07603,1,3,junior,形容詞,年下の、下級の,lower in rank or younger in age,She joined as a junior analyst last spring.,彼女は昨春、下級アナリストとして入社した。,senior（上級の）の反対。米国では高校・大学の3年生も junior。
+E07604,1,3,monster,名詞,怪物、化け物,an imaginary creature that is large and frightening,The film is about a monster living in the lake.,その映画は湖にすむ怪物の話だ。,形容詞的に a monster hit（大ヒット）と「巨大な」の意でも使う。
+E07605,1,3,pride,名詞,誇り、自尊心,a feeling of pleasure in what you or others have done,He takes great pride in his work.,彼は自分の仕事に大きな誇りを持っている。,動詞 proud の名詞形。take pride in ~ の形が定番。
+E07606,1,3,tone,名詞,口調、音色、色調,the quality of a sound or the way someone speaks,I did not like his tone at the meeting.,会議での彼の口調が気に入らなかった。,skin tone（肌の色合い）のように色の調子にも使う。
+E07607,1,3,universal,形容詞,普遍的な、全世界の,affecting or shared by everyone in the world or a group,Music has a universal appeal.,音楽には万人に通じる魅力がある。,universe（宇宙）と同語源。universal health care（国民皆保険）。
+E07608,1,3,auto,名詞,自動車,a car,The auto industry is shifting to electric models.,自動車産業は電気自動車へと移行している。,米国語で automobile の短縮形。auto- は「自動の」を表す接頭辞。
+E07609,1,3,guitar,名詞,ギター,a musical instrument with strings that you play with your fingers,He learned to play the guitar at fifteen.,彼は15歳でギターを弾けるようになった。,楽器名には the を付けて play the guitar とするのが標準。
+E07610,1,3,partnership,名詞,提携、共同経営,a relationship in which two or more people or groups work together,The two firms formed a partnership last year.,その2社は昨年、提携関係を結んだ。,in partnership with ~（～と提携して）の形で使うことが多い。
+E07611,1,3,rush,動詞,急ぐ、急がせる,to move or do something very quickly,Do not rush your decision on this offer.,この申し出について結論を急がないでください。,名詞では rush hour（通勤ラッシュ）や「殺到」の意味。
+E07612,1,3,soccer,名詞,サッカー,a game played by two teams who kick a ball into a goal,My son plays soccer every Saturday morning.,息子は毎週土曜の朝にサッカーをしている。,米国語。イギリスでは football と呼ぶのが普通。
+E07613,1,3,trick,名詞,策略、いたずら、こつ,"a clever action to deceive someone, or a skillful act",That was a clever trick to save time.,それは時間を節約する巧みな手だった。,play a trick on ~（～にいたずらをする）。手品も magic trick。
+E07614,1,3,show off,句動詞,見せびらかす、自慢する,to try to make people admire your abilities or possessions,He is always showing off his new car.,彼はいつも新しい車を見せびらかしている。,少し否定的な響き。名詞 a show-off は「目立ちたがり屋」。
+E07615,1,3,technique,名詞,技法、手法,a particular way of doing something that needs skill,She uses a new technique for editing video.,彼女は動画編集に新しい手法を使っている。,technology（技術全般）より「個々のやり方」を指す。発音は「テクニーク」。
+E07616,1,3,audio,形容詞,音声の、オーディオの,connected with sound that is recorded or broadcast,Please check the audio settings before the call.,通話の前に音声設定を確認してください。,video（映像の）と対になる語。名詞で「音声」の意味にもなる。
+E07617,1,3,chamber,名詞,議院、部屋,"a room used for a formal purpose, or a hollow space",The bill passed the upper chamber on Friday.,その法案は金曜に上院を通過した。,chamber of commerce（商工会議所）も頻出。心臓の「室」にも使う。
+E07618,1,3,clothing,名詞,衣類、衣料,clothes in general,The store sells outdoor clothing for winter.,その店は冬用のアウトドア衣料を売っている。,数えられない名詞。a clothing とは言わず a piece of clothing。
+E07619,1,3,everyday,形容詞,日常の、ありふれた,happening or used as part of ordinary daily life,These are everyday problems for the staff.,これらは職員にとって日常的な問題だ。,名詞の前でだけ使う。every day（毎日）と分けて書くと副詞。
+E07620,1,3,gate,名詞,門、ゲート,"a door in a wall or fence, or an exit at an airport",Our flight leaves from gate twelve.,私たちの便は12番ゲートから出発する。,空港の搭乗口や、ソフトウェアの「関門」にも使う。
+E07621,1,3,harm,名詞,害、損害,damage or injury caused to someone or something,Smoking does serious harm to your lungs.,喫煙は肺に深刻な害を与える。,do harm to ~ の形が基本。形容詞 harmful（有害な）も頻出。
+E07622,1,3,healthcare,名詞,医療、健康管理,the services that keep people healthy and treat illness,Healthcare costs rose again this year.,医療費は今年も上昇した。,health care と2語で書くこともある。制度全般を指す語。
+E07623,1,3,household,名詞,世帯、家庭,all the people who live together in one house,The average household spends less on food now.,平均的な世帯は今、食費を減らしている。,統計でよく出る語。household name は「誰もが知る名前」。
+E07624,1,3,lesson,名詞,授業、教訓,"a period of teaching, or something you learn from experience",The accident taught us a hard lesson.,その事故は私たちに厳しい教訓を与えた。,learn a lesson（教訓を得る）という言い方がよく使われる。
+E07625,1,3,membership,名詞,会員資格、会員数,"the state of belonging to a group, or the number of members",Your membership expires at the end of March.,あなたの会員資格は3月末で切れる。,member（会員）に -ship が付いて状態や集合を表す。
+E07626,1,3,egg,名詞,卵,a round object laid by a bird that contains a young animal,I had two boiled eggs for breakfast.,朝食にゆで卵を2つ食べた。,egg on（そそのかす）という句動詞もある。
+E07627,1,3,adventure,名詞,冒険,an exciting experience that may involve risk,Their trip to Alaska was a real adventure.,彼らのアラスカ旅行はまさに冒険だった。,形容詞は adventurous（冒険好きな）。venture（事業）と同語源。
+E07628,1,3,awful,形容詞,ひどい、恐ろしい,very bad or unpleasant,The weather was awful all weekend.,週末はずっとひどい天気だった。,元は「畏れ多い」の意味。awfully は「とても」と強調に使う。
+E07629,1,3,belief,名詞,信念、信じること,a feeling that something is true or right,It is my belief that the plan will work.,その計画はうまくいくというのが私の考えだ。,動詞は believe。複数形 beliefs はつづりに注意。
+E07630,1,3,bound,形容詞,～する運命の、～行きの,"certain to happen, or going toward a place",Prices are bound to rise next year.,来年は物価が上がるに決まっている。,be bound to do（きっと～する）。a train bound for Osaka（大阪行き）。
+E07631,1,3,extension,名詞,延長、内線、拡張,"an added part, extra time, or a phone line inside an office",We asked for a one-week extension.,私たちは1週間の延長を求めた。,動詞は extend。ファイルの「拡張子」も extension。
+E07632,1,3,founder,名詞,創立者、創業者,a person who starts an organization or company,The founder still sits on the board.,創業者は今も取締役に名を連ねている。,found（設立する）の名詞形。find の過去形 found とは別語。
+E07633,1,3,hip,名詞,腰、ヒップ,the part of the body at the side between the waist and the leg,She broke her hip in the fall.,彼女は転倒して腰の骨を折った。,日本語の「ヒップ（尻）」は英語では bottom や buttocks。
+E07634,1,3,moral,形容詞,道徳的な、倫理の,relating to what is right and wrong in behavior,We have a moral duty to help them.,私たちには彼らを助ける道徳的な義務がある。,名詞では「教訓」。複数 morals は「道徳観」。
+E07635,1,3,offensive,形容詞,無礼な、攻撃的な,"rude and likely to upset people, or used for attacking",His remarks were deeply offensive.,彼の発言はひどく無礼だった。,スポーツでは「攻撃側の」。反対は defensive（守備の）。
+E07636,1,3,package,名詞,小包、一式,"something wrapped for sending, or a set of things offered together",A package arrived for you this morning.,今朝あなた宛ての小包が届いた。,a package deal は「一括契約」。ソフトの「パッケージ」も同語。
+E07637,1,3,railway,名詞,鉄道,"a track with rails for trains, or the system of trains",The railway links the two cities in an hour.,その鉄道は2都市を1時間で結んでいる。,イギリス英語。米国では railroad を使う。
+E07638,1,3,ridiculous,形容詞,ばかげた,very silly or unreasonable,That price is absolutely ridiculous.,その値段はまったくばかげている。,名詞は ridicule（あざけり）。強調は absolutely と組み合わせる。
+E07639,1,3,shock,名詞,衝撃、ショック,a strong feeling of surprise caused by something bad,The news came as a shock to everyone.,その知らせは皆にとって衝撃だった。,come as a shock の形が定番。電気の「感電」も shock。
+E07640,1,3,silence,名詞,沈黙、静けさ,a situation in which there is no sound or no speaking,There was a long silence after the question.,その質問のあと長い沈黙があった。,break the silence（沈黙を破る）。動詞で「黙らせる」の意も。
+E07641,1,3,violent,形容詞,暴力的な、激しい,"using physical force to hurt, or very strong and sudden",The protest turned violent after dark.,その抗議は日が暮れてから暴力的になった。,名詞は violence。a violent storm のように自然の激しさにも使う。
+E07642,1,3,put up,句動詞,掲げる、泊める、上げる,"to build or raise something, or to let someone stay at your home",They put up a new sign at the entrance.,彼らは入口に新しい看板を掲げた。,put up with ~ になると「～を我慢する」で意味が変わる。
+E07643,1,3,put to use,熟語,活用する、役立てる,to use something for a practical purpose,We put the old data to good use.,私たちは古いデータをうまく活用した。,put ~ to good use の形で「有効活用する」とよく言う。
+E07644,1,3,put through,句動詞,電話をつなぐ、やり遂げさせる,"to connect someone by telephone, or to make someone endure something",Could you put me through to the sales team?,販売チームにつないでいただけますか。,電話での定型表現。put someone through college は「学費を出す」。
+E07645,1,3,put out,句動詞,消す、外に出す,"to stop something from burning, or to place something outside",Firefighters put out the blaze within an hour.,消防士は1時間以内に火を消し止めた。,「人に迷惑をかける」の意味もある（be put out で不機嫌な）。
+E07646,1,3,put down,句動詞,下に置く、書き留める、けなす,"to place something on a surface, or to write something down",Put down your pens and hand in the papers.,ペンを置いて答案を提出してください。,put someone down は「けなす」。put down a deposit は「頭金を払う」。
+E07647,1,3,put by,句動詞,蓄えておく,to save money for future use,She puts by a little money each month.,彼女は毎月少しずつお金を蓄えている。,やや古風な言い方。今は set aside や save のほうが一般的。
+E07648,1,3,angel,名詞,天使,a spiritual being believed to be a messenger of God,The painting shows an angel with white wings.,その絵には白い翼の天使が描かれている。,「親切な人」の意でも使う。発音は「エインジェル」。
+E07649,1,3,suffer,動詞,苦しむ、被る,"to experience pain, illness or something unpleasant",Many families suffered from the floods.,多くの家族が洪水の被害に苦しんだ。,suffer from ~ は病気に、suffer 損害 は直接目的語を取る。
+E07650,1,3,acid,名詞,酸,a chemical substance that can burn or dissolve things,The acid ate through the metal plate.,その酸は金属板を溶かして穴を開けた。,acid rain（酸性雨）。形容詞で「辛辣な」の意味もある。
+E07651,1,3,actress,名詞,女優,a woman who acts in plays or films,The actress won an award for the role.,その女優はその役で賞を受けた。,近年は性別を問わず actor と呼ぶことが増えている。
+E07652,1,3,administrative,形容詞,管理の、事務の,relating to the organizing and managing of work,She handles administrative tasks for the team.,彼女はチームの事務作業を担当している。,administrative staff（事務職員）。名詞は administration。
+E07653,1,3,charity,名詞,慈善、慈善団体,"an organization that helps people in need, or the act of giving help",The concert raised money for a local charity.,そのコンサートは地元の慈善団体のために募金を集めた。,charity event（チャリティー行事）。形容詞は charitable。
+E07654,1,3,discovery,名詞,発見,the act of finding something for the first time,The discovery changed how doctors treat the disease.,その発見は医師のその病気の治療法を変えた。,動詞は discover。make a discovery（発見する）の形も多い。
+E07655,1,3,duke,名詞,公爵,a nobleman of the highest rank below a prince,The duke owns land across the valley.,その公爵は谷一帯の土地を所有している。,女性形は duchess。イギリスの爵位でよく出る語。
+E07656,1,3,enforcement,名詞,施行、取り締まり,the act of making people obey a law or rule,Strict enforcement of the speed limit began today.,速度制限の厳格な取り締まりが今日始まった。,law enforcement は「法執行機関、警察」を指す定型表現。
+E07657,1,3,flash,名詞,閃光、ひらめき,a sudden bright light that appears for a moment,A flash of lightning lit up the room.,稲妻の閃光が部屋を照らした。,in a flash は「あっという間に」。カメラのフラッシュも同語。
+E07658,1,3,formula,名詞,公式、製法,"a rule or method expressed in symbols, or a special mixture",There is no simple formula for success.,成功に簡単な公式はない。,複数形は formulas / formulae。数式にも粉ミルクにも使う。
+E07659,1,3,fort,名詞,とりで、要塞,a strong building used by soldiers to defend a place,The old fort stands on the hill above town.,古い要塞は町を見下ろす丘に立っている。,fortress は大規模な要塞。hold the fort は「留守を預かる」。
+E07660,1,3,gray,形容詞,灰色の,of a color between black and white,He wore a gray suit to the interview.,彼は面接に灰色のスーツを着ていった。,イギリスでは grey とつづる。gray area は「あいまいな領域」。
+E07661,1,3,gross,形容詞,総計の、ひどい,"total before anything is taken away, or very unpleasant",Our gross profit rose by five percent.,当社の総利益は5パーセント増えた。,net（正味の）の反対。口語では「気持ち悪い」の意味でも使う。
+E07662,1,3,hungry,形容詞,空腹の、渇望して,wanting or needing food,I am hungry enough to eat anything.,何でも食べられるくらい空腹だ。,hungry for success のように「～を渇望して」の意味でも使う。
+E07663,1,3,math,名詞,数学,"the study of numbers, shapes and quantities",He teaches math at a high school.,彼は高校で数学を教えている。,米国語。イギリスでは maths。正式には mathematics。
+E07664,1,3,mystery,名詞,謎、神秘,something that is difficult to understand or explain,The cause of the fire remains a mystery.,火事の原因は今も謎のままだ。,形容詞は mysterious。推理小説のジャンル名にも使う。
+E07665,1,3,palace,名詞,宮殿,a large grand house where a king or queen lives,Tourists line up outside the palace gates.,観光客が宮殿の門の外に並んでいる。,castle（城）は防御用、palace は住居として豪華な建物。
+E07666,1,3,pet,名詞,ペット、愛玩動物,an animal kept at home for company,They keep a cat and two pet rabbits.,彼らは猫1匹とペットのウサギ2羽を飼っている。,pet peeve は「特に嫌なこと」。動詞で「なでる」の意味もある。
+E07667,1,3,photography,名詞,写真撮影、写真術,the art or practice of taking photographs,She studied photography in college.,彼女は大学で写真術を学んだ。,photograph（写真）、photographer（写真家）と区別して覚える。
+E07668,1,3,protest,名詞,抗議、デモ,a strong statement or action against something,Thousands joined the protest downtown.,何千人もが中心街の抗議行動に参加した。,動詞では第2音節にアクセントが移る（プロテスト→プロテスト）。
+E07669,1,3,silent,形容詞,静かな、無言の,"making no sound, or not speaking",The room went silent when she entered.,彼女が入ると部屋は静まり返った。,名詞は silence。knife の k のような「発音しない文字」も silent。
+E07670,1,3,uncle,名詞,おじ,the brother of your father or mother,My uncle runs a small bakery.,私のおじは小さなパン屋を営んでいる。,おば は aunt。おじの妻も uncle の対として aunt と呼ぶ。
+E07671,1,3,arrival,名詞,到着,the act of coming to a place,Please confirm your arrival time by email.,到着時刻をメールでお知らせください。,動詞は arrive。空港の掲示は Arrivals（到着）と Departures（出発）。
+E07672,1,3,assault,名詞,暴行、襲撃,a violent physical attack on someone,He was charged with assault last month.,彼は先月、暴行罪で起訴された。,法律用語として頻出。動詞で「襲う」の意味でも使う。
+E07673,1,3,awareness,名詞,認識、意識,knowledge or understanding of a situation or subject,The campaign raised awareness of the risk.,その活動はその危険への認識を高めた。,raise awareness（意識を高める）が定型。形容詞は aware。
+E07674,1,3,bath,名詞,入浴、浴槽,"the act of washing your whole body, or the tub used for it",I take a hot bath before bed.,私は寝る前に熱い風呂に入る。,米国では take a bath、英国では have a bath と言う。
+E07675,1,3,explanation,名詞,説明、釈明,a statement that makes something clear or gives a reason,His explanation did not satisfy the board.,彼の説明は取締役会を納得させなかった。,動詞は explain。つづりが explain と少し変わる点に注意。
+E07676,1,3,happiness,名詞,幸福、喜び,the feeling of being happy,Money alone does not bring happiness.,お金だけでは幸福は得られない。,happy に -ness が付いた名詞。y が i に変わる点に注意。
+E07677,1,3,horrible,形容詞,ひどい、恐ろしい,very bad or unpleasant,The traffic this morning was horrible.,今朝の渋滞はひどかった。,horror（恐怖）と同語源。awful とほぼ同じ意味で使える。
+E07678,1,3,lieutenant,名詞,中尉、副官,an officer of middle rank in the army or police,The lieutenant led the patrol that night.,その中尉はその夜の巡回を率いた。,米国では「ルーテナント」、英国では「レフテナント」と発音する。
+E07679,1,3,mini,形容詞,小型の、ミニの,very small compared with others of the same kind,We booked a mini van for the trip.,旅行のために小型バンを予約した。,接頭辞 mini- から。反対は maxi- や mega-。
+E07680,1,3,mood,名詞,気分、雰囲気,the way you feel at a particular time,She has been in a good mood all week.,彼女は一週間ずっと機嫌がよい。,in the mood for ~ は「～したい気分だ」。
+E07681,1,3,muscle,名詞,筋肉,a part of the body that you use to move,Stretching keeps your muscles flexible.,ストレッチは筋肉を柔らかく保つ。,c は発音しない。「マッスル」。形容詞は muscular。
+E07682,1,3,rank,名詞,階級、順位,a position in a scale of importance or quality,He rose to the rank of manager in two years.,彼は2年で部長の地位まで昇進した。,動詞で「順位付けする」。ranking（ランキング）も同語源。
+E07683,1,3,sand,名詞,砂,very small grains of rock found on beaches,The children built a castle out of sand.,子どもたちは砂で城を作った。,数えられない名詞。砂漠は desert、砂浜は sandy beach。
+E07684,1,3,savings,名詞,貯金、節約分,"money that you have saved, especially in a bank",They used their savings to buy a house.,彼らは貯金を使って家を買った。,常に複数形。a savings account は「普通預金口座」。
+E07685,1,3,shadow,名詞,影,a dark shape made when something blocks light,The tree cast a long shadow on the lawn.,木が芝生に長い影を落としていた。,shade は「日陰」で光のない領域、shadow は形のある影。
+E07686,1,3,tag,名詞,札、タグ,a small label attached to something,Check the price tag before you buy it.,買う前に値札を確認してください。,SNS の「タグ付け」も tag。動詞で「印を付ける」の意味。
+E07687,1,3,worker,名詞,労働者、従業員,"a person who works, especially one who does physical work",The factory employs three hundred workers.,その工場は300人の労働者を雇っている。,office worker（会社員）、social worker（福祉職）など複合語が多い。
+E07688,1,3,avenue,名詞,大通り、手段,"a wide street in a town, or a way of doing something",The office is on Fifth Avenue.,そのオフィスは5番街にある。,street より広い道。explore every avenue は「あらゆる手を尽くす」。
+E07689,1,3,confident,形容詞,自信のある、確信して,sure that you can do something well,She feels confident about the presentation.,彼女は発表に自信を持っている。,名詞は confidence。confidential（秘密の）と混同しないこと。
+E07690,1,3,custom,名詞,習慣、慣習,a way of behaving that is usual in a society,It is a local custom to remove your shoes.,靴を脱ぐのはその土地の習慣だ。,habit は個人の癖、custom は社会の慣習。複数 customs は「税関」。
+E07691,1,3,gym,名詞,ジム、体育館,a building or room with equipment for exercise,I go to the gym three times a week.,私は週に3回ジムに通っている。,gymnasium の短縮形。学校の体育の授業も gym と呼ぶ。
+E07692,1,3,helpful,形容詞,役に立つ、親切な,giving useful help,Your comments were very helpful.,あなたの意見はとても役に立った。,人にも物にも使える。反対は unhelpful。
+E07693,1,3,horror,名詞,恐怖、ホラー,a strong feeling of fear and shock,She watched in horror as the car slid.,彼女は車が滑るのを恐怖の目で見ていた。,horror movie（ホラー映画）。形容詞は horrible。
+E07694,1,3,label,名詞,ラベル、レッテル,a piece of paper on a product giving information about it,Read the label before taking the medicine.,薬を飲む前にラベルを読んでください。,record label は「レコード会社」。動詞で「分類する」の意味も。
+E07695,1,3,pitch,名詞,売り込み、投球、音の高さ,"a speech to persuade someone to buy, or the throwing of a ball",He gave a short sales pitch to the client.,彼は顧客に短い売り込みをした。,英国ではサッカーの「競技場」も pitch。多義語なので文脈で判断。
+E07696,1,3,pizza,名詞,ピザ,a flat round bread baked with cheese and other toppings,We ordered two large pizzas for dinner.,夕食に大きなピザを2枚注文した。,イタリア語由来。数えられる名詞として a pizza と言える。
+E07697,1,3,rear,形容詞,後ろの、後部の,at or near the back of something,Please use the rear entrance after six.,6時以降は裏口をご利用ください。,front（前の）の反対。動詞では「育てる」の意味になる。
+E07698,1,3,romantic,形容詞,ロマンチックな、恋愛の,"connected with love, or showing strong feelings of love",They had a romantic dinner by the sea.,彼らは海辺でロマンチックな夕食をとった。,名詞 romance（恋愛）から。文学史の「ロマン主義の」の意味も。
+E07699,1,3,strategic,形容詞,戦略的な,done as part of a plan to achieve a long-term aim,The merger was a strategic decision.,その合併は戦略的な決断だった。,名詞は strategy。アクセントは第2音節（ストラティージック）。
+E07700,1,3,alright,副詞,大丈夫で、まあまあで,in a way that is acceptable or satisfactory,The presentation went alright in the end.,発表は結局まあまあうまくいった。,all right のくだけたつづり。改まった文章では all right が無難。
+E07701,1,3,android,名詞,アンドロイド、人型ロボット,a robot that looks like a human being,The novel is about an android who wants to be free.,その小説は自由を求めるアンドロイドの話だ。,ギリシャ語の andro-（人）+ -oid（似たもの）から。
+E07702,1,3,anger,名詞,怒り,a strong feeling of being upset about something bad,He could not hide his anger at the decision.,彼はその決定への怒りを隠せなかった。,形容詞は angry。in anger（怒って）の形もよく使う。
+E07703,1,3,behalf,名詞,利益、味方,the interest or support of someone,I am writing on behalf of my client.,依頼人に代わって手紙を書いています。,ほぼ on behalf of ~（～を代表して）の形でしか使わない。
+E07704,1,3,comic,形容詞,喜劇の、こっけいな,funny and intended to make people laugh,The play has several comic scenes.,その劇にはこっけいな場面がいくつかある。,名詞では「漫画」「コメディアン」。comical は「おかしな」。
+E07705,1,3,diamond,名詞,ダイヤモンド、ひし形,a very hard clear precious stone,The ring has a small diamond in the center.,その指輪は中央に小さなダイヤがある。,野球の内野も diamond。トランプのダイヤも同じ語。
+E07706,1,3,electrical,形容詞,電気の、電気関係の,connected with electricity or its use,An electrical fault caused the blackout.,電気系統の故障が停電を引き起こした。,electric は「電気で動く」、electrical は「電気に関する」。
+E07707,1,3,establishment,名詞,設立、施設、体制,"the act of starting an organization, or an organization itself",The establishment of the fund took two years.,その基金の設立には2年かかった。,the Establishment と大文字にすると「支配層、体制側」。
+E07708,1,3,ghost,名詞,幽霊,the spirit of a dead person that some people believe they can see,The old hotel is said to have a ghost.,その古いホテルには幽霊が出ると言われている。,gh の h は発音しない。ghostwriter（代作者）も同語。
+E07709,1,3,hockey,名詞,ホッケー,a game played by two teams who hit a ball or puck with sticks,He played hockey through high school.,彼は高校時代ずっとホッケーをしていた。,北米では ice hockey を指し、英国では field hockey を指す。
+E07710,1,3,kit,名詞,道具一式、キット,a set of tools or parts needed for a purpose,Keep a first aid kit in the car.,車には救急箱を置いておきなさい。,first aid kit（救急箱）、tool kit（工具一式）でよく使う。
+E07711,1,3,lab,名詞,実験室、研究室,a room where scientific work is done,The samples are still in the lab.,検体はまだ研究室にある。,laboratory の短縮形。会話や社内では lab が普通。
+E07712,1,3,nervous,形容詞,緊張した、神経の,worried or slightly frightened about something,I always get nervous before a speech.,私はいつもスピーチの前に緊張する。,「神経の」の意味もあり nervous system は「神経系」。
+E07713,1,3,prayer,名詞,祈り,words that you say to God,She said a short prayer before the meal.,彼女は食事の前に短い祈りを唱えた。,動詞 pray（プレイ）と発音が違い「プレアー」となる点に注意。
+E07714,1,3,racist,形容詞,人種差別的な,showing unfair treatment based on a person's race,The company apologized for the racist remark.,その会社は人種差別的な発言について謝罪した。,名詞で「人種差別主義者」。名詞 racism（人種差別）も重要。
+E07715,1,3,stomach,名詞,胃、おなか,the organ inside the body where food is digested,My stomach hurts after that meal.,あの食事のあと胃が痛い。,ch は「ク」と読む。stomachache は「腹痛」。
+E07716,1,3,suck,動詞,吸う、吸い込む,to pull liquid or air into your mouth,The pump sucks water from the well.,そのポンプは井戸から水を吸い上げる。,口語で It sucks. は「最悪だ」。使う場面を選ぶ表現。
+E07717,1,3,trash,名詞,ごみ、くず,things that you throw away,Please take the trash out tonight.,今夜ごみを出しておいてください。,米国語。イギリスでは rubbish、屋外のごみは litter。
+E07718,1,3,ugly,形容詞,醜い、見苦しい,unpleasant to look at,The building is functional but ugly.,その建物は機能的だが見た目が悪い。,an ugly situation は「険悪な事態」。反対は beautiful。
+E07719,1,3,while away,句動詞,（時間を）のんびり過ごす,to spend time in a relaxed way because you have nothing to do,We whiled away the afternoon in the cafe.,私たちは午後をカフェでのんびり過ごした。,while は接続詞「～の間」が有名だが、ここでは動詞。
+E07720,1,3,put away,句動詞,片付ける、しまう,to put something back in the place where it is kept,Put away your tools before you leave.,帰る前に道具を片付けなさい。,「貯金する」「大量に食べる」の意味で使うこともある。
+E07721,1,3,make away with,熟語,持ち逃げする、盗む,to steal something and take it away,Thieves made away with the cash box.,泥棒は金庫を持ち逃げした。,get away with（逃げおおせる）と混同しやすいので注意。
+E07722,1,3,get away,句動詞,逃げる、離れる,to escape from a place or situation,The suspect got away before police arrived.,容疑者は警察が来る前に逃げた。,get away from it all は「日常から離れる、休暇を取る」。
+E07723,1,3,bureau,名詞,局、事務所,a government department or an office that provides information,The bureau released the new figures today.,その局は今日、新しい数値を公表した。,フランス語由来。複数形は bureaus / bureaux の両方がある。
+E07724,1,3,colonel,名詞,大佐,a senior officer in the army,The colonel addressed the troops at dawn.,大佐は夜明けに部隊に訓示した。,発音は「カーネル」で、つづりと大きく違う要注意語。
+E07725,1,3,cousin,名詞,いとこ,a child of your uncle or aunt,My cousin lives in Canada now.,私のいとこは今カナダに住んでいる。,性別を区別しない。「はとこ」は second cousin。
+E07726,1,3,dragon,名詞,竜、ドラゴン,a large imaginary animal that has wings and breathes fire,The story ends with a battle against a dragon.,その物語は竜との戦いで終わる。,西洋では悪の象徴、東洋では吉兆とされることが多い。
+E07727,1,3,dust,名詞,ほこり、ちり,very small pieces of dirt in the air or on surfaces,There was a thick layer of dust on the shelf.,棚には厚くほこりが積もっていた。,動詞では「ほこりを払う」。dusty は「ほこりだらけの」。
+E07728,1,3,illness,名詞,病気,a condition of being physically or mentally unwell,He missed a month of work due to illness.,彼は病気で1か月仕事を休んだ。,disease は特定の病名、illness は病気の状態を指す傾向。
+E07729,1,3,inspiration,名詞,ひらめき、着想の源,something that gives you ideas or the desire to do something,Her travels were the inspiration for the book.,彼女の旅がその本の着想の源だった。,動詞は inspire。「刺激を与えてくれる人」も inspiration。
+E07730,1,3,memorial,名詞,記念碑、追悼式,a structure or event to remind people of someone who died,A memorial was built for the victims.,犠牲者のために記念碑が建てられた。,memory と同語源。memorial service は「追悼式」。
+E07731,1,3,minority,名詞,少数派、少数民族,"a small part of a group, or a small racial or cultural group",Only a minority opposed the plan.,その計画に反対したのは少数派だけだった。,反対は majority（多数派）。minor（小さい）から派生。
+E07732,1,3,mum,名詞,お母さん,a mother,I called my mum on Sunday evening.,日曜の夕方に母に電話した。,イギリス英語の口語。米国では mom を使う。
+E07733,1,3,promotion,名詞,昇進、販売促進,"a move to a higher position at work, or advertising activity",She got a promotion after three years.,彼女は3年後に昇進した。,動詞は promote。広告分野では「販促、プロモーション」。
+E07734,1,3,rail,名詞,手すり、レール,"a bar fixed along something, or a metal bar for trains",Hold the rail as you go down the stairs.,階段を下りるときは手すりにつかまって。,by rail は「鉄道で」。go off the rails は「脱線する」。
+E07735,1,3,saint,名詞,聖人,a person officially recognized by a church as very holy,The church is named after a local saint.,その教会は地元の聖人にちなんで名づけられた。,地名や人名では St. と略す（St. Paul など）。
+E07736,1,3,steal,動詞,盗む,to take something that belongs to someone else without permission,Someone stole my bicycle last night.,昨夜、誰かが私の自転車を盗んだ。,活用は steal-stole-stolen。鋼鉄の steel と発音が同じ。
+E07737,1,3,telephone,名詞,電話,a device that lets you speak to someone far away,There is a telephone at the front desk.,受付に電話がある。,会話では phone が普通。書き言葉や表示で telephone を使う。
+E07738,1,3,trans,形容詞,トランスジェンダーの,relating to a person whose gender differs from the one assigned at birth,The group supports trans students on campus.,その団体は学内のトランスジェンダーの学生を支援している。,transgender の短縮形。trans- は「越えて」を表す接頭辞。
+E07739,1,3,play up,句動詞,強調する、不調になる,"to emphasize something, or to cause trouble by not working well",The ad plays up the phone's long battery life.,その広告はその電話の長い電池寿命を強調している。,英国では「機械の調子が悪い」「体が痛む」の意味でも使う。
+E07740,1,3,marry,動詞,結婚する,to become the husband or wife of someone,They married quietly last October.,彼らは昨年10月にひっそりと結婚した。,marry with とは言わない。be married to ~ の形に注意。
+E07741,1,3,alliance,名詞,同盟、提携,an agreement between countries or groups to work together,The two nations formed a defense alliance.,両国は防衛同盟を結んだ。,動詞は ally。形容詞的に allied forces（連合軍）。
+E07742,1,3,buddy,名詞,仲間、相棒,a friend,He went fishing with an old buddy.,彼は古い仲間と釣りに行った。,"米国口語。呼びかけで Hey, buddy. とも使う。"
+E07743,1,3,butter,名詞,バター,a soft yellow food made from cream,Spread a little butter on the toast.,トーストにバターを少し塗ってください。,数えられない名詞。butter someone up は「おだてる」。
+E07744,1,3,congratulations,名詞,おめでとう、祝辞,words used to praise someone for a success,Congratulations on your new job.,新しい仕事おめでとう。,必ず複数形。on の後ろに祝う内容を置く。
+E07745,1,3,crystal,名詞,結晶、水晶,"a clear hard mineral, or a regular shape formed by a substance",Salt forms small cube-shaped crystals.,塩は小さな立方体の結晶を作る。,crystal clear は「非常に明白な」という決まり文句。
+E07746,1,3,dean,名詞,学部長、学長,a senior official at a college or university,The dean approved the new course.,学部長は新しい講座を承認した。,教会では「主任司祭」を指すこともある。
+E07747,1,3,downtown,名詞,繁華街、中心街,the main business area of a city,We spent the afternoon in downtown Chicago.,私たちはシカゴの中心街で午後を過ごした。,米国語。副詞でも go downtown（街へ出る）と使える。
+E07748,1,3,elite,名詞,エリート、上流層,a small group of people with the most power or skill,Only a small elite can afford these homes.,ごく一部の富裕層しかこうした家を買えない。,フランス語由来で発音は「イリート」。形容詞でも使う。
+E07749,1,3,forth,副詞,前へ、外へ,forward or out from a place,The company set forth its plans in a report.,その会社は報告書で計画を示した。,back and forth（行ったり来たり）、and so forth（など）。
+E07750,1,3,hop,動詞,跳ぶ、ぴょんと乗る,to jump on one foot or move quickly to a place,She hopped on the train just in time.,彼女はぎりぎりで電車に飛び乗った。,jump より軽く小さい動き。hop on / hop off でよく使う。
+E07751,1,3,insane,形容詞,正気でない、非常識な,extremely unreasonable or mentally ill,Driving in this storm would be insane.,この嵐の中で運転するのは正気の沙汰ではない。,口語で「すごい」の意味でも使う。名詞は insanity。
+E07752,1,3,organic,形容詞,有機の、無農薬の,produced without artificial chemicals,They only buy organic vegetables.,彼らは無農薬野菜しか買わない。,化学の「有機の」も同語。organic growth は「自然な成長」。
+E07753,1,3,poetry,名詞,詩、詩歌,writing arranged in short lines with rhythm,He reads modern poetry every night.,彼は毎晩、現代詩を読んでいる。,全体を指す不可算名詞。1編の詩は a poem。
+E07754,1,3,pray,動詞,祈る,to speak to God to give thanks or ask for help,They prayed for the safety of the crew.,彼らは乗組員の無事を祈った。,pray for ~ の形が基本。play と混同しないよう注意。
+E07755,1,3,rugby,名詞,ラグビー,a team sport played with an oval ball that players can carry,He broke his nose playing rugby.,彼はラグビーで鼻を骨折した。,イングランドの Rugby 校が発祥で、そのまま競技名になった。
+E07756,1,3,sake,名詞,ため、利益,the benefit or purpose of someone or something,Do it for the sake of your family.,家族のためにそうしなさい。,for the sake of ~ / for one's sake の形で使う決まり文句。
+E07757,1,3,spiritual,形容詞,精神的な、宗教的な,relating to the human spirit rather than the body,Meditation gives her spiritual calm.,瞑想は彼女に精神的な落ち着きを与える。,spirit（精神）から。material（物質的な）と対比される。
+E07758,1,3,vacation,名詞,休暇,a period of time away from work or school,We are going on vacation in August.,私たちは8月に休暇を取る予定だ。,米国語。イギリスでは holiday を使う。
+E07759,1,3,string,名詞,ひも、弦、連続,"thin cord, or a series of similar things",Tie the box with a piece of string.,その箱をひもで縛ってください。,a string of ~ は「一連の～」。楽器の弦や IT の文字列も string。
+E07760,1,3,let on,句動詞,口を滑らせる、打ち明ける,to tell someone about something you are keeping secret,Do not let on that we know about the plan.,私たちがその計画を知っていることを漏らさないで。,否定形で使うことが多い。let on that ~ の形が定番。
+E07761,1,3,let off,句動詞,許す、放出する,"to allow someone to avoid punishment, or to release gas or a bomb",The judge let him off with a warning.,裁判官は警告だけで彼を許した。,let off steam なら「うっぷんを晴らす」という慣用句。
+E07762,1,3,let go of,熟語,手放す、あきらめる,"to stop holding something, or to stop thinking about it",You need to let go of that old grudge.,その古い恨みは手放したほうがいい。,物理的に「離す」意味と、心理的に「執着を捨てる」意味がある。
+E07763,1,3,associate,動詞,結びつける、連想する,to connect one thing with another in your mind,I associate that song with my school days.,私はその歌を学生時代と結びつけて思い出す。,associate A with B の形。名詞では「同僚、準会員」。
+E07764,1,3,entrance,名詞,入口、入場,a door or gate where you go into a place,The main entrance is on the north side.,正面入口は北側にある。,動詞 enter の名詞形。entrance exam は「入学試験」。
+E07765,1,3,fitness,名詞,健康、体力、適性,the condition of being physically healthy and strong,Regular walking improves your fitness.,定期的な歩行は体力を高める。,fit（健康な、適した）の名詞形。「適性」の意味もある。
+E07766,1,3,friendship,名詞,友情、交友関係,a relationship between friends,Their friendship lasted over forty years.,彼らの友情は40年以上続いた。,friend に -ship が付いて関係や状態を表す名詞になる。
+E07767,1,3,idiot,名詞,ばか者、愚か者,a person who behaves in a very stupid way,I felt like an idiot after the mistake.,そのミスのあと自分がばかに思えた。,強い侮辱語なので人に向けて使うのは避けたほうがよい。
+E07768,1,3,lifetime,名詞,一生、生涯,the period of time during which someone is alive,He saw many changes in his lifetime.,彼は生涯で多くの変化を見た。,once in a lifetime は「一生に一度の」という決まり文句。
+E07769,1,3,liquid,名詞,液体,"a substance that flows freely, like water",Store the liquid in a cool place.,その液体は涼しい場所で保管してください。,solid（固体）、gas（気体）と並ぶ三態のひとつ。
+E07770,1,3,makeup,名詞,化粧、構成,"substances put on the face, or the way something is put together",She wears very little makeup to work.,彼女は職場ではほとんど化粧をしない。,make-up ともつづる。「構成、成り立ち」の意味もある。
+E07771,1,3,medal,名詞,メダル、勲章,a flat piece of metal given as a prize or honor,She won a gold medal in the relay.,彼女はリレーで金メダルを取った。,metal（金属）とつづりが似ているので区別して覚える。
+E07772,1,3,pan,名詞,平なべ、フライパン,a metal container used for cooking on a stove,Heat the oil in a large pan.,大きめのなべで油を熱してください。,frying pan（フライパン）。動詞では「酷評する」の意味も。
+E07773,1,3,physics,名詞,物理学,"the science of matter, energy and forces",She majored in physics at university.,彼女は大学で物理学を専攻した。,-s で終わるが単数扱い。Physics is difficult. とする。
+E07774,1,3,translation,名詞,翻訳、訳文,the process of changing words into another language,The translation took three months.,その翻訳には3か月かかった。,動詞は translate。通訳は interpretation と区別する。
+E07775,1,3,on second thought,慣用句,考え直してみると,used when you change your opinion about something,"On second thought, let's take the train.",考え直してみると、電車で行こう。,英国では on second thoughts と複数形にすることが多い。
+E07776,1,3,resident,名詞,住民、居住者,a person who lives in a particular place,Local residents opposed the new road.,地元住民は新しい道路に反対した。,動詞は reside（居住する）。米国では研修医の意味もある。
+E07777,1,3,amendment,名詞,修正、改正,a change made to a law or document,The amendment passed by a narrow margin.,その修正案はわずかな差で可決された。,動詞は amend。米国憲法の「修正条項」を指すことも多い。
+E07778,1,3,bishop,名詞,司教、主教,a senior priest in charge of churches in an area,The bishop visited the parish on Sunday.,司教は日曜に教区を訪れた。,チェスの駒「ビショップ」も同じ語。
+E07779,1,3,defensive,形容詞,守備の、防御的な,"used for protecting, or reacting as if being criticized",He became defensive when asked about costs.,費用を尋ねられると彼は身構えた。,on the defensive は「守勢に立って」。反対は offensive。
+E07780,1,3,forum,名詞,討論の場、フォーラム,a place or event where people discuss a subject,The conference offers a forum for new ideas.,その会議は新しい考えを話し合う場を提供する。,古代ローマの広場が語源。ネットの掲示板も forum。
+E07781,1,3,incredibly,副詞,信じられないほど、非常に,"extremely, or in a way that is hard to believe",The team worked incredibly hard this month.,チームは今月、信じられないほど懸命に働いた。,very の強調版。credible（信じられる）の否定形から。
+E07782,1,3,journalist,名詞,記者、ジャーナリスト,a person who writes news for newspapers or television,The journalist interviewed both candidates.,その記者は両候補に取材した。,journal（日誌、定期刊行物）から。reporter とほぼ同義。
+E07783,1,3,pace,名詞,速度、歩調,the speed at which someone or something moves or develops,The project is moving at a slow pace.,その計画は遅い速度で進んでいる。,keep pace with ~ は「～に遅れずについていく」。
+E07784,1,3,pen,名詞,ペン,an instrument for writing with ink,Could you lend me a pen for a moment?,少しペンを貸してもらえますか。,動詞で「書く」の意味も。pen name は「ペンネーム」。
+E07785,1,3,pope,名詞,ローマ教皇,the head of the Roman Catholic Church,The pope spoke about peace in his address.,教皇は演説で平和について語った。,特定の人物を指すときは the Pope と大文字にする。
+E07786,1,3,possession,名詞,所有、所持品,"the state of having something, or a thing you own",Drug possession is a serious offense here.,ここでは薬物の所持は重い犯罪だ。,動詞は possess。複数 possessions は「持ち物、財産」。
+E07787,1,3,rapid,形容詞,急速な、速い,happening or moving very quickly,The city has seen rapid growth.,その都市は急速な成長を遂げてきた。,副詞は rapidly。fast より書き言葉向きな語。
+E07788,1,3,suitable,形容詞,適した、ふさわしい,right or acceptable for a particular purpose,This film is not suitable for children.,この映画は子どもには適していない。,suitable for ~ の形。suit（合う）から派生した語。
+E07789,1,3,whilst,接続詞,～する間に、～だが一方,while,"Whilst I agree in part, I have concerns.",一部は賛成だが、懸念もある。,イギリス英語で while の改まった形。米国ではほぼ使わない。
+E07790,1,3,cop,名詞,警官,a police officer,A cop stopped us for a broken light.,警官がライトの故障で私たちを止めた。,口語表現。改まった場面では police officer を使う。
+E07791,1,3,commerce,名詞,商業、通商,the buying and selling of goods and services,Online commerce keeps growing every year.,オンライン商取引は毎年伸び続けている。,形容詞は commercial。chamber of commerce は「商工会議所」。
+E07792,1,3,currency,名詞,通貨,the money used in a particular country,The local currency lost value this month.,現地通貨は今月価値を下げた。,foreign currency（外貨）。current（流通している）から。
+E07793,1,3,funeral,名詞,葬式,a ceremony held after someone dies,The funeral will be held on Thursday.,葬儀は木曜に執り行われる。,attend a funeral（葬儀に参列する）。形容詞は funereal。
+E07794,1,3,honey,名詞,はちみつ,a sweet sticky food made by bees,Add a spoon of honey to your tea.,紅茶にはちみつを一さじ入れてください。,呼びかけで「ねえ、あなた」と親しい人に使うこともある。
+E07795,1,3,hunter,名詞,狩人、探す人,a person or animal that hunts,The hunter waited quietly in the forest.,狩人は森で静かに待っていた。,job hunter（求職者）のように「～を探す人」にも使う。
+E07796,1,3,reverse,動詞,逆にする、取り消す,to change something to the opposite,The court reversed the earlier ruling.,裁判所は先の判決を覆した。,in reverse は「逆に」。車のバックギアも reverse。
+E07797,1,3,scary,形容詞,恐ろしい、怖い,making you feel frightened,That was a scary moment on the bridge.,橋の上でのあの瞬間は怖かった。,scare（怖がらせる）から。人が怖がるのは scared。
+E07798,1,3,sin,名詞,罪、過ち,an action that breaks a religious or moral law,Lying was considered a serious sin.,うそをつくことは重い罪とされた。,宗教的な罪。法律上の罪は crime と区別する。
+E07799,1,3,spell,動詞,つづる、つづりを言う,to write or say the letters of a word in order,"Could you spell your last name, please?",名字のつづりを言っていただけますか。,名詞では「呪文」や「ひと続きの期間」の意味もある。
+E07800,1,3,tongue,名詞,舌、言語,the soft part in your mouth used for tasting and speaking,He burned his tongue on the hot soup.,彼は熱いスープで舌をやけどした。,mother tongue は「母語」。つづりの gue は発音しない。
+E07801,1,3,top off,句動詞,満たす、締めくくる,"to fill something to the top, or to finish something well",They topped off the evening with a short concert.,彼らは短い演奏会で夜を締めくくった。,英国では top up と言うことが多い。給油や飲み物の追加にも使う。
+E07802,1,3,go public,熟語,公表する、株式を公開する,"to tell everyone about something, or to sell shares to the public",The company plans to go public next year.,その会社は来年、株式を公開する予定だ。,企業の新規上場（IPO）を表す定番の言い方。
+E07803,1,3,asleep,形容詞,眠っている,sleeping,The baby was asleep in the back seat.,赤ちゃんは後部座席で眠っていた。,名詞の前には置かず be asleep / fall asleep の形で使う。
+E07804,1,3,coat,名詞,コート、上着,a piece of clothing with sleeves worn over other clothes,Take your coat; it is cold outside.,コートを持って行きなさい、外は寒いから。,「塗膜、ひと塗り」の意味もある（a coat of paint）。
+E07805,1,3,daddy,名詞,パパ、お父さん,a word for father used mainly by children,The little girl ran to her daddy.,その小さな女の子はパパに駆け寄った。,幼児語。大人は dad や father を使うのが普通。
+E07806,1,3,destruction,名詞,破壊,the act of damaging something so badly that it no longer exists,The storm caused widespread destruction.,その嵐は広範囲に破壊をもたらした。,動詞は destroy。形容詞 destructive（破壊的な）も重要。
+E07807,1,3,divorce,名詞,離婚,the legal ending of a marriage,They filed for divorce after ten years.,彼らは10年後に離婚を申請した。,動詞でも使う。get a divorce（離婚する）の形も多い。
+E07808,1,3,extraordinary,形容詞,並外れた、異常な,very unusual or surprising,She showed extraordinary courage that day.,彼女はその日、並外れた勇気を見せた。,extra（外の）+ ordinary（普通の）で「普通の外」。
+E07809,1,3,fate,名詞,運命、宿命,the power that is believed to control what happens,He believed it was fate that they met.,彼は2人の出会いを運命だと信じていた。,destiny よりも避けられない結末という響きが強い。
+E07810,1,3,glory,名詞,栄光、名誉,great honor and praise won by an achievement,The team returned home in glory.,チームは栄光に包まれて帰国した。,形容詞は glorious（輝かしい）。宗教的な「栄光」にも使う。
+E07811,1,3,headquarters,名詞,本部、本社,the main office of an organization,The company moved its headquarters to Osaka.,その会社は本社を大阪に移した。,常に -s が付く。単数扱いにも複数扱いにもなる。
+E07812,1,3,privacy,名詞,プライバシー、私生活,the state of being free from being watched by others,The new law protects customer privacy.,新しい法律は顧客のプライバシーを守る。,米国では「プライヴァシー」、英国では「プリヴァシー」と発音。
+E07813,1,3,script,名詞,台本、脚本,"the written text of a play, film or speech",The actors received the final script yesterday.,俳優たちは昨日、最終台本を受け取った。,文字体系や、プログラムの「スクリプト」も同じ語。
+E07814,1,3,tube,名詞,管、チューブ,a long hollow object like a pipe,Squeeze the last of the tube onto the brush.,チューブの残りをブラシに絞り出して。,ロンドンの地下鉄も the Tube と呼ばれる。
+E07815,1,3,start over,句動詞,最初からやり直す,to begin something again from the beginning,"The file was lost, so we had to start over.",ファイルが失われたので、最初からやり直すしかなかった。,米国語。イギリスでは start again のほうが普通。
+E07816,1,3,start off,句動詞,始める、出発する,to begin doing something or begin a journey,Let's start off with a quick review.,簡単な復習から始めましょう。,start off by doing の形もよく使う。start out もほぼ同義。
+E07817,1,3,care for,句動詞,世話をする、好む,"to look after someone, or to like something",She cares for her mother at home.,彼女は自宅で母の世話をしている。,疑問文や否定文では「好む」の意味（I don't care for it.）。
+E07818,1,3,ambassador,名詞,大使,an official who represents his or her country abroad,The ambassador met the prime minister today.,大使は今日、首相と会談した。,brand ambassador のように「広告塔」の意味でも使う。
+E07819,1,3,breast,名詞,胸、胸部,the front part of the chest,The recipe uses two chicken breasts.,そのレシピは鶏むね肉を2枚使う。,発音は「ブレスト」。ea を「エ」と読む点に注意。
+E07820,1,3,corruption,名詞,汚職、腐敗,dishonest behavior by people in power,The report exposed corruption in the department.,その報告書は部内の汚職を暴いた。,形容詞は corrupt。データが「壊れる」の意味でも使う。
+E07821,1,3,dozen,名詞,1ダース、12個,a group of twelve,We bought a dozen eggs at the market.,市場で卵を1ダース買った。,数詞の後では複数にしない（two dozen eggs）。
+E07822,1,3,fancy,形容詞,高級な、装飾的な,expensive and decorated in a special way,We ate at a fancy restaurant downtown.,私たちは街の高級レストランで食事した。,イギリス英語の動詞では「～したい、～が好きだ」の意味。
+E07823,1,3,impression,名詞,印象,an idea or feeling you get about someone or something,She made a good impression at the interview.,彼女は面接で良い印象を与えた。,first impression（第一印象）。動詞は impress。
+E07824,1,3,input,名詞,入力、意見,"information put into a system, or advice you give",Thanks for your input on the design.,デザインへのご意見ありがとうございます。,output（出力）の対。会議では「意見、助言」の意味で頻出。
+E07825,1,3,luxury,名詞,ぜいたく、高級品,something expensive that you enjoy but do not need,A long holiday is a luxury for them.,長い休暇は彼らにはぜいたくだ。,形容詞は luxurious。luxury car（高級車）のようにも使う。
+E07826,1,3,poll,名詞,世論調査、投票,"a survey of people's opinions, or the act of voting",The latest poll shows a close race.,最新の世論調査は接戦を示している。,polls と複数形にすると「投票所」を指すことがある。
+E07827,1,3,removal,名詞,除去、撤去,the act of taking something away,Snow removal began before dawn.,除雪は夜明け前に始まった。,動詞は remove。イギリスでは「引っ越し」の意味もある。
+E07828,1,3,rep,名詞,担当者、代表,a person who represents a company or group,A sales rep will call you tomorrow.,営業担当者が明日お電話します。,representative の短縮形。会話やビジネスで広く使う。
+E07829,1,3,rob,動詞,奪う、強盗する,to take money or property from a person or place by force,Two men robbed the bank in daylight.,2人の男が白昼に銀行を襲った。,rob 人・場所 of 物 の形。物を目的語にする steal と区別。
+E07830,1,3,tennis,名詞,テニス,a game in which two or four players hit a ball over a net,We play tennis on Sunday mornings.,私たちは日曜の朝にテニスをする。,スポーツ名なので冠詞を付けずに play tennis と言う。
+E07831,1,3,terrorist,名詞,テロリスト,a person who uses violence to achieve political aims,The terrorist was arrested at the border.,そのテロリストは国境で逮捕された。,名詞 terror（恐怖）から。terrorism は「テロ行為」。
+E07832,1,3,theater,名詞,劇場、演劇,a building where plays or films are shown,The theater seats eight hundred people.,その劇場は800人を収容する。,イギリスでは theatre とつづる。手術室の意味もある。
+E07833,1,3,virgin,形容詞,手つかずの、未使用の,in its original state and not used or touched,They hiked through virgin forest.,彼らは手つかずの森を歩いた。,virgin territory は「未開拓の分野」。名詞の意味もある。
+E07834,1,3,reporter,名詞,記者,a person who reports news for a newspaper or broadcaster,A reporter asked about the budget cuts.,記者が予算削減について質問した。,report（報道する）から。journalist とほぼ同じ意味で使う。
+E07835,1,3,come to nothing,慣用句,失敗に終わる、無駄になる,to fail or have no result,All their efforts came to nothing.,彼らの努力はすべて無駄に終わった。,come to something（実を結ぶ）の反対にあたる言い回し。
+E07836,1,3,absence,名詞,欠席、不在,the state of not being present,Her absence was noticed immediately.,彼女の欠席はすぐに気づかれた。,in the absence of ~ は「～がない場合には」。形容詞は absent。
+E07837,1,3,agricultural,形容詞,農業の,connected with farming,The region depends on agricultural exports.,その地域は農産物の輸出に頼っている。,名詞は agriculture。agri-（畑）+ culture（耕す）から。
+E07838,1,3,commonwealth,名詞,連邦、共和国,a group of countries or states joined for common interests,Several nations joined the commonwealth.,いくつかの国がその連邦に加わった。,common（共通の）+ wealth（富）。英連邦を指すことも多い。
+E07839,1,3,delicious,形容詞,とてもおいしい,having a very pleasant taste or smell,The soup smells delicious.,そのスープはとてもよい香りがする。,very delicious とは普通言わない。すでに強い意味を持つ語。
+E07840,1,3,ease,名詞,容易さ、気楽さ,"the state of being simple to do, or freedom from worry",He passed the test with ease.,彼は難なく試験に合格した。,with ease は「難なく」。動詞で「和らげる」の意味もある。
+E07841,1,3,fame,名詞,名声、有名であること,the state of being known by many people,The book brought her sudden fame.,その本は彼女に突然の名声をもたらした。,形容詞は famous。悪い意味の「悪名」は notoriety。
+E07842,1,3,flood,名詞,洪水、殺到,a large amount of water covering land that is usually dry,The flood damaged hundreds of homes.,その洪水は何百軒もの家に被害を与えた。,発音は「フラッド」。a flood of calls は「電話の殺到」。
+E07843,1,3,genetic,形容詞,遺伝の、遺伝子の,connected with genes or the way features are passed on,The illness has a genetic cause.,その病気には遺伝的な原因がある。,名詞は gene（遺伝子）。genetics は「遺伝学」。
+E07844,1,3,glasses,名詞,眼鏡,two lenses in a frame worn to help you see,I cannot read without my glasses.,眼鏡がないと字が読めない。,常に複数形。数えるときは a pair of glasses と言う。
+E07845,1,3,instant,形容詞,即座の、即席の,"happening immediately, or prepared very quickly",The app gives instant access to your files.,そのアプリはファイルへの即時アクセスを提供する。,instant coffee（インスタントコーヒー）。副詞は instantly。
+E07846,1,3,liberty,名詞,自由,the freedom to live and act as you choose,The constitution protects personal liberty.,憲法は個人の自由を守っている。,freedom より制度的・法的な響きが強い改まった語。
+E07847,1,3,maria,名詞,マリア,a woman's given name used in many countries,Maria will join the team next month.,マリアは来月チームに加わる。,スペイン語やイタリア語圏で非常に多い女性名。
+E07848,1,3,progressive,形容詞,進歩的な、段階的な,"favoring new ideas, or happening gradually",She holds progressive views on education.,彼女は教育について進歩的な考えを持っている。,文法の「進行形」も progressive。反対は conservative。
+E07849,1,3,punishment,名詞,罰、処罰,something done to someone because they broke a rule,The punishment seemed too harsh.,その処罰は厳しすぎるように思えた。,動詞は punish。capital punishment は「死刑」。
+E07850,1,3,representation,名詞,代表、表現,"the act of speaking for others, or the way something is shown",The group has no representation on the board.,その集団は理事会に代表を持っていない。,動詞は represent。美術では「描写、表現」の意味。
+E07851,1,3,sum,名詞,合計、金額,"an amount of money, or the total of numbers added together",They paid a large sum for the land.,彼らはその土地に多額の金を払った。,in sum は「要するに」。some と発音が同じ。
+E07852,1,3,twin,名詞,双子の一人,one of two children born to the same mother at the same time,His twin lives in another city.,彼の双子の兄弟は別の街に住んでいる。,形容詞で「対の」（twin beds）。2人は twins と複数。
+E07853,1,3,read up on,熟語,～について調べる、読み込む,to read a lot about a subject in order to learn about it,I need to read up on the new tax rules.,新しい税制について読み込む必要がある。,試験や会議の前の下調べによく使う言い方。
+E07854,1,3,make a point of,熟語,必ず～するようにする,to make sure that you always do something,She makes a point of thanking every guest.,彼女は必ず客一人ひとりに礼を言うようにしている。,後ろは動名詞。make a point（主張する）とは別なので注意。
+E07855,1,3,live with,句動詞,我慢する、共に暮らす,"to accept an unpleasant situation, or to share a home",We will have to live with the noise for now.,当面はその騒音を我慢するしかない。,live with a decision は「その決定を受け入れて生きる」。
+E07856,1,3,live off,句動詞,～に頼って生活する,to get money or food from a particular source,He lived off savings for a year.,彼は1年間、貯金で生活した。,live on とほぼ同義だが、live off は源泉を強調する。
+E07857,1,3,live down,句動詞,（不名誉を）忘れさせる,to make people forget something embarrassing you did,He never lived down that mistake.,彼はそのミスをずっと忘れてもらえなかった。,否定文で never live it down の形で使うことが多い。
+E07858,1,3,boom,名詞,急成長、ブーム,a period of rapid growth in business or activity,The housing boom ended last year.,住宅の急成長は昨年終わった。,反対は bust や recession。大きな低い音の意味もある。
+E07859,1,3,compensation,名詞,補償、賠償金,money paid to someone for loss or injury,They received compensation for the damage.,彼らは損害に対する補償を受け取った。,動詞は compensate。米国では「報酬、給与」の意味も。
+E07860,1,3,composition,名詞,構成、作文、作曲,"the way parts are put together, or a piece of writing or music",The composition of the committee has changed.,委員会の構成が変わった。,動詞は compose。写真や絵の「構図」にも使う。
+E07861,1,3,conservation,名詞,保護、保全,the protection of nature or of valuable things,The fund supports forest conservation.,その基金は森林保全を支援している。,conservative（保守的な）と同語源。energy conservation は「省エネ」。
+E07862,1,3,constitutional,形容詞,憲法の、体質上の,connected with the constitution of a country,The court raised a constitutional question.,裁判所は憲法上の問題を提起した。,名詞は constitution（憲法、構成、体質）。
+E07863,1,3,density,名詞,密度、濃さ,the amount of something in a particular space,The city has a high population density.,その都市は人口密度が高い。,形容詞は dense（密集した）。理科では「密度」。
+E07864,1,3,difficulty,名詞,困難、難しさ,"the state of being hard to do, or a problem",We had difficulty finding the address.,私たちはその住所を見つけるのに苦労した。,have difficulty doing の形。to 不定詞は取らない点に注意。
+E07865,1,3,elementary,形容詞,初歩の、基本的な,connected with the first stages of a subject,This is an elementary mistake.,これは初歩的な誤りだ。,米国の elementary school は「小学校」。element（要素）から。
+E07866,1,3,ethnic,形容詞,民族の、民族的な,connected with a group that shares a culture or origin,The city has many ethnic communities.,その都市には多くの民族共同体がある。,ethnic minority（少数民族）。race より文化的な違いを指す。
+E07867,1,3,fleet,名詞,艦隊、車両群,"a group of ships, or all the vehicles owned by a company",The firm runs a fleet of delivery vans.,その会社は配送車の一群を運用している。,元は海軍の艦隊。今は社用車やタクシーの群れにも使う。
+E07868,1,3,genius,名詞,天才、才能,"a very great natural ability, or a person who has it",Her design work shows real genius.,彼女の設計には本物の才能が表れている。,複数形は geniuses。形容詞的に a genius idea とも言う。
+E07869,1,3,guidance,名詞,指導、助言,help and advice given to someone,New staff receive guidance from a mentor.,新入社員は指導役から助言を受ける。,動詞は guide。guidance counselor は学校の進路指導員。
+E07870,1,3,mechanical,形容詞,機械の、機械的な,"connected with machines, or done without thinking",A mechanical problem delayed the flight.,機械の不具合で便が遅れた。,名詞は mechanic（整備士）。「無意識の」動作にも使う。
+E07871,1,3,precious,形容詞,貴重な、大切な,valuable or very important to you,Time with family is precious.,家族と過ごす時間は貴重だ。,precious metal（貴金属）。price（値段）と同語源。
+E07872,1,3,pregnancy,名詞,妊娠,the state of expecting a baby,She took leave during her pregnancy.,彼女は妊娠中に休暇を取った。,形容詞は pregnant。複数形は pregnancies。
+E07873,1,3,priest,名詞,司祭、聖職者,a person trained to lead religious ceremonies,The priest welcomed the visitors warmly.,司祭は訪問者を温かく迎えた。,カトリックでは「司祭」。日本の神主や僧侶にも使われる。
+E07874,1,3,proven,形容詞,実証された、証明済みの,shown to be true or effective,This is a proven method for cutting costs.,これは費用削減の実証済みの方法だ。,prove の過去分詞。形容詞としては proved より proven が普通。
+E07875,1,3,radical,形容詞,急進的な、根本的な,"very new and different, or affecting the basic nature of something",The plan calls for radical change.,その計画は抜本的な変革を求めている。,root（根）が語源。政治では「過激な」の意味になる。
+E07876,1,3,residential,形容詞,住宅の、居住用の,consisting of houses rather than shops or factories,They live in a quiet residential area.,彼らは静かな住宅地に住んでいる。,reside（住む）から。commercial（商業の）と対で使う。
+E07877,1,3,reward,名詞,報酬、褒美,something given in return for good work or help,A reward was offered for information.,情報提供に報奨金が出された。,動詞でも使う。形容詞 rewarding は「やりがいのある」。
+E07878,1,3,teen,名詞,10代の若者,a person between thirteen and nineteen years old,The program is aimed at teens.,その番組は10代の若者向けだ。,teenager の短縮形。in one's teens は「10代で」。
+E07879,1,3,transmission,名詞,送信、伝達、変速機,the act of sending something from one place to another,Data transmission was interrupted briefly.,データ送信が一時中断した。,動詞は transmit。車の「トランスミッション」も同語。
+E07880,1,3,wildlife,名詞,野生生物,animals and plants living in natural conditions,The park protects local wildlife.,その公園は地域の野生生物を守っている。,数えられない名詞。wildlife sanctuary は「野生生物保護区」。
+E07881,1,3,tell off,句動詞,しかる、叱責する,to speak angrily to someone because they did something wrong,The teacher told him off for being late.,先生は遅刻したことで彼をしかった。,tell someone off の語順が普通。受け身でもよく使う。
+E07882,1,3,pound,名詞,ポンド,"a unit of weight, or the money used in Britain",The package weighs about five pounds.,その小包は約5ポンドの重さだ。,1ポンド＝約454グラム。通貨記号は英ポンドを表す。
+E07883,1,3,ads,名詞,広告,advertisements,The site shows too many ads.,そのサイトは広告が多すぎる。,advertisement の短縮 ad の複数形。ad-blocker などで頻出。
+E07884,1,3,bang,名詞,強打、大きな音,a sudden loud noise,The door shut with a loud bang.,ドアが大きな音を立てて閉まった。,動詞で「強く打つ」。米国では前髪を bangs と言う。
+E07885,1,3,blast,名詞,爆発、突風,"an explosion, or a sudden strong rush of air",The blast broke windows across the street.,その爆発は通りの向かいの窓を割った。,口語で a blast は「とても楽しい時間」の意味にもなる。
+E07886,1,3,communist,形容詞,共産主義の,connected with a system in which property is owned by all,The country abandoned its communist economy.,その国は共産主義経済を放棄した。,名詞では「共産主義者」。名詞 communism も合わせて覚える。
+E07887,1,3,complaint,名詞,苦情、不満,a statement that you are not satisfied with something,We received a complaint about the noise.,騒音についての苦情を受けた。,動詞は complain。file a complaint は「苦情を申し立てる」。
+E07888,1,3,feedback,名詞,意見、感想,comments about how well someone has done something,Thank you for your honest feedback.,率直なご意見をありがとうございます。,数えられない名詞。音響の「ハウリング」も feedback。
+E07889,1,3,humanity,名詞,人類、人間性,"all people, or the quality of being kind",The disaster tested the humanity of many.,その災害は多くの人の人間性を試した。,the humanities と複数形で「人文科学」を指す。
+E07890,1,3,jacket,名詞,上着、ジャケット,a short coat with sleeves,He hung his jacket on the chair.,彼は上着をいすに掛けた。,book jacket は本のカバー。じゃがいもの皮も jacket。
+E07891,1,3,legislative,形容詞,立法の、議会の,connected with the making of laws,The bill faces a long legislative process.,その法案は長い立法過程に直面している。,名詞は legislation（法律、立法）。legislature は「立法府」。
+E07892,1,3,manual,名詞,手引き、説明書,a book that tells you how to use or do something,Check the manual before resetting the device.,機器を初期化する前に説明書を確認してください。,形容詞では「手動の」。manual labor は「肉体労働」。
+E07893,1,3,painful,形容詞,痛い、つらい,causing physical or emotional pain,The injury was more painful than expected.,そのけがは思ったより痛かった。,pain（痛み）から。painless（痛みのない）が反対。
+E07894,1,3,punch,動詞,殴る、穴を開ける,to hit someone with your closed hand,He punched the wall in frustration.,彼はいらだって壁を殴った。,「切符に穴を開ける」意味もある。名詞では飲み物のポンチ。
+E07895,1,3,purple,形容詞,紫の,of a color between red and blue,She wore a purple scarf that day.,彼女はその日、紫のスカーフをしていた。,紫は歴史的に王侯の色とされてきた。
+E07896,1,3,railroad,名詞,鉄道,"a track for trains, or the system of trains",The railroad crosses the state from east to west.,その鉄道は州を東西に横断している。,米国語。イギリスでは railway を使う。
+E07897,1,3,romance,名詞,恋愛、恋愛小説,"a love relationship, or a story about love",Their romance began at a conference.,彼らの恋愛は学会で始まった。,形容詞は romantic。Romance languages は「ロマンス諸語」。
+E07898,1,3,underground,形容詞,地下の、非合法の,"below the surface of the ground, or secret and illegal",The building has an underground parking lot.,その建物には地下駐車場がある。,英国では the Underground が「地下鉄」を指す。
+E07899,1,3,virtual,形容詞,仮想の、事実上の,"made by a computer, or almost the same as something",The team holds virtual meetings every Monday.,そのチームは毎週月曜にオンライン会議を開く。,virtual reality（仮想現実）。副詞 virtually は「ほぼ」。
+E07900,1,3,water down,句動詞,薄める、弱める,to make something weaker by adding water or removing strength,The final rules were watered down.,最終的な規則は骨抜きにされた。,文字通り「水で薄める」から比喩的な「弱める」へ広がった。

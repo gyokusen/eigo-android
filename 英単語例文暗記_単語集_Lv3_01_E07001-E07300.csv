@@ -1,0 +1,301 @@
+登録NO,枝番,レベル,英単語,品詞,意味(日本語),意味(英語),例文(英語),例文(日本語),解説
+E07001,1,3,after,前置詞,～の後に、～を追って,later than a particular time or event,We will discuss the budget after lunch.,昼食の後に予算について話し合います。,接続詞で after he left のようにも使う。before の反対語。
+E07002,1,3,before,前置詞,～の前に、以前に,earlier than a particular time or event,Please send the file before Friday.,金曜日までにそのファイルを送ってください。,期限を表すときは by との違いに注意。by は「その時までに」。
+E07003,1,3,love,動詞,愛する、大好きである,to have a very strong feeling of affection for someone,I love the way she explains difficult ideas.,彼女が難しい考えを説明する仕方が大好きだ。,like より強い気持ちを表す。I'd love to（ぜひそうしたい）は丁寧な返事。
+E07004,1,3,away,副詞,離れて、去って、不在で,to or at a distance from a place or person,He walked away without saying a word.,彼は一言も言わずに立ち去った。,run away（逃げる）など動詞と結び付いて句動詞を作る。
+E07005,1,3,god,名詞,神,a being believed to control the world or nature,Many people pray to God for peace.,多くの人が平和を神に祈る。,一神教の神は大文字の God。小文字の god は一般の神。
+E07006,1,3,top,名詞,頂上、上部、首位,the highest part or level of something,Her name is at the top of the list.,彼女の名前はリストの一番上にある。,on top of（～の上に、加えて）はよく使う言い回し。
+E07007,1,3,care,名詞,世話、注意、心配,the process of looking after someone or something,The patient needs constant medical care.,その患者には絶え間ない医療的な世話が必要だ。,take care of（世話をする）と care about（気にかける）を区別。
+E07008,1,3,today,副詞,今日、今日では,on this present day; at the present time,The team is working from home today.,チームは今日は在宅で働いている。,名詞にもなり today's meeting のように使う。
+E07009,1,3,music,名詞,音楽,sounds arranged in a pleasing way for people to hear,She studied classical music in Vienna.,彼女はウィーンでクラシック音楽を学んだ。,数えられない名詞。a music とは言わず a piece of music と言う。
+E07010,1,3,national,形容詞,国の、全国的な,relating to a whole nation or country,The story made the national news.,その話は全国ニュースになった。,local（地方の）や international（国際的な）と対にして覚える。
+E07011,1,3,white,形容詞,白い,having the color of fresh snow or milk,He wore a white shirt to the interview.,彼は面接に白いシャツを着ていった。,名詞で「白色」。the White House（ホワイトハウス）。
+E07012,1,3,far,副詞,遠くに、はるかに,at or to a great distance in space or time,The station is not far from here.,駅はここから遠くない。,比較級は farther / further。程度を強めて far better とも使う。
+E07013,1,3,order,名詞,命令、注文、順序,an instruction; a request for goods; the way things are arranged,The order arrived two days late.,その注文品は2日遅れて届いた。,in order to（～するために）の形も頻出。
+E07014,1,3,black,形容詞,黒い,"having the darkest color, like night without light",She carried a black leather bag.,彼女は黒い革のかばんを持っていた。,in the black は「黒字で」。赤字は in the red。
+E07015,1,3,kind,名詞,種類,a group of things or people with similar features,What kind of music do you enjoy?,どんな種類の音楽が好きですか。,形容詞では「親切な」。kind of は「ちょっと」の意味でも使う。
+E07016,1,3,course,名詞,課程、進路、コース,a set of lessons; the direction something moves in,He signed up for an online course.,彼はオンライン講座に申し込んだ。,of course（もちろん）が最頻出。in the course of は「～の間に」。
+E07017,1,3,means,名詞,手段、方法,a method or thing used to achieve a result,Email is the fastest means of contact.,メールが最も速い連絡手段だ。,単複同形。by means of（～によって）の形で覚える。
+E07018,1,3,news,名詞,知らせ、ニュース,information about recent events,The news about the merger spread quickly.,合併の知らせはすぐに広まった。,数えられない名詞で単数扱い。a piece of news と数える。
+E07019,1,3,video,名詞,動画、ビデオ,a recording of moving pictures and sound,She posted a short video of the demo.,彼女は実演の短い動画を投稿した。,video call（ビデオ通話）など複合語が多い。複数形は videos。
+E07020,1,3,ago,副詞,～前に,before the present time,We met three years ago in Osaka.,私たちは3年前に大阪で会った。,必ず期間の後ろに置き、過去形と使う。現在完了とは使わない。
+E07021,1,3,social,形容詞,社会の、社交的な,relating to society or to meeting other people,Social issues dominated the debate.,社会問題が討論の中心を占めた。,social media（SNS）は日本語の SNS に当たる英語表現。
+E07022,1,3,court,名詞,裁判所、法廷、コート,a place where legal cases are decided; a marked area for sports,The case will go to court next month.,その件は来月裁判になる。,tennis court のように競技場の意味もある。
+E07023,1,3,death,名詞,死、死亡,the end of the life of a person or animal,His sudden death shocked the whole town.,彼の突然の死は町全体に衝撃を与えた。,動詞は die、形容詞は dead。名詞は death と形を変える。
+E07024,1,3,south,名詞,南、南部,the direction that is on your right when you face the sunrise,They moved to the south of the country.,彼らはその国の南部へ引っ越した。,形容詞の southern と使い分ける。方角の前は the が付く。
+E07025,1,3,university,名詞,大学,a place of higher education that gives degrees,She teaches economics at a state university.,彼女は州立大学で経済学を教えている。,college より規模が大きく大学院を持つのが普通。
+E07026,1,3,else,副詞,他に、そのほかに,in addition to or instead of someone or something,Is there anything else you need?,他に何か必要なものはありますか。,"something, anyone などの後ろに置く語順に注意。"
+E07027,1,3,pretty,副詞,かなり、なかなか,to a fairly large degree; quite,The results were pretty good this quarter.,今四半期の結果はかなり良かった。,形容詞では「かわいい」。口語では very よりやわらかい強調。
+E07028,1,3,bit,名詞,少し、小片,a small amount or a small piece of something,Add a bit of salt to the soup.,スープに少し塩を加えてください。,a bit（少し）は副詞的にも使う。a little とほぼ同じ。
+E07029,1,3,nice,形容詞,すてきな、親切な,pleasant or enjoyable; kind to other people,It was nice of you to call.,電話をくれてありがとう。,Nice to meet you. は初対面のあいさつの定番。
+E07030,1,3,class,名詞,授業、学級、階級,a group of students taught together; a level in society,The class starts at nine sharp.,授業は9時ちょうどに始まる。,business class のように「等級」の意味でも使う。
+E07031,1,3,international,形容詞,国際的な,involving two or more countries,The company holds international conferences.,その会社は国際会議を開いている。,inter（間の）+ national（国の）。分解すると覚えやすい。
+E07032,1,3,due,形容詞,予定の、期限の,expected or required at a particular time,The report is due on Monday morning.,報告書は月曜の朝が締め切りだ。,due to は「～が原因で」。because of とほぼ同じ意味。
+E07033,1,3,human,形容詞,人間の、人間らしい,relating to people rather than animals or machines,Human error caused the delay.,人為的なミスが遅れを招いた。,名詞で「人間」。human resources は「人事部」。
+E07034,1,3,north,名詞,北、北部,the direction that is on your left when you face the sunrise,Cold winds blow from the north in winter.,冬は北から冷たい風が吹く。,形容詞は northern。方角には the を付けて the north と言う。
+E07035,1,3,future,名詞,未来、将来,the time that will come after the present,We are planning for the future of the firm.,私たちは会社の将来を計画している。,in the future（将来）はよく使う。形容詞では future plans。
+E07036,1,3,low,形容詞,低い、安い,not high or tall; small in amount or level,Sales were low in the first quarter.,第1四半期の売上は低かった。,low price（低価格）。反対は high。副詞にもなる。
+E07037,1,3,police,名詞,警察,the official organization that keeps public order,The police are investigating the accident.,警察はその事故を捜査している。,複数扱いの名詞。1人の警官は a police officer と言う。
+E07038,1,3,short,形容詞,短い、背が低い、不足した,"small in length, distance, time or height",He gave a short speech at the ceremony.,彼は式典で短いスピーチをした。,be short of（～が足りない）の形も覚えておきたい。
+E07039,1,3,red,形容詞,赤い,having the color of blood or a ripe tomato,She marked the errors in red ink.,彼女は誤りを赤インクで印を付けた。,in the red は「赤字で」。名詞では「赤色」。
+E07040,1,3,development,名詞,発展、開発,the process of growing or of making something new,The city approved the housing development.,市はその住宅開発を承認した。,動詞は develop。research and development で「研究開発」。
+E07041,1,3,further,副詞,さらに、いっそう,to a greater degree or extent; in addition,We need to discuss this further tomorrow.,この件は明日さらに話し合う必要がある。,farther は物理的な距離、further は程度や追加に使う。
+E07042,1,3,act,動詞,行動する、演じる,to do something for a purpose; to perform in a play,We must act quickly to avoid losses.,損失を避けるには早く行動しなければならない。,名詞では「行為」「法律」。act as（～として働く）も頻出。
+E07043,1,3,fun,名詞,楽しみ、おもしろさ,enjoyment or pleasure from an activity,The workshop was hard work but also fun.,その研修は大変だったが楽しくもあった。,funny（おかしな）と混同しないこと。have fun（楽しむ）。
+E07044,1,3,media,名詞,メディア、報道機関,"the newspapers, television and internet that give news",The media covered the trial in detail.,報道機関は裁判を詳しく報じた。,medium の複数形。今は集合的に単数扱いも普通。
+E07045,1,3,building,名詞,建物、ビル,"a structure with walls and a roof, such as a house or office",Our office is in the tall building on the corner.,私たちの事務所は角の高いビルの中にある。,動詞 build の -ing 形が名詞化した語。
+E07046,1,3,political,形容詞,政治の、政治的な,relating to government or the activities of parties,The bill caused a political crisis.,その法案は政治的な危機を招いた。,politics（政治）、politician（政治家）と合わせて覚える。
+E07047,1,3,west,名詞,西、西部,the direction where the sun goes down,The rain will move in from the west.,雨は西から入ってくるだろう。,the West は「欧米」を指すこともある。形容詞は western。
+E07048,1,3,works,名詞,作品、工場、仕組み,the products of an artist or writer; a factory,The museum displays the works of local artists.,その美術館は地元の芸術家の作品を展示している。,複数形で「著作」「工場」を表す独立した名詞。
+E07049,1,3,front,名詞,前面、正面,the part of something that faces forward,Please wait at the front of the building.,建物の正面でお待ちください。,in front of（～の前に）が最頻出の形。
+E07050,1,3,son,名詞,息子,someone's male child,Their son started school this spring.,彼らの息子はこの春に学校に通い始めた。,sun（太陽）と発音が同じなので聞き分けは文脈で。
+E07051,1,3,former,形容詞,以前の、前の,having a particular position or state in the past,The former manager now works overseas.,前の部長は今は海外で働いている。,the former は「前者」。後者は the latter。
+E07052,1,3,college,名詞,大学、単科大学,a school for higher education after high school,He is studying design at a local college.,彼は地元の大学でデザインを学んでいる。,米国では大学一般を college と呼ぶことが多い。
+E07053,1,3,song,名詞,歌、曲,a short piece of music with words for singing,That song became a hit overnight.,その歌は一夜にしてヒットした。,sing の名詞形。歌詞は lyrics と言う。
+E07054,1,3,outside,前置詞,～の外に、～の外側で,on or to the outer side of something,She waited outside the meeting room.,彼女は会議室の外で待っていた。,副詞や名詞にもなる。反対は inside。
+E07055,1,3,self,名詞,自分、自己,"the person that you are, including your character",He wrote about his younger self.,彼は若かったころの自分について書いた。,複数形は selves。self- で始まる複合語が非常に多い。
+E07056,1,3,fine,形容詞,元気な、申し分ない、細かい,in good health or condition; very thin or small,The results look fine to me.,その結果は私には申し分ないように見える。,名詞では「罰金」。動詞で「罰金を科す」にもなる。
+E07057,1,3,rest,名詞,休息、残り,a period of relaxing; the part that remains,Let's take a short rest before we continue.,続ける前に少し休憩を取りましょう。,the rest of で「残りの～」。同じつづりで意味が二つある。
+E07058,1,3,wife,名詞,妻,the woman a man is married to,His wife runs a small bakery.,彼の妻は小さなパン屋を営んでいる。,複数形は wives と f が v に変わる。夫は husband。
+E07059,1,3,beautiful,形容詞,美しい、すばらしい,very pleasant to look at or to hear,We had a beautiful view of the lake.,湖の美しい眺めを楽しんだ。,人にも景色にも使える。副詞は beautifully。
+E07060,1,3,land,名詞,土地、陸地、国,the solid part of the earth's surface,They bought land near the coast.,彼らは海岸近くの土地を買った。,動詞では「着陸する」の意味になる。The plane landed safely. のように使う。
+E07061,1,3,miss,動詞,逃す、恋しく思う,to fail to catch or attend something; to feel sad without someone,I missed the last train home.,私は家に帰る最終電車を逃した。,I miss you.（あなたがいなくて寂しい）は定番表現。
+E07062,1,3,club,名詞,クラブ、同好会,a group of people who meet for a shared activity,She joined the photography club at work.,彼女は職場の写真クラブに入った。,夜の club（クラブ）やゴルフの club（クラブ）も同じ語。
+E07063,1,3,film,名詞,映画、フィルム,a story recorded as moving pictures,The film won three major awards.,その映画は主要な賞を三つ取った。,イギリス英語では movie より film が普通。
+E07064,1,3,lead,動詞,導く、率いる、通じる,to guide people or be in charge of them,She will lead the new project team.,彼女が新しいプロジェクトチームを率いる。,過去形は led。名詞の lead（鉛）は発音が違うので注意。
+E07065,1,3,personal,形容詞,個人の、私的な,relating to one particular person and their private life,Please do not share personal information.,個人情報を共有しないでください。,personnel（人事、職員）とつづりが似ているので注意。
+E07066,1,3,county,名詞,郡、州の下の行政区,an area of a country with its own local government,The county council approved the plan.,郡議会はその計画を承認した。,country（国）と1文字違い。読み間違いに注意。
+E07067,1,3,dead,形容詞,死んだ、機能しない,no longer alive; not working at all,My phone battery is completely dead.,私の携帯の電池は完全に切れている。,電池や電話が「切れている」意味でもよく使う。
+E07068,1,3,inside,前置詞,～の中に、～の内側で,within the limits of a space or container,The documents are inside the blue folder.,書類は青いフォルダーの中にある。,outside の反対語。副詞と名詞にもなる。
+E07069,1,3,online,形容詞,オンラインの、ネット上の,connected to or available through the internet,We hold online meetings every Monday.,私たちは毎週月曜にオンライン会議を開く。,副詞でも使う。go online は「ネットにつなぐ」。
+E07070,1,3,middle,名詞,真ん中、中央,the part that is at an equal distance from the sides or ends,A large table stood in the middle of the room.,大きなテーブルが部屋の真ん中にあった。,in the middle of は「～の最中で」の意味にもなる。
+E07071,1,3,have it out with,熟語,～と決着をつける、話をつける,to talk honestly with someone to settle a disagreement,I finally had it out with my neighbor about the noise.,私はついに騒音のことで隣人と話をつけた。,遠慮なく本音でぶつかって片を付ける、という感じ。
+E07072,1,3,gold,名詞,金、金色,a valuable yellow metal used for jewelry and money,The price of gold rose sharply.,金の価格が急激に上がった。,golden は「金色の」「貴重な」という形容詞。
+E07073,1,3,king,名詞,王、国王,a man who rules a country by right of birth,The king opened the new parliament.,国王が新しい議会を開会した。,女王は queen。比喩で「第一人者」の意味にもなる。
+E07074,1,3,church,名詞,教会,a building where Christians go to pray,The old church stands on the hill.,その古い教会は丘の上に立っている。,組織としての「教会」も指す。複数形は churches。
+E07075,1,3,east,名詞,東、東部,the direction where the sun rises,The sun comes up in the east.,太陽は東から昇る。,the East は「東洋」を指すこともある。形容詞は eastern。
+E07076,1,3,hot,形容詞,熱い、暑い、辛い,having a high temperature; spicy in taste,The soup is too hot to drink now.,そのスープは熱すぎて今は飲めない。,話題が「注目の」という意味でも使う。a hot topic。
+E07077,1,3,medical,形容詞,医療の、医学の,relating to medicine and the treatment of illness,He needs immediate medical attention.,彼はすぐに医療処置を必要としている。,medicine（薬、医学）の形容詞形。medical care（医療）。
+E07078,1,3,movie,名詞,映画,a story told with moving pictures shown in a theater,We watched an old movie last night.,昨夜は古い映画を見た。,アメリカ英語。イギリスでは film を使うのが普通。
+E07079,1,3,original,形容詞,元の、独創的な,existing from the beginning; new and different,Keep the original copy in a safe place.,原本は安全な場所に保管してください。,名詞で「原本、原作」。origin（起源）と同じ語源。
+E07080,1,3,park,名詞,公園,a public area with grass and trees for people to enjoy,Children were playing in the park.,子どもたちが公園で遊んでいた。,動詞では「駐車する」。parking lot は「駐車場」。
+E07081,1,3,cool,形容詞,涼しい、冷静な、かっこいい,slightly cold; calm; impressive in a stylish way,The evening air felt pleasantly cool.,夕方の空気は心地よく涼しかった。,口語では That's cool. のように「いいね」という同意にも使う。
+E07082,1,3,director,名詞,取締役、監督,a person who manages a company or a film,The director approved the new budget.,取締役は新しい予算を承認した。,会社では「役員」、映画では「監督」を指す。
+E07083,1,3,ground,名詞,地面、土地、根拠,the solid surface of the earth; a reason for something,The ground was still wet from the rain.,地面は雨でまだ濡れていた。,複数形の grounds で「根拠、敷地」を表し、on the grounds that の形も使う。
+E07084,1,3,sound,名詞,音、響き,something that you can hear,The sound of the alarm woke everyone.,警報の音がみんなを起こした。,動詞で「～に聞こえる」の意味になり、That sounds good. のように使う。
+E07085,1,3,do up,句動詞,留める、修繕する、飾る,to fasten clothing; to repair or decorate something,They did up the old house last summer.,彼らは去年の夏にその古い家を修繕した。,服のボタンを「留める」意味でも使い、Do up your coat. のように言う。
+E07086,1,3,round,形容詞,丸い、円形の,shaped like a circle or a ball,They sat at a round table.,彼らは丸いテーブルに着いた。,イギリス英語では around の代わりに前置詞でも使う。
+E07087,1,3,stuff,名詞,物、持ち物,"things in general, when you do not name them exactly",Put your stuff in the locker.,荷物はロッカーに入れてください。,数えられない名詞で、くだけた言い方。things に近い。
+E07088,1,3,blue,形容詞,青い,having the color of a clear sky,He chose a blue tie for the interview.,彼は面接に青いネクタイを選んだ。,feel blue は「気がふさぐ」という慣用表現。
+E07089,1,3,feeling,名詞,感情、感覚,something that you feel in your mind or body,I had a strange feeling about the deal.,私はその取引に妙な感じを抱いていた。,hurt someone's feelings は「気持ちを傷つける」。
+E07090,1,3,green,形容詞,緑の、環境に優しい,having the color of grass; good for the environment,The company promotes green energy.,その会社は環境に優しいエネルギーを推進している。,「環境志向の」という意味が近年とても増えている。
+E07091,1,3,league,名詞,リーグ、連盟,a group of teams or organizations that compete together,Our team plays in the top league.,私たちのチームは最上位リーグで戦う。,out of one's league は「格が違う」という言い回し。
+E07092,1,3,management,名詞,経営、管理、経営陣,the control of a company; the people who control it,Management decided to freeze hiring.,経営陣は採用の凍結を決めた。,動詞は manage。集合名詞として人々も指す。
+E07093,1,3,picture,名詞,絵、写真、状況,"a painting, drawing or photograph",She hung a picture above the desk.,彼女は机の上に絵を掛けた。,get the picture は「事情がわかる」の口語表現。
+E07094,1,3,mom,名詞,お母さん、ママ,an informal word for mother,My mom calls me every Sunday.,母は毎週日曜に電話をくれる。,アメリカ英語。イギリスでは mum とつづる。
+E07095,1,3,trade,名詞,貿易、取引、商売,the buying and selling of goods between people or countries,Trade between the two countries grew.,両国間の貿易は拡大した。,動詞で「取引する」。trade in は「下取りに出す」。
+E07096,1,3,character,名詞,性格、登場人物、文字,the qualities of a person; a person in a story,The main character changes a lot in the story.,主人公は物語の中で大きく変わる。,IT では「文字」の意味で使う。character set（文字集合）。
+E07097,1,3,chief,形容詞,主要な、最高位の,most important; highest in rank,Cost was the chief reason for the delay.,費用が遅れの主な理由だった。,名詞では「長」。chief executive officer は最高経営責任者。
+E07098,1,3,football,名詞,サッカー、アメフト,a team ball game played with the feet or with hands,He plays football every weekend.,彼は毎週末にサッカーをする。,イギリスではサッカー、アメリカではアメフトを指す。
+E07099,1,3,hate,動詞,憎む、ひどく嫌う,to dislike someone or something very strongly,I hate waiting in long lines.,長い列に並んで待つのが大嫌いだ。,love の反対。I hate to say it but は前置きの決まり文句。
+E07100,1,3,lower,動詞,下げる、低くする,to move something down or reduce an amount,The bank lowered interest rates again.,銀行は再び金利を下げた。,low の比較級でもあり、形容詞で「下の方の」の意味も。
+E07101,1,3,natural,形容詞,自然の、当然の,existing in nature; normal and to be expected,The park protects the natural landscape.,その公園は自然の景観を守っている。,nature（自然）の形容詞形。It is only natural（当然だ）。
+E07102,1,3,vote,動詞,投票する,to show your choice in an election or meeting,Members will vote on the proposal tomorrow.,会員は明日その提案について投票する。,vote for（賛成）、vote against（反対）の使い分けが大事。
+E07103,1,3,led,動詞,導いた、率いた,"past form of lead, meaning guided or was in charge",She led the team through a difficult year.,彼女は苦しい一年をチームを率いて乗り切った。,lead の過去形・過去分詞。金属の lead（鉛）と同じ発音。
+E07104,1,3,economic,形容詞,経済の,"relating to trade, industry and money",The country faces serious economic problems.,その国は深刻な経済問題に直面している。,economical は「節約になる」で意味が違うので注意。
+E07105,1,3,lord,名詞,主、領主、卿,a man with power over others; a noble title,The lord of the manor owned all the land.,荘園領主がその土地をすべて所有していた。,the Lord は「主なる神」。イギリスの貴族の敬称にも使う。
+E07106,1,3,article,名詞,記事、条項、冠詞,a piece of writing in a newspaper; a part of a document,I read an interesting article about sleep.,睡眠についての興味深い記事を読んだ。,"文法用語では a, an, the の「冠詞」を指す。"
+E07107,1,3,born,形容詞,生まれた、生まれつきの,having come into life; having a quality from birth,She was born in a small fishing town.,彼女は小さな漁師町で生まれた。,be born と受け身の形で使うのが原則。bear の過去分詞。
+E07108,1,3,poor,形容詞,貧しい、下手な、かわいそうな,having little money; of low quality,The results were poor despite the effort.,努力にもかかわらず結果は芳しくなかった。,「質が低い」の意味も多い。poor quality（粗悪）。
+E07109,1,3,website,名詞,ウェブサイト,a set of pages on the internet kept by a person or company,Our new website goes live on Monday.,私たちの新しいウェブサイトは月曜に公開される。,web + site の複合語。1語でつづるのが今は普通。
+E07110,1,3,council,名詞,議会、評議会,a group of people chosen to manage a town or organization,The city council rejected the proposal.,市議会はその提案を否決した。,counsel（助言）と発音が同じでつづりが違うので注意。
+E07111,1,3,hair,名詞,髪、毛,the thin threads that grow on the head and body,She had her hair cut short.,彼女は髪を短く切ってもらった。,髪全体は数えない名詞。1本は a hair と数える。
+E07112,1,3,race,名詞,競走、レース、人種,a competition of speed; a group of people with shared origins,He won the race by two seconds.,彼は2秒差でレースに勝った。,「人種」の意味もあり、話題にするときは慎重に扱う語。
+E07113,1,3,get up,句動詞,起きる、立ち上がる,to get out of bed or rise to your feet,I get up at six every weekday.,私は平日は毎日6時に起きる。,wake up は「目が覚める」、get up は「体を起こす」。
+E07114,1,3,get off,句動詞,降りる、（仕事から）解放される,to leave a bus or train; to finish work,We get off at the next station.,私たちは次の駅で降ります。,電車やバスは get off、車は get out of を使う。
+E07115,1,3,get into,句動詞,～に入る、～に興味を持つ,to enter something; to become interested in it,She got into photography last year.,彼女は昨年、写真に興味を持ち始めた。,「大学に入る」の意味でも使う。get into trouble は困る。
+E07116,1,3,get down,句動詞,降りる、落ち込ませる,to move to a lower position; to make someone sad,The long winter really gets me down.,長い冬は本当に気がめいる。,get someone down で「人を憂鬱にさせる」となる。
+E07117,1,3,get at,句動詞,言おうとする、～に手が届く,to try to say something; to reach something,What exactly are you getting at?,いったい何が言いたいのですか。,疑問文で「真意は何か」と尋ねるときによく使う。
+E07118,1,3,die,動詞,死ぬ、枯れる,to stop living,The old tree died after the storm.,その古い木は嵐の後に枯れた。,die of / die from で死因を表す。名詞は death。
+E07119,1,3,bed,名詞,ベッド、寝床,a piece of furniture that you sleep on,He went to bed early last night.,彼は昨夜は早く寝た。,go to bed には冠詞を付けない点に注意。
+E07120,1,3,career,名詞,職業、経歴,the series of jobs a person has during working life,She built a career in publishing.,彼女は出版業界で経歴を築いた。,carrier（運ぶ人、輸送業者）とつづりが似ているので注意。
+E07121,1,3,crazy,形容詞,夢中の、正気でない,very foolish or strange; extremely enthusiastic,He is crazy about old motorcycles.,彼は古いオートバイに夢中だ。,be crazy about で「～に夢中だ」というくだけた表現。
+E07122,1,3,daughter,名詞,娘,someone's female child,Their daughter studies abroad in Canada.,彼らの娘はカナダに留学している。,gh は発音しない。息子は son。
+E07123,1,3,loss,名詞,損失、失うこと、敗北,the fact of losing something or someone,The company reported a large loss.,その会社は大きな損失を計上した。,動詞は lose、形容詞は lost。at a loss は「途方に暮れて」。
+E07124,1,3,army,名詞,軍隊、陸軍,the part of a country's armed forces that fights on land,He served in the army for ten years.,彼は10年間、陸軍に勤務した。,海軍は navy、空軍は air force と言う。
+E07125,1,3,earth,名詞,地球、地面、土,the planet we live on; soil or ground,The earth goes around the sun.,地球は太陽の周りを回る。,惑星として言うときは the Earth と大文字にすることも多い。
+E07126,1,3,forget,動詞,忘れる,to fail to remember something,Do not forget to lock the door.,戸締まりを忘れないでください。,過去形は forgot、過去分詞は forgotten。remember の反対。
+E07127,1,3,internet,名詞,インターネット,the worldwide system that connects computers,I found the answer on the internet.,私はその答えをインターネットで見つけた。,the を付けるのが普通。大文字の Internet も使われる。
+E07128,1,3,listen,動詞,聞く、耳を傾ける,to pay attention to a sound or to someone speaking,Please listen carefully to the instructions.,指示をよく聞いてください。,listen to と to が要る。hear は「自然に聞こえる」。
+E07129,1,3,mark,名詞,印、跡、点数,a small area of a different color; a sign or a score,There was a black mark on the wall.,壁に黒い跡があった。,動詞で「印を付ける」「採点する」の意味にもなる。
+E07130,1,3,professional,形容詞,専門的な、プロの,relating to a job that needs special training,You should get professional advice first.,まずは専門家の助言を得るべきだ。,略して pro とも言う。amateur（素人）の反対。
+E07131,1,3,truth,名詞,真実、事実,the real facts about something,He finally told us the truth.,彼はついに私たちに真実を話した。,形容詞は true。to tell the truth は「実を言うと」。
+E07132,1,3,ball,名詞,ボール、球,a round object used in games and sports,The dog ran after the ball.,犬はボールを追いかけた。,「舞踏会」の意味もある。have a ball は「大いに楽しむ」。
+E07133,1,3,district,名詞,地区、地域,an area of a town or country with its own character,The shopping district gets busy on weekends.,商業地区は週末に混み合う。,行政上の区分にも使う。school district（学区）。
+E07134,1,3,minister,名詞,大臣、牧師,a senior member of a government; a Christian priest,The finance minister announced tax cuts.,財務大臣は減税を発表した。,prime minister は「首相」。キリスト教では「牧師」。
+E07135,1,3,straight,形容詞,まっすぐな、率直な,without a bend or curve; honest and direct,Draw a straight line across the page.,紙に一本まっすぐな線を引いてください。,副詞でも使い、go straight は「まっすぐ進む」。
+E07136,1,3,wall,名詞,壁、塀,a solid upright structure that divides or encloses space,They painted the wall light gray.,彼らは壁を薄い灰色に塗った。,off the wall は「風変わりな」という慣用表現。
+E07137,1,3,pain,名詞,痛み、苦痛,an unpleasant feeling in the body or mind,She felt a sharp pain in her knee.,彼女はひざに鋭い痛みを感じた。,形容詞は painful。a pain は「厄介な人や物」の口語表現。
+E07138,1,3,respect,名詞,尊敬、敬意、点,a feeling of admiration; a particular aspect,He earned the respect of his colleagues.,彼は同僚の尊敬を得た。,in this respect は「この点では」という別の意味。
+E07139,1,3,rock,名詞,岩、石、ロック音楽,hard stone material; a style of loud popular music,Large rocks blocked the mountain road.,大きな岩が山道をふさいでいた。,動詞で「揺らす」。rock music は「ロック」。
+E07140,1,3,tonight,副詞,今夜、今晩,on the evening or night of today,We are eating out tonight.,今夜は外食します。,名詞にもなり tonight's game のように使える。
+E07141,1,3,album,名詞,アルバム、写真帳,a collection of songs or photographs,The band released a new album.,そのバンドは新しいアルバムを出した。,写真の「アルバム」と音楽の「アルバム」の両方に使う。
+E07142,1,3,cold,形容詞,寒い、冷たい、冷淡な,having a low temperature; not friendly,The water was too cold for swimming.,水は泳ぐには冷たすぎた。,名詞では「かぜ」。catch a cold（かぜをひく）。
+E07143,1,3,funny,形容詞,おかしい、変な,making you laugh; strange or odd,He told a funny story at dinner.,彼は夕食の席でおかしな話をした。,「変だ」の意味もある。fun（楽しみ）と混同しないこと。
+E07144,1,3,peace,名詞,平和、平穏,a state without war or trouble,The two nations finally made peace.,両国はついに和平を結んだ。,piece（かけら）と発音が同じなので書き間違いに注意。
+E07145,1,3,store,名詞,店、蓄え,a place where goods are sold; a supply kept for later,The store closes at eight tonight.,その店は今夜8時に閉まる。,アメリカ英語で「店」。イギリスでは shop が普通。
+E07146,1,3,tomorrow,副詞,明日,on the day after today,The delivery arrives tomorrow morning.,配達は明日の朝に届く。,つづりの m は1つ、r は2つ。間違えやすい語。
+E07147,1,3,addition,名詞,追加、足し算,the act of adding something; the process of adding numbers,The new wing is a welcome addition.,新しい棟はありがたい追加設備だ。,in addition to（～に加えて）の形が頻出。
+E07148,1,3,association,名詞,協会、連想,an organized group; a connection in the mind,She joined the local business association.,彼女は地元の商工会に入った。,動詞は associate。「連想」の意味もある。
+E07149,1,3,brown,形容詞,茶色の,having the color of wood or coffee,He wore brown leather shoes.,彼は茶色の革靴を履いていた。,名詞で「茶色」。brown rice は「玄米」。
+E07150,1,3,double,形容詞,二重の、2倍の,twice as much or as many; having two parts,We booked a double room for two nights.,私たちは2泊でダブルルームを予約した。,動詞で「倍にする」。double check は「再確認する」。
+E07151,1,3,gas,名詞,気体、ガス、ガソリン,a substance like air; fuel for cars in American English,Please check the gas meter monthly.,ガスメーターを毎月確認してください。,アメリカでは gasoline を略して「ガソリン」の意味。
+E07152,1,3,radio,名詞,ラジオ、無線,equipment for sending or receiving sound signals,She listens to the radio while cooking.,彼女は料理をしながらラジオを聞く。,on the radio（ラジオで）と前置詞は on を使う。
+E07153,1,3,text,名詞,文章、本文、テキスト,the written words in a book or on a screen,The text is too small to read easily.,その文章は小さすぎて読みにくい。,動詞で「携帯でメッセージを送る」の意味にもなる。
+E07154,1,3,western,形容詞,西の、西洋の,in or from the west; relating to Europe and America,The western part of the island is dry.,その島の西部は乾燥している。,the West（欧米）に対応する形容詞。西部劇も western。
+E07155,1,3,cross,動詞,横切る、渡る,to go from one side of something to the other,Look both ways before you cross the street.,道路を渡る前に左右を確認しなさい。,名詞では「十字架」。cross out は「線を引いて消す」。
+E07156,1,3,female,形容詞,女性の、雌の,belonging to the sex that can have babies,Half of the new hires are female engineers.,新入社員の半数は女性技術者だ。,male の反対。生物一般に使え woman よりかたい語。
+E07157,1,3,husband,名詞,夫,the man a woman is married to,Her husband works at a hospital.,彼女の夫は病院で働いている。,妻は wife。複数形は husbands と規則変化。
+E07158,1,3,particular,形容詞,特定の、特別の,used to talk about one specific thing rather than others,Is there a particular reason for the change?,その変更には特定の理由があるのですか。,in particular は「とりわけ」という副詞句。
+E07159,1,3,sale,名詞,販売、特売,the act of selling; a period of reduced prices,The house is up for sale.,その家は売りに出ている。,for sale は「売り物」、on sale は「特売中」。
+E07160,1,3,tour,名詞,旅行、見学、ツアー,a journey visiting several places,We took a guided tour of the factory.,私たちは案内付きの工場見学に参加した。,動詞でも使う。tourist（観光客）と同じ語源。
+E07161,1,3,computer,名詞,コンピューター,an electronic machine that stores and processes data,My computer crashed during the update.,更新中にコンピューターが止まった。,compute（計算する）から来た語。略して PC とも言う。
+E07162,1,3,construction,名詞,建設、工事、構造,the work of building things,Construction of the bridge began in May.,橋の建設は5月に始まった。,under construction は「工事中」。動詞は construct。
+E07163,1,3,episode,名詞,一話、出来事,one program in a series; a single event,The final episode airs next Sunday.,最終話は次の日曜に放送される。,ドラマの「エピソード」だけでなく出来事一般も指す。
+E07164,1,3,favorite,形容詞,お気に入りの、大好きな,liked more than others of the same kind,This is my favorite coffee shop.,ここが私のお気に入りの喫茶店だ。,イギリス英語では favourite とつづる。
+E07165,1,3,movement,名詞,動き、運動,a change of position; a group working for a cause,The movement of the crowd was slow.,群衆の動きは緩やかだった。,社会運動の意味もある。動詞は move。
+E07166,1,3,photo,名詞,写真,a picture made with a camera,She showed me a photo of her garden.,彼女は庭の写真を見せてくれた。,photograph の短縮形。複数形は photos。
+E07167,1,3,train,名詞,列車、電車,a line of connected vehicles pulled along rails,The train to Kyoto leaves at noon.,京都行きの列車は正午に出る。,動詞では「訓練する」の意味で、train for a marathon のように使う。
+E07168,1,3,coach,名詞,コーチ、指導者、長距離バス,a person who trains a team; a long-distance bus,The coach praised the team's effort.,コーチはチームの努力をほめた。,イギリスでは「長距離バス」の意味でもよく使う。
+E07169,1,3,collection,名詞,収集品、集めること,a group of similar things kept together,His stamp collection is worth a lot.,彼の切手コレクションは高い価値がある。,動詞は collect。「集金」の意味にもなる。
+E07170,1,3,gun,名詞,銃、鉄砲,a weapon that fires bullets,The police found a gun in the car.,警察は車内で銃を発見した。,jump the gun は「早まって行動する」という慣用句。
+E07171,1,3,dad,名詞,お父さん、パパ,an informal word for father,My dad taught me how to drive.,父が運転の仕方を教えてくれた。,father よりくだけた言い方。母は mom。
+E07172,1,3,fear,名詞,恐れ、不安,the feeling you have when you are afraid,Fear of failure held him back.,失敗への恐れが彼をためらわせた。,動詞でも使う。for fear of は「～を恐れて」。
+E07173,1,3,judge,名詞,裁判官、審査員,a person who decides cases in court or in a contest,The judge gave a fair ruling.,裁判官は公正な判決を下した。,動詞で「判断する」の意味になり、judge by appearance のように使う。
+E07174,1,3,lady,名詞,女性、婦人,a polite word for a woman,An older lady asked me for directions.,年配の女性が私に道を尋ねた。,複数形は ladies。呼びかけでは Ladies and gentlemen。
+E07175,1,3,regular,形容詞,定期的な、通常の,happening at fixed times; usual and normal,We hold regular staff meetings.,私たちは定期的な職員会議を開いている。,副詞は regularly。irregular は「不規則な」。
+E07176,1,3,secretary,名詞,秘書、長官,a person who does office work for someone; a government minister,The secretary arranged all the meetings.,秘書がすべての会議を手配した。,アメリカでは Secretary of State は「国務長官」。
+E07177,1,3,sister,名詞,姉、妹,a girl or woman with the same parents as you,My sister moved to Fukuoka last year.,姉は昨年、福岡へ引っ越した。,英語は姉妹を区別しない。区別には older / younger を付ける。
+E07178,1,3,letter,名詞,手紙、文字,a written message sent by post; a sign of the alphabet,I sent a letter of thanks yesterday.,私は昨日、礼状を送った。,「文字」の意味もある。capital letter は「大文字」。
+E07179,1,3,anymore,副詞,もはや、これ以上,"any longer, used in negative sentences",He does not work here anymore.,彼はもうここでは働いていない。,否定文で文末に置く。イギリスでは any more と分ける。
+E07180,1,3,bar,名詞,酒場、棒、障害,a place that serves drinks; a long piece of metal or wood,We met at a bar near the office.,私たちは会社の近くのバーで会った。,「棒」や「妨げ」の意味もある。behind bars は「刑務所で」。
+E07181,1,3,battle,名詞,戦い、闘争,a fight between armies or a long struggle,The battle lasted for three days.,その戦いは3日間続いた。,war（戦争）の一部分が battle。比喩でも広く使う。
+E07182,1,3,floor,名詞,床、階,the flat surface you walk on; a level of a building,Our office is on the fifth floor.,私たちの事務所は5階にある。,アメリカとイギリスで階の数え方が1つずれるので注意。
+E07183,1,3,successful,形容詞,成功した、うまくいった,achieving what you wanted or planned,The campaign was highly successful.,そのキャンペーンは大成功だった。,success（成功）の形容詞。副詞は successfully。
+E07184,1,3,active,形容詞,活動的な、有効な,doing many things; working or in operation,She stays active by walking every day.,彼女は毎日歩いて活動的でいる。,文法では active voice で「能動態」を指す。反対は passive。
+E07185,1,3,dance,動詞,踊る,to move your body in time with music,They danced until midnight.,彼らは夜中まで踊った。,名詞でも同じ形。dancer は「踊る人」。
+E07186,1,3,defense,名詞,防御、弁護、防衛,protection against attack; arguments used in court,The team has a strong defense.,そのチームは守備が強い。,イギリス英語では defence とつづる。動詞は defend。
+E07187,1,3,ship,名詞,船,a large boat that travels on the sea,The ship left the port at dawn.,船は夜明けに港を出た。,動詞で「発送する」。shipping は「配送」。
+E07188,1,3,master,名詞,主人、達人、修士,a person in control; an expert; a higher degree,He is a master of the craft.,彼はその技の達人だ。,動詞で「習得する」。master's degree は「修士号」。
+E07189,1,3,fan,名詞,ファン、扇風機,someone who likes a person or team very much; a machine that blows air,She is a big fan of the local team.,彼女は地元チームの熱心なファンだ。,「扇風機」と「熱狂的な支持者」の両方の意味を持つ。
+E07190,1,3,awesome,形容詞,すばらしい、すごい,extremely good or impressive,The view from the roof was awesome.,屋上からの眺めはすばらしかった。,口語でとてもよく使う。元は「畏敬の念を起こす」の意味。
+E07191,1,3,band,名詞,楽団、バンド、帯,a group of musicians; a thin strip of material,The band played three encores.,そのバンドはアンコールを3曲演奏した。,rubber band は「輪ゴム」。「帯状のもの」の意味も。
+E07192,1,3,imagine,動詞,想像する,to form a picture of something in your mind,Imagine working from a beach house.,海辺の家で働くことを想像してごらん。,後ろは動名詞。imagine to do とは言わない。
+E07193,1,3,lack,名詞,不足、欠乏,the state of not having enough of something,The project failed for lack of funds.,その計画は資金不足で失敗した。,動詞でも使い lack は前置詞なしで目的語を取る。
+E07194,1,3,operation,名詞,手術、作戦、運用,a medical procedure; the way something works or is run,The operation took four hours.,その手術は4時間かかった。,in operation は「稼働中」。動詞は operate。
+E07195,1,3,organization,名詞,組織、団体,a group of people working together for a purpose,She works for a nonprofit organization.,彼女は非営利団体で働いている。,イギリスでは organisation とつづることが多い。
+E07196,1,3,secret,名詞,秘密,information that you do not tell other people,Can you keep a secret?,秘密を守れますか。,形容詞でも使う。secretary（秘書）と語源が同じ。
+E07197,1,3,senior,形容詞,年上の、上級の,older or higher in rank,She reports to a senior manager.,彼女は上級管理職に報告する。,junior の反対。アメリカでは「高齢者」の意味の名詞にも。
+E07198,1,3,finish,動詞,終える、仕上げる,to complete something or come to an end,Let's finish the report before five.,5時までに報告書を仕上げましょう。,後ろは動名詞。finish doing の形で使う。
+E07199,1,3,color,名詞,色,"the quality that makes things look red, blue, green and so on",What color is the new logo?,新しいロゴは何色ですか。,イギリス英語では colour とつづる。
+E07200,1,3,commission,名詞,委員会、手数料,an official group; money paid for selling something,The commission published its final report.,委員会は最終報告書を公表した。,販売の「歩合、手数料」の意味も日常でよく使う。
+E07201,1,3,direct,形容詞,直接の、率直な,going straight without stopping; honest and clear,There is a direct flight to Seoul.,ソウルへの直行便がある。,動詞で「指揮する、道を教える」。副詞は directly。
+E07202,1,3,dream,名詞,夢、願望,images in your mind while asleep; something you hope for,Owning a bakery was her lifelong dream.,パン屋を持つことが彼女の生涯の夢だった。,動詞の過去形は dreamed / dreamt のどちらも使う。
+E07203,1,3,grand,形容詞,壮大な、堂々とした,large and impressive in appearance or plan,They stayed in a grand old hotel.,彼らは堂々とした古いホテルに泊まった。,grandmother のように「一世代上」を表す接頭語にもなる。
+E07204,1,3,luck,名詞,運、幸運,the good or bad things that happen by chance,Finding that job was pure luck.,その仕事を見つけたのは全くの幸運だった。,Good luck!（頑張って）は励ましの決まり文句。
+E07205,1,3,marriage,名詞,結婚、結婚生活,the legal relationship between two people who are married,Their marriage lasted forty years.,彼らの結婚生活は40年続いた。,動詞は marry、形容詞は married。つづりの i に注意。
+E07206,1,3,necessary,形容詞,必要な、不可欠な,needed in order to do or achieve something,Bring any necessary documents with you.,必要な書類を持参してください。,c は1つ、s は2つ。if necessary は「必要なら」。
+E07207,1,3,rich,形容詞,裕福な、豊かな,having a lot of money; containing a lot of something,The soil here is rich in minerals.,ここの土壌は鉱物に富んでいる。,be rich in（～に富む）の形も覚えたい。反対は poor。
+E07208,1,3,sweet,形容詞,甘い、優しい,tasting like sugar; kind and pleasant,That was a sweet thing to say.,それは優しい言い方でしたね。,味だけでなく人柄にも使う。反対は bitter や sour。
+E07209,1,3,yesterday,副詞,昨日,on the day before today,We finished the audit yesterday.,私たちは昨日、監査を終えた。,必ず過去形と使う。名詞では yesterday's news。
+E07210,1,3,congress,名詞,議会、国会、会議,"the group that makes laws, especially in the United States",Congress passed the bill last week.,議会は先週その法案を可決した。,アメリカの連邦議会は大文字の Congress。
+E07211,1,3,doubt,名詞,疑い、疑問,a feeling of not being sure about something,There is no doubt about her ability.,彼女の能力に疑いはない。,b は発音しない。no doubt は「きっと」の意味。
+E07212,1,3,see to it that,熟語,必ず～するようにする,to make sure that something is done,Please see to it that everyone gets a copy.,全員に写しが行き渡るようにしてください。,make sure that とほぼ同じ意味のかたい言い方。
+E07213,1,3,see out,句動詞,見送る、最後までやり通す,to go with someone to the door; to continue to the end,He saw me out and waved goodbye.,彼は私を玄関まで見送って手を振った。,see out the year なら「年を最後まで過ごす」。
+E07214,1,3,see off,句動詞,見送る,to go to a station or airport to say goodbye,We went to the airport to see her off.,私たちは彼女を見送りに空港へ行った。,see out は玄関まで、see off は駅や空港での見送り。
+E07215,1,3,see about,句動詞,～について手配する、検討する,to deal with or arrange something,I will see about the tickets tomorrow.,切符のことは明日手配します。,We'll see about that. は「そうはさせない」の含みも。
+E07216,1,3,captain,名詞,船長、機長、主将,"the leader of a ship, plane or sports team",The captain welcomed us on board.,機長が私たちを機内に迎え入れた。,スポーツでは「キャプテン」、軍では「大尉」を指す。
+E07217,1,3,fully,副詞,完全に、十分に,completely or to the greatest degree,The room was fully booked for the night.,その部屋はその夜は満室だった。,full の副詞形。fully aware（十分に承知している）。
+E07218,1,3,male,形容詞,男性の、雄の,belonging to the sex that does not have babies,Most of the applicants were male students.,応募者の大半は男子学生だった。,female の反対。mail（郵便）と発音が同じ。
+E07219,1,3,plant,名詞,植物、工場,a living thing that grows in soil; a factory,The new plant will employ 200 people.,新しい工場は200人を雇用する。,「植物」と「工場」の二つの意味を持つ。動詞は「植える」。
+E07220,1,3,reality,名詞,現実,the way things really are,The plan ignored economic reality.,その計画は経済の現実を無視していた。,in reality は「実際には」。形容詞は real。
+E07221,1,3,spot,名詞,場所、地点、しみ,a particular place; a small round mark,This is a good spot for lunch.,ここは昼食にちょうどよい場所だ。,on the spot は「その場で、即座に」の慣用表現。
+E07222,1,3,award,名詞,賞、賞金,a prize given for an achievement,She received an award for her research.,彼女は研究で賞を受けた。,動詞で「授与する」。reward（報酬）と混同しないこと。
+E07223,1,3,holy,形容詞,神聖な,connected with God or religion and deserving respect,They visited several holy places.,彼らはいくつかの聖地を訪れた。,wholly（完全に）と発音が似ているので注意。
+E07224,1,3,peter,名詞,ピーター,a common male first name in English,Peter joined the marketing team last month.,ピーターは先月、営業部に加わった。,peter out は「次第に消える」という句動詞になる。
+E07225,1,3,responsible,形容詞,責任がある、信頼できる,having a duty to deal with something,She is responsible for the whole budget.,彼女は予算全体に責任を負っている。,be responsible for の形が基本。名詞は responsibility。
+E07226,1,3,shop,名詞,店、商店,a place where goods are sold,There is a coffee shop across the street.,通りの向かいに喫茶店がある。,イギリス英語で一般的。動詞で「買い物をする」。
+E07227,1,3,sick,形容詞,病気の、うんざりした,not healthy; tired of something,He called in sick this morning.,彼は今朝、病気で休むと連絡した。,be sick of は「～にうんざりする」。英では「吐き気がする」。
+E07228,1,3,make off with,熟語,～を持ち逃げする,to steal something and take it away quickly,Thieves made off with the entire display.,泥棒は陳列品をすべて持ち逃げした。,make off だけでも「急いで逃げる」の意味になる。
+E07229,1,3,make good on,熟語,（約束などを）果たす,to do what you promised to do,The company made good on its pledge.,その会社は公約を果たした。,後ろには promise や threat が来ることが多い。
+E07230,1,3,camera,名詞,カメラ,a device for taking photographs or video,He set up the camera on a tripod.,彼は三脚にカメラを据えた。,on camera は「撮影されて」。複数形は cameras。
+E07231,1,3,coast,名詞,海岸、沿岸,the land beside the sea,We drove along the coast all afternoon.,私たちは午後じゅう海岸沿いを走った。,beach（砂浜）より広い範囲の「沿岸」を指す。
+E07232,1,3,executive,名詞,重役、経営幹部,a person with an important management job,The executive approved the merger plan.,その重役は合併計画を承認した。,形容詞で「実行の、幹部の」。execute（実行する）が語源。
+E07233,1,3,hall,名詞,広間、玄関、会館,a large room for meetings; the space inside a front door,The concert hall seats two thousand.,そのコンサートホールは2千人収容できる。,city hall は「市役所」。玄関の廊下の意味もある。
+E07234,1,3,mass,名詞,かたまり、大量、大衆,a large amount or number of something,A mass of paperwork awaited her.,大量の書類仕事が彼女を待っていた。,形容詞で「大衆の」。mass media（マスメディア）。
+E07235,1,3,mission,名詞,任務、使命,an important job that someone is sent to do,The team completed its mission safely.,そのチームは任務を無事に完了した。,会社の mission statement は「経営理念」。
+E07236,1,3,politics,名詞,政治、政治学,the activities connected with governing a country,He lost interest in national politics.,彼は国政への関心を失った。,-s で終わるが単数扱い。形容詞は political。
+E07237,1,3,app,名詞,アプリ,a computer program you use on a phone or tablet,Download the app before the trip.,旅行の前にそのアプリをダウンロードして。,application の短縮形。スマホ時代に広まった語。
+E07238,1,3,division,名詞,部門、分割、割り算,a part of an organization; the act of separating,She heads the overseas division.,彼女は海外部門を統括している。,動詞は divide。算数では「割り算」。
+E07239,1,3,evening,名詞,夕方、晩,the part of the day between afternoon and night,We will call you this evening.,今晩お電話します。,前置詞は in the evening。特定の日は on を使う。
+E07240,1,3,flight,名詞,飛行、便,a journey by plane,Our flight was delayed by two hours.,私たちの便は2時間遅れた。,動詞 fly の名詞形。flight attendant は「客室乗務員」。
+E07241,1,3,freedom,名詞,自由,the right to do what you want without control,Freedom of speech is protected by law.,言論の自由は法で守られている。,free（自由な）+ -dom（状態）。liberty とほぼ同義。
+E07242,1,3,location,名詞,場所、位置,the place where something is,The new location is closer to the station.,新しい場所は駅により近い。,動詞は locate。撮影の「ロケ」も location から。
+E07243,1,3,murder,名詞,殺人,the crime of killing someone on purpose,He was charged with murder.,彼は殺人罪で起訴された。,動詞でも使う。過失致死は manslaughter と区別する。
+E07244,1,3,queen,名詞,女王、王妃,a woman who rules a country; the wife of a king,The queen visited the northern towns.,女王は北部の町々を訪問した。,王は king。トランプやチェスの駒も queen。
+E07245,1,3,fat,形容詞,太った、脂肪の多い,having too much flesh on the body,He avoids fat foods for his health.,彼は健康のため脂肪の多い食品を避ける。,人に使うと失礼。overweight のほうが丁寧な言い方。
+E07246,1,3,northern,形容詞,北の、北部の,in or from the north of a place,Winters are harsh in the northern region.,北部地域の冬は厳しい。,方角 north の形容詞形。southern と対で覚える。
+E07247,1,3,powerful,形容詞,強力な、有力な,"having great strength, influence or effect",That was a powerful argument.,それは説得力のある議論だった。,power の形容詞。物理的な力にも影響力にも使う。
+E07248,1,3,religious,形容詞,宗教の、信心深い,relating to religion or to belief in a god,The town holds a religious festival in May.,その町は5月に宗教的な祭りを行う。,名詞は religion。つづりの gi の並びに注意。
+E07249,1,3,royal,形容詞,王の、国王の,belonging to or connected with a king or queen,The royal family attended the ceremony.,王族が式典に出席した。,loyal（忠実な）とつづりが似ているので混同に注意。
+E07250,1,3,species,名詞,種、種類,a group of animals or plants that can breed together,This species lives only on the island.,この種はその島にしか生息しない。,単数も複数も species。a specie とは言わない。
+E07251,1,3,speech,名詞,演説、話すこと,a formal talk to a group of people,His speech lasted only five minutes.,彼の演説はわずか5分だった。,動詞は speak。freedom of speech は「言論の自由」。
+E07252,1,3,wonderful,形容詞,すばらしい,extremely good or pleasing,We had a wonderful time in Nara.,私たちは奈良ですばらしい時を過ごした。,wonder（驚き）から。相手をほめる場面で広く使える。
+E07253,1,3,bottom,名詞,底、下部,the lowest part of something,Sign your name at the bottom of the page.,ページの下に署名してください。,top の反対。bottom line は「肝心な点、最終損益」。
+E07254,1,3,lie,動詞,横になる、位置する,to be in a flat position; to be situated,The village lies at the foot of the hill.,その村は丘のふもとにある。,「うそをつく」の lie とは活用が違う。lay - lain。
+E07255,1,3,sad,形容詞,悲しい,"unhappy, especially because something bad happened",She looked sad after the phone call.,彼女は電話の後、悲しそうだった。,名詞は sadness。happy の反対語。
+E07256,1,3,southern,形容詞,南の、南部の,in or from the south of a place,The southern coast is popular with tourists.,南部の海岸は観光客に人気だ。,発音は「サザン」で south とは母音が変わる。
+E07257,1,3,square,名詞,正方形、広場,a shape with four equal sides; an open public area,The market is held in the town square.,市は町の広場で開かれる。,算数では「2乗」。square meter は「平方メートル」。
+E07258,1,3,traditional,形容詞,伝統的な,following customs that have existed for a long time,They served traditional local dishes.,彼らは伝統的な郷土料理を出した。,名詞は tradition。反対は modern。
+E07259,1,3,think back,句動詞,思い返す、振り返る,to remember something that happened in the past,"When I think back, the choice was right.",振り返ってみると、その選択は正しかった。,think back to や think back on の形で使う。
+E07260,1,3,back out of,熟語,（約束などから）手を引く,to decide not to do something you agreed to do,They backed out of the deal at the last minute.,彼らは土壇場でその取引から手を引いた。,契約や約束を破棄するときの言い方。
+E07261,1,3,back off,句動詞,後ずさりする、引き下がる,to move away or stop pressing someone,He backed off when he saw the dog.,彼は犬を見て後ずさりした。,Back off! は「口を出すな」という強い言い方にもなる。
+E07262,1,3,bus,名詞,バス,a large road vehicle that carries many passengers,I take the bus to work every day.,私は毎日バスで通勤している。,複数形は buses。by bus には冠詞を付けない。
+E07263,1,3,fresh,形容詞,新鮮な、新しい,recently made or picked; new and different,We buy fresh vegetables at the market.,私たちは市場で新鮮な野菜を買う。,fresh start は「新たな出発」。反対は stale。
+E07264,1,3,mental,形容詞,精神の、心の,relating to the mind or to thinking,Mental health is taken seriously here.,ここでは心の健康が真剣に扱われている。,physical（身体の）と対にして覚える。名詞は mind。
+E07265,1,3,score,名詞,得点、点数,the number of points gained in a game or test,The final score was three to one.,最終スコアは3対1だった。,動詞で「得点する」。score a goal（ゴールを決める）。
+E07266,1,3,smart,形容詞,賢い、しゃれた,intelligent; neat and stylish in appearance,That was a smart decision.,それは賢い判断だった。,イギリスでは「服装がきちんとした」の意味も強い。
+E07267,1,3,wedding,名詞,結婚式,a ceremony where two people get married,Their wedding will be held in June.,彼らの結婚式は6月に行われる。,marriage は「結婚という関係」、wedding は「式」。
+E07268,1,3,well off,熟語,裕福な、恵まれた,having plenty of money or a good situation,Her family was quite well off.,彼女の家はかなり裕福だった。,反対は badly off。比較級は better off。
+E07269,1,3,on the go,熟語,動き回って、忙しくして,very busy and active all the time,She has been on the go since morning.,彼女は朝からずっと動き回っている。,食事や仕事を「移動しながら」する場面にも使う。
+E07270,1,3,have a go at,熟語,～をやってみる、～に文句を言う,to try something; to criticize someone,Why not have a go at the puzzle?,そのパズルをやってみたらどうですか。,イギリス英語では「人を非難する」の意味にもなる。
+E07271,1,3,go off,句動詞,鳴る、爆発する、去る,to make a sudden noise; to explode; to leave,My alarm went off at five.,私の目覚ましは5時に鳴った。,食べ物に使うと「腐る」の意味になることもある。
+E07272,1,3,go in for,熟語,～を好む、～に参加する,to like something; to enter a competition,He does not go in for team sports.,彼は団体競技を好まない。,趣味や好みを述べるときのイギリス寄りの表現。
+E07273,1,3,go down well,熟語,受けがよい、好評である,to be liked or accepted by people,The new design went down well with clients.,新しいデザインは顧客に好評だった。,反対は go down badly。反応の良し悪しを表す。
+E07274,1,3,go by,句動詞,（時が）過ぎる、通り過ぎる,"to pass, especially of time",Three years went by before we met again.,再会するまでに3年が過ぎた。,go by the rules なら「規則に従う」の意味になる。
+E07275,1,3,go all out,熟語,全力を尽くす,to make the greatest possible effort,The team went all out to win the title.,チームは優勝しようと全力を尽くした。,do one's best より勢いの強い言い方。
+E07276,1,3,arms,名詞,武器、兵器,weapons used in fighting,The treaty limits the sale of arms.,その条約は武器の売買を制限している。,「腕」の複数形と同じ形。arms control は「軍備管理」。
+E07277,1,3,click,動詞,クリックする、カチッと鳴る,to press a computer mouse button,Click the link to open the form.,リンクをクリックして用紙を開いてください。,名詞でも使う。人と「気が合う」の口語的意味もある。
+E07278,1,3,fashion,名詞,流行、ファッション、やり方,the popular style of clothes; a way of doing something,That style is back in fashion.,その様式は再び流行している。,in a strange fashion のように「やり方」の意味も。
+E07279,1,3,hill,名詞,丘、坂,an area of land higher than the ground around it,The house stands on a small hill.,その家は小さな丘の上に立っている。,mountain より低い。uphill は「上り坂の」。
+E07280,1,3,profile,名詞,横顔、紹介、プロフィール,a short description of someone; a side view of a face,Please update your profile online.,オンラインでプロフィールを更新してください。,keep a low profile は「目立たないようにする」。
+E07281,1,3,seat,名詞,座席、議席,a place to sit; a position in a parliament,Please take your seat before takeoff.,離陸前に着席してください。,議会の「議席」の意味でも使う。動詞は「座らせる」。
+E07282,1,3,sexual,形容詞,性の、性別の,relating to the sexes or to reproduction,The law bans sexual discrimination at work.,その法律は職場での性差別を禁じている。,名詞は sex。sexual equality は「男女平等」。
+E07283,1,3,prime,形容詞,最重要の、最良の,most important; of the best quality,Safety is our prime concern.,安全が私たちの最重要事項だ。,prime minister は「首相」。prime time は「主要時間帯」。
+E07284,1,3,ring,名詞,指輪、輪、鳴る音,a circular band worn on a finger; a circle,She wore a silver ring on her right hand.,彼女は右手に銀の指輪をはめていた。,動詞は rang - rung と変化し「電話をかける」意味も。
+E07285,1,3,silver,名詞,銀、銀色,a shiny gray metal used for coins and jewelry,The cup is made of pure silver.,そのカップは純銀でできている。,形容詞で「銀色の」。金は gold、銅は copper。
+E07286,1,3,soul,名詞,魂、心,the spiritual part of a person,The music seemed to touch his soul.,その音楽は彼の魂に触れるようだった。,sole（唯一の）と発音が同じ。音楽の soul も同語。
+E07287,1,3,go out of one's way,慣用句,わざわざ骨を折る,to make a special effort to do something for someone,She went out of her way to help us.,彼女はわざわざ骨を折って私たちを助けてくれた。,one's は主語に合わせて his / her などに変える。
+E07288,1,3,chairman,名詞,議長、会長,the person who leads a meeting or a company board,The chairman opened the annual meeting.,議長が年次総会を開会した。,性別を問わない chair や chairperson も広く使われる。
+E07289,1,3,edition,名詞,版、号,a particular version of a book or newspaper,The second edition includes new data.,第2版には新しいデータが入っている。,動詞 edit（編集する）と同じ語源。editor は「編集者」。
+E07290,1,3,grade,名詞,成績、等級、学年,a mark for schoolwork; a level of quality,She got the highest grade in the class.,彼女はクラスで最高の成績を取った。,アメリカでは「学年」も grade。first grade は1年生。
+E07291,1,3,institute,名詞,研究所、協会,an organization for research or education,He works at a research institute.,彼は研究所で働いている。,動詞では「制度を設ける」。institution は「制度、機関」。
+E07292,1,3,senate,名詞,上院、元老院,the smaller of the two law-making groups in some countries,The senate voted against the bill.,上院はその法案に反対票を投じた。,アメリカでは下院が House of Representatives。
+E07293,1,3,wild,形容詞,野生の、荒れた,living in nature; not controlled,Wild birds visit the pond each winter.,野鳥が毎冬その池を訪れる。,in the wild は「野生の状態で」。wildlife は「野生生物」。
+E07294,1,3,bet,動詞,賭ける、きっと～だと思う,to risk money on a result; to feel sure about something,I bet she will arrive on time.,彼女はきっと時間通りに来ると思う。,過去形も bet。I bet は「きっと～だ」の口語表現。
+E07295,1,3,camp,名詞,キャンプ、野営地,a place where people stay in tents for a short time,We set up camp beside the river.,私たちは川のそばにキャンプを張った。,動詞でも使う。summer camp は「林間学校」。
+E07296,1,3,spirit,名詞,精神、気力、霊,the part of a person that is not the body; energy and courage,The team showed great fighting spirit.,チームは大変な闘志を見せた。,spirits と複数なら「気分」や「蒸留酒」を指す。
+E07297,1,3,television,名詞,テレビ,a device that receives and shows pictures and sound,The match was shown on television.,その試合はテレビで放送された。,略して TV。on television と前置詞は on を使う。
+E07298,1,3,trouble,名詞,困難、面倒、悩み,a problem or a difficult situation,We had trouble finding the office.,私たちは事務所を見つけるのに苦労した。,have trouble doing で「～するのに苦労する」。
+E07299,1,3,eastern,形容詞,東の、東部の,in or from the east of a place,The eastern part of the country is drier.,その国の東部はより乾燥している。,east の形容詞形。western と対にして覚える。
+E07300,1,3,impossible,形容詞,不可能な,not able to happen or be done,It is impossible to finish by noon.,正午までに終えるのは不可能だ。,im- は否定の接頭語。possible の反対。
