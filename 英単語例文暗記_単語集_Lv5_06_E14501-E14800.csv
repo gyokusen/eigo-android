@@ -1,0 +1,301 @@
+登録NO,枝番,レベル,英単語,品詞,意味(日本語),意味(英語),例文(英語),例文(日本語),解説
+E14501,1,5,sable,名詞,クロテン、黒テンの毛皮,a small forest animal valued for its dark fur,She wore a coat trimmed with sable.,彼女はクロテンの毛皮で縁取ったコートを着ていた。,毛皮が高級品として有名。紋章学では「黒色」を表す語としても使う。
+E14502,1,5,senile,形容詞,もうろくした、老衰の,confused or weak in the mind because of old age,His grandfather became senile in his last years.,彼の祖父は晩年もうろくしてしまった。,人に使うと失礼になりやすい。医学では dementia（認知症）を使うのが普通。
+E14503,1,5,sleigh,名詞,そり,a vehicle pulled over snow by horses or dogs,The children rode home on a horse-drawn sleigh.,子どもたちは馬の引くそりで家まで帰った。,発音は slay と同じ。sled より大きく、人を乗せて走るものを指す。
+E14504,1,5,sliver,名詞,細片、ひとかけら,a very thin small piece broken off something,He cut himself on a sliver of glass.,彼はガラスの破片で手を切った。,a sliver of hope（わずかな希望）のように「ごくわずか」の比喩でも使う。
+E14505,1,5,slush,名詞,解けかけの雪、ぬかるみ,snow that has partly melted into soft wet mud,The morning slush soaked through her boots.,朝のぬかるんだ雪が彼女のブーツにしみ込んだ。,slush fund は「裏金」。飲み物のフローズンドリンクも slush と呼ぶ。
+E14506,1,5,smelt,動詞,溶鉱して精錬する,to melt rock in order to get metal out of it,The old factory used to smelt iron ore here.,その古い工場はここで鉄鉱石を精錬していた。,金属を取り出す工程を指す。同じつづりで小魚の「ワカサギ類」の意味もある。
+E14507,1,5,softness,名詞,柔らかさ、優しさ,the quality of being soft to touch or gentle,I love the softness of this wool blanket.,私はこのウールの毛布の柔らかさが大好きだ。,soft＋-ness。手ざわりだけでなく声や光の「やわらかさ」にも使える。
+E14508,1,5,sportsmen,名詞,スポーツをする人たち,men who take part in sports,The club welcomed sportsmen from ten countries.,そのクラブは十か国からのスポーツ選手を迎えた。,sportsman の複数形。今は男女を含む sportspeople を使うことも多い。
+E14509,1,5,springboard,名詞,跳躍板、足がかり,"a board used for jumping, or a starting point",The job became a springboard for her career.,その仕事は彼女の経歴の足がかりになった。,水泳や体操の踏み切り板が元の意味。比喩で「きっかけ」の意味が非常に多い。
+E14510,1,5,stonewall,動詞,はぐらかして妨害する,to refuse to answer or cooperate in order to delay,The company continued to stonewall the investigators.,その会社は調査官への回答を拒み続けた。,石の壁のように動かない様子から。政治や取材の記事でよく出る語。
+E14511,1,5,sustenance,名詞,栄養、生活の支え,food and drink that keeps a person alive,The refugees received basic sustenance and shelter.,難民たちは最低限の食料と住まいを受け取った。,sustain（支える）の名詞。物質的な食料だけでなく心の支えにも使う。
+E14512,1,5,swivel,動詞,回転する、向きを変える,to turn around a fixed central point,She swiveled in her chair to face the window.,彼女はいすを回して窓の方を向いた。,swivel chair（回転いす）が代表的な言い方。名詞では「回転台」。
+E14513,1,5,tearful,形容詞,涙ぐんだ、涙もろい,crying or about to cry,They said a tearful goodbye at the airport.,彼らは空港で涙ながらの別れを告げた。,tear（涙）＋-ful。tearful farewell（涙の別れ）がよくある形。
+E14514,1,5,toolbox,名詞,道具箱、道具一式,"a box for keeping tools, or a set of skills",He keeps a small toolbox in the trunk of his car.,彼は車のトランクに小さな道具箱を入れている。,比喩で「使える手法の一式」の意味も多い。IT では toolkit とほぼ同じ。
+E14515,1,5,underdeveloped,形容詞,発育不十分な、開発の遅れた,not fully grown or not yet built up,The region remains underdeveloped despite its resources.,その地域は資源があるのに開発が遅れたままだ。,国について使うと失礼になるので developing country と言うことが多い。
+E14516,1,5,unkind,形容詞,不親切な、思いやりのない,not nice or gentle to other people,It was unkind of him to laugh at her mistake.,彼女の間違いを笑うとは彼も思いやりがなかった。,It is unkind of 人 to do の形が定番。kind の反対で、cruel よりは軽い。
+E14517,1,5,warlock,名詞,男の魔法使い,"a man who uses magic, especially evil magic",In the story a warlock guards the mountain pass.,物語では魔法使いが山の峠を守っている。,女性の witch に対する男性形。物語やゲームでよく登場する語。
+E14518,1,5,wayside,名詞,道端、道ばた,the edge of a road or path,They rested at the wayside under a tall tree.,彼らは道端の高い木の下で休んだ。,fall by the wayside（途中で脱落する）という慣用句で覚えると便利。
+E14519,1,5,whirlpool,名詞,渦、渦巻き,water that turns quickly in a circle,Swimmers are warned about the whirlpool near the rocks.,泳ぐ人は岩場近くの渦に注意するよう言われている。,whirl（ぐるぐる回る）＋pool。比喩で「混乱の渦」にも使う。
+E14520,1,5,whitish,形容詞,白っぽい,slightly white in color,The sky turned a whitish gray before the snow.,雪の前に空は白っぽい灰色に変わった。,-ish は「～っぽい」。reddish、bluish なども同じ作り方。
+E14521,1,5,zealous,形容詞,熱心な、熱狂的な,very eager and active about a cause or belief,He is a zealous supporter of the new policy.,彼はその新しい政策の熱心な支持者だ。,zeal（熱意）の形容詞。行きすぎた熱心さを暗に示すことも多い。
+E14522,1,5,flatten,動詞,平らにする、押しつぶす,to make something flat or knock it down,The storm flattened the crops in the field.,嵐が畑の作物をなぎ倒した。,flat＋-en で「平らにする」。グラフの曲線を「なだらかにする」にも使う。
+E14523,1,5,outnumber,動詞,数で上回る,to be greater in number than another group,Tourists outnumber local residents in summer.,夏には観光客が地元住民より多くなる。,out-（～より勝る）＋number。outnumber A by three to one の形も多い。
+E14524,1,5,clinician,名詞,臨床医、臨床家,a doctor who treats patients directly,The clinician reviewed the test results with the patient.,臨床医は患者と一緒に検査結果を確認した。,研究者 researcher と対比して、実際に患者を診る医療者を指す。
+E14525,1,5,detonate,動詞,爆発させる、起爆する,to make a bomb explode,Engineers detonated the old bridge safely.,技術者たちは古い橋を安全に爆破した。,detonator は「起爆装置」。explode より計画的に爆発させる感じ。
+E14526,1,5,fasten,動詞,留める、締める,to close or fix something firmly,Please fasten your seat belt before takeoff.,離陸前にシートベルトをお締めください。,t は発音しない。機内放送の Fasten your seat belt で覚えるとよい。
+E14527,1,5,booby,名詞,まぬけ、カツオドリ,"a foolish person, or a large sea bird",The last team got the booby prize at the party.,最下位のチームはパーティーでブービー賞をもらった。,booby prize は「最下位への冗談の賞」。booby trap は「仕掛け爆弾」。
+E14528,1,5,airwaves,名詞,電波、放送,radio and television broadcasting,The song dominated the airwaves all summer.,その曲はひと夏じゅう放送を独占した。,つねに複数形。on the airwaves で「放送に乗って」の意味になる。
+E14529,1,5,arbiter,名詞,裁定者、権威者,a person who decides what is right in a dispute,The court acts as the final arbiter of the law.,裁判所が法の最終的な裁定者となる。,arbiter of taste（流行の目利き）のように「権威」の意味でも使う。
+E14530,1,5,arbitrator,名詞,仲裁人,a person chosen to settle a dispute officially,Both sides agreed to accept the arbitrator's decision.,双方は仲裁人の判断を受け入れることに同意した。,労使交渉などの法的な仲裁の担当者。arbiter より手続き上の役職を指す。
+E14531,1,5,archangel,名詞,大天使,an angel of the highest rank,The painting shows an archangel with a golden sword.,その絵には金の剣を持つ大天使が描かれている。,arch-（首位の）＋angel。Michael や Gabriel が代表的な大天使。
+E14532,1,5,baritone,名詞,バリトン、男性中音域,a male singing voice between tenor and bass,He sang the role with a warm baritone.,彼は温かみのあるバリトンでその役を歌った。,音楽用語。高い順に tenor、baritone、bass と並ぶ。
+E14533,1,5,bushy,形容詞,ふさふさした、生い茂った,"growing thickly, like a bush",The old professor had bushy white eyebrows.,その老教授はふさふさした白い眉毛をしていた。,bush（低木）から。眉毛やしっぽ、ひげによく使う形容詞。
+E14534,1,5,caloric,形容詞,カロリーの、熱量の,relating to the energy in food,The label shows the caloric content of each serving.,ラベルには一食分の熱量が示されている。,caloric intake（カロリー摂取量）が定番の言い方。名詞は calorie。
+E14535,1,5,captaincy,名詞,主将の地位、船長職,the position of being a captain,She took over the captaincy of the team last year.,彼女は昨年チームの主将を引き継いだ。,-cy は地位や状態を表す語尾。presidency、candidacy と同じ作り。
+E14536,1,5,carbide,名詞,炭化物、カーバイド,a chemical made of carbon and a metal,The drill tip is made of tungsten carbide.,そのドリルの先端はタングステンカーバイド製だ。,化学用語。-ide は化合物を表す語尾で、oxide（酸化物）と同じ。
+E14537,1,5,carmine,名詞,洋紅色、カーマイン,a deep red color,The artist filled the background with carmine.,その画家は背景を深い紅色で埋めた。,もとは虫から取った赤い染料の名前。食品の着色料としても使われる。
+E14538,1,5,chairmanship,名詞,議長職、委員長職,the position of being a chairman,He resigned the chairmanship after ten years.,彼は十年務めた委員長職を辞した。,-ship は地位や関係を表す語尾。今は chairship や chairpersonship も使う。
+E14539,1,5,checkmate,名詞,詰み、完敗,the winning move in chess that ends the game,Her last move was a clever checkmate.,彼女の最後の一手は見事な詰みだった。,チェス用語。動詞で「動けなくする」と比喩的に使うこともある。
+E14540,1,5,collie,名詞,コリー犬,"a type of dog with long hair, used for herding sheep",Their collie runs beside the sheep all day.,彼らのコリー犬は一日中羊のそばを走っている。,牧羊犬の一種。border collie（ボーダーコリー）が特に有名。
+E14541,1,5,commercialization,名詞,商業化、事業化,the act of turning something into a business,Many people dislike the commercialization of the holiday.,その祝日の商業化を嫌う人は多い。,研究成果を製品にする文脈でも使う。英国つづりは commercialisation。
+E14542,1,5,conduction,名詞,伝導,the passing of heat or electricity through a material,Metal allows fast conduction of heat.,金属は熱を速く伝える。,物理用語。対流は convection、放射は radiation と区別して覚える。
+E14543,1,5,consumerism,名詞,消費主義、大量消費,the belief that buying many goods is good,The film is a sharp criticism of modern consumerism.,その映画は現代の消費主義を鋭く批判している。,「消費者保護運動」の意味もあるが、批判的に使うことが多い。
+E14544,1,5,cosmology,名詞,宇宙論,the study of the origin and structure of the universe,New telescopes have changed modern cosmology.,新しい望遠鏡は現代の宇宙論を変えた。,cosmos（宇宙）＋-logy。天文学 astronomy より理論寄りの分野。
+E14545,1,5,daydream,名詞,白日夢、空想,pleasant thoughts that take your mind off work,He was lost in a daydream during the lecture.,彼は講義の間ずっと空想にふけっていた。,動詞としても使い、daydream about で「～を空想する」。
+E14546,1,5,enchantment,名詞,魔法、うっとりする魅力,"a magic spell, or a feeling of great delight",The garden held a strange enchantment at night.,その庭は夜になると不思議な魅力を帯びた。,enchant（魔法をかける、魅了する）の名詞。物語と日常の両方で使う。
+E14547,1,5,faceless,形容詞,顔の見えない、没個性の,without a clear identity or personality,Customers dislike dealing with faceless companies.,客は顔の見えない会社と取引するのを嫌う。,「誰が決めているかわからない」という批判の気持ちが入る語。
+E14548,1,5,fatherland,名詞,祖国、父祖の地,the country where you or your family was born,He returned to his fatherland after twenty years.,彼は二十年ぶりに祖国へ戻った。,ドイツ語 Vaterland の直訳。motherland、homeland とほぼ同じ意味。
+E14549,1,5,federalism,名詞,連邦主義、連邦制,a system where states share power with a central government,American federalism divides power between states and Washington.,アメリカの連邦制は州と中央政府で権力を分ける。,federal（連邦の）＋-ism。政治学の基本用語のひとつ。
+E14550,1,5,fey,形容詞,妖精のような、風変わりな,strange and slightly magical in manner,She had a fey charm that people remembered.,彼女には人の記憶に残る不思議な魅力があった。,使う場面は文学的。もとは「死期が近い」という古い意味があった。
+E14551,1,5,fizz,動詞,しゅわしゅわ泡立つ,to make many small bubbles and a hissing sound,The tablet began to fizz in the glass of water.,その錠剤はコップの水の中で泡立ち始めた。,名詞で「炭酸の泡」。fizzy drink は「炭酸飲料」の言い方。
+E14552,1,5,fragility,名詞,もろさ、壊れやすさ,the state of being easy to break or damage,The report highlights the fragility of the local economy.,その報告書は地域経済のもろさを強調している。,fragile（壊れやすい）の名詞。物にも制度や健康にも使う。
+E14553,1,5,frigid,形容詞,極寒の、冷淡な,"extremely cold, or very unfriendly",They crossed the frigid plains in midwinter.,彼らは真冬に極寒の平原を越えた。,気温と態度の両方に使う。ラテン語 frigus（寒さ）が語源。
+E14554,1,5,gasket,名詞,ガスケット、パッキン,a flat piece that seals a joint between two parts,A worn gasket was causing the oil leak.,すり減ったガスケットが油漏れの原因だった。,機械の部品名。blow a gasket は口語で「かんかんに怒る」。
+E14555,1,5,gemstone,名詞,宝石、原石,a valuable stone used in jewelry,The ring holds a deep blue gemstone.,その指輪には濃い青の宝石がはめてある。,gem とほぼ同じだが、加工前の石の意味を強く出せる語。
+E14556,1,5,goaltender,名詞,ゴールキーパー,the player who guards the goal in hockey,Their goaltender stopped forty shots last night.,彼らのゴールキーパーは昨夜四十本のシュートを止めた。,アイスホッケーで使う言い方。サッカーでは goalkeeper が普通。
+E14557,1,5,gory,形容詞,血まみれの、むごたらしい,showing a lot of blood and violence,He refuses to watch gory horror films.,彼は血なまぐさいホラー映画を見ようとしない。,gore（流れた血）から。the gory details は「生々しい詳細」。
+E14558,1,5,granola,名詞,グラノーラ,"a breakfast food of baked oats, nuts and fruit",She eats granola with yogurt every morning.,彼女は毎朝ヨーグルトにグラノーラをかけて食べる。,アメリカ英語。イギリスでは muesli という似た食品がよく知られる。
+E14559,1,5,habitation,名詞,居住、住まい,"the act of living in a place, or a place to live",The old cabin is no longer fit for habitation.,その古い小屋はもう人が住める状態ではない。,fit for habitation（居住に適する）という形でよく出る。かたい語。
+E14560,1,5,hatchback,名詞,ハッチバック車,a car with a back door that opens upward,They bought a small hatchback for city driving.,彼らは街乗り用に小型のハッチバック車を買った。,後部のドアが上に開く車。sedan（セダン）と対比して使う。
+E14561,1,5,huntsman,名詞,狩人、猟師,a man who hunts animals,The huntsman knew every path in the forest.,その狩人は森の道をすべて知っていた。,複数形は huntsmen。物語や昔話でよく出る、やや古風な語。
+E14562,1,5,hypothermia,名詞,低体温症,a dangerous drop in the body's temperature,The climber was treated for hypothermia.,その登山者は低体温症の手当てを受けた。,hypo-（下）＋therm（熱）。逆は hyperthermia（高体温症）。
+E14563,1,5,impatience,名詞,短気、いらだち,the feeling of not wanting to wait,He tapped the desk in impatience.,彼はいらだって机を指で叩いた。,patience（忍耐）に打ち消しの im- が付いた形。形容詞は impatient。
+E14564,1,5,instructive,形容詞,ためになる、教えられる,giving useful information or lessons,The failure was painful but instructive.,その失敗はつらかったがためになった。,instruct（教える）の形容詞。educational よりかたい語感。
+E14565,1,5,introspection,名詞,内省、自己反省,the act of examining your own thoughts,A long illness led him to quiet introspection.,長い病気が彼を静かな内省へと導いた。,intro-（内へ）＋spect（見る）。心理学でよく出る語。
+E14566,1,5,lard,名詞,ラード、豚脂,soft white fat from a pig used in cooking,Traditional pie crust is made with lard.,伝統的なパイ生地はラードで作られる。,料理用語。動詞で「文章に飾り言葉を詰め込む」の比喩もある。
+E14567,1,5,leeway,名詞,余地、ゆとり,freedom to act or extra room to work with,The budget gives us little leeway for delays.,その予算では遅れに対する余裕がほとんどない。,もとは船が風で横に流れる幅。give someone leeway が定番の形。
+E14568,1,5,lexical,形容詞,語彙の、辞書の,relating to the words of a language,"The test measures lexical knowledge, not grammar.",その試験は文法ではなく語彙の知識を測る。,lexicon（語彙、辞書）の形容詞。言語学の論文で頻出する語。
+E14569,1,5,lob,動詞,山なりに投げる、ロブを打つ,to throw or hit something high and slowly,She lobbed the ball over the tall defender.,彼女は背の高い守備選手の上にボールを山なりに上げた。,テニスやバスケの用語として有名。名詞で「ロブ」の意味にもなる。
+E14570,1,5,mademoiselle,名詞,お嬢さん、マドモアゼル,a French title for an unmarried young woman,The waiter greeted her as mademoiselle.,給仕は彼女をマドモアゼルと呼んで迎えた。,フランス語からの借用語。英語の Miss にあたる呼びかけ。
+E14571,1,5,menswear,名詞,紳士服,clothing made for men,The menswear section is on the second floor.,紳士服売り場は二階にあります。,men's wear とも書く。対になる語は womenswear。
+E14572,1,5,meritorious,形容詞,称賛に値する、功績のある,deserving praise or reward,He received a medal for meritorious service.,彼は功績ある勤務に対して勲章を受けた。,merit（功績）の形容詞。表彰や軍隊の文書で使うかたい語。
+E14573,1,5,methadone,名詞,メサドン,a drug given to help people stop using heroin,The clinic offers methadone to patients in recovery.,その診療所は回復中の患者にメサドンを提供している。,依存症治療に使う合成鎮痛薬。医療や社会問題の記事で出る。
+E14574,1,5,methanol,名詞,メタノール、メチルアルコール,a poisonous alcohol used as fuel and solvent,Methanol burns with an almost invisible flame.,メタノールはほとんど見えない炎で燃える。,飲むと失明などの危険がある。飲用の酒は ethanol（エタノール）。
+E14575,1,5,millet,名詞,キビ、アワ、雑穀,a small grain grown for food in dry areas,Millet grows well where rice cannot.,キビは米が育たない土地でもよく育つ。,乾燥に強い穀物。健康食品や途上国の農業の話でよく出る。
+E14576,1,5,misogynistic,形容詞,女性蔑視の,showing hatred or strong dislike of women,The old law was criticized as misogynistic.,その古い法律は女性蔑視だと批判された。,miso-（憎む）＋gyn（女性）。名詞は misogyny、人は misogynist。
+E14577,1,5,misrepresentation,名詞,虚偽の説明、事実の歪曲,the act of giving a false description of something,The contract was canceled because of misrepresentation.,虚偽の説明があったため契約は取り消された。,法律で重要な語。故意なら fraud（詐欺）に近い扱いになる。
+E14578,1,5,mistreatment,名詞,虐待、不当な扱い,the act of treating a person or animal badly,The report describes the mistreatment of workers.,その報告書は労働者への不当な扱いを述べている。,mis-（誤って）＋treatment。動詞は mistreat（ひどく扱う）。
+E14579,1,5,mocha,名詞,モカ、コーヒーとチョコの飲み物,coffee mixed with chocolate,She ordered a hot mocha with extra cream.,彼女はクリーム多めのホットモカを注文した。,もとはイエメンの港 Mocha の名前。コーヒー豆の名でもある。
+E14580,1,5,mockingbird,名詞,マネシツグミ,a bird that copies the songs of other birds,A mockingbird sang outside the window all night.,マネシツグミが一晩中窓の外で鳴いていた。,mock（まねる）＋bird。他の鳥の声をまねることからこの名がある。
+E14581,1,5,nonsensical,形容詞,ばかげた、意味をなさない,silly and without any sense,His answer was completely nonsensical.,彼の答えはまったく意味をなしていなかった。,nonsense の形容詞。absurd や ridiculous と近い意味。
+E14582,1,5,noose,名詞,輪縄、絞首の縄,a loop of rope that tightens when pulled,The rope was tied into a simple noose.,その縄は単純な輪縄に結ばれていた。,処刑の縄を指すことが多く、比喩で「追い詰められた状態」も表す。
+E14583,1,5,offshoot,名詞,分派、派生したもの,something that develops from a larger thing,The company is an offshoot of a university lab.,その会社は大学の研究室から生まれた組織だ。,もとは植物の「わき枝」。組織や学派の派生に比喩で使う。
+E14584,1,5,onshore,形容詞,陸上の、沿岸の,on land or near the coast rather than at sea,Onshore wind farms are cheaper to build.,陸上の風力発電所は建設費が安い。,反対は offshore（沖合の）。エネルギーや金融の記事でよく対比される。
+E14585,1,5,orthogonal,形容詞,直交する、無関係な,"at right angles, or completely independent",These two problems are orthogonal to each other.,この二つの問題は互いにまったく別のものだ。,数学の「直交」が本来の意味。IT では「独立した」の比喩で多用される。
+E14586,1,5,overkill,名詞,やりすぎ、過剰,much more than is needed,Three lawyers for one small case is overkill.,小さな一件に弁護士三人は過剰だ。,もとは軍事の「過剰な破壊力」。今は日常のやりすぎに広く使う。
+E14587,1,5,ovulation,名詞,排卵,the release of an egg from a woman's ovary,The app helps her track ovulation each month.,そのアプリは毎月の排卵を記録するのに役立つ。,医学用語。動詞は ovulate、卵巣は ovary。
+E14588,1,5,parse,動詞,構文を解析する、読み解く,to break a sentence or data into parts to understand it,The program parses the file line by line.,そのプログラムはファイルを一行ずつ解析する。,文法用語からIT用語へ広がった。「意味を読み取る」の比喩でも使う。
+E14589,1,5,pollination,名詞,受粉,the moving of pollen so that a plant can make seeds,Bees are essential for the pollination of crops.,ミツバチは作物の受粉に欠かせない。,pollen（花粉）から。cross-pollination は「他家受粉、異分野交流」。
+E14590,1,5,postpartum,形容詞,産後の,happening after a woman gives birth,She was screened for postpartum depression.,彼女は産後うつの検査を受けた。,post-（後）＋partum（出産）。反対は prenatal や antepartum。
+E14591,1,5,pretzel,名詞,プレッツェル,a crisp baked snack twisted into a knot shape,He ate a warm pretzel with mustard.,彼はマスタードを付けて温かいプレッツェルを食べた。,ドイツ由来のパン菓子。結び目の形から「ねじれた」の比喩にも使う。
+E14592,1,5,proletariat,名詞,労働者階級、無産階級,the class of workers who own no property,Marx wrote about the struggles of the proletariat.,マルクスは労働者階級の闘いについて書いた。,対になる語は bourgeoisie（有産階級）。政治思想の文章で出る。
+E14593,1,5,quadratic,形容詞,二次の,involving a number multiplied by itself,Students learn to solve quadratic equations.,生徒たちは二次方程式の解き方を学ぶ。,数学用語。quadratic equation（二次方程式）でほぼ必ず出る。
+E14594,1,5,recoup,動詞,取り戻す、埋め合わせる,to get back money or time that you lost,The airline hopes to recoup its losses next year.,その航空会社は来年損失を取り戻したいと考えている。,recoup losses、recoup costs の形が多い。recover よりお金寄り。
+E14595,1,5,repertory,名詞,レパートリー、専属劇団,a set of plays a company can perform,The theater keeps ten plays in its repertory.,その劇場は十本の演目をレパートリーに持っている。,repertoire とほぼ同じ。repertory theater は「専属劇団の劇場」。
+E14596,1,5,sandman,名詞,眠りの精,an imaginary man who makes children sleep,Mother said the sandman was coming soon.,母は眠りの精がもうすぐ来ると言った。,子どもを寝かしつける昔話の存在。歌や物語の題名にもよく使われる。
+E14597,1,5,sass,名詞,生意気な口、口答え,rude or cheeky talk to someone in authority,Do not give me any sass about the rules.,規則のことで生意気な口をきかないで。,アメリカ英語の口語。動詞で sass back（口答えする）とも使う。
+E14598,1,5,schoolteacher,名詞,学校の先生,a person whose job is teaching in a school,Her mother was a schoolteacher for thirty years.,彼女の母は三十年間学校の先生をしていた。,teacher より「学校勤め」であることをはっきり示せる語。
+E14599,1,5,senatorial,形容詞,上院議員の、元老院の,relating to a senate or its members,He won the senatorial race by a small margin.,彼はわずかな差で上院議員選挙に勝った。,senator（上院議員）の形容詞。アメリカ政治の記事でよく出る。
+E14600,1,5,shimmer,動詞,かすかに光る、揺らめく,to shine with a soft trembling light,The lake shimmered in the afternoon sun.,湖は午後の日ざしにきらめいていた。,sparkle より弱く柔らかい光。名詞で「かすかな輝き」にもなる。
+E14601,1,5,simplification,名詞,簡素化、単純化,the act of making something easier to understand,The new form is a welcome simplification.,その新しい書式はありがたい簡素化だ。,批判的に「単純化しすぎ」を指すこともある。oversimplification はその強調形。
+E14602,1,5,snooze,動詞,うたた寝する、居眠りする,to sleep lightly for a short time,He likes to snooze on the train home.,彼は帰りの電車でうたた寝するのが好きだ。,目覚まし時計の snooze button（スヌーズボタン）で有名な語。
+E14603,1,5,stillness,名詞,静けさ、静止,complete quiet and lack of movement,The stillness of the early morning calmed her.,早朝の静けさが彼女の心を落ち着かせた。,still（静かな、動かない）の名詞。silence は音、stillness は動きも含む。
+E14604,1,5,subculture,名詞,サブカルチャー、下位文化,a group with its own style inside a larger society,Skateboarding grew from a small local subculture.,スケートボードは小さな地域のサブカルチャーから育った。,sub-（下位の）＋culture。社会学の用語として使うことも多い。
+E14605,1,5,suitor,名詞,求婚者、買収希望の会社,"a man who wants to marry a woman, or a would-be buyer",The company attracted several suitors this spring.,その会社はこの春、複数の買収希望先を引きつけた。,古風な「求婚者」の意味と、経済面での「買収希望企業」の両方で使う。
+E14606,1,5,tarp,名詞,防水シート、ブルーシート,a large sheet of waterproof cloth,They covered the woodpile with a blue tarp.,彼らは薪の山を青い防水シートで覆った。,tarpaulin を短くした語。屋外作業や災害の記事でよく出る。
+E14607,1,5,thoroughbred,名詞,サラブレッド、純血種の馬,a horse bred from the best racing lines,The thoroughbred won its first race easily.,そのサラブレッドは初戦を楽に勝った。,thorough（徹底した）＋bred（育てられた）。人の「生粋の」にも比喩で使う。
+E14608,1,5,tiara,名詞,ティアラ、小冠,a small crown worn by a woman,The bride wore a simple silver tiara.,花嫁は飾りけのない銀のティアラをつけていた。,王冠 crown より小さく、頭の前側だけを飾るもの。
+E14609,1,5,totality,名詞,全体、総体,the whole of something taken together,We must look at the totality of the evidence.,私たちは証拠を全体として見なければならない。,in its totality（その全体として）の形が多い。日食の「皆既」も指す。
+E14610,1,5,ugliness,名詞,醜さ、みにくさ,the quality of being unpleasant to look at,The film shows the ugliness of war.,その映画は戦争の醜さを描いている。,見た目だけでなく、行いや状況の「いやらしさ」にも使える。
+E14611,1,5,visor,名詞,ひさし、バイザー,a stiff part above the eyes on a cap or helmet,He pulled down the visor to block the sun.,彼は日ざしを防ぐためバイザーを下ろした。,車の日よけ板も sun visor と呼ぶ。ヘルメットの透明な面にも使う。
+E14612,1,5,werewolves,名詞,狼男たち,people who change into wolves in stories,The old legend tells of werewolves in the forest.,その古い伝説は森の狼男たちの話だ。,単数は werewolf。-f が -ves になる複数形の代表例のひとつ。
+E14613,1,5,erupt,動詞,噴火する、突然起こる,"to burst out suddenly, as a volcano does",The volcano erupted without warning.,その火山は前触れもなく噴火した。,怒りや戦争が「突然起こる」にも使う。名詞は eruption。
+E14614,1,5,headlight,名詞,ヘッドライト、前照灯,a large light on the front of a vehicle,One headlight on the truck was broken.,そのトラックのヘッドライトが片方壊れていた。,後ろは taillight。運転の話で必ず出る基本語のひとつ。
+E14615,1,5,thump,動詞,ドスンと打つ、どきどきする,to hit something and make a heavy dull sound,He thumped the table to get their attention.,彼は注意を引くために机をどんと叩いた。,心臓が「どきどきする」にも使う。名詞で「ドスンという音」。
+E14616,1,5,abhorrent,形容詞,忌まわしい、ぞっとする,causing strong hate or disgust,Such violence is abhorrent to most people.,そうした暴力はほとんどの人にとって忌まわしいものだ。,be abhorrent to 人 の形が多い。動詞は abhor（ひどく嫌う）。
+E14617,1,5,alder,名詞,ハンノキ,a tree that grows near water,Alders line the bank of the small river.,小川の岸にはハンノキが並んでいる。,湿地に育つ木。木材は水に強く、家具や楽器にも使われる。
+E14618,1,5,allowable,形容詞,許容される、認められる,permitted by the rules or the law,The allowable noise level drops after ten at night.,許容される騒音の水準は夜十時以降に下がる。,allow＋-able。税務で allowable expenses（控除できる経費）が定番。
+E14619,1,5,amortization,名詞,償却、分割返済,paying off a debt or cost in regular parts,The loan has a twenty-year amortization period.,その融資は二十年の返済期間になっている。,会計と金融の用語。形のない資産の償却にも使う。動詞は amortize。
+E14620,1,5,anaconda,名詞,アナコンダ,a very large South American snake,The anaconda can grow longer than five meters.,アナコンダは五メートル以上に成長することがある。,南米の大型ヘビ。締めつけて獲物をとらえる非毒の種。
+E14621,1,5,anaerobic,形容詞,無酸素の、嫌気性の,living or working without oxygen,Anaerobic bacteria break down waste in the tank.,嫌気性の細菌がタンクの中で廃棄物を分解する。,an-（無し）＋aerobic（酸素の）。運動の「無酸素運動」にも使う。
+E14622,1,5,atrophy,名詞,萎縮、衰え,the shrinking of a body part from lack of use,Weeks in bed caused muscle atrophy.,何週間も寝ていたせいで筋肉の萎縮が起きた。,医学用語だが、技能や組織が衰えることにも比喩で使う。動詞も同形。
+E14623,1,5,aviator,名詞,飛行士、パイロット,a person who flies an aircraft,Early aviators flew without any radio.,初期の飛行士は無線なしで飛んでいた。,やや古風で、今は pilot が普通。aviator sunglasses は形の名前。
+E14624,1,5,avoidable,形容詞,避けられる、防げる,able to be prevented,Most of these accidents were entirely avoidable.,これらの事故のほとんどは完全に防げるものだった。,avoid＋-able。反対は unavoidable（避けられない）。
+E14625,1,5,behemoth,名詞,巨大なもの、巨大企業,something extremely large and powerful,The startup took on a corporate behemoth.,その新興企業は巨大企業に挑んだ。,旧約聖書に出る巨獣の名から。企業や建物によく使う比喩。
+E14626,1,5,bib,名詞,よだれかけ、ゼッケン,a cloth tied under the chin to keep clothes clean,She tied a bib around the baby's neck.,彼女は赤ちゃんの首によだれかけを結んだ。,マラソンで胸に付ける番号布も bib と呼ぶ。
+E14627,1,5,blip,名詞,一時的な変化、光点,"a small brief change, or a dot on a screen",The drop in sales was just a blip.,売上の落ち込みは一時的なものにすぎなかった。,レーダーの光点が本来の意味。経済記事で「一時的な変動」に多用される。
+E14628,1,5,bossy,形容詞,威張った、指図したがる,always telling other people what to do,Her bossy tone annoyed the whole team.,彼女の偉そうな口調はチーム全体をいらだたせた。,boss（上司）から。否定的な評価の語なので使い方に注意。
+E14629,1,5,bumble,動詞,へまをする、口ごもる,to act or speak in a clumsy confused way,He bumbled through his first presentation.,彼は最初の発表をしどろもどろで切り抜けた。,bumbling（へまばかりの）の形でよく使う。bumblebee は別語。
+E14630,1,5,caribou,名詞,カリブー、北米トナカイ,a large deer that lives in northern regions,Caribou migrate south each autumn.,カリブーは毎年秋に南へ移動する。,北米での呼び名で、ヨーロッパでは reindeer。単複同形。
+E14631,1,5,carnal,形容詞,肉体の、肉欲の,relating to the body and its desires,The novel contrasts carnal and spiritual love.,その小説は肉体の愛と精神の愛を対比している。,ラテン語 carn（肉）から。carnival や carnivore と同じ語根。
+E14632,1,5,carpentry,名詞,大工仕事、木工,the work of building things with wood,He learned carpentry from his father.,彼は父から大工仕事を習った。,職人は carpenter。DIY や職業訓練の話でよく出る語。
+E14633,1,5,cataract,名詞,白内障、大滝,"a clouding of the eye lens, or a large waterfall",She had surgery for a cataract in her right eye.,彼女は右目の白内障の手術を受けた。,医学では白内障、地理では大滝。同じつづりで二つの意味を持つ。
+E14634,1,5,centrifugal,形容詞,遠心の、中心から離れる,moving away from the center of a turning object,The machine uses centrifugal force to separate cream.,その機械は遠心力でクリームを分離する。,centrifugal force（遠心力）で覚える。逆は centripetal（求心の）。
+E14635,1,5,chum,名詞,親友、仲間,a close friend,They have been chums since primary school.,彼らは小学校からの親友だ。,やや古風でくだけた語。イギリス英語の小説によく出る。
+E14636,1,5,circadian,形容詞,概日の、一日周期の,following a natural cycle of about 24 hours,Night shifts disturb the body's circadian rhythm.,夜勤は体の一日のリズムを乱す。,circadian rhythm（概日リズム）でほぼ必ず使う。circa（約）＋dies（日）。
+E14637,1,5,constabulary,名詞,警察組織、警察隊,the police force of an area,The county constabulary opened an inquiry.,その郡の警察が調査を始めた。,イギリス英語のかたい語。警官一人は constable。
+E14638,1,5,cote,名詞,小屋、鳥小屋,a small shelter for birds or sheep,Pigeons returned to the cote at dusk.,ハトは夕暮れに小屋へ戻ってきた。,dovecote（ハト小屋）の形で見ることが多い。coat と発音が違うので注意。
+E14639,1,5,deathbed,名詞,死の床、臨終の床,the bed where a person dies,He made the promise on his deathbed.,彼は死の床でその約束をした。,deathbed confession（臨終の告白）のように比喩的な言い方が多い。
+E14640,1,5,deceitful,形容詞,うそつきの、人を欺く,trying to make people believe what is not true,The court called the statement deceitful.,裁判所はその陳述を人を欺くものだと述べた。,deceit（欺き）の形容詞。動詞は deceive（だます）。
+E14641,1,5,deduce,動詞,推論する、推定する,to work out an answer from facts you know,From the footprints he deduced their direction.,足跡から彼は彼らの進んだ方向を推理した。,名詞は deduction。探偵小説の推理でよく使われる動詞。
+E14642,1,5,demented,形容詞,錯乱した、正気を失った,behaving in a wild or mentally confused way,He shouted like a demented man.,彼は正気を失った人のように叫んだ。,医学では避け、dementia（認知症）を使う。口語では「めちゃくちゃな」。
+E14643,1,5,discernible,形容詞,認められる、見分けられる,able to be seen or noticed,There was no discernible change in her voice.,彼女の声に目立った変化はなかった。,discern（見分ける）の形容詞。no discernible の形が非常に多い。
+E14644,1,5,encampment,名詞,野営地、宿営,a place where a group sets up tents,The army built an encampment beside the river.,軍は川のそばに野営地を築いた。,camp のかたい語。軍隊や難民のキャンプの記事でよく出る。
+E14645,1,5,equalizer,名詞,同点ゴール、イコライザー,"a goal that makes the score even, or a sound device",His late equalizer saved the match.,彼の終盤の同点ゴールが試合を救った。,サッカーの記事と音響機器の両方で使う。英国つづりは equaliser。
+E14646,1,5,ergo,副詞,ゆえに、したがって,therefore,"He was seen leaving, ergo he must have been inside.",彼が出て行くのを見られた、ゆえに中にいたはずだ。,ラテン語からの語。論理や皮肉をこめた文章で使うかたい表現。
+E14647,1,5,eugenics,名詞,優生学,the idea of improving humans by controlling breeding,Eugenics was used to justify terrible laws.,優生学はひどい法律を正当化するのに使われた。,今では強く否定される考え方。歴史や倫理の文章で出る。
+E14648,1,5,facsimile,名詞,複製、そっくりの写し,an exact copy of a document or picture,The museum sells a facsimile of the old map.,その博物館は古地図の複製を売っている。,略した形が fax。もとは「正確に写したもの」という意味。
+E14649,1,5,fanciful,形容詞,空想的な、現実離れした,based on imagination rather than facts,His plan sounded fanciful but it worked.,彼の計画は現実離れして聞こえたがうまくいった。,fancy（空想）の形容詞。批判的に「絵空事の」と使うことが多い。
+E14650,1,5,fillet,名詞,切り身、ヒレ肉,a piece of meat or fish without bones,She grilled a salmon fillet for dinner.,彼女は夕食にサケの切り身を焼いた。,動詞で「骨を取り除く」。米国では fil-LAY のように発音することが多い。
+E14651,1,5,formaldehyde,名詞,ホルムアルデヒド,a strong-smelling chemical used to preserve things,The samples were stored in formaldehyde.,その標本はホルムアルデヒドの中で保存されていた。,防腐や樹脂に使う。室内空気の汚染物質としても話題になる。
+E14652,1,5,fractal,名詞,フラクタル,a shape whose small parts look like the whole,A snowflake is a natural fractal.,雪の結晶は自然のフラクタルだ。,数学とコンピューターグラフィックスの用語。形容詞としても使う。
+E14653,1,5,garter,名詞,ガーター、靴下留め,a band worn to hold up a stocking,The bride wore a lace garter under her dress.,花嫁はドレスの下にレースのガーターをつけていた。,イギリスの Order of the Garter（ガーター勲章）でも知られる語。
+E14654,1,5,gibberish,名詞,わけのわからない言葉,speech or writing that makes no sense,The old file opened as pure gibberish.,その古いファイルを開くと文字化けだらけだった。,文字化けにも使える便利な語。数えられない名詞として扱う。
+E14655,1,5,gummy,形容詞,ねばねばした、グミ状の,sticky and soft like gum,The rice turned gummy after too much water.,水を入れすぎて米がべたべたになった。,お菓子の gummy bear（グミベア）で覚えやすい。歯ぐきの意味もある。
+E14656,1,5,hag,名詞,醜い老婆、鬼婆,an ugly or unpleasant old woman in stories,The witch in the tale is drawn as a hag.,その物語の魔女は鬼婆として描かれている。,強い侮蔑語なので実在の人には使わない。昔話や物語で出る。
+E14657,1,5,impossibly,副詞,ありえないほど、とても,to a degree that seems impossible,The deadline was impossibly short.,その締め切りはありえないほど短かった。,「不可能に」ではなく強調の「～すぎる」で使うことが多い。
+E14658,1,5,inferiority,名詞,劣っていること、劣等,the state of being lower in quality or rank,He never got over a sense of inferiority.,彼は劣等感を最後まで克服できなかった。,inferiority complex（劣等感）が定番。反対は superiority。
+E14659,1,5,iota,名詞,ごくわずか、微少,an extremely small amount,There is not one iota of proof.,証拠はこれっぽっちもない。,ギリシャ文字の最小の字から。not an iota の否定形で使うのが普通。
+E14660,1,5,lightness,名詞,軽さ、明るさ,"the quality of not being heavy, or of being bright",She liked the lightness of the summer fabric.,彼女は夏物の生地の軽さが気に入った。,重さと明るさの両方の意味がある。文脈で見分ける必要がある。
+E14661,1,5,lubrication,名詞,潤滑、注油,putting oil on parts so they move smoothly,Regular lubrication keeps the machine quiet.,定期的な注油が機械の静かさを保つ。,動詞は lubricate、油は lubricant。整備の説明書でよく出る。
+E14662,1,5,maxima,名詞,最大値,the highest values in a set of numbers,The graph shows two clear maxima.,そのグラフには明らかな最大値が二つある。,maximum の複数形。同じ形で minima（最小値）も覚えておくとよい。
+E14663,1,5,motionless,形容詞,動かない、じっとした,not moving at all,The deer stood motionless in the field.,そのシカは野原でじっと動かずに立っていた。,motion（動き）＋-less。stand motionless の形が多い。
+E14664,1,5,mullet,名詞,ボラ、ムレットの髪型,"a sea fish, or a haircut short in front and long behind",He grew a mullet in his teenage years.,彼は十代のころ後ろだけ長い髪型にしていた。,魚の名が本来の意味。髪型の意味は1980年代の流行で有名。
+E14665,1,5,navigable,形容詞,航行できる、通行できる,wide and deep enough for boats to pass,The river is navigable for thirty kilometers.,その川は三十キロにわたって船が通れる。,navigate（航行する）の形容詞。ウェブサイトの「使いやすさ」にも使う。
+E14666,1,5,nothingness,名詞,虚無、無,the state of not existing at all,The philosopher wrote about death and nothingness.,その哲学者は死と虚無について書いた。,哲学や文学で使うかたい語。nothing に -ness を付けた形。
+E14667,1,5,pacemaker,名詞,ペースメーカー、先導者,a device that keeps the heart beating regularly,The doctor fitted him with a pacemaker.,医師は彼にペースメーカーを取り付けた。,医療機器のほか、レースの「ペースを作る走者」の意味もある。
+E14668,1,5,paraphernalia,名詞,道具一式、身の回り品,the many small items needed for an activity,The garage was full of camping paraphernalia.,ガレージはキャンプ道具でいっぱいだった。,つづりが長く発音も難しい語。単複同形で、まとめて扱う。
+E14669,1,5,petrochemical,名詞,石油化学製品,a chemical made from oil or natural gas,The port ships petrochemicals around the world.,その港は石油化学製品を世界中に出荷している。,petro（石油）＋chemical。形容詞としても使い、産業名にもなる。
+E14670,1,5,polyethylene,名詞,ポリエチレン,a common plastic used for bags and bottles,The pipes are made of tough polyethylene.,その配管は丈夫なポリエチレン製だ。,英国つづりは polythene。プラスチックの中で最も生産量が多い。
+E14671,1,5,pooch,名詞,わんちゃん、犬,a friendly informal word for a dog,She walks her pooch every evening.,彼女は毎晩わんちゃんを散歩させている。,くだけた愛称。かしこまった文章では dog を使う。
+E14672,1,5,pounce,動詞,飛びかかる、素早くとらえる,to jump suddenly on something to catch it,The cat pounced on the toy mouse.,ネコはおもちゃのネズミに飛びかかった。,pounce on の形で使う。人の失言に「すぐ食いつく」の比喩も多い。
+E14673,1,5,pragmatism,名詞,実用主義、現実主義,dealing with things in a practical way,Her pragmatism kept the project on schedule.,彼女の現実的な考え方が計画を予定どおりに保った。,哲学の学派名でもある。形容詞は pragmatic（実際的な）。
+E14674,1,5,recombination,名詞,組み換え、再結合,the joining of genes or parts in a new way,Recombination creates new gene combinations.,組み換えは新しい遺伝子の組み合わせを生む。,生物学の基本語。recombinant DNA（組み換えDNA）でよく出る。
+E14675,1,5,resentful,形容詞,憤慨した、恨みを抱いた,feeling angry because you were treated unfairly,She felt resentful about the extra work.,彼女は増えた仕事に不満を抱いていた。,resent（腹を立てる）の形容詞。名詞は resentment（恨み）。
+E14676,1,5,rhubarb,名詞,ルバーブ,a plant with red stalks used in pies,Grandmother made a rhubarb pie every June.,祖母は毎年六月にルバーブのパイを作った。,茎だけを食べ、葉には毒がある。イギリスの家庭料理で人気。
+E14677,1,5,romanticism,名詞,ロマン主義,an art movement that valued feeling and nature,Romanticism shaped the poetry of that century.,ロマン主義はその世紀の詩を形づくった。,大文字で始めると芸術運動、小文字だと「夢見がちな考え」。
+E14678,1,5,salesmen,名詞,販売員たち、営業員たち,men whose job is selling goods,The salesmen met at the head office on Monday.,営業員たちは月曜に本社で集まった。,salesman の複数形。男女を含めるなら salespeople が無難。
+E14679,1,5,serviceable,形容詞,使える、実用に耐える,"good enough to be used, though not excellent",The old laptop is still serviceable.,その古いノートパソコンはまだ使える。,「立派ではないが十分」という控えめな褒め方をする語。
+E14680,1,5,simplex,形容詞,単信の、単一方向の,allowing communication in one direction only,The old radio link was simplex only.,その古い無線回線は片方向だけだった。,通信用語。両方向は duplex。数学では「単体」という図形も指す。
+E14681,1,5,sociable,形容詞,社交的な、人づきあいのよい,friendly and enjoying being with others,He is sociable and remembers everyone's name.,彼は社交的で全員の名前を覚えている。,social（社会の）と形が似るが意味が違うので注意。
+E14682,1,5,talkative,形容詞,おしゃべりな、話好きな,liking to talk a lot,Our guide was cheerful and talkative.,私たちの案内人は明るくおしゃべりだった。,talk＋-ative。悪い意味は弱く、chatty とほぼ同じ感じ。
+E14683,1,5,talon,名詞,かぎづめ,the sharp curved claw of a bird of prey,The eagle gripped the fish in its talons.,ワシは魚をかぎづめでつかんだ。,猛禽類の爪に使う語。普通の動物の爪は claw。
+E14684,1,5,trombone,名詞,トロンボーン,a brass instrument with a sliding tube,He plays trombone in the school band.,彼は学校の楽団でトロンボーンを吹いている。,管を滑らせて音を変える金管楽器。奏者は trombonist。
+E14685,1,5,tyrannical,形容詞,暴君的な、圧政的な,using power in a cruel and unfair way,The workers rebelled against a tyrannical boss.,労働者たちは横暴な上司に反抗した。,tyrant（暴君）の形容詞。名詞は tyranny（圧政）。
+E14686,1,5,vertebrate,名詞,脊椎動物,an animal that has a backbone,Fish were the first vertebrates on earth.,魚は地球で最初の脊椎動物だった。,vertebra（背骨の骨）から。背骨のない動物は invertebrate。
+E14687,1,5,watermark,名詞,透かし、電子透かし,a faint mark in paper or on an image,The photo has the studio's watermark in the corner.,その写真の隅にはスタジオの透かしが入っている。,紙幣の偽造防止から、今はデジタル画像の権利表示に広く使う。
+E14688,1,5,webcast,名詞,ウェブ配信、ネット中継,a broadcast sent over the internet,The company held a live webcast of the launch.,その会社は発表会をネットで生中継した。,web＋broadcast の合成語。動詞としても使える。
+E14689,1,5,yonder,副詞,あそこに、向こうに,"over there, at some distance",The farmhouse stands just yonder.,農家はすぐ向こうに建っている。,古風で方言的な語。歌や物語で over yonder の形をよく見る。
+E14690,1,5,firework,名詞,花火,a device that explodes with light and noise,A single firework lit up the whole street.,一発の花火が通り全体を照らした。,普通は複数形 fireworks で「花火大会」を指すことが多い。
+E14691,1,5,elector,名詞,選挙人、有権者,a person who has the right to vote,Each state sends electors to choose the president.,各州は大統領を選ぶ選挙人を送る。,アメリカ大統領選の electoral college（選挙人団）で有名な語。
+E14692,1,5,smuggler,名詞,密輸業者、密航あっせん人,a person who moves goods illegally across borders,Police arrested a smuggler at the border.,警察は国境で密輸業者を逮捕した。,動詞は smuggle、行為は smuggling。ニュースで頻出。
+E14693,1,5,taunt,動詞,あざける、なじる,to say cruel things to make someone angry,The boys taunted him about his old bicycle.,少年たちは彼の古い自転車のことでからかった。,tease より意地悪で攻撃的。名詞で「あざけりの言葉」にもなる。
+E14694,1,5,chimpanzee,名詞,チンパンジー,an African ape closely related to humans,Chimpanzees use sticks as simple tools.,チンパンジーは棒を簡単な道具として使う。,短くして chimp とも言う。ヒトに最も近い動物のひとつ。
+E14695,1,5,jihadist,名詞,聖戦主義者、ジハード主義者,a person who fights in the name of a holy war,The group was linked to jihadist networks.,その集団は聖戦主義者の組織と関係があった。,ニュース用語。信仰そのものではなく武装闘争を指して使う。
+E14696,1,5,antithesis,名詞,正反対、対照,the exact opposite of something,His calm manner is the antithesis of hers.,彼の落ち着いた態度は彼女とは正反対だ。,the antithesis of の形が定番。複数形は antitheses。
+E14697,1,5,archetype,名詞,原型、典型,the original model that others are based on,He is the archetype of the self-made businessman.,彼はたたき上げの実業家の典型だ。,arch-（もとの）＋type。心理学者ユングの用語としても有名。
+E14698,1,5,argyle,名詞,アーガイル柄,a diamond pattern used on socks and sweaters,He wore argyle socks with his gray suit.,彼は灰色のスーツにアーガイル柄の靴下を合わせた。,スコットランドの地名に由来する菱形の模様。
+E14699,1,5,bereavement,名詞,死別、身内を失うこと,the loss of a close family member or friend,The company gives leave for bereavement.,その会社は身内の不幸のための休暇を認めている。,bereaved は「遺族の」。お悔やみの場面で使う丁寧な語。
+E14700,1,5,bionic,形容詞,生体工学の、人工の,using electronic parts to replace body parts,The patient received a bionic hand.,その患者は電子制御の義手を受け取った。,bio（生体）＋electronic から。SF と医療の両方で使われる。
+E14701,1,5,boardroom,名詞,役員会議室、重役室,the room where a company's directors meet,The decision was made behind closed boardroom doors.,その決定は閉ざされた役員室の中で下された。,board（取締役会）＋room。「経営陣の世界」という比喩でも使う。
+E14702,1,5,bottomless,形容詞,底なしの、無限の,so deep that it seems to have no bottom,The budget is not a bottomless pit.,予算は底なしの穴ではない。,bottomless pit（底なしの穴）が定番の言い方。金や食欲の比喩に多い。
+E14703,1,5,chasm,名詞,深い割れ目、大きな隔たり,"a deep crack in the earth, or a wide difference",A chasm has opened between the two parties.,二つの政党の間に大きな溝が生まれた。,ch は k の音。地形の意味より「意見の隔たり」の比喩で多く使う。
+E14704,1,5,cinder,名詞,燃えがら、消し炭,a small piece of burnt coal or wood,Cinders from the fire covered the ground.,たき火の燃えがらが地面を覆っていた。,burnt to a cinder は「黒こげになった」。Cinderella の語源でもある。
+E14705,1,5,communicator,名詞,伝える人、話し上手な人,a person who is good at sharing ideas,A good teacher must be a clear communicator.,よい教師は明快に伝えられる人でなければならない。,communicate（伝える）の名詞。人物評でよく使われる褒め言葉。
+E14706,1,5,condor,名詞,コンドル,a very large bird found in the Americas,The condor circled high above the canyon.,コンドルが峡谷のはるか上を旋回していた。,南米と北米に生息する大型のハゲワシの仲間。絶滅が心配される鳥。
+E14707,1,5,confectionery,名詞,菓子類、菓子店,"sweets and cakes, or a shop that sells them",The town is famous for its traditional confectionery.,その町は伝統的な菓子で有名だ。,confection（菓子）から。イギリス英語でよく使うかたい語。
+E14708,1,5,coverings,名詞,覆い、カバー類,things that are put over something to protect it,Plastic coverings protected the seats from dust.,ビニールの覆いが座席をほこりから守った。,covering の複数形。floor coverings（床材）のように種類をまとめて言う。
+E14709,1,5,cull,動詞,選び出す、間引く,"to choose some from a group, or to kill some animals",The farm had to cull part of its herd.,その農場は家畜の一部を処分しなければならなかった。,「情報を集め選ぶ」の意味と「数を減らす」の意味の両方がある。
+E14710,1,5,deference,名詞,敬意、尊重,polite respect shown to someone above you,He stepped aside in deference to his teacher.,彼は師への敬意から一歩下がった。,in deference to（～に敬意を表して）の形が定番。形容詞は deferential。
+E14711,1,5,delirium,名詞,せん妄、錯乱,a confused state caused by fever or illness,The high fever brought on a night of delirium.,高熱のせいで一晩じゅう錯乱状態が続いた。,医学用語。「熱狂」の比喩でも使う。形容詞は delirious。
+E14712,1,5,diabolical,形容詞,悪魔のような、ひどい,extremely evil or extremely bad,The plan was diabolical in its cleverness.,その計画は悪魔のように巧妙だった。,devil（悪魔）と同じ語根。イギリス口語では単に「ひどい」の意味。
+E14713,1,5,expendable,形容詞,使い捨ての、犠牲にしてよい,not important enough to be worth keeping,Workers should never be treated as expendable.,労働者は使い捨てとして扱われるべきではない。,expend（使う）＋-able。人に使うと強い批判の意味になる。
+E14714,1,5,fennel,名詞,ウイキョウ、フェンネル,a plant with a sweet taste used in cooking,She added fennel to the fish soup.,彼女は魚のスープにフェンネルを加えた。,種も葉も球根も食べる香草。イタリア料理でよく使われる。
+E14715,1,5,fieldwork,名詞,実地調査、野外調査,research done outside a laboratory or office,Her fieldwork took her to three villages.,彼女の実地調査は三つの村に及んだ。,人類学や地質学で必須の語。研究室での作業は lab work。
+E14716,1,5,flattery,名詞,お世辞、追従,praise that is not sincere,Flattery will not change my decision.,お世辞では私の決心は変わらない。,動詞は flatter。Flattery will get you nowhere. という決まり文句もある。
+E14717,1,5,foreseen,動詞,予見された、見通された,known about before it happened,No one could have foreseen the sudden change.,その急な変化を予見できた人はいなかった。,foresee の過去分詞。unforeseen（予期しない）の形でよく見る。
+E14718,1,5,freedman,名詞,解放奴隷,a man who was freed from slavery,The freedman bought land after the war.,その解放奴隷は戦後に土地を買った。,アメリカ史の用語。複数形は freedmen、女性は freedwoman。
+E14719,1,5,futility,名詞,むだ、無益さ,the fact that something has no useful result,He finally saw the futility of arguing.,彼はついに言い争うことのむだに気づいた。,形容詞は futile（むだな）。戦争や努力の話でよく使う。
+E14720,1,5,hexagonal,形容詞,六角形の,having six straight sides,Bees build hexagonal cells in the hive.,ミツバチは巣の中に六角形の部屋を作る。,hexa-（6）＋gon（角）。pentagonal（五角形の）と同じ作り。
+E14721,1,5,hummingbird,名詞,ハチドリ,a tiny bird that can stay still in the air,A hummingbird hovered by the red flowers.,ハチドリが赤い花のそばで空中に止まっていた。,羽音が hum（ブンブン鳴る）ことからこの名がある。
+E14722,1,5,impotence,名詞,無力さ、力のなさ,a lack of power to change or do anything,He felt a deep impotence in the face of the crisis.,彼は危機を前にして強い無力感を覚えた。,医学では男性の性機能障害も指す。形容詞は impotent。
+E14723,1,5,inescapable,形容詞,逃れられない、避けがたい,impossible to avoid or ignore,The conclusion of the report is inescapable.,その報告書の結論は避けようがない。,in-（否定）＋escape＋-able。結論や事実によく付ける形容詞。
+E14724,1,5,juxtaposition,名詞,並置、対比,the placing of two things side by side for contrast,The photo shows a striking juxtaposition of old and new.,その写真は新旧の印象的な対比を見せている。,美術や文学の批評で頻出。動詞は juxtapose（並べて置く）。
+E14725,1,5,misread,動詞,読み違える、誤解する,to read or understand something wrongly,I misread the schedule and arrived an hour early.,私は予定を読み違えて一時間早く着いた。,過去形も misread だが発音が変わる。「空気を読み違える」にも使う。
+E14726,1,5,mousse,名詞,ムース,a soft light food or hair product full of air,They served a chocolate mousse for dessert.,デザートにチョコレートムースが出された。,フランス語の「泡」から。整髪料の意味でも同じつづりを使う。
+E14727,1,5,obstructive,形容詞,妨害する、通行を妨げる,getting in the way and stopping progress,The staff complained about obstructive rules.,職員は仕事の邪魔になる規則に不満を言った。,obstruct（妨げる）の形容詞。医学では「閉塞性の」の意味になる。
+E14728,1,5,oscillation,名詞,振動、揺れ動き,regular movement back and forth,The bridge showed a slow oscillation in the wind.,その橋は風でゆっくり揺れていた。,物理でよく使う。意見が「揺れ動くこと」にも比喩で使える。
+E14729,1,5,oscillator,名詞,発振器、振動子,a device that makes a regular electric signal,The clock is driven by a quartz oscillator.,その時計は水晶発振器で動いている。,電子回路の部品名。時計や無線機の心臓部にあたる。
+E14730,1,5,outrun,動詞,走って追い越す、上回る,"to run faster than someone, or to grow beyond",Demand has outrun our supply this year.,今年は需要が供給を上回った。,物理的に走る意味と、数量が「上回る」の比喩の両方で使う。
+E14731,1,5,overpass,名詞,陸橋、高架道路,a road or bridge that crosses above another road,Traffic slowed under the old overpass.,古い陸橋の下で車の流れが遅くなった。,アメリカ英語。イギリスでは flyover と言うことが多い。
+E14732,1,5,paprika,名詞,パプリカ,a red powder spice made from sweet peppers,Add a spoon of paprika to the stew.,シチューにパプリカを一さじ加えてください。,ハンガリー料理に欠かせない香辛料。甘口と辛口がある。
+E14733,1,5,pathogenic,形容詞,病原性の、病気を起こす,able to cause disease,Only a few of these bacteria are pathogenic.,これらの細菌のうち病原性を持つのはごく一部だ。,pathogen（病原体）の形容詞。patho- は「病気」を表す。
+E14734,1,5,plasticity,名詞,可塑性、変わりやすさ,the ability to be shaped or to change,Brain plasticity allows learning at any age.,脳の可塑性のおかげで何歳でも学べる。,材料工学と脳科学の両方で使う。neuroplasticity という語も有名。
+E14735,1,5,practicality,名詞,実用性、現実性,how useful and workable something is,We chose the design for its practicality.,私たちはその設計を実用性で選んだ。,practical（実用的な）の名詞。複数形で「実務上の細かい点」も指す。
+E14736,1,5,procrastination,名詞,先延ばし、ぐずぐずすること,putting off things you should do now,Procrastination cost him the scholarship.,先延ばしのせいで彼は奨学金を逃した。,動詞は procrastinate。学習や仕事の助言でよく出る語。
+E14737,1,5,putative,形容詞,推定の、～とされる,"generally believed to be so, but not proved",Police questioned the putative leader of the group.,警察はその集団の首謀者とされる人物を取り調べた。,法律や学術のかたい語。so-called よりも中立的な言い方。
+E14738,1,5,rectum,名詞,直腸,the last part of the large intestine,The scan showed no problem in the rectum.,検査で直腸に問題は見られなかった。,医学用語。形容詞は rectal。複数形は recta または rectums。
+E14739,1,5,regressive,形容詞,逆行する、逆進的な,"going back to a worse state, or hitting the poor harder",Critics called the tax regressive.,批判する人々はその税を逆進的だと呼んだ。,経済学では「所得が低い人ほど負担が重い」の意味。逆は progressive。
+E14740,1,5,regrettable,形容詞,残念な、遺憾な,causing you to feel sorry that it happened,The delay was regrettable but unavoidable.,その遅れは遺憾だが避けられなかった。,regret（後悔する）の形容詞。公式な謝罪の文でよく使う。
+E14741,1,5,reprise,名詞,繰り返し、再演,a repeat of an earlier piece or performance,The song ends with a short reprise.,その曲は短い繰り返しで終わる。,音楽用語が元。役や役割を「もう一度演じる」の動詞でも使う。
+E14742,1,5,restorative,形容詞,回復させる、元気づける,helping you feel healthy and strong again,A restorative nap is exactly what he needs.,彼に必要なのは元気を取り戻す昼寝だ。,restore（回復させる）の形容詞。名詞で「強壮剤」の意味もある。
+E14743,1,5,salinity,名詞,塩分濃度、塩分,the amount of salt in water or soil,Rising salinity is harming the crops.,塩分濃度の上昇が作物を傷めている。,saline（塩分の）の名詞。海洋学と農業の記事でよく出る。
+E14744,1,5,scrooge,名詞,けちんぼ、守銭奴,a person who hates spending money,Do not be a scrooge at Christmas.,クリスマスにけちけちしないで。,ディケンズの小説の登場人物 Scrooge が普通名詞になった語。
+E14745,1,5,sisterhood,名詞,姉妹の絆、女性の連帯,the bond among women who support each other,The group built a strong sense of sisterhood.,その団体は強い女性同士の連帯感を築いた。,brotherhood と対になる語。修道女の集団を指すこともある。
+E14746,1,5,snob,名詞,俗物、気取り屋,a person who looks down on others as lower,He is a terrible snob about wine.,彼はワインのことでひどく気取っている。,形容詞は snobbish、名詞は snobbery。批判的な語。
+E14747,1,5,solubility,名詞,溶解度、溶けやすさ,how well a substance dissolves in a liquid,Sugar has a high solubility in warm water.,砂糖は温かい水によく溶ける。,化学用語。形容詞は soluble、溶けないものは insoluble。
+E14748,1,5,sonnet,名詞,ソネット、十四行詩,a poem of fourteen lines with a fixed rhyme,Shakespeare wrote over one hundred sonnets.,シェイクスピアは百編を超えるソネットを書いた。,必ず14行という形式の詩。英文学の授業で必ず出る語。
+E14749,1,5,spacey,形容詞,ぼんやりした、上の空の,not paying attention and seeming far away,I felt spacey after the long flight.,長い飛行機の後で私は頭がぼんやりしていた。,くだけた口語。spacy とつづることもある。音楽の「幻想的な」にも使う。
+E14750,1,5,substandard,形容詞,標準以下の、粗悪な,below the level that is acceptable,The building failed for substandard wiring.,その建物は配線が基準以下で不合格になった。,sub-（下）＋standard。検査や品質の記事でよく出る語。
+E14751,1,5,sugarcane,名詞,サトウキビ,a tall grass whose stem gives sugar,The island grows sugarcane for export.,その島は輸出用にサトウキビを育てている。,sugar cane と二語で書くこともある。砂糖と燃料用アルコールの原料。
+E14752,1,5,sundown,名詞,日没、日暮れ,the time when the sun goes down,The gates close at sundown.,門は日没に閉まる。,sunset とほぼ同じで、アメリカ英語でよく使う。反対は sunup。
+E14753,1,5,tensile,形容詞,引っ張りの、伸びる,relating to how much pulling a material can take,Steel has very high tensile strength.,鋼鉄は引っ張りの強さがとても高い。,tensile strength（引張強度）で覚える。tension（張力）と同じ語根。
+E14754,1,5,tether,動詞,つなぐ、つなぎ止める,to tie an animal or thing to a fixed point,He tethered the goat to a post.,彼はヤギを杭につないだ。,名詞で「つなぎ綱」。at the end of one's tether は「我慢の限界」。
+E14755,1,5,tightness,名詞,きつさ、張り、締まり,"the state of being firm, close or not loose",She felt a tightness in her chest.,彼女は胸の締めつけられる感じがした。,体の症状の説明でよく使う。予算や日程の「余裕のなさ」にも使える。
+E14756,1,5,toothless,形容詞,歯のない、無力な,"having no teeth, or having no real power",Critics called the new law toothless.,批判する人々はその新法を実効性がないと呼んだ。,法律や委員会が「実効性のない」という比喩で使うことが非常に多い。
+E14757,1,5,turntable,名詞,ターンテーブル、回転台,the flat round part of a record player,He set the record on the turntable.,彼はレコードをターンテーブルに載せた。,鉄道の転車台も指す。DJ の機材としても有名な語。
+E14758,1,5,vermin,名詞,害獣、害虫,small animals or insects that spread disease,The old barn was full of vermin.,その古い納屋は害獣だらけだった。,つねに複数扱い。人を指して使うと極めて侮蔑的になる。
+E14759,1,5,vertices,名詞,頂点、頂角,the corner points of a shape,A triangle has three vertices.,三角形には頂点が三つある。,vertex の複数形。数学とコンピューターグラフィックスで頻出。
+E14760,1,5,wack,形容詞,ひどい、変な,"very bad or strange, in slang",That excuse sounds totally wack.,その言い訳はまったくばかげて聞こえる。,アメリカのくだけた俗語。whack（強打する）とは別の語。
+E14761,1,5,whirl,動詞,くるくる回る、目が回る,to turn around very quickly,Leaves whirled across the empty street.,落ち葉が人けのない通りを舞っていた。,名詞で give it a whirl は「試しにやってみる」という口語表現。
+E14762,1,5,widget,名詞,小型装置、ウィジェット,"a small device, or a small tool on a screen",The weather widget sits on the home screen.,天気のウィジェットはホーム画面にある。,経済学で「名前のない製品」の例として使うのが元の用法。
+E14763,1,5,workman,名詞,職人、作業員,a man who does physical or skilled work,A workman came to fix the pipes.,作業員が配管を直しに来た。,複数形は workmen。今は worker のほうが広く使われる。
+E14764,1,5,zucchini,名詞,ズッキーニ,a long green vegetable like a small marrow,She grilled zucchini with olive oil.,彼女はズッキーニをオリーブ油で焼いた。,アメリカ英語。イギリスでは courgette と呼ぶ。単複同形でも使う。
+E14765,1,5,encode,動詞,符号化する、暗号化する,to change information into a special form,The app encodes your message before sending it.,そのアプリは送信前にメッセージを符号化する。,反対は decode。遺伝子が情報を「コードする」意味でも使う。
+E14766,1,5,stutter,動詞,どもる、つかえて話す,to repeat sounds when speaking,He stutters slightly when he is nervous.,彼は緊張すると少しどもる。,stammer とほぼ同じ。エンジンが「途切れ途切れに動く」にも使う。
+E14767,1,5,incursion,名詞,侵入、侵略,a sudden attack or entry into an area,The report describes a brief incursion across the border.,その報告は国境を越えた短い侵入について述べている。,軍事の記事で使うかたい語。invasion より小規模で一時的。
+E14768,1,5,adage,名詞,格言、ことわざ,a short old saying that many people believe,The old adage says haste makes waste.,古い格言に急がば回れとある。,proverb とほぼ同じ。the old adage that ... の形でよく使う。
+E14769,1,5,airtight,形容詞,密閉した、隙のない,"not letting air in or out, or having no weak point",Keep the coffee in an airtight container.,コーヒーは密閉容器に入れて保存してください。,議論やアリバイが「非の打ちどころがない」の比喩でもよく使う。
+E14770,1,5,altruistic,形容詞,利他的な、思いやりのある,caring about others more than yourself,Donating a kidney is a deeply altruistic act.,腎臓を提供することは深く利他的な行いだ。,名詞は altruism。反対は selfish や egoistic。
+E14771,1,5,amorphous,形容詞,無定形の、はっきりしない,having no clear shape or structure,The group remains an amorphous collection of fans.,その集団は形のはっきりしないファンの集まりのままだ。,a-（無い）＋morph（形）。化学の「非晶質の」の意味もある。
+E14772,1,5,arroyo,名詞,涸れ谷、水無し川,a dry stream bed in a desert area,Rain turned the arroyo into a fast river.,雨が涸れ谷を勢いのある川に変えた。,スペイン語から。アメリカ南西部の地形の話でよく出る。
+E14773,1,5,brash,形容詞,厚かましい、生意気な,confident in a loud and rude way,His brash manner upset the older staff.,彼の厚かましい態度は年上の職員を不快にさせた。,自信があること自体は認めつつ、無遠慮さを批判する語。
+E14774,1,5,buoyancy,名詞,浮力、明るさ,"the ability to float, or a cheerful mood",Salt water increases the buoyancy of a swimmer.,塩水は泳ぐ人の浮力を高める。,形容詞は buoyant。市場が「上向きの」という経済記事の用法も多い。
+E14775,1,5,businesswoman,名詞,女性実業家,"a woman who works in business, often at a high level",She became a respected businesswoman in her forties.,彼女は四十代で尊敬される実業家になった。,複数形は businesswomen。男女を問わない語は businessperson。
+E14776,1,5,take a stab at,熟語,試しにやってみる,to try to do something even if unsure,I will take a stab at fixing the printer.,プリンターの修理を試しにやってみます。,stab（刺す）から「思い切って一度やる」の意味。have a go at と同じ。
+E14777,1,5,break the mold,慣用句,型を破る、常識を変える,to do something in a completely new way,Her design broke the mold for city libraries.,彼女の設計は市立図書館の型を破った。,mold は「鋳型」。英国つづりは break the mould。
+E14778,1,5,prop up,句動詞,支える、下支えする,to support something so it does not fall,The government propped up the failing bank.,政府は経営難の銀行を支えた。,物を物理的に支える意味と、経済を支える比喩の両方で使う。
+E14779,1,5,worm one's way,慣用句,少しずつ入り込む,to move or get somewhere slowly and cleverly,He wormed his way into the family business.,彼はうまく立ち回って家業に入り込んだ。,worm（虫のように進む）から。ずるさをにおわせる言い方。
+E14780,1,5,cross swords with,慣用句,と対立する、渡り合う,to argue or fight with someone,She has crossed swords with the mayor before.,彼女は以前にも市長とやり合ったことがある。,剣を交えるという古い決闘の姿から生まれた表現。
+E14781,1,5,reckon on,句動詞,当てにする、見込む,to expect something to happen and plan for it,We did not reckon on such heavy traffic.,私たちはこれほどの渋滞を見込んでいなかった。,count on と近い。イギリス英語でよく使う言い方。
+E14782,1,5,hedge one's bets,慣用句,危険を分散する,to reduce risk by supporting more than one side,The firm hedged its bets by investing in both.,その会社は両方に投資して危険を分散した。,賭けの用語から。金融の hedge（つなぎ売買）と同じ考え方。
+E14783,1,5,nod off,句動詞,うとうとする、居眠りする,to fall asleep for a short time by accident,He nodded off during the long speech.,彼は長い演説の間についうとうとした。,頭が前に nod（うなずく）様子から。doze off とほぼ同じ。
+E14784,1,5,skate over,句動詞,軽く触れて済ます,to avoid dealing with a difficult point,The report skates over the safety problems.,その報告書は安全上の問題を軽く流している。,氷の上を滑るように通り過ぎる比喩。gloss over と同じ意味。
+E14785,1,5,on the blink,慣用句,故障中で、調子が悪い,not working properly,The office printer is on the blink again.,事務所のプリンターがまた調子を崩している。,機械の表示灯が点滅する様子から。out of order のくだけた言い方。
+E14786,1,5,steer through,句動詞,導いて切り抜けさせる,to guide something safely past a difficulty,She steered the company through the crisis.,彼女は会社を危機から導き抜いた。,船や車の操縦から。困難な時期を導く場面で使うことが多い。
+E14787,1,5,sweep under the rug,慣用句,隠す、もみ消す,to hide a problem instead of dealing with it,The complaints were swept under the rug for years.,その苦情は何年ももみ消されていた。,ごみをじゅうたんの下に掃き入れる姿から。英国では carpet を使う。
+E14788,1,5,tow away,句動詞,レッカーで移動させる,to pull a vehicle away with another vehicle,Police towed away the cars blocking the street.,警察は通りをふさいでいた車をレッカー移動した。,駐車禁止の標識で Tow Away Zone をよく見かける。
+E14789,1,5,slack water,熟語,潮どまり、憩流,the time when the tide is not moving,The boats leave at slack water each morning.,船は毎朝、潮どまりの時刻に出る。,航海と釣りの用語。潮の流れが止まる短い時間を指す。
+E14790,1,5,go bananas,慣用句,かっとなる、大騒ぎする,to become very excited or very angry,The crowd went bananas when he scored.,彼が得点すると観客は大騒ぎになった。,口語表現。喜びにも怒りにも使える。go nuts とほぼ同じ。
+E14791,1,5,pay dividends,慣用句,後で役に立つ、実を結ぶ,to bring benefits later,Learning to type properly pays dividends.,きちんとタイピングを覚えると後で役に立つ。,dividend は「配当金」。投資が実る比喩から日常表現になった。
+E14792,1,5,roll up one's sleeves,慣用句,本気で取りかかる,to get ready to work hard,We rolled up our sleeves and cleaned the whole shop.,私たちは腕まくりして店中を掃除した。,袖をまくる姿から。会議の後の行動開始を表す定番表現。
+E14793,1,5,chalk it up to,慣用句,のせいにする、と考える,to explain something as being caused by a reason,I chalked it up to bad luck and moved on.,私はそれを不運のせいにして先へ進んだ。,黒板に得点を chalk（書き付ける）ことから。experience とよく組む。
+E14794,1,5,scoop up,句動詞,さっとすくい上げる,to pick something up quickly with your hands,She scooped up the crying child.,彼女は泣いている子をさっと抱き上げた。,スプーンや手ですくう動作から。安く「買い集める」意味でも使う。
+E14795,1,5,reel off,句動詞,すらすらと並べ立てる,to say a list quickly without stopping,He reeled off the names of every player.,彼は選手全員の名前をすらすらと挙げた。,糸巻き reel から糸が出る様子。名前や数字を並べる時に使う。
+E14796,1,5,lag behind,句動詞,遅れをとる,to move or develop more slowly than others,Our sales lag behind the market average.,当社の売上は市場平均に後れをとっている。,名詞の lag は「遅れ」。時差ぼけ jet lag と同じ語。
+E14797,1,5,shift gears,慣用句,やり方を変える、方針転換する,to change to a different way of doing things,Let us shift gears and talk about next year.,話を切り替えて来年のことを話しましょう。,車のギアチェンジから。会議で話題を変える時にもよく使う。
+E14798,1,5,bite off more than one can chew,慣用句,手に余ることを引き受ける,to try to do more than you are able to do,He bit off more than he could chew with three jobs.,彼は仕事を三つ抱えて手に余ることをしてしまった。,口に入れすぎて噛めない姿から。忠告の場面でよく使う長い表現。
+E14799,1,5,chew out,句動詞,厳しく叱る,to speak angrily to someone about a mistake,The manager chewed him out for arriving late.,店長は遅刻したことで彼を厳しく叱った。,アメリカ英語の口語。tell off とほぼ同じ意味。
+E14800,1,5,strike a chord,慣用句,共感を呼ぶ、心に響く,to make people feel that they understand or agree,Her speech struck a chord with young voters.,彼女の演説は若い有権者の心に響いた。,chord は「和音」。strike a chord with 人 の形で使う。
