@@ -444,7 +444,7 @@ label.f{color:var(--sub); font-size:12px}
 
 <script>
 "use strict";
-const APP_VERSION = "1.5.0";
+const APP_VERSION = "1.6.0";
 const DB_NAME = "eigo_app", DB_VER = 1;   /* ★ 作業時間管理（work_time）とは別の名前。
    IndexedDB は gyokusen.github.io というオリジン単位で分かれ、URL の下の階層では
    分かれない。同じ github.io に置く別アプリは、必ず別の名前にすること。 */
@@ -459,7 +459,7 @@ const SEED_CSV = "初期単語.csv";
      桁数が混ざると E10000 が E1001 より前へ回ってしまう。
      これから足す単語も5桁で入れること（［＋新しく登録］は自動で5桁にする）。
    ★ ファイル名を変えたら、ここも必ず直すこと。 */
-const PACK_SETS = [1, 2, 3, 4, 5, 6];
+const PACK_SETS = [1, 2, 3, 4, 5, 6, 7];
 const PACKS = {
   "1-01":"英単語例文暗記_単語集_Lv1_01_E01001-E01300.csv",
   "1-02":"英単語例文暗記_単語集_Lv1_02_E01301-E01600.csv",
@@ -520,14 +520,23 @@ const PACKS = {
   "6-07":"英単語例文暗記_単語集_Lv6_07_E17801-E18100.csv",
   "6-08":"英単語例文暗記_単語集_Lv6_08_E18101-E18400.csv",
   "6-09":"英単語例文暗記_単語集_Lv6_09_E18401-E18700.csv",
-  "6-10":"英単語例文暗記_単語集_Lv6_10_E18701-E19000.csv"
+  "6-10":"英単語例文暗記_単語集_Lv6_10_E18701-E19000.csv",
+  "7-01":"英単語例文暗記_単語集_Lv7_01_E19001-E19316.csv",
+  "7-02":"英単語例文暗記_単語集_Lv7_02_E19317-E19632.csv",
+  "7-03":"英単語例文暗記_単語集_Lv7_03_E19633-E19948.csv",
+  "7-04":"英単語例文暗記_単語集_Lv7_04_E19949-E20264.csv",
+  "7-05":"英単語例文暗記_単語集_Lv7_05_E20265-E20579.csv",
+  "7-06":"英単語例文暗記_単語集_Lv7_06_E20580-E20894.csv",
+  "7-07":"英単語例文暗記_単語集_Lv7_07_E20895-E21209.csv"
 };
 /* 表示用の見出し（Lv. と 何本目 と 登録NOの範囲）。ファイル名から作る。 */
 function packLabel(key){
   const name = PACKS[key] || "";
   const m = name.match(/_Lv(\d+)_(\d+)_(E\d+-E\d+)\.csv$/);
   if(!m) return key;
-  return "Lv." + m[1] + " の " + parseInt(m[2],10) + "本目（" + m[3] + "・300語）";
+  const r = m[3].split("-");
+  const n = parseInt(r[1].slice(1),10) - parseInt(r[0].slice(1),10) + 1;
+  return "Lv." + m[1] + " の " + parseInt(m[2],10) + "本目（" + m[3] + "・" + n + "語）";
 }
 function packKeysOf(lv){
   return Object.keys(PACKS).filter(k => k.indexOf(lv + "-") === 0);

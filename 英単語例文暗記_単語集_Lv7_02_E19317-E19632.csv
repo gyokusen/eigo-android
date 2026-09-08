@@ -1,0 +1,317 @@
+登録NO,枝番,レベル,英単語,品詞,意味(日本語),意味(英語),例文(英語),例文(日本語),解説
+E19317,1,7,simian,形容詞,猿の、類人猿の,relating to or looking like monkeys or apes,The mask had oddly simian features around the eyes.,その仮面は目の周りが妙に猿めいていた。,学術的な語。名詞で「霊長類の動物」を指すこともある。
+E19318,1,7,slither,動詞,するすると進む、滑るように動く,to move smoothly by sliding like a snake,A small snake slithered across the warm path.,小さなヘビが暖かい小道をするすると横切った。,ヘビの動きが典型。slide より不気味でくねくねした感じを伴う。
+E19319,1,7,firm up,句動詞,固める、確定する,to make plans or details more definite,Let's firm up the schedule before the client calls.,顧客から連絡が来る前に日程を確定させよう。,計画や合意を「詰める」意。筋肉を引き締める意味でも使う。
+E19320,1,7,get a handle on,慣用句,把握する、コツをつかむ,to begin to understand or control something,We need to get a handle on the rising costs.,増え続ける費用を把握する必要がある。,handle は「取っ手」。つかんで扱えるようになるイメージ。
+E19321,1,7,hold firm,熟語,態度を変えない、譲らない,to refuse to change a decision or position,The union held firm during the long negotiations.,組合は長い交渉の間、姿勢を変えなかった。,firm は形容詞のまま。stand firm もほぼ同じ意味で使える。
+E19322,1,7,a safe bet,慣用句,確実なこと、間違いのない選択,something very likely to happen or succeed,It is a safe bet that prices will rise again.,価格がまた上がるのはほぼ間違いない。,賭け事の比喩。It's a safe bet that ... の形が定番。
+E19323,1,7,pull apart,句動詞,ばらばらにする、引き離す,to separate something into pieces or parts,The mechanic pulled the old engine apart carefully.,整備士は古いエンジンを慎重に分解した。,議論を「徹底的に批判する」意味でも使う。目的語は間にも置ける。
+E19324,1,7,set apart,句動詞,際立たせる、区別する,to make someone or something clearly different,Her calm voice sets her apart from other hosts.,落ち着いた声が彼女を他の司会者から際立たせている。,what sets X apart is ... の形で強みを説明するときによく使う。
+E19325,1,7,shut off,句動詞,止める、遮断する,to stop a machine or supply from working,Please shut off the water before you leave.,出かける前に水を止めてください。,turn off とほぼ同じだが、供給や流れを断つ響きが強い。
+E19326,1,7,shut the door on,慣用句,拒む、可能性を閉ざす,to refuse to consider a chance or idea,The mayor shut the door on any new taxes.,市長は新税の可能性を一切否定した。,close the door on とも言う。逆は leave the door open。
+E19327,1,7,in progress,熟語,進行中で、実施中で,happening now and not yet finished,Please stay quiet; an examination is in progress.,静かにしてください、試験が実施中です。,掲示でよく見る形。work in progress は「作業中・未完成品」。
+E19328,1,7,cross that bridge when one comes to it,慣用句,その時になったら考える,to deal with a problem only when it happens,We will cross that bridge when we come to it.,その問題はその時になったら考えよう。,起きてもいない心配をしない態度を表す。one には we や I が入る。
+E19329,1,7,at length,熟語,詳しく、長々と,for a long time and in great detail,The witness described the accident at length.,証人は事故について詳しく述べた。,「ついに、ようやく」の古風な意味もある。文脈で見分ける。
+E19330,1,7,a labor of love,慣用句,好きでやる仕事、労を惜しまぬ労作,work done for pleasure rather than for money,Restoring the old piano was a labor of love.,その古いピアノの修復は好きでこその仕事だった。,報酬でなく愛情が動機。英国式つづりは a labour of love。
+E19331,1,7,water under the bridge,慣用句,過ぎたこと、もう済んだ話,a past problem that no longer matters,That argument is water under the bridge now.,あの口論はもう過ぎたことだ。,川を流れ去った水の比喩。許して忘れる場面で使う。
+E19332,1,7,get the short end of the stick,慣用句,貧乏くじを引く、損な役回りになる,to be treated worse than other people,Part time staff got the short end of the stick.,パート社員が損な役回りを押しつけられた。,棒の短い方をつかまされる比喩。draw を使う言い方もある。
+E19333,1,7,put one's cards on the table,慣用句,手の内を明かす、包み隠さず話す,to say honestly what one thinks or plans,Let me put my cards on the table about salary.,給与について包み隠さず話させてください。,トランプの比喩。lay one's cards on the table とも言う。
+E19334,1,7,stick it out,慣用句,最後まで耐える、辛抱する,to continue with something difficult to the end,"The training was brutal, but she stuck it out.",訓練は過酷だったが、彼女は最後まで耐えた。,it は状況を指し、他の目的語には替えられない。過去形は stuck。
+E19335,1,7,stick with,句動詞,続ける、そばを離れない,to continue with something or stay close to someone,Stick with the original plan for another month.,もう一か月は当初の計画を続けよう。,stick to とほぼ同じ。人が主語だと「記憶に残る」意味にもなる。
+E19336,1,7,in the balance,慣用句,どうなるか分からず、不安定な状態で,uncertain and able to end either way,The future of the factory hangs in the balance.,工場の将来はどうなるか分からない状態だ。,hang in the balance の形が圧倒的に多い。天秤の比喩。
+E19337,1,7,in the wake of,熟語,～の後を受けて、～の余波で,following and as a result of an event,Prices rose sharply in the wake of the storm.,嵐の余波で物価が急に上がった。,wake は船の航跡。悪い出来事の後に続く事柄に使うのが普通。
+E19338,1,7,on balance,熟語,全体的に見て、差し引き考えると,after considering all the facts on both sides,"On balance, the new policy has helped small firms.",全体として見れば、新政策は小企業の助けになった。,文頭に置いて結論を述べる。in the balance とは意味が全く違う。
+E19339,1,7,on request,熟語,要望があれば、請求次第で,given or done if someone asks for it,Full financial statements are available on request.,詳細な財務諸表はご要望があればお渡しします。,案内文の定番表現。upon request とも書く。
+E19340,1,7,off balance,熟語,均衡を失って、不意をつかれて,"unsteady, or surprised and unable to react",The sudden question caught the minister off balance.,突然の質問は大臣の不意をついた。,物理的なふらつきにも心理的な動揺にも使う。catch とよく組む。
+E19341,1,7,from the horse's mouth,慣用句,本人から直接、確かな筋から,from the person who really knows the facts,I heard it from the horse's mouth this morning.,今朝、本人から直接それを聞いた。,straight from the horse's mouth の形が定番。馬の歯で年齢を見た故事から。
+E19342,1,7,a dark horse,慣用句,ダークホース、隠れた実力者,someone who wins although few people expected it,The young senator became a dark horse in the race.,その若手議員は選挙戦のダークホースになった。,競馬の穴馬から。英国では「本心を明かさない人」の意でも使う。
+E19343,1,7,beat a dead horse,慣用句,無駄骨を折る、蒸し返す,to waste effort on a settled or hopeless matter,Arguing about last year's budget is beating a dead horse.,昨年の予算を蒸し返しても無駄骨だ。,英国では flog a dead horse と言う。決着済みの話に使う。
+E19344,1,7,a safety net,慣用句,安全網、生活の支え,a system that protects people in trouble,Unemployment insurance acts as a safety net for families.,失業保険は家庭にとっての安全網の役割を果たす。,サーカスの網が語源。social safety net の形で政策の話に多い。
+E19345,1,7,a wake up call,慣用句,警鐘、目を覚まさせる出来事,an event that warns people to change something,The audit was a wake up call for management.,その監査は経営陣への警鐘となった。,ホテルのモーニングコールが元の意味。ふつう wake-up call と書く。
+E19346,1,7,farm out,句動詞,外注する、任せる,to give work to people outside your organization,The studio farmed out the animation to a small team.,スタジオはアニメ制作を小さなチームに外注した。,outsource のくだけた言い方。子どもを預ける意味でも使う。
+E19347,1,7,file away,句動詞,整理して保管する、頭に留める,to store papers or facts for later use,She filed away the receipts for the tax return.,彼女は確定申告用に領収書を整理して保管した。,書類だけでなく、情報を「覚えておく」意味でもよく使う。
+E19348,1,7,roll over,句動詞,繰り越す、寝返りを打つ,to move a payment or loan to a later date,Unused vacation days roll over into the next year.,使わなかった休暇は翌年に繰り越される。,金融で「借り換え・繰り越し」。人や犬の動作にも使う多義語。
+E19349,1,7,in a fix,慣用句,窮地に陥って、困り果てて,in a difficult situation with no easy answer,We were in a fix when the driver quit.,運転手が辞めて私たちは窮地に陥った。,fix は名詞で「苦境」。in a jam もほぼ同じ意味。
+E19350,1,7,on a roll,慣用句,好調で、勢いに乗って,having a series of successes one after another,The team is on a roll after four straight wins.,そのチームは四連勝で勢いに乗っている。,サイコロが転がり続ける比喩。be 動詞と一緒に使う。
+E19351,1,7,on the fly,慣用句,その場で、即座に,quickly while doing something else,The engineer fixed the code on the fly.,技術者はその場でコードを直した。,準備なしの即興という含み。技術の場面で特によく使う。
+E19352,1,7,around the corner,慣用句,すぐそこに、間近に,going to happen very soon,The rainy season is just around the corner.,梅雨はもうすぐそこまで来ている。,距離が近い意味と時間が近い意味の両方がある。just を添えることが多い。
+E19353,1,7,a fly on the wall,慣用句,こっそり様子を見る人,someone who watches secretly without being noticed,I wish I could be a fly on the wall there.,その場をこっそり見られたらいいのにと思う。,願望文で使うのが典型。fly-on-the-wall は「密着型の」記録映像を指す。
+E19354,1,7,dry out,句動詞,乾かす、酒を断つ,to become or make completely dry,Leave the boots by the heater to dry out.,ブーツは暖房の横に置いて乾かしなさい。,人が主語だと「アルコール依存から抜ける」意味になることがある。
+E19355,1,7,run dry,熟語,枯れる、尽きる,to become empty or stop producing anything,The well ran dry after two hot summers.,二度の猛暑のあと、その井戸は枯れた。,資金やアイデアが尽きる比喩でもよく使う。dry は形容詞。
+E19356,1,7,high and dry,慣用句,見捨てられて、取り残されて,left alone without help in a bad situation,The sudden closure left suppliers high and dry.,突然の閉鎖で納入業者は取り残された。,潮が引いて座礁した船の比喩。leave someone high and dry の形で使う。
+E19357,1,7,the bigger picture,慣用句,全体像、大局,the whole situation rather than small details,Try to see the bigger picture before you decide.,決める前に全体像を見るようにしなさい。,the big picture とも言う。細部にとらわれるなという文脈で使う。
+E19358,1,7,guard against,句動詞,用心する、防ぐ,to take care to prevent something bad,Regular backups guard against sudden data loss.,定期的なバックアップは突然のデータ消失を防ぐ。,protect against より「警戒して備える」ニュアンスが強い。
+E19359,1,7,let one's guard down,慣用句,油断する、警戒を解く,to stop being careful about possible danger,Do not let your guard down in the final round.,最終ラウンドで油断してはいけない。,ボクシングの構えが語源。lower one's guard とも言う。
+E19360,1,7,shoot oneself in the foot,慣用句,墓穴を掘る、自ら不利を招く,to harm your own position by a careless act,He shot himself in the foot by insulting the client.,彼は顧客を侮辱して自ら墓穴を掘った。,自分の足を撃つ比喩。うっかりの失敗に使い、故意の場合は使わない。
+E19361,1,7,shoot for,句動詞,目指す、狙う,to try to reach a particular goal or number,We are shooting for a launch in early spring.,私たちは春先の発売を目指している。,aim for のくだけた言い方。英国では shoot at は別の意味なので注意。
+E19362,1,7,at arm's length,慣用句,距離を置いて、なれ合わずに,avoiding a close or friendly relationship,The auditor must keep clients at arm's length.,監査人は顧客と距離を置かねばならない。,会計や法律では arm's length transaction（独立当事者間取引）が定番。
+E19363,1,7,by all accounts,熟語,誰に聞いても、みんなの話では,according to what many people say,"By all accounts, the concert was a huge success.",誰に聞いても、その公演は大成功だった。,account は「話・報告」。伝聞であることを示す前置き表現。
+E19364,1,7,off guard,熟語,油断して、不意に,not ready for something that suddenly happens,The reporter's question caught the CEO off guard.,記者の質問は社長の不意をついた。,catch someone off guard の形がほとんど。反対は on guard。
+E19365,1,7,a shot in the arm,慣用句,起爆剤、活を入れるもの,something that gives new energy or support,The grant was a shot in the arm for the museum.,その助成金は美術館の起爆剤となった。,注射の比喩。景気や士気を上向かせるものについて使う。
+E19366,1,7,fall flat,熟語,失敗する、受けない,to fail completely to have the wanted effect,His joke fell flat in front of the board.,彼の冗談は役員会では全く受けなかった。,冗談や企画がすべる場面に多い。fall flat on one's face は「大失敗する」。
+E19367,1,7,kick the can down the road,慣用句,問題を先送りする,to delay dealing with a problem again and again,Lawmakers kicked the can down the road once more.,議員たちはまたも問題を先送りした。,空き缶を蹴って進む比喩。政治や財政の記事で非常によく使う。
+E19368,1,7,kick back,句動詞,くつろぐ、リラックスする,to relax and stop working for a while,Let's kick back and watch a film tonight.,今夜はくつろいで映画でも見よう。,名詞の kickback は「賄賂・リベート」で意味が全く違う。
+E19369,1,7,kick out,句動詞,追い出す、退学させる,to force someone to leave a place or group,He was kicked out of the club for cheating.,彼は不正行為でクラブを追い出された。,受け身で使うことが多い。expel よりくだけた言い方。
+E19370,1,7,in good shape,熟語,良い状態で、体調が良くて,in a healthy or well working condition,The old bridge is still in good shape.,その古い橋はまだ良い状態を保っている。,人の健康にも物の状態にも使う。反対は in bad shape。
+E19371,1,7,a safe pair of hands,慣用句,安心して任せられる人,someone reliable who will not make mistakes,The board wanted a safe pair of hands as chair.,取締役会は議長に安心して任せられる人を望んだ。,クリケットの捕球から。英国英語でとくによく使われる。
+E19372,1,7,add fuel to the fire,慣用句,火に油を注ぐ、事態を悪化させる,to make a bad situation even worse,His apology only added fuel to the fire.,彼の謝罪はかえって火に油を注いだ。,日本語と同じ発想の比喩。add fuel to the flames とも言う。
+E19373,1,7,bear down on,句動詞,迫る、圧力をかける,to move toward someone in a threatening way,A heavy truck was bearing down on us.,大型トラックが私たちに迫ってきていた。,台風や締め切りが「迫る」場面にも使う。押さえつける意味もある。
+E19374,1,7,bear up,句動詞,持ちこたえる、気丈にふるまう,to stay strong in a difficult situation,She bore up well through the long illness.,彼女は長い闘病の間よく持ちこたえた。,bear の過去形は bore、過去分詞は borne。励ましの言葉にも使う。
+E19375,1,7,keep one's options open,慣用句,選択肢を残しておく,to avoid choosing so other choices stay possible,He kept his options open until the final week.,彼は最後の週まで選択肢を残しておいた。,就職や交渉の話で頻出。反対は close off one's options。
+E19376,1,7,mix in,句動詞,混ぜ込む、なじむ,to add something and combine it well,Mix in the flour slowly to avoid lumps.,だまにならないよう小麦粉をゆっくり混ぜ込みなさい。,料理の指示で定番。人が主語だと「打ち解ける」意味になる。
+E19377,1,7,on duty,熟語,勤務中で、当番で,working at your job at this time,Two nurses are on duty every night.,毎晩二人の看護師が勤務についている。,医療や警察、軍でよく使う。反対は off duty。
+E19378,1,7,on the cheap,熟語,安上がりに、安く,spending as little money as possible,They furnished the whole flat on the cheap.,彼らはアパート全体を安上がりに家具でそろえた。,質を落として節約した含みが出ることが多い、ややくだけた表現。
+E19379,1,7,under discussion,熟語,検討中で、協議中で,being talked about before a decision is made,The merger is still under discussion at headquarters.,合併は本社でまだ協議中だ。,under review や under consideration と同じ形の言い方。
+E19380,1,7,off duty,熟語,非番で、勤務時間外で,not working at your job at this time,The officer was off duty when he saw the fire.,その警官は火事を目撃したとき非番だった。,ハイフン付き off-duty は名詞の前で形容詞として使う。
+E19381,1,7,rock the boat,慣用句,波風を立てる、事を荒立てる,to cause trouble by changing a calm situation,New staff are told not to rock the boat.,新入りは事を荒立てるなと言われる。,船を揺らす比喩。否定形で「余計なことをするな」と使うことが多い。
+E19382,1,7,a turning point,熟語,転換点、分岐点,a time when an important change begins,The trial was a turning point in her career.,その裁判は彼女の経歴の転換点だった。,歴史や人生の話で頻出。mark a turning point の形もよく使う。
+E19383,1,7,border on,句動詞,～に近い、～と接する,to be very close to a particular quality or state,His confidence borders on arrogance at times.,彼の自信は時に傲慢さに近い。,国土が「隣接する」意味が元。悪い性質に近いと言うときに多い。
+E19384,1,7,the powers that be,慣用句,お偉方、当局,the people who control an organization or country,The powers that be rejected our funding request.,お偉方は私たちの資金要請を却下した。,聖書由来の古い形。皮肉や不満を込めて使うことが多い。
+E19385,1,7,jump in,句動詞,口をはさむ、飛び込む,to join a conversation or activity quickly,Feel free to jump in if you disagree.,反対なら遠慮なく口をはさんでください。,会議で発言を促すときの定番。水に飛び込む文字どおりの意味もある。
+E19386,1,7,launch into,句動詞,勢いよく始める、まくしたてる,to start doing or saying something with energy,He launched into a long speech about safety.,彼は安全についての長い演説をまくしたて始めた。,長話や不平を始める場面に多い。目的語は名詞句が普通。
+E19387,1,7,on loan,熟語,貸し出されて、借用中で,lent for a period of time to someone else,The painting is on loan from a private collector.,その絵は個人収集家から借り受けている。,美術館の表示で頻出。スポーツ選手の期限付き移籍にも使う。
+E19388,1,7,factor in,句動詞,考慮に入れる、織り込む,to include something when making a calculation,Remember to factor in shipping when you compare prices.,価格を比べるときは送料を考慮に入れなさい。,take into account の実務的な言い方。factor out は「除外する」。
+E19389,1,7,go up in smoke,慣用句,水の泡になる、無に帰す,to be completely wasted or destroyed,Years of research went up in smoke overnight.,何年もの研究が一夜にして水の泡になった。,火事で焼失する文字どおりの意味もある。努力や計画に使うことが多い。
+E19390,1,7,smoke out,句動詞,あぶり出す、暴き出す,to force someone or something into the open,The audit smoked out several false invoices.,監査は複数の偽の請求書をあぶり出した。,煙で巣穴から追い出す狩りの比喩。不正の発見によく使う。
+E19391,1,7,in one's shoes,慣用句,～の立場になって,in someone else's situation or position,I would not want to be in his shoes today.,今日の彼の立場にはなりたくない。,put yourself in my shoes は「私の身になって考えて」。
+E19392,1,7,on its last legs,慣用句,今にも壊れそうで、寿命間近で,very old or weak and about to stop working,Our washing machine is on its last legs.,うちの洗濯機はもう寿命間近だ。,所有格は主語に合わせて変える。人には on his last legs と使う。
+E19393,1,7,ahead of schedule,熟語,予定より早く,earlier than the planned time,The tunnel opened three months ahead of schedule.,そのトンネルは予定より三か月早く開通した。,ahead of time は「時間前に」。工事や納品の報告で頻出。
+E19394,1,7,behind schedule,熟語,予定より遅れて,later than the planned time,The project is running two weeks behind schedule.,その事業は予定より二週間遅れている。,run や fall と組んで使う。反対は ahead of schedule。
+E19395,1,7,for keeps,熟語,永久に、自分のものとして,permanently and not just for a short time,You can have the guitar for keeps.,そのギターは君のものにしていいよ。,くだけた口語。子どもが物をもらうときの言い方から広がった。
+E19396,1,7,a golden opportunity,熟語,絶好の機会,a very good chance that may not come again,This is a golden opportunity to enter the market.,これは市場に参入する絶好の機会だ。,golden は「またとない」の意。golden age などと同じ使い方。
+E19397,1,7,where there's smoke there's fire,慣用句,火のない所に煙は立たぬ,rumors usually have some truth behind them,"Where there's smoke there's fire, the reporters said.",火のない所に煙は立たぬと記者たちは言った。,ことわざ。うわさに根拠があると疑うときに使う決まり文句。
+E19398,1,7,pack away,句動詞,しまい込む、片づける,to put things into a box or bag for storage,We packed away the winter coats in April.,私たちは四月に冬のコートをしまい込んだ。,食べ物について使うと「たいらげる」という口語の意味になる。
+E19399,1,7,stick to one's guns,慣用句,主張を曲げない、初志を貫く,to refuse to change your opinion under pressure,She stuck to her guns despite heavy criticism.,彼女は厳しい批判にも主張を曲げなかった。,砲手が持ち場を離れない比喩。stand one's ground も近い意味。
+E19400,1,7,strike a deal,熟語,取引をまとめる、合意に達する,to reach an agreement after discussion,The two firms struck a deal late on Friday.,両社は金曜の夜遅く取引をまとめた。,strike の過去形は struck。strike a bargain もほぼ同じ意味。
+E19401,1,7,strike gold,慣用句,大当たりする、金鉱を掘り当てる,to suddenly find something very valuable or successful,The small studio struck gold with its first game.,その小さなスタジオは初作品で大当たりした。,文字どおり「金鉱を掘り当てる」から。strike it rich もほぼ同じ意味。
+E19402,1,7,strike down,句動詞,無効にする、打ち倒す,"to officially say a law is not valid, or to kill someone",The court struck down the new tax as unconstitutional.,裁判所は新税を違憲として無効とした。,法律用語では「法令を無効にする」。病気や死が人を襲う意味でも使う。
+E19403,1,7,the big guns,慣用句,大物、切り札の実力者,the most important or powerful people in a group,They brought in the big guns to save the deal.,彼らは取引を守るため大物を投入した。,bring out the big guns で「切り札を出す」。軍の大砲が語源。
+E19404,1,7,split the difference,慣用句,差を折半する、間を取る,to agree on an amount halfway between two offers,Let's split the difference and settle at fifty dollars.,差を折半して五十ドルで手を打とう。,値段交渉の定番表現。二つの提示額の中間で妥協することを指す。
+E19405,1,7,split off,句動詞,分離する、分派する,to separate from a larger group or part,A radical faction split off from the main party.,急進派の一団が本流の政党から分裂した。,会社の事業分離にも使う。名詞の spin-off とは分け方が違う。
+E19406,1,7,for good measure,熟語,おまけに、念のため余分に,as an extra thing added to what is already enough,She added a slice of lemon for good measure.,彼女はおまけにレモンを一切れ加えた。,文末に置く副詞句。measure は「分量」で、量り売りのおまけが語源。
+E19407,1,7,lay claim to,熟語,所有権を主張する、自負する,to say publicly that something belongs to you,Three countries lay claim to the same small island.,三か国が同じ小島の領有権を主張している。,領土や発明の権利によく使う。claim to fame は「自慢の種」。
+E19408,1,7,lay into,句動詞,激しく非難する、殴りかかる,to attack someone strongly with words or blows,The coach laid into the players after the loss.,監督は敗戦後に選手たちを厳しく叱りつけた。,口撃にも暴力にも使う。tear into もほぼ同じ強さの言い方。
+E19409,1,7,lay to rest,慣用句,払拭する、埋葬する,"to end a doubt or rumor, or to bury a dead person",The report laid to rest all doubts about safety.,その報告は安全性への疑念をすべて払拭した。,本来は「埋葬する」。噂や不安を「葬り去る」比喩でよく使う。
+E19410,1,7,lay the foundation for,熟語,～の基礎を築く,to create the conditions that make something possible later,These reforms laid the foundation for rapid growth.,これらの改革が急成長の基礎を築いた。,建築の「土台を据える」から。lay the groundwork for も同義。
+E19411,1,7,phase in,句動詞,段階的に導入する,to introduce something gradually in stages,The city will phase in the new fare next spring.,市は来春から新運賃を段階的に導入する。,反対は phase out(段階的に廃止する)。制度や規制の話で頻出。
+E19412,1,7,at fault,熟語,落ち度があって、責任があって,responsible for something bad that has happened,The report found the driver was not at fault.,報告書は運転手に落ち度はないとした。,事故や過失の場面で定番。faulty(欠陥のある)とは品詞が違う。
+E19413,1,7,to a fault,熟語,度が過ぎるほど、極端に,"more than is reasonable, even if the quality is good",He is generous to a fault with his staff.,彼は部下に対して度が過ぎるほど気前がよい。,長所を表す形容詞の後に置き、行き過ぎを示す。at fault と混同しない。
+E19414,1,7,a mixed bag,慣用句,玉石混交、良し悪しの寄せ集め,a group of things of very different quality,The reviews were a mixed bag of praise and complaint.,批評は称賛と苦情が入り混じったものだった。,良いものと悪いものが混ざる状態。成績や評判の評価によく使う。
+E19415,1,7,chicken out,句動詞,怖じ気づいてやめる,to decide not to do something because you are afraid,He chickened out just before the interview began.,彼は面接の直前に怖じ気づいて逃げた。,chicken は俗語で「臆病者」。くだけた会話専用の言い方。
+E19416,1,7,on display,熟語,展示されて、陳列されて,placed where people can look at it,The rare manuscripts are on display until October.,その稀覯本は十月まで展示されている。,put on display で「展示する」。感情が「あらわで」の意にもなる。
+E19417,1,7,out of context,熟語,文脈を無視して、前後を切り離して,without the surrounding words that explain the meaning,His remark was quoted out of context by reporters.,彼の発言は記者に文脈を無視して引用された。,報道批判の定番句。反対は in context(文脈の中で)。
+E19418,1,7,neck and neck,慣用句,互角で、接戦で,very close together in a race or competition,The two candidates are neck and neck in the polls.,二人の候補は世論調査で接戦だ。,競馬で馬の首が並ぶ様子から。選挙や売上の比較で頻出。
+E19419,1,7,a bird's eye view,慣用句,俯瞰図、全体像,"a view from high above, or a general overview",The tower gives a bird's eye view of the harbor.,その塔からは港を一望できる。,細部を見る worm's eye view の対。概略説明の比喩にも使う。
+E19420,1,7,ride the wave,慣用句,波に乗る、好機を生かす,to enjoy and use a period of success or popularity,The brand rode the wave of the fitness boom.,そのブランドは健康ブームの波に乗った。,ride the wave of ~ の形が多い。一時的な流行に乗る含みがある。
+E19421,1,7,money talks,慣用句,地獄の沙汰も金次第,rich people can get what they want because of money,"Money talks, and the permit was approved overnight.",金がものを言い、許可は一晩で下りた。,皮肉を込めた決まり文句。主語と動詞だけで一つの文になる。
+E19422,1,7,hang around,句動詞,ぶらぶらする、たむろする,to stay in a place without doing anything useful,Teenagers hang around the station after school.,十代の若者が放課後に駅前でたむろする。,hang around with で「～とつるむ」。hang out とほぼ同義。
+E19423,1,7,kill two birds with one stone,慣用句,一石二鳥,to achieve two aims with a single action,I killed two birds with one stone on that trip.,その出張で一石二鳥の成果を上げた。,日本語の一石二鳥はこの英語表現の直訳。長いが原形のまま使う。
+E19424,1,7,under threat,熟語,脅かされて、存続が危うくて,in danger of being harmed or destroyed,Hundreds of species are under threat from logging.,何百もの種が伐採によって脅かされている。,under threat of ~ で「～の恐れがあって」。生態や雇用の話で頻出。
+E19425,1,7,worth one's salt,慣用句,有能な、給料に見合う,good at your job and deserving your pay,Any editor worth her salt would catch that error.,有能な編集者なら誰でもその誤りに気づくだろう。,古代ローマで塩が給料代わりだった説から。名詞の後に置いて使う。
+E19426,1,7,the salt of the earth,慣用句,実直な善人、世の中の鑑,an honest and good ordinary person,Her grandparents were the salt of the earth.,彼女の祖父母は実直で善良な人たちだった。,聖書の山上の垂訓が出典。飾らない誠実さをほめる言い方。
+E19427,1,7,blow hot and cold,慣用句,態度がころころ変わる,to keep changing your opinion about something,The client blows hot and cold about the design.,顧客はそのデザインへの態度がころころ変わる。,イソップ寓話が由来。恋愛や交渉での煮え切らない態度に使う。
+E19428,1,7,blow one's cover,慣用句,正体をばらす、身分を暴く,to reveal someone's secret identity by accident,One careless phone call blew his cover completely.,不用意な一本の電話が彼の正体をすっかり暴いた。,cover は「偽装身分」。スパイや潜入捜査の話で定番の表現。
+E19429,1,7,cry out for,句動詞,切実に必要とする,to need something very urgently,The old bridge is crying out for repair.,その古い橋は修繕を切実に必要としている。,進行形で使うことが多い。cry out(叫ぶ)に for が付くと意味が変わる。
+E19430,1,7,empty out,句動詞,空にする、中身を出し切る,to remove everything from a container or place,She emptied out the drawer and found the key.,彼女は引き出しを空にして鍵を見つけた。,自動詞で「(場所が)がらんとする」の意にもなる。out が強調を加える。
+E19431,1,7,lay aside,句動詞,脇に置く、取っておく,"to put something down, or to save it for later",Let's lay aside our differences and finish the work.,対立は脇に置いて仕事を終わらせよう。,金銭には「蓄える」、感情には「棚上げする」。set aside とほぼ同義。
+E19432,1,7,set in motion,熟語,始動させる、動き出させる,to start a process that will continue by itself,His resignation set in motion a wave of changes.,彼の辞任が一連の変化を引き起こした。,put in motion とも言う。歯車が回り出すような連鎖の始まりを表す。
+E19433,1,7,stand aside,句動詞,脇へどく、身を引く,"to move out of the way, or to give up a position",He stood aside so a younger leader could take over.,彼は若い指導者に譲るため身を引いた。,物理的に「どく」と、地位を「譲る」の両方。step aside も同義。
+E19434,1,7,in danger of,熟語,～の危険があって,likely to suffer something bad soon,The team is in danger of losing its top ranking.,そのチームは首位の座を失う危険がある。,後ろは名詞か動名詞。at risk of とほぼ同じ使い方をする。
+E19435,1,7,flag up,句動詞,注意を促す、指摘する,to point out something so that others notice it,The auditor flagged up several accounting errors.,監査人は複数の会計上の誤りを指摘した。,主にイギリス英語。旗を立てて知らせるイメージ。書類の指摘で頻出。
+E19436,1,7,load up,句動詞,たくさん積み込む、大量に取り込む,to fill something or yourself with a large amount,They loaded up the van with donated books.,彼らは寄贈された本をバンに積み込んだ。,load up on ~ で「～を買い込む・詰め込む」。食事の話でも使う。
+E19437,1,7,lose the plot,慣用句,分別を失う、訳が分からなくなる,to become confused or start behaving unreasonably,The manager completely lost the plot during the meeting.,部長は会議中に完全に取り乱した。,イギリス英語のくだけた表現。物語の筋を見失う比喩から来ている。
+E19438,1,7,rent out,句動詞,賃貸しする、貸し出す,to let someone use your property in return for money,They rent out the cottage to tourists each summer.,彼らは毎夏その別荘を観光客に貸している。,貸す側が rent out、借りる側は単に rent。lease はより長期の契約。
+E19439,1,7,by definition,熟語,定義上、当然ながら,necessarily true because of what the word means,A draft is by definition not the final version.,草稿は定義上、最終版ではない。,文頭や動詞の前に置く。理屈上そうならざるを得ないことを示す。
+E19440,1,7,by the skin of one's teeth,慣用句,かろうじて、間一髪で,"only just, by a very small margin",We caught the last train by the skin of our teeth.,私たちはかろうじて終電に間に合った。,旧約聖書ヨブ記が出典。歯に皮はない、つまり余裕ゼロの意味。
+E19441,1,7,run a tight ship,慣用句,厳しく統率する,to manage an organization in a strict and efficient way,The new director runs a tight ship at the lab.,新所長は研究所を厳格に統率している。,帆船の索具を張り詰めた状態から。規律の厳しさをほめる響きがある。
+E19442,1,7,shift the blame,熟語,責任を転嫁する,to make someone else seem responsible for a mistake,He tried to shift the blame onto his assistant.,彼は責任を助手に転嫁しようとした。,shift the blame onto ~ の形が定番。pass the buck も似た意味。
+E19443,1,7,in the grand scheme of things,慣用句,大局的に見れば,"when you consider the whole situation, not small details","In the grand scheme of things, the delay hardly matters.",大局的に見れば、その遅れはほとんど問題ではない。,小さな問題を軽く見せる前置き。scheme は「全体の構図」の意。
+E19444,1,7,button up,句動詞,ボタンを留める、仕上げる,"to fasten buttons, or to finish something completely",Button up your coat before you go outside.,外に出る前にコートのボタンを留めなさい。,「口を閉じる」の意もあり、Button it up! は「黙れ」に近い。
+E19445,1,7,fall from grace,慣用句,失脚する、信用を失う,to lose the respect or trust you once had,The star executive fell from grace after the scandal.,花形の重役は不祥事の後に失脚した。,神の恩寵から落ちるという宗教的な由来。名声ある人物に使う。
+E19446,1,7,let sleeping dogs lie,慣用句,触らぬ神にたたりなし,to avoid raising an old problem that is now quiet,I decided to let sleeping dogs lie about the debt.,その借金の件は蒸し返さないでおくことにした。,眠る犬を起こすなという直訳。忠告として命令形で使うことが多い。
+E19447,1,7,smallish,形容詞,やや小さい、小ぶりの,fairly small but not very small,They live in a smallish flat near the river.,彼らは川の近くのやや小さな部屋に住んでいる。,-ish は「やや～」を作る接尾辞。tallish や reddish も同じ作り。
+E19448,1,7,snobbery,名詞,俗物根性、気取り,the attitude of thinking you are better than others,There is a lot of snobbery in the wine world.,ワインの世界には気取りがはびこっている。,snob(俗物)の名詞形。地位や趣味で人を見下す態度を批判する語。
+E19449,1,7,sterility,名詞,不妊、不毛、無菌状態,"the state of being unable to produce young, or free of germs",The clinic must guarantee the sterility of its instruments.,その医院は器具の無菌状態を保証しなければならない。,医学では「不妊」と「無菌」の両義。土地なら「不毛」、議論なら「不毛さ」。
+E19450,1,7,stiffen,動詞,硬くする、こわばる,to become hard or less easy to bend,His body stiffened when he heard the news.,その知らせを聞いて彼の体はこわばった。,stiff(硬い)に -en が付いた動詞。規則や態度を「厳しくする」にも使う。
+E19451,1,7,stonework,名詞,石造部分、石細工,the parts of a building made of stone,Rain has damaged the stonework above the entrance.,雨が入り口の上の石造部分を傷めた。,建築用語。石工の仕事そのものも指す。brickwork(れんが積み)と対。
+E19452,1,7,streptococcus,名詞,連鎖球菌,a type of round bacteria that grows in chains and causes illness,The lab identified streptococcus in the throat sample.,検査室は喉の検体から連鎖球菌を特定した。,複数形は streptococci。日常では strep throat(溶連菌性咽頭炎)が有名。
+E19453,1,7,subroutine,名詞,サブルーチン、副手続き,a small part of a program that does one specific task,The engineer rewrote the sorting subroutine for speed.,技術者は高速化のため並べ替えの副手続きを書き直した。,プログラミング用語で、現在は function や procedure とほぼ同義。
+E19454,1,7,teachable,形容詞,教えやすい、学ぶ姿勢のある,"able to be taught, or willing to learn",New staff should stay humble and teachable.,新入社員は謙虚で学ぶ姿勢を保つべきだ。,a teachable moment は「学びの好機」という決まった言い方。
+E19455,1,7,telephoto,形容詞,望遠の,made to take photographs of distant objects,She fitted a telephoto lens to shoot the birds.,彼女は鳥を撮るため望遠レンズを付けた。,ほぼ telephoto lens の形で使う。tele-(遠く)+photo(写真)の合成語。
+E19456,1,7,theistic,形容詞,有神論の,believing that a god or gods exist,The course compares theistic and atheistic worldviews.,その講座は有神論と無神論の世界観を比較する。,theism(有神論)の形容詞。atheistic(無神論の)と対で覚えるとよい。
+E19457,1,7,triptych,名詞,三連画、三幅対,a picture painted on three panels joined together,The museum restored a medieval altar triptych.,美術館は中世の祭壇の三連画を修復した。,美術用語。ギリシャ語の「三つ折り」から。二枚なら diptych。
+E19458,1,7,tugboat,名詞,タグボート、引き船,a small powerful boat that pulls large ships,Two tugboats guided the tanker into the harbor.,二隻のタグボートがタンカーを港へ導いた。,動詞 tug(強く引く)から。単に tug とも呼ばれる。
+E19459,1,7,twinge,名詞,うずき、良心の痛み,"a sudden short pain, or a brief feeling of guilt",He felt a twinge of guilt about leaving early.,彼は早退することに少し後ろめたさを覚えた。,a twinge of ~ の形が定番。痛みも感情も「一瞬ちくり」が要点。
+E19460,1,7,varicose,形容詞,静脈瘤の、こぶ状に膨れた,"swollen and twisted, used about veins in the legs",Standing all day can lead to varicose veins.,一日中立っていると下肢静脈瘤になることがある。,医学用語で、ほぼ varicose veins の形でしか使わない。
+E19461,1,7,wrinkly,形容詞,しわの多い、しわくちゃの,having many small lines or folds,He pulled a wrinkly shirt out of the suitcase.,彼はしわくちゃのシャツをスーツケースから出した。,wrinkled より口語的で軽い響き。名詞 wrinkle(しわ)の派生語。
+E19462,1,7,assail,動詞,激しく攻撃する、浴びせる,to attack someone violently or criticize them strongly,Critics assailed the minister over the missing funds.,批評家たちは資金の消失をめぐり大臣を激しく攻撃した。,assault と同語源だが、assail は言葉での攻撃や不安の襲来にも使う。
+E19463,1,7,astern,副詞,船尾に、後方に,at or toward the back of a ship,The lifeboats were stowed astern of the bridge.,救命艇は船橋の後方に格納されていた。,航海用語。反対は ahead や forward。stern(船尾)の派生語。
+E19464,1,7,baloney,名詞,たわごと、ばかげた話,nonsense or foolish talk,That excuse is complete baloney and everyone knows it.,その言い訳は全くのたわごとで、皆が分かっている。,ソーセージの bologna が語源のくだけた語。nonsense の口語版。
+E19465,1,7,beautification,名詞,美化、美観整備,the act of making a place more attractive,The city funded the beautification of the waterfront.,市は水辺の美観整備に資金を出した。,beautify(美しくする)の名詞形。街路や公園の整備事業でよく使う。
+E19466,1,7,belladonna,名詞,ベラドンナ、オオカミナスビ,a poisonous plant used to make some medicines,Belladonna was once used to widen the pupils.,ベラドンナはかつて瞳孔を広げるのに使われた。,イタリア語で「美しい婦人」。瞳を大きく見せた習慣が名の由来。
+E19467,1,7,biochemist,名詞,生化学者,a scientist who studies the chemistry of living things,The biochemist explained how the enzyme breaks down fat.,その生化学者は酵素が脂肪を分解する仕組みを説明した。,bio-(生命)+chemist(化学者)。学問名は biochemistry。
+E19468,1,7,bobbin,名詞,ボビン、糸巻き,a small roller that holds thread in a machine,The sewing machine jammed when the bobbin ran out.,ボビンの糸が切れてミシンが動かなくなった。,裁縫と紡績の用語。電気工学ではコイルの巻き枠も指す。
+E19469,1,7,boll,名詞,さく果、綿の実,the round seed case of a cotton or flax plant,Insects damaged the cotton bolls before harvest.,害虫が収穫前の綿の実を傷めた。,綿花栽培の用語。害虫の boll weevil(ワタミハナゾウムシ)が有名。
+E19470,1,7,boozy,形容詞,酒浸りの、酒の入った,"involving a lot of alcohol, or affected by it",They ended the year with a boozy office party.,彼らは酒盛りの社内パーティーで年を締めくくった。,booze(酒)の形容詞形。くだけた語で、非難とも冗談ともとれる。
+E19471,1,7,bricklayer,名詞,れんが職人,a worker who builds walls with bricks,The bricklayer finished the garden wall in two days.,れんが職人は庭の塀を二日で仕上げた。,brick(れんが)+layer(積む人)。lay(置く・積む)からできた職業名。
+E19472,1,7,camellia,名詞,ツバキ、カメリア,a bush with shiny leaves and large showy flowers,White camellias bloomed along the temple path.,白いツバキが寺の参道沿いに咲いていた。,宣教師カメルの名にちなむ。茶の木も同じツバキ属に属する。
+E19473,1,7,cavalcade,名詞,行列、パレード,"a formal procession of riders, cars, or people",A cavalcade of vintage cars passed through the square.,クラシックカーの行列が広場を通り抜けた。,元は騎馬行列。cavalry(騎兵)と同語源で、車の隊列にも使う。
+E19474,1,7,choosy,形容詞,えり好みする、注文の多い,very careful about what you accept or select,He is choosy about the coffee beans he buys.,彼は買うコーヒー豆にうるさい。,choose の派生語。picky とほぼ同義だが、やや柔らかい響き。
+E19475,1,7,cockatoo,名詞,オウム、バタン,a large parrot with a crest of feathers on its head,A white cockatoo screeched from the tall gum tree.,白いオウムが高いユーカリの木から鋭く鳴いた。,頭の冠羽が特徴でオーストラリアに多い。マレー語の kakatua が語源。
+E19476,1,7,cutesy,形容詞,あざとくかわいい、わざとらしい,trying too hard to be cute in an annoying way,The ad was too cutesy for a serious brand.,その広告は堅実なブランドには可愛すぎてわざとらしかった。,cute に軽蔑の -sy が付いた語。ほめ言葉ではない点に注意。
+E19477,1,7,datum,名詞,データ一件、基準点,"a single piece of information, or a fixed reference level",Each datum was checked against the original record.,各データは原記録と照合された。,data の単数形。測量では「基準面」を指し、この用法が実は多い。
+E19478,1,7,deflector,名詞,偏向板、そらす装置,a device that turns something away from its path,A metal deflector sends the hot air toward the floor.,金属の偏向板が熱風を床へ向ける。,deflect(そらす)+-or。風防や磁場の偏向装置など技術分野で使う。
+E19479,1,7,digitization,名詞,デジタル化、電子化,the process of changing information into digital form,The library completed the digitization of its old maps.,図書館は古地図の電子化を完了した。,資料の電子化を指す。事業全体の変革は digital transformation と区別する。
+E19480,1,7,dissonant,形容詞,不協和音の、調和しない,"sounding harsh together, or not in agreement",The composer ends the piece on a dissonant chord.,作曲家はその曲を不協和音で終える。,音楽用語が本義。対は consonant(協和の)。意見の不一致にも使う。
+E19481,1,7,dreamlike,形容詞,夢のような、幻想的な,"strange and beautiful, as if in a dream",The film has a dreamlike quality throughout.,その映画は全編を通じて幻想的な雰囲気がある。,-like は「～のような」。dreamy より客観的で、批評文で好まれる。
+E19482,1,7,egalitarianism,名詞,平等主義,the belief that all people should have equal rights,The party's egalitarianism shaped its tax policy.,その党の平等主義が税制方針を形づくった。,フランス語の egal(等しい)が語源。政治や哲学の議論で使う語。
+E19483,1,7,elope,動詞,駆け落ちする,to run away secretly in order to get married,They eloped to a small chapel by the sea.,二人は海辺の小さな礼拝堂へ駆け落ちした。,親の反対を押し切って結婚する含み。名詞形は elopement。
+E19484,1,7,facepalm,名詞,顔を手で覆うしぐさ,the act of covering your face with your hand in dismay,His reply drew a collective facepalm from the team.,彼の返答にチームは一斉にあきれ顔をした。,ネット発の新しい語で、動詞としても使う。あきれや恥ずかしさを表す。
+E19485,1,7,factorial,名詞,階乗,the product of a whole number and all numbers below it,The factorial of five equals one hundred twenty.,五の階乗は百二十に等しい。,数学用語で記号は n! と書く。形容詞で「要因の」の意もある。
+E19486,1,7,feint,名詞,フェイント、見せかけの動き,a movement meant to trick an opponent,The boxer used a feint to open his guard.,そのボクサーはフェイントで相手の守りを崩した。,faint(かすかな)と同音なので注意。スポーツと軍事の両方で使う。
+E19487,1,7,firebrand,名詞,扇動者、燃えさし,a person who stirs up trouble or strong feeling,The young firebrand challenged the party leadership.,その若い扇動者は党指導部に挑んだ。,本義は「燃えさし」。人々の心に火をつける人物の比喩になった。
+E19488,1,7,frugality,名詞,倹約、質素,the habit of spending money carefully,Her frugality allowed the family to survive the crisis.,彼女の倹約が家族を危機から救った。,けちではなく賢い節約という肯定的な響き。形容詞は frugal。
+E19489,1,7,furor,名詞,騒動、激しい反発,a sudden outburst of public anger or excitement,The photograph caused a furor in the press.,その写真は報道界に騒動を巻き起こした。,イギリス綴りは furore。ラテン語の「激怒」が語源で uproar に近い。
+E19490,1,7,glum,形容詞,陰気な、ふさぎ込んだ,"sad and quiet, without hope",He looked glum after reading the rejection letter.,彼は不採用の通知を読んでふさぎ込んで見えた。,gloomy と同語源。表情や雰囲気を描写する語で、口語でも書き言葉でも使う。
+E19491,1,7,griddle,名詞,鉄板、焼き板,a flat metal plate used for cooking over heat,Pancakes cook quickly on a hot griddle.,ホットケーキは熱い鉄板ですぐ焼ける。,grill(網焼き器)と違って平らな鉄板。動詞で「鉄板で焼く」にもなる。
+E19492,1,7,groundless,形容詞,根拠のない、事実無根の,not based on any facts or good reasons,The company called the accusations entirely groundless.,会社はその告発を全くの事実無根だと述べた。,ground は「根拠」。unfounded とほぼ同義で、公式声明で好まれる。
+E19493,1,7,gunboat,名詞,砲艦,a small armed ship used near coasts and rivers,A gunboat patrolled the mouth of the river.,一隻の砲艦が河口を哨戒していた。,gunboat diplomacy(砲艦外交)は軍事力で威圧する外交を指す。
+E19494,1,7,gurgle,動詞,ゴボゴボ音を立てる,to make a low bubbling sound like flowing water,Water gurgled through the pipe under the floor.,水が床下の管をゴボゴボと流れた。,音を写した擬音語。赤ん坊が「のどを鳴らす」意味でも使う。
+E19495,1,7,headboard,名詞,ヘッドボード、寝台の頭板,the upright board at the head of a bed,She leaned against the wooden headboard and read.,彼女は木のヘッドボードにもたれて本を読んだ。,足元側は footboard。家具の説明文でよく出る語。
+E19496,1,7,herculean,形容詞,至難の、超人的な,needing very great strength or effort,Rebuilding the bridge was a herculean task.,橋の再建は至難の事業だった。,ギリシャ神話の英雄ヘラクレスから。task や effort と結びつきやすい。
+E19497,1,7,heterosexuality,名詞,異性愛,sexual attraction between men and women,The study compared attitudes toward heterosexuality and homosexuality.,その研究は異性愛と同性愛への意識を比較した。,hetero-(異なる)が語幹。対語は homosexuality で、学術的な文脈で使う。
+E19498,1,7,illus,名詞,図版、挿絵入り,a short form of illustration or illustrated,"The catalog entry reads 320 pages, illus, cloth binding.",目録には三百二十ページ、図版入り、布装と記されている。,書誌や目録で使う略記。ピリオドを付けて illus. と書くことも多い。
+E19499,1,7,incubus,名詞,夢魔、重くのしかかるもの,"an evil spirit in old stories, or a heavy burden",The unpaid loan hung over them like an incubus.,未払いの借金が重荷のように彼らにのしかかっていた。,中世の伝承に出る悪霊。比喩で「悪夢のような重荷」を指すことが多い。
+E19500,1,7,inductee,名詞,新加入者、入隊者,a person who is formally admitted to a group or the army,The hall of fame welcomed five inductees this year.,殿堂は今年五人の新加入者を迎えた。,induct(正式に加入させる)+-ee(される人)。殿堂入りの報道で頻出。
+E19501,1,7,interlace,動詞,組み合わせる、交錯させる,to cross things over and under each other,The designer interlaced strips of leather to form the strap.,デザイナーは革のひもを編み合わせてベルトを作った。,lace（ひも・編む）に inter（相互に）が付いた語。映像技術の「インターレース」も同語源。
+E19502,1,7,intermarriage,名詞,異民族間結婚、通婚,marriage between people of different groups,Intermarriage between the two communities became common after the war.,戦後、その二つの共同体の通婚は一般的になった。,民族・宗教・階級など異なる集団の間の結婚を指す。近親婚の意味ではない。
+E19503,1,7,irresistibly,副詞,抗しがたいほど、たまらなく,in a way that is too strong to be refused,The bakery smelled irresistibly of warm butter and sugar.,そのパン屋はたまらなくバターと砂糖の香りがした。,resist（抵抗する）＋ir-（否定）。irresistibly attractive の形で使うことが多い。
+E19504,1,7,joust,名詞,馬上槍試合,a fight between two knights on horses with long spears,The festival ends with a joust staged by costumed riders.,祭りは扮装した騎手による馬上槍試合で締めくくられる。,中世の騎士競技。動詞で「論戦する」と比喩的にも使う。
+E19505,1,7,legate,名詞,教皇特使、使節,an official sent to represent a pope or a government,The papal legate arrived in the capital to open talks.,教皇特使は協議を開くため首都に到着した。,ローマ教皇の使節を指すことが多い。delegate（代表）と同じ語源。
+E19506,1,7,levitate,動詞,空中に浮かぶ、浮揚させる,to rise and float in the air without support,The magician appeared to levitate a few inches above the stage.,手品師は舞台から数インチ浮かんでいるように見えた。,ラテン語の levis（軽い）から。手品や超常現象の話でよく出る。
+E19507,1,7,levitation,名詞,空中浮揚,the act of floating in the air without support,Magnetic levitation allows the train to run almost silently.,磁気浮上によりその列車はほぼ無音で走行できる。,levitate の名詞形。リニアモーターカーは magnetic levitation train と言う。
+E19508,1,7,liquidator,名詞,清算人、破産管財人,a person appointed to close a company and sell what it owns,The liquidator sold the factory to pay the company's debts.,清算人は会社の負債を返すため工場を売却した。,liquidate（資産を現金化する・清算する）の行為者。法律・会計の専門語。
+E19509,1,7,logarithm,名詞,対数,the power to which a base number must be raised to give another number,Engineers use a logarithm to compress the range of the data.,技術者はデータの幅を圧縮するのに対数を使う。,数学用語。略記は log。形容詞は logarithmic（対数の）。
+E19510,1,7,masochistic,形容詞,自虐的な、苦痛を好む,seeming to enjoy suffering or difficulty,Training in that heat sounds almost masochistic to me.,あの暑さの中で練習するなど私には自虐的に思える。,日常では「わざと苦しい道を選ぶ」の意で軽く使う。反対は sadistic。
+E19511,1,7,newsprint,名詞,新聞用紙,the cheap rough paper used for printing newspapers,The plant switched from newsprint to packaging materials.,その工場は新聞用紙から包装材に転換した。,新聞そのものではなく「紙」を指す点に注意。安価で灰色がかった紙。
+E19512,1,7,ornithology,名詞,鳥類学,the scientific study of birds,She left banking to study ornithology at a small college.,彼女は銀行を辞め小さな大学で鳥類学を学んだ。,ギリシャ語の ornis（鳥）から。専門家は ornithologist。
+E19513,1,7,orthodontist,名詞,歯列矯正医,a dentist who straightens teeth with braces,The orthodontist fitted braces on my daughter last month.,先月、歯列矯正医が娘に矯正器具を付けた。,ortho-（まっすぐ）＋dont（歯）。一般の歯科医は dentist。
+E19514,1,7,overcharge,動詞,過大請求する、法外な値をつける,to charge someone too much money for something,The garage overcharged me by nearly two hundred dollars.,その修理工場は私に二百ドル近く過大請求した。,over（過度に）＋charge（請求する）。名詞でも「過大請求」の意で使う。
+E19515,1,7,overgrowth,名詞,繁茂、過剰増殖,growth that is too thick or too fast,We cleared the overgrowth blocking the garden path.,私たちは庭の小道をふさぐ繁茂した草木を刈った。,植物の茂りすぎのほか、医学で細菌の異常増殖にも使う。
+E19516,1,7,overshoot,動詞,行き過ぎる、超過する,to go further than the point you intended to reach,The pilot overshot the runway and had to circle again.,操縦士は滑走路を行き過ぎ、もう一度旋回せねばならなかった。,目標値や着地点を「越えてしまう」。過去形・過去分詞は overshot。
+E19517,1,7,paleontologist,名詞,古生物学者,a scientist who studies fossils and ancient life,A paleontologist identified the bone as part of a jaw.,古生物学者はその骨を顎の一部だと特定した。,英では palaeontologist とつづる。恐竜研究者としてよく登場する。
+E19518,1,7,pastiche,名詞,模倣作品、寄せ集め,a work that copies the style of another artist or mixes many styles,The film is a clever pastiche of 1940s detective movies.,その映画は一九四〇年代の探偵映画を巧みに模した作品だ。,からかいの parody と違い、敬意を込めた模倣を指すことが多い。
+E19519,1,7,phoneme,名詞,音素,the smallest unit of sound that changes the meaning of a word,English distinguishes the phonemes in pin and bin.,英語は pin と bin の音素を区別する。,言語学の基本語。日本語では「ら」と「だ」の子音などが別音素。
+E19520,1,7,pollinate,動詞,受粉させる,to carry pollen to a flower so that it can produce seeds,Bees pollinate most of the fruit trees in this valley.,ミツバチがこの谷のほとんどの果樹を受粉させる。,名詞は pollination、花粉は pollen。農業や環境の話で頻出。
+E19521,1,7,pullback,名詞,撤退、後退,"a movement of troops away from an area, or a decline",The general announced a pullback of forces from the border.,将軍は国境からの部隊の撤退を発表した。,軍事の「撤退」のほか、市場や株価の「調整局面」にも使う。
+E19522,1,7,rhododendron,名詞,シャクナゲ,a large bush with bright flowers and thick leaves,Rhododendrons bloom along the mountain road every May.,シャクナゲは毎年五月に山道沿いで咲く。,ギリシャ語の rhodon（バラ）＋dendron（木）。つづりが難しい語の代表。
+E19523,1,7,rifleman,名詞,小銃兵、ライフル射手,a soldier who is armed with a rifle,Each rifleman carried three days of rations.,各小銃兵は三日分の携行食を持っていた。,複数形は riflemen。歩兵部隊の基本的な兵科を指す。
+E19524,1,7,ruthlessness,名詞,非情さ、冷酷さ,the quality of having no pity for other people,His ruthlessness in negotiations made him few friends.,交渉での彼の非情さは友人をほとんど作らなかった。,ruth は古語で「あわれみ」。今は否定形の ruthless だけが残る。
+E19525,1,7,schmuck,名詞,まぬけ、いやなやつ,a stupid or annoying person,Don't be a schmuck and lock the door behind you.,まぬけなことはやめて、出るときは鍵をかけてくれ。,イディッシュ語由来の米国の俗語。相手に直接言うと失礼になる。
+E19526,1,7,scrawl,動詞,走り書きする,to write something quickly and untidily,He scrawled the address on the back of a receipt.,彼はレシートの裏に住所を走り書きした。,名詞で「なぐり書き」。ていねいでない字を強調する語。
+E19527,1,7,scuff,動詞,こすって傷つける、擦り減らす,to make a mark on a surface by rubbing it,I scuffed my new shoes on the concrete steps.,私は新しい靴をコンクリートの階段でこすって傷つけた。,靴や床の浅い擦り傷に使う。名詞の scuff mark は「擦り跡」。
+E19528,1,7,sensationalism,名詞,扇情主義、煽り報道,the use of shocking stories to attract attention,Critics accused the network of sensationalism in its crime coverage.,批評家はその放送局の犯罪報道を煽り的だと非難した。,報道批判の定番語。形容詞は sensational（扇情的な・すばらしい）。
+E19529,1,7,shortbread,名詞,ショートブレッド,a thick sweet biscuit made with a lot of butter,She brought a tin of shortbread back from Scotland.,彼女はスコットランドからショートブレッドの缶を持ち帰った。,スコットランド発祥の菓子。short は「もろい・さくさくした」の意。
+E19530,1,7,shtick,名詞,おはこ、十八番の芸,a routine or manner that a performer is known for,Complaining about the weather is part of his shtick.,天気の文句を言うのは彼のおはこの一部だ。,イディッシュ語由来。芸人の決まりネタや、人の「いつもの調子」を指す。
+E19531,1,7,sinuous,形容詞,曲がりくねった、しなやかな,having many curves and bends,The sinuous river marks the border between the two states.,その曲がりくねった川が二つの州の境界をなす。,ラテン語 sinus（湾曲）から。動きの「しなやかさ」にも使う。
+E19532,1,7,sirloin,名詞,サーロイン,a good cut of beef from the back of the animal,He ordered the sirloin with a side of grilled vegetables.,彼は焼き野菜を添えたサーロインを注文した。,牛の腰の上部の肉。sur（上）＋loin（腰肉）が語源とされる。
+E19533,1,7,skimp,動詞,けちる、手を抜く,to spend too little money or effort on something,Do not skimp on insulation if you want low heating bills.,暖房費を抑えたいなら断熱材をけちってはいけない。,skimp on の形で使う。形容詞 skimpy は「不十分な・布地の少ない」。
+E19534,1,7,snobby,形容詞,気取った、鼻もちならない,thinking you are better than people of lower rank,"The staff were friendly, not snobby as I had feared.",店員は気取っておらず、心配に反して感じがよかった。,snobbish のくだけた形。上流志向で人を見下す態度を指す。
+E19535,1,7,spay,動詞,避妊手術をする,to operate on a female animal so it cannot have young,We had the cat spayed before she turned one year old.,私たちは猫が一歳になる前に避妊手術を受けさせた。,雌に使い、雄には neuter や castrate を使う。獣医の専門語。
+E19536,1,7,speedboat,名詞,モーターボート、高速艇,a small boat with a powerful engine that goes very fast,A speedboat towed the water skiers across the lake.,モーターボートが水上スキーヤーを湖の向こうへ引いた。,エンジン付きの小型高速艇。競技やレジャーの文脈で使う。
+E19537,1,7,spry,形容詞,元気な、機敏な,"moving in an active and lively way, especially when old",My grandfather is still spry enough to climb the hill.,祖父は今も丘を登れるほど元気だ。,高齢者をほめるときに使うことが多い点が特徴。
+E19538,1,7,stringy,形容詞,筋の多い、糸を引く,"full of tough threads, or forming long thin lines",The beef was stringy and hard to chew.,その牛肉は筋が多くてかみにくかった。,肉や野菜の「筋っぽさ」、チーズの「糸を引く」感じの両方に使う。
+E19539,1,7,subsonic,形容詞,亜音速の,slower than the speed of sound,Most passenger jets fly at subsonic speeds.,ほとんどの旅客機は亜音速で飛ぶ。,sub-（下）＋sonic（音の）。音速超えは supersonic。
+E19540,1,7,summery,形容詞,夏らしい、夏向きの,typical of summer or suitable for summer,She wore a light summery dress to the garden party.,彼女は園遊会に軽やかな夏らしいワンピースを着ていった。,summary（要約）とつづりが紛らわしいので注意。
+E19541,1,7,tableware,名詞,食卓用食器類,"the plates, glasses and cutlery used for meals",The hotel replaced all its tableware before the reopening.,ホテルは再開前に食器類をすべて入れ替えた。,皿・グラス・カトラリーの総称。不可算名詞として扱う。
+E19542,1,7,talc,名詞,タルク、滑石,a very soft mineral used to make powder,The factory grinds talc into powder for cosmetics.,その工場は化粧品用にタルクを粉にひく。,鉱物名。ベビーパウダーは talcum powder と呼ばれる。
+E19543,1,7,tapeworm,名詞,サナダムシ、条虫,a long flat worm that lives inside the body of an animal,The vet treated the dog for a tapeworm infection.,獣医は犬の条虫感染を治療した。,平たく長い姿がテープに似ることから。寄生虫学の基本語。
+E19544,1,7,telnet,名詞,テルネット,an old computer system for logging in to a distant machine,"Telnet sends passwords as plain text, so we use ssh instead.",テルネットはパスワードを平文で送るので、代わりに ssh を使う。,暗号化されないため現在はほぼ ssh に置き換わった通信規約。
+E19545,1,7,therewith,副詞,それとともに、それによって,"with that, or immediately after that",The parties signed the treaty and therewith ended the dispute.,両当事者は条約に署名し、それによって紛争を終わらせた。,法律文書や古い文体に残る語。日常会話ではまず使わない。
+E19546,1,7,thither,副詞,あちらへ、そこへ,to that place,The pilgrims traveled thither on foot each spring.,巡礼者たちは毎春そこへ歩いて赴いた。,hither and thither（あちこちへ）の形で今も残る古語。
+E19547,1,7,tinfoil,名詞,アルミホイル、錫箔,a thin sheet of metal used to wrap food,Wrap the potatoes in tinfoil before baking them.,焼く前にジャガイモをアルミホイルで包みなさい。,実際の材質はアルミだが古い呼び名が残る。aluminum foil とも言う。
+E19548,1,7,troika,名詞,三頭立て馬車、三頭体制,a group of three people or countries leading something together,A troika of ministers now oversees the reform program.,現在は三人の閣僚が改革計画を統括している。,ロシア語で「三頭立ての馬そり」。政治記事では「三者体制」の意。
+E19549,1,7,turnoff,名詞,わき道、興ざめなもの,"a smaller road leaving a main road, or something that kills interest",Take the next turnoff and follow the signs to the lake.,次のわき道に入って湖への標識に従いなさい。,口語では「げんなりさせるもの」の意も強い。反対は turn-on。
+E19550,1,7,unhurt,形容詞,無傷の、けがのない,not injured at all,The driver walked away unhurt from the wrecked car.,運転手は大破した車から無傷で歩き去った。,事故報道の定番語。uninjured や unharmed とほぼ同じ。
+E19551,1,7,unleaded,形容詞,無鉛の,"not containing lead, especially of fuel",The rental car takes unleaded gasoline only.,そのレンタカーは無鉛ガソリンしか使えない。,lead（鉛）は「リード」でなく「レッド」と読む点に注意。
+E19552,1,7,unwed,形容詞,未婚の,not married,The survey looked at incomes among unwed adults.,その調査は未婚の成人の収入を調べた。,unmarried の硬い言い方。統計や報道で使われる。
+E19553,1,7,urologist,名詞,泌尿器科医,a doctor who treats the kidneys and the urinary system,Her doctor referred her to a urologist for further tests.,主治医は追加検査のため彼女を泌尿器科医に紹介した。,urine（尿）に由来。腎臓・膀胱などを扱う診療科の医師。
+E19554,1,7,venereal,形容詞,性感染症の,relating to diseases passed on through sexual contact,Venereal disease clinics were opened across the region.,その地域一帯に性感染症の診療所が開設された。,現在は sexually transmitted の言い方が普通で、やや古い医学用語。
+E19555,1,7,virile,形容詞,男らしい、力強い,having the strength and energy expected of a man,The portrait shows the young king as a virile leader.,その肖像画は若き王を力強い指導者として描いている。,ラテン語 vir（男）から。名詞は virility。
+E19556,1,7,washout,名詞,失敗、大失敗の人,"a complete failure, or a road broken by flooding",The outdoor concert was a washout because of the storm.,野外コンサートは嵐のせいで大失敗に終わった。,もとは雨で流されること。転じて「雨で中止」「失敗」の意になった。
+E19557,1,7,wattle,名詞,編み枝、肉垂れ,"sticks woven together for walls, or loose skin under a bird's chin",The cottage walls were built of wattle and daub.,その小屋の壁は編み枝と塗り土で作られていた。,建築の wattle and daub（編み枝と泥壁）が定番の言い方。
+E19558,1,7,whither,副詞,どこへ、いずこへ,"to what place, or toward what result",The editorial asked whither the party was heading.,その社説は党がどこへ向かうのかを問うた。,古語だが見出しで Whither ...? として今も使われる。
+E19559,1,7,wildebeest,名詞,ヌー,a large African animal like an ox with curved horns,Herds of wildebeest cross the river every July.,ヌーの群れは毎年七月に川を渡る。,オランダ語で「野生の獣」。gnu とも呼ばれる。
+E19560,1,7,wintertime,名詞,冬季、冬の間,the period of the year when it is winter,The mountain road is often closed in wintertime.,その山道は冬季にはよく閉鎖される。,in wintertime の形で副詞的に使う。summertime と対になる。
+E19561,1,7,woodcut,名詞,木版画,a picture printed from a design cut into wood,The museum displays woodcuts by nineteenth century artists.,その美術館は十九世紀の画家の木版画を展示している。,版木そのものと刷った絵の両方を指す。銅版画は engraving。
+E19562,1,7,zippy,形容詞,きびきびした、快活な,fast and full of energy,The little car is surprisingly zippy on the highway.,その小型車は高速道路で驚くほどきびきび走る。,zip（すばやく動く）から。車や音楽の軽快さをほめる口語。
+E19563,1,7,abstention,名詞,棄権、控えること,the act of not voting or not doing something,The motion passed with two abstentions and no objections.,その動議は棄権二、反対なしで可決された。,議会報道の定番語。abstain from（～を控える）の名詞形。
+E19564,1,7,accusative,名詞,対格、目的格,the form of a noun used as the object of a verb,In Latin the accusative marks the object of the verb.,ラテン語では対格が動詞の目的語を示す。,文法用語。ドイツ語やラテン語の学習で必ず出てくる。
+E19565,1,7,admonition,名詞,訓戒、忠告,a firm warning or piece of advice,He ignored his coach's admonition about pacing himself.,彼は配分に気をつけよという監督の忠告を無視した。,動詞は admonish。叱責よりやわらかい「戒め」の響き。
+E19566,1,7,anesthesiology,名詞,麻酔科学,the branch of medicine that deals with anesthesia,She completed her residency in anesthesiology last year.,彼女は昨年、麻酔科学の研修を修了した。,英では anaesthesiology とつづる。医師は anesthesiologist。
+E19567,1,7,aquamarine,名詞,アクアマリン、青緑色,a pale blue green stone or color,The walls were painted a soft aquamarine.,壁は淡い青緑色に塗られていた。,ラテン語で「海の水」。三月の誕生石としても知られる。
+E19568,1,7,astringent,形容詞,渋い、辛辣な,"having a sharp taste, or harsh in tone",The young wine was too astringent to enjoy.,その若いワインは渋すぎて楽しめなかった。,味覚の「渋み」と批評の「辛辣さ」の両方に使う。名詞は化粧水の意。
+E19569,1,7,azimuth,名詞,方位角,the horizontal angle measured from north to an object,The antenna must be set to an azimuth of 130 degrees.,アンテナは方位角百三十度に設定しなければならない。,航海・天文・測量の専門語。アラビア語由来で語頭の a は冠詞の名残。
+E19570,1,7,beautify,動詞,美しくする、美化する,to make something look more attractive,Volunteers worked to beautify the neglected riverbank.,有志が荒れた川岸を美しくしようと働いた。,beauty＋-fy。街づくりの beautification project の形でよく見る。
+E19571,1,7,beheld,動詞,見た、目にした,"past form of behold, meaning saw something remarkable",The travelers beheld the valley from the mountain pass.,旅人たちは峠から谷を目にした。,behold の過去・過去分詞。文語で荘厳な光景を見るときに使う。
+E19572,1,7,breakneck,形容詞,命知らずの、猛烈な速さの,dangerously fast,The company grew at breakneck speed for three years.,その会社は三年間、猛烈な速さで成長した。,ほぼ breakneck speed か breakneck pace の形に限られる。
+E19573,1,7,campy,形容詞,わざとらしくて滑稽な,amusing because it is exaggerated and in bad taste,The show is campy but the cast plays it perfectly.,その番組はわざとらしく滑稽だが、出演者の演技は完璧だ。,名詞 camp（キャンプ趣味）の形容詞。悪趣味を楽しむ美意識を指す。
+E19574,1,7,caseload,名詞,担当件数、受け持ち数,the number of cases a worker has to deal with,Each social worker carries a caseload of about forty families.,各ケースワーカーは約四十世帯を担当している。,医療・福祉・法律の職場で使う。workload（仕事量）の一種。
+E19575,1,7,cassia,名詞,カシア、シナモンの一種,"a spice from tree bark, similar to cinnamon",The recipe calls for cassia rather than true cinnamon.,そのレシピは本来のシナモンではなくカシアを使う。,中国肉桂とも。安価で香りが強く、市販シナモンの多くはこれ。
+E19576,1,7,chattel,名詞,動産、家財,an item of property that is not land or a building,The old law treated livestock as chattel.,その古い法律は家畜を動産として扱った。,法律用語。土地以外の持ち物を指し、goods and chattels の形が定番。
+E19577,1,7,chorale,名詞,コラール、聖歌合唱曲,a simple hymn tune sung by a choir,The service closed with a chorale by Bach.,礼拝はバッハのコラールで締めくくられた。,ドイツのプロテスタント讃美歌。合唱団そのものを指すこともある。
+E19578,1,7,clavicle,名詞,鎖骨,the bone joining the shoulder to the neck,He broke his clavicle in a cycling accident.,彼は自転車事故で鎖骨を折った。,医学用語で、日常語では collarbone と言う。
+E19579,1,7,compaction,名詞,圧縮、締め固め,the process of pressing something into a smaller space,Soil compaction makes it hard for roots to spread.,土の締め固めは根が広がるのを妨げる。,土木・農業の専門語。動詞は compact（圧縮する）。
+E19580,1,7,conformance,名詞,適合、準拠,the state of following a rule or standard,The device was tested for conformance with safety standards.,その機器は安全基準への適合を検査された。,in conformance with の形で使う。工業規格の文書に多い語。
+E19581,1,7,copywriter,名詞,コピーライター、広告文案家,a person who writes the words used in advertisements,The agency hired a copywriter for the new campaign.,代理店は新しい広告企画のためコピーライターを雇った。,copyright（著作権）とは無関係。copy は「広告の文章」の意。
+E19582,1,7,cosine,名詞,余弦、コサイン,"in a right triangle, the ratio of the near side to the longest side",The program calculates the cosine of each angle.,そのプログラムは各角の余弦を計算する。,数学用語で略記は cos。sine（正弦）と対になる。
+E19583,1,7,cosmonaut,名詞,宇宙飛行士,an astronaut from Russia or the former Soviet Union,The cosmonaut spent six months aboard the station.,その宇宙飛行士は六か月間、宇宙基地に滞在した。,ロシア側の呼び名。米国側は astronaut、中国は taikonaut。
+E19584,1,7,countable,形容詞,数えられる、可算の,able to be counted one by one,"In English, chairs are countable but furniture is not.",英語では chair は数えられるが furniture は数えられない。,文法の「可算名詞」は countable noun。反対は uncountable。
+E19585,1,7,couplet,名詞,二行連句、対句,two lines of poetry that come together and often rhyme,The sonnet ends with a couplet that sums up the argument.,そのソネットは論旨をまとめる二行連句で終わる。,詩学の用語。シェイクスピアのソネットの最後の二行が有名。
+E19586,1,7,currant,名詞,スグリ、干しブドウ,a small dried grape or a small sour berry,She added currants to the scone dough.,彼女はスコーンの生地にスグリを加えた。,current（現在の）と発音が同じなので文脈で区別する。
+E19587,1,7,deejay,名詞,ディスクジョッキー,a person who plays recorded music for an audience,The deejay kept the dance floor full until midnight.,そのディスクジョッキーは真夜中までフロアを満員に保った。,DJ を読みどおりつづった語。動詞で「DJをする」とも使う。
+E19588,1,7,duplicity,名詞,二枚舌、欺瞞,dishonest behavior that hides your real intentions,The report revealed years of duplicity by the management.,報告書は経営陣の長年の欺瞞を明らかにした。,duplex（二重の）と同語源で「裏表がある」の意。硬い非難の語。
+E19589,1,7,entryway,名詞,玄関、入口,the passage or space just inside a door,"Leave your boots in the entryway, please.",長靴は玄関に置いてください。,米国語で、英国では hallway や porch と言うことが多い。
+E19590,1,7,facetious,形容詞,ふざけた、おどけた,trying to be funny about something serious,"Sorry, I was being facetious about the deadline.",すまない、締め切りの件はふざけて言ったんだ。,場違いな冗談を指し、批判的に使われることが多い。
+E19591,1,7,falsification,名詞,改ざん、反証,"the act of changing facts dishonestly, or of proving something false",The audit uncovered the falsification of sales records.,監査は売上記録の改ざんを暴いた。,科学哲学では「反証」の意。動詞は falsify。
+E19592,1,7,footloose,形容詞,自由気ままな、束縛のない,free to go anywhere and do anything,After graduation he was footloose for a whole year.,卒業後、彼は丸一年自由気ままに過ごした。,footloose and fancy free（気楽で自由な独身の）が決まり文句。
+E19593,1,7,frankness,名詞,率直さ、あけすけさ,the quality of saying what you really think,I appreciated her frankness about the project's risks.,私は計画の危険性についての彼女の率直さをありがたく思った。,形容詞 frank から。褒め言葉になるが、無遠慮の含みも出る。
+E19594,1,7,frilly,形容詞,フリルの付いた、飾りの多い,"decorated with folded strips of cloth, or overly decorated",She refused to wear the frilly costume for the photo.,彼女は写真のためにフリルの付いた衣装を着るのを断った。,服装のほか、文章や装飾が「装飾過多」の意でも使う。
+E19595,1,7,gangway,名詞,タラップ、通路,a movable bridge for getting on and off a ship,Passengers waited on the gangway to board the ferry.,乗客はフェリーに乗るためタラップで待った。,劇場や車内の「通路」の意もある。英国では Gangway! で「どいて」。
+E19596,1,7,generality,名詞,一般論、大まかな話,a statement that is true in general but lacks detail,The speech offered generalities instead of concrete plans.,その演説は具体的な計画ではなく一般論を並べた。,批判的に使うことが多い。the generality of で「大多数」の意も。
+E19597,1,7,helmsman,名詞,操舵手、かじ取り役,the person who steers a ship,The helmsman held the course through the narrow channel.,操舵手は狭い水路を通って針路を保った。,helm（かじ）＋man。組織の指導者の比喩にも使う。
+E19598,1,7,hieroglyphic,形容詞,象形文字の,written in the picture symbols used in ancient Egypt,The tomb walls carry long hieroglyphic inscriptions.,その墓の壁には長い象形文字の碑文がある。,名詞は普通 hieroglyphics と複数形。ギリシャ語で「聖なる彫刻」。
+E19599,1,7,hosiery,名詞,靴下類、ホーズ製品,"socks, stockings and tights sold in shops",The store moved its hosiery to the second floor.,その店は靴下売り場を二階に移した。,集合名詞で不可算。hose（ストッキング）から派生した商業用語。
+E19600,1,7,housemaid,名詞,お手伝い、家政婦,a woman employed to clean and tidy a house,The novel is narrated by a housemaid in a country manor.,その小説は田舎の邸宅のお手伝いによって語られる。,現在は歴史的な文脈で使う語。今は housekeeper が普通。
+E19601,1,7,hubbub,名詞,騒々しさ、がやがや,a loud noise made by a crowd of people,The hubbub in the hall died down when she spoke.,彼女が話し始めるとホールの騒がしさは静まった。,hub（中心）とは無関係で、擬音から生まれた語。混乱した騒ぎにも使う。
+E19602,1,7,imitator,名詞,模倣者、まねる人,a person who copies what someone else does,The singer had many imitators but no real rival.,その歌手には模倣者は多いが真の好敵手はいなかった。,imitate の名詞形。皮肉を込めて「二番煎じ」を指すことが多い。
+E19603,1,7,insinuation,名詞,当てこすり、ほのめかし,an unpleasant hint about someone without saying it directly,He resented the insinuation that he had lied.,彼はうそをついたというほのめかしに腹を立てた。,動詞は insinuate。悪意ある遠回しの非難を指し、hint より否定的。
+E19604,1,7,irresponsibly,副詞,無責任に,in a way that shows no care about the results,The company acted irresponsibly by ignoring the warnings.,その会社は警告を無視して無責任に行動した。,responsible に ir- と -ly が付いた形。behave や act と共に使う。
+E19605,1,7,irreversibly,副詞,取り返しがつかないほど、不可逆的に,in a way that cannot be changed back,The habitat has been irreversibly damaged by mining.,その生息地は採掘によって不可逆的に損なわれた。,医学や環境の話で頻出。reverse（逆にする）が語幹で「元に戻せない」。
+E19606,1,7,knotty,形容詞,厄介な、節だらけの,difficult to solve or full of hard lumps,The committee faced a knotty legal question.,委員会は厄介な法律問題に直面した。,knot（結び目）から。木材なら「節が多い」、問題なら「こじれた」。
+E19607,1,7,latrine,名詞,（軍隊・野営地の）便所,a simple toilet used in a camp or army base,The soldiers dug a latrine behind the tents.,兵士たちはテントの裏に便所を掘った。,軍隊や難民キャンプなど、簡易な共同便所に限って使う語。
+E19608,1,7,leasehold,名詞,借地権、借家権,the right to use land or a building under a lease,They bought the leasehold on the shop for ten years.,彼らはその店の十年分の借地権を買った。,所有権の freehold と対になる不動産用語。イギリスで特によく使う。
+E19609,1,7,legwork,名詞,地道な調査、足で稼ぐ仕事,the tiring basic work of gathering information,Reporters did the legwork before the story ran.,記者たちは記事掲載前に地道な調査をこなした。,leg（脚）＋work。do the legwork の形で使い、不可算名詞。
+E19610,1,7,liaise,動詞,連絡を取り合う、橋渡しをする,to talk with another group to work well together,She will liaise with the local police during the event.,彼女は行事の間、地元警察と連絡を取り合う。,名詞 liaison の動詞形。liaise with ... の形が定型でイギリス英語寄り。
+E19611,1,7,libertine,名詞,放蕩者、道楽者,a person who lives freely and ignores moral rules,The poet was known as a libertine in his youth.,その詩人は若いころ放蕩者として知られた。,liberty（自由）と同語源だが、性的に自由奔放な人を指す古風な語。
+E19612,1,7,luminescence,名詞,発光、ルミネセンス,light produced without much heat,The deep-sea fish gave off a faint luminescence.,その深海魚はかすかな光を放っていた。,lumen（光）が語源。生物発光は bioluminescence と呼ぶ。
+E19613,1,7,merriment,名詞,陽気な騒ぎ、笑い興じること,laughing and enjoyment among a group of people,Shouts of merriment came from the garden.,庭から陽気な笑い声が聞こえてきた。,merry の名詞形で不可算。祭りや宴の楽しげな雰囲気を表す文語。
+E19614,1,7,misshapen,形容詞,ゆがんだ、不格好な,having a shape that is wrong or ugly,The heat left the plastic trays misshapen.,熱でプラスチックの皿はゆがんでしまった。,mis-（誤って）＋shapen。発音は「ミスシェイプン」と s を二度言う。
+E19615,1,7,moccasin,名詞,モカシン、革靴の一種,a soft flat leather shoe with no heel,He wore moccasins around the cabin all weekend.,彼は週末じゅう小屋でモカシンを履いていた。,北米先住民の言葉が語源。米国では毒蛇の名前でもある。
+E19616,1,7,monotheistic,形容詞,一神教の,believing that there is only one god,"Judaism, Christianity and Islam are monotheistic faiths.",ユダヤ教、キリスト教、イスラム教は一神教である。,mono（一つ）＋theos（神）。多神教は polytheistic と言う。
+E19617,1,7,neocon,名詞,ネオコン、新保守主義者,a person supporting an aggressive conservative foreign policy,The article blamed neocons for the long war.,その記事は長引く戦争をネオコンのせいにした。,neoconservative の短縮形。米国政治で用いられ、批判的な響きを持つ。
+E19618,1,7,niacin,名詞,ナイアシン、ビタミンB3,a vitamin found in meat and grains that the body needs,Whole grains are a good source of niacin.,全粒穀物はナイアシンのよい供給源だ。,栄養学の語で、欠乏症のペラグラを防ぐ。別名はビタミンB3。
+E19619,1,7,nonhuman,形容詞,人間以外の、非人間の,not belonging to the human species,The study compared human and nonhuman primates.,その研究は人間と人間以外の霊長類を比べた。,動物倫理や生物学で頻出。ハイフン付きの non-human も広く使われる。
+E19620,1,7,nosebleed,名詞,鼻血,blood coming out of the nose,The dry air gave the child a nosebleed.,乾いた空気のせいで子どもは鼻血を出した。,have a nosebleed の形で使う。米口語で「最上階の席」の意もある。
+E19621,1,7,offal,名詞,臓物、もつ,the inside organs of an animal used as food,This stew is made with offal and root vegetables.,この煮込みはもつと根菜で作られている。,料理用語で不可算。off と fall（切り落とされた物）が語源。
+E19622,1,7,oratorio,名詞,オラトリオ、聖譚曲,a long religious musical work for singers and orchestra,The choir performed a Handel oratorio at Easter.,合唱団は復活祭にヘンデルのオラトリオを演奏した。,音楽用語。宗教的な題材だが、オペラと違って演技や舞台装置はない。
+E19623,1,7,outshine,動詞,しのぐ、より優れている,to be much better than someone else,The younger player outshone every veteran on the team.,その若手選手はチームのどのベテランもしのいだ。,out-（上回る）＋shine。活用は outshone。文字どおり「より輝く」意味もある。
+E19624,1,7,patrimony,名詞,世襲財産、遺産,property or traditions passed down from one's father,The estate was part of the family patrimony.,その地所は一族の世襲財産の一部だった。,pater（父）が語源。文化遺産の意味でも使う堅い語。
+E19625,1,7,perchance,副詞,ひょっとして、もしかすると,possibly or by chance,"If perchance you see him, give him my regards.",もし万一彼に会ったら、よろしく伝えてください。,非常に古風で文学的。現在の会話では perhaps や by chance を使う。
+E19626,1,7,phonetically,副詞,音声学的に、発音どおりに,in terms of the sounds of speech,The name is spelled phonetically on the card.,その名前はカードに発音どおりに書かれている。,言語学の語。phonetics（音声学）から。つづりでなく音に注目する。
+E19627,1,7,plaything,名詞,おもちゃ、慰み物,"a toy, or a person treated without respect",She refused to be treated as anyone's plaything.,彼女は誰かの慰み物として扱われるのを拒んだ。,物なら toy と同じだが、人に使うと「もてあそばれる存在」を指す。
+E19628,1,7,pontificate,動詞,偉そうに説教する,to give opinions in a proud and annoying way,He pontificated about art for the whole meal.,彼は食事の間ずっと芸術について偉そうに語った。,pontiff（ローマ教皇）が語源。about や on を伴い、常に否定的。
+E19629,1,7,predestination,名詞,予定説、宿命,the belief that God has decided everything in advance,Calvin's teaching on predestination divided the church.,予定説に関するカルヴァンの教えは教会を分裂させた。,神学用語。pre-（前もって）＋destine（運命づける）から成る。
+E19630,1,7,publican,名詞,パブの経営者、取税人,a person who runs a pub,The publican closed the bar at midnight.,パブの主人は真夜中に店を閉めた。,イギリスでは「パブの主人」。聖書では「取税人」を指す古い意味がある。
+E19631,1,7,pulverize,動詞,粉々にする、圧倒する,to crush something into a fine powder,The machine pulverizes the rock into fine dust.,その機械は岩を細かい粉に砕く。,pulvis（ちり）が語源。口語では試合で「完敗させる」の意でも使う。
+E19632,1,7,pumice,名詞,軽石,a light gray rock from a volcano used for rubbing skin,She smoothed her heels with a piece of pumice.,彼女は軽石でかかとをなめらかにした。,発音は「パミス」。多孔質で水に浮くほど軽い火山岩。
