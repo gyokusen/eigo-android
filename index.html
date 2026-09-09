@@ -53,9 +53,19 @@ header{
 
 /* ---- ページ ---- */
 main{flex:1; min-height:0; position:relative}
-.page{display:none; position:absolute; inset:0; overflow:auto; -webkit-overflow-scrolling:touch;
-      padding-bottom:14px}
-.page.on{display:block}
+/* ページは重ねて置き、「見せる／隠す」だけにする（v1.7.0／PC版 v1.7.6 と同じ）。
+   display:none で隠すと、次に出すときに一覧（数万行）の組み直しが起きて
+   数秒待たされる。visibility なら組み直しが起きず、描いた行がそのまま残る。
+   content-visibility:hidden は、隠している間の描画をさらに省く指定。 */
+.page{position:absolute; inset:0; overflow:auto; -webkit-overflow-scrolling:touch;
+      padding-bottom:14px;
+      visibility:hidden; content-visibility:hidden}
+.page.on{visibility:visible; content-visibility:visible}
+/* ③詳細は一覧に「かぶせて」出す（v1.7.0／PC版 v1.7.5 と同じ）。
+   下の一覧を隠さないので、戻るときに組み直しが起きない。 */
+#pg-dt.on{z-index:5; background:var(--bg)}
+/* 登録タブの「選択」の添え字（覚えた印のチェックと見分けるため） */
+.selcap{font-size:10px; color:var(--sub); margin-left:-2px}
 
 /* ---- 下タブ（7つ） ---- */
 nav.tabs{display:flex; background:var(--panel); border-top:1px solid var(--line); flex:none;
@@ -444,7 +454,7 @@ label.f{color:var(--sub); font-size:12px}
 
 <script>
 "use strict";
-const APP_VERSION = "1.6.0";
+const APP_VERSION = "1.7.0";
 const DB_NAME = "eigo_app", DB_VER = 1;   /* ★ 作業時間管理（work_time）とは別の名前。
    IndexedDB は gyokusen.github.io というオリジン単位で分かれ、URL の下の階層では
    分かれない。同じ github.io に置く別アプリは、必ず別の名前にすること。 */
@@ -943,6 +953,103 @@ function dlgMsgs(msgs){
 let LIST = [], DRAWN = 0, DRAW_BOX = "", DRAW_KIND = "";
 function chunk(){ const n = parseInt(CFG.list_chunk, 10); return (n > 0) ? n : 300; }
 
+/* 一覧タブと、その行の入れ物の対応。 */
+const LIST_BOX = {study:"stRows", red:"rdRows", reg:"rgRows"};
+
+/* タブごとの一覧の覚え書き（v1.7.0／PC版 v1.7.6 と同じ）。
+   別のタブへ行って戻ってきたときに作り直さないためのもの。描いた行は
+   消していないので、この覚え書き（どの並びを・何行まで描いたか・どこを見ていたか）
+   を戻すだけで、続きからそのまま使える。 */
+const TABST = {};
+
+function boxTab(){
+  return DRAW_BOX === "stRows" ? "study"
+       : DRAW_BOX === "rdRows" ? "red"
+       : DRAW_BOX === "rgRows" ? "reg" : "";
+}
+function pageOf(box){ const b = $(box); return b ? b.closest(".page") : null; }
+function saveTab(){
+  const p = boxTab(); if(!p) return;
+  const w = pageOf(DRAW_BOX);
+  TABST[p] = {rows:LIST, drawn:DRAWN, box:DRAW_BOX, kind:DRAW_KIND,
+              top: w ? w.scrollTop : 0};
+}
+function useTab(name){
+  const t = TABST[name];
+  if(!t || !t.drawn) return false;
+  LIST = t.rows; DRAWN = t.drawn; DRAW_BOX = t.box; DRAW_KIND = t.kind;
+  setMore();
+  const w = pageOf(t.box);
+  if(w) w.scrollTop = t.top;
+  return true;
+}
+/* 中身が変わったら、ほかのタブの覚え書きは捨てる（次に入ったとき作り直す）。
+   いま描いてある一覧は loadList() が作り直すので、そのまま残す。 */
+function staleOthers(){
+  const cur = boxTab();
+  ["study","red","reg"].forEach(p => { if(p !== cur) delete TABST[p]; });
+}
+
+/* ③詳細から［← 一覧へ戻る］で帰ってきたときに、もとの位置へ戻すための覚え書き。
+     BACK_BOX  … どの一覧か　BACK_TOP … そのときの位置
+     BACK_ROWS … そのときに何行描いていたか（描き足し方式なので行数も要る）
+     BACK_WANT … 次に描き直したら戻す、という印 */
+let BACK_BOX = "", BACK_TOP = 0, BACK_ROWS = 0, BACK_WANT = false;
+
+function saveScroll(){
+  BACK_BOX = "";
+  const w = pageOf(DRAW_BOX); if(!w) return;
+  BACK_BOX = DRAW_BOX; BACK_TOP = w.scrollTop; BACK_ROWS = DRAWN;
+}
+/* 覚えた行数まで描き足してから、覚えた位置へ戻す。
+   まだ描いていない行の位置へは戻れないため、先に描き足すのが要点。 */
+function restoreScroll(w){
+  if(!BACK_WANT || BACK_BOX !== DRAW_BOX) return;
+  BACK_WANT = false;
+  let g = 0;
+  while(DRAWN < BACK_ROWS && drawMore() && g++ < 100000){}
+  w.scrollTop = BACK_TOP;
+}
+/* 描き直さずに、位置だけ戻す（③詳細から帰ってきたとき）。 */
+function keepList(){
+  const w = pageOf(DRAW_BOX);
+  if(!w){ loadList(); return; }
+  restoreScroll(w);
+}
+
+/* 中身が変わったあとの読み直し。見ていた位置には戻し、
+   ほかのタブの覚え書きは捨てる（次に入ったとき作り直す）。 */
+function reloadList(){
+  saveScroll(); BACK_WANT = true;
+  loadList();
+  staleOthers();
+}
+
+/* 1件だけ変わったとき（チェックの入れ外し）は、一覧を作り直さずに
+   **その行だけ書き換える**（v1.7.0／PC版 v1.7.7 と同じ）。作り直すと、
+   描いた行も見ていた位置もなくなってしまうため。3つの一覧について、
+   画面に描いてある行と、タブごとの覚え書き（TABST）の両方を直す。 */
+function patchRow(r){
+  const cur = boxTab();
+  const at = String(r.last_check_at||"").slice(0,16);
+  ["study","red","reg"].forEach(p => {
+    const rows = (cur === p) ? LIST : (TABST[p] ? TABST[p].rows : null);
+    if(rows){
+      const d = rows.find(v => v.id === r.id);
+      if(d){ d.checked = r.checked; d.check_count = r.check_count;
+             d.last_check_at = r.last_check_at; d.last_check = at; }
+    }
+    if(p === "reg") return;
+    const el = document.querySelector("#" + LIST_BOX[p] + ' [data-id="' + r.id + '"]');
+    if(!el) return;
+    const ck = el.querySelector("[data-ck]"); if(ck) ck.checked = !!r.checked;
+    const mt = el.querySelector(".mt");
+    if(mt) mt.textContent = (r.pos||"") + "　通算 " + (r.check_count||0) + " 回"
+      + (r.last_check_at ? "　最終 " + at : "");
+    el.classList.toggle("done", !!r.checked);
+  });
+}
+
 function findBox(){
   return PAGE === "red" ? $("rdFind").value
        : PAGE === "reg" ? $("rgFind").value : $("stFind").value;
@@ -961,7 +1068,9 @@ function loadList(){
 function rowHtml(d, kind){
   if(kind === "reg"){
     return '<div class="row" data-id="'+d.id+'">'
-      + '<div class="l1"><input type="checkbox" class="ck sel" data-sel="'+d.id+'">'
+      + '<div class="l1"><input type="checkbox" class="ck sel" data-sel="'+d.id+'"'
+        + ' title="消す行を選びます（覚えた印ではありません）">'
+      + '<span class="selcap">選択</span>'
       + '<span class="rg">'+esc(d.reg_no)+"・"+d.branch_no+"</span>"
       + lvlTag(d.level)
       + '<span class="sp"></span>'
@@ -995,6 +1104,7 @@ function renderRows(box, kind){
   if(!LIST.length){
     b.innerHTML = '<div class="empty">単語がありません。<br>'
       + "［登録］タブで足すか、⚙から CSV を取り込んでください。</div>";
+    BACK_WANT = false;
     setMore(); return;
   }
   const w = b.closest(".page");
@@ -1006,6 +1116,7 @@ function renderRows(box, kind){
   let guard = 0;
   while(DRAWN < LIST.length && w.classList.contains("on")
         && w.scrollHeight <= w.clientHeight + 200 && guard++ < 50) drawMore();
+  restoreScroll(w);
 }
 function drawMore(){
   if(!DRAW_BOX || DRAWN >= LIST.length) return false;
@@ -1039,13 +1150,7 @@ function wireRow(el, kind){
     ev.stopPropagation();
     const r = await toggleCheck(+x.dataset.ck, x.checked);
     if(!r) return;
-    const d = LIST.find(v => v.id === r.id);
-    if(d){ d.checked = r.checked; d.check_count = r.check_count;
-           d.last_check = String(r.last_check_at||"").slice(0,16); }
-    const mt = el.querySelector(".mt");
-    if(mt) mt.textContent = (r.pos||"") + "　通算 " + (r.check_count||0) + " 回"
-      + (r.last_check_at ? "　最終 " + String(r.last_check_at).slice(0,16) : "");
-    el.classList.toggle("done", !!r.checked);
+    patchRow(r);        /* ほかのタブも、その行だけ書き換える */
   });
   if(kind === "red"){
     el.querySelectorAll(".hide").forEach(s => s.onclick = (ev) => {
@@ -1062,7 +1167,7 @@ async function doClearChecks(){
   const put = [];
   (await getAll("words")).forEach(w => { if(w.checked){ w.checked = 0; w.updated_at = t; put.push(w); } });
   await putMany("words", put);
-  await loadWords(); refreshChips(); loadList();
+  await loadWords(); refreshChips(); reloadList();
   toast("チェックを " + put.length + " 件外しました");
 }
 
@@ -1092,7 +1197,11 @@ function openDetailTab(){
   if(!still){ DT = WORDS.find(w => w.id === LIST[0].id); }
   renderDetail();
 }
-function closeDetail(){ tab(BACK_TO === "dt" ? "study" : BACK_TO); }
+function closeDetail(){
+  BACK_WANT = true;                     /* もとの位置へ戻す */
+  KEEP_LIST = true;                     /* 一覧は取り直さない */
+  tab(BACK_TO === "dt" ? "study" : BACK_TO);
+}
 function stepDetail(n){
   if(!DT) return;
   const i = LIST.findIndex(d => d.id === DT.id), j = i + n;
@@ -1150,7 +1259,9 @@ async function renderDetail(){
   const ck = $("dtCk");
   if(ck) ck.onchange = async () => {
     const r = await toggleCheck(d.id, ck.checked);
-    if(r){ DT = WORDS.find(w => w.id === d.id); renderDetail(); loadList(); }
+    /* 一覧は作り直さない（見ていた位置と描いた行を残すため）。
+       変わったのはこの1件だけなので、その行だけ書き換える。 */
+    if(r){ DT = WORDS.find(w => w.id === d.id); renderDetail(); patchRow(r); }
   };
 }
 
@@ -1434,7 +1545,7 @@ async function saveWord(id){
   await loadWords(); refreshChips();
   closeDlg();
   toast(word + (id ? " を直しました" : " を足しました"));
-  loadList();
+  reloadList();
   if(DT && (DT.id === id || DT.id === newId)){ DT = WORDS.find(w => w.id === (id||newId)); }
   if(PAGE === "dt") renderDetail();
 }
@@ -1450,7 +1561,7 @@ async function doDelete(){
   await reloadAll();
   if(DT && ids.indexOf(DT.id) >= 0) DT = null;
   toast(ids.length + " 件消しました");
-  loadList();
+  reloadList();
 }
 
 /* ---------------- 記録 ---------------- */
@@ -1618,13 +1729,13 @@ async function importText(name, text, enc){
       if(data.cfg){ CFG = Object.assign({}, DEF_CFG, data.cfg); await setMeta("cfg", CFG); }
       await reloadAll();
     } finally { busy(false); }
-    closeDlg(); loadList();
+    closeDlg(); reloadList();
     toast("控えから戻しました（単語 " + num((data.words||[]).length)
       + " 件／記録 " + num((data.tests||[]).length) + " 件）", 5000);
     return;
   }
   const res = await importWordsText(text, true, enc);
-  if(res){ closeDlg(); loadList(); }
+  if(res){ closeDlg(); reloadList(); }
 }
 function pickFile(){
   const f = $("filePick");
@@ -1686,7 +1797,7 @@ async function loadPack(key){
   try { d = await fetchCsv(name); } finally { busy(false); }
   if(!d){ toast(name + " が置き場に見つかりませんでした", 5000); return; }
   await importWordsText(d.text, true, d.enc);
-  loadList();
+  reloadList();
 }
 async function loadPackAll(lv){
   const keys = packKeysOf(lv);
@@ -1708,7 +1819,7 @@ async function loadPackAll(lv){
   } finally { busy(false); }
   toast("読み込みました（追加 " + num(add) + " ／ 更新 " + num(upd) + "）"
     + (miss ? "　※ " + miss + " 本は置き場にありませんでした" : ""), 6000);
-  loadList();
+  reloadList();
 }
 
 /* ---------------- 記録を消されないようにする申請 ----------------
@@ -1884,7 +1995,7 @@ function openCfgDlg(){
     try { r = await loadSeed(); } finally { busy(false); }
     if(!r){ toast(SEED_CSV + " が置き場に見つかりませんでした", 5000); return; }
     toast("見本を読み込みました（追加 " + r.add + " ／ 更新 " + r.update + "）", 5000);
-    loadList();
+    reloadList();
   };
   $("cImport").onclick = pickFile;
   $("cBackup").onclick = exportBackup;
@@ -1908,7 +2019,7 @@ function openCfgDlg(){
     if(!confirm("単語を全部消します。テストの記録も一緒に消えます。よろしいですか。")) return;
     await clearStore("words"); await clearStore("tests");
     await reloadAll(); DT = null;
-    closeDlg(); loadList();
+    closeDlg(); reloadList();
     toast("単語とテスト記録を全部消しました");
   };
 }
@@ -1923,18 +2034,41 @@ async function saveCfgDlg(){
   await setMeta("cfg", CFG);
   closeDlg();
   toast("設定を保存しました");
-  loadList();
+  reloadList();
 }
 
 /* ---------------- 立ち上げ ---------------- */
 let PAGE = "study";
+/* ③詳細から［← 一覧へ戻る］で帰るときに立てる印。
+   立っていれば一覧を取り直さず、描いたものをそのまま見せる。 */
+let KEEP_LIST = false;
+/* ③詳細を出しているとき、その下に出したままにする一覧のタブ名。
+   隠さないので組み直しが起きず、戻るのが速い（位置もそのまま残る）。 */
+let UNDER = "";
 function tab(name){
+  const keep = KEEP_LIST; KEEP_LIST = false;
+  /* 一覧のタブから離れるときは、いま見ている位置と描いた行を覚えておく。 */
+  if(name !== PAGE && (PAGE === "study" || PAGE === "red" || PAGE === "reg")){
+    saveScroll(); saveTab();
+  }
+  if(name !== "study" && name !== "red" && name !== "reg" && name !== "dt") BACK_WANT = false;
+  /* ③詳細タブを直に押したときも、来たタブを戻り先として覚える
+     （覚えていないと［← 一覧へ戻る］で別のタブへ飛び、そこで作り直して待たされる）。 */
+  if(name === "dt"){
+    if(PAGE === "study" || PAGE === "red" || PAGE === "reg"){ UNDER = PAGE; BACK_TO = PAGE; }
+  } else UNDER = "";
   PAGE = name;
   document.querySelectorAll("nav.tabs button").forEach(b =>
     b.classList.toggle("on", b.dataset.page === name));
   ["study","red","dt","tw","te","reg","log"].forEach(p =>
-    $("pg-"+p).classList.toggle("on", p === name));
-  if(name === "study" || name === "red" || name === "reg") loadList();
+    $("pg-"+p).classList.toggle("on", p === name || (name === "dt" && p === UNDER)));
+  if(name === "study" || name === "red" || name === "reg"){
+    /* 詳細から戻ってきたときは取り直さない（描いたまま残っている）。 */
+    if(keep && DRAW_BOX === LIST_BOX[name] && DRAWN > 0) keepList();
+    /* 別のタブから戻ってきたとき。中身が変わっていなければ作り直さない。 */
+    else if(useTab(name)) ;
+    else loadList();
+  }
   if(name === "dt") openDetailTab();
   if(name === "log") loadLog();
   if(name === "tw" && !T["単語"].rows.length) testRender("単語");
