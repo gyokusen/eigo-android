@@ -280,6 +280,15 @@ label.f{color:var(--sub); font-size:12px}
 <div class="page on" id="pg-study">
   <div class="bar">
     <input type="text" id="stFind" placeholder="英単語・意味・例文で絞り込む">
+    <span class="f">Lv.</span>
+    <select id="stLevel" style="width:92px" title="単語集の番号で絞る。文字の絞り込みとの掛け合わせで効きます">
+      <option value="">ぜんぶ</option>
+      <option value="1">1</option><option value="2">2</option><option value="3">3</option>
+      <option value="4">4</option><option value="5">5</option><option value="6">6</option>
+      <option value="7">7</option><option value="8">8</option><option value="9">9</option>
+      <option value="10">10</option>
+      <option value="未設定">未設定</option>
+    </select>
   </div>
   <div class="bar">
     <select id="stOnly" style="flex:1">
@@ -298,6 +307,15 @@ label.f{color:var(--sub); font-size:12px}
 <div class="page" id="pg-red">
   <div class="bar">
     <input type="text" id="rdFind" placeholder="英単語・意味・例文で絞り込む">
+    <span class="f">Lv.</span>
+    <select id="rdLevel" style="width:92px" title="単語集の番号で絞る。文字の絞り込みとの掛け合わせで効きます">
+      <option value="">ぜんぶ</option>
+      <option value="1">1</option><option value="2">2</option><option value="3">3</option>
+      <option value="4">4</option><option value="5">5</option><option value="6">6</option>
+      <option value="7">7</option><option value="8">8</option><option value="9">9</option>
+      <option value="10">10</option>
+      <option value="未設定">未設定</option>
+    </select>
   </div>
   <div class="bar">
     <select id="rdOnly" style="flex:1">
@@ -387,6 +405,15 @@ label.f{color:var(--sub); font-size:12px}
 <div class="page" id="pg-reg">
   <div class="bar">
     <input type="text" id="rgFind" placeholder="英単語・意味・例文で絞り込む">
+    <span class="f">Lv.</span>
+    <select id="rgLevel" style="width:92px" title="単語集の番号で絞る。文字の絞り込みとの掛け合わせで効きます">
+      <option value="">ぜんぶ</option>
+      <option value="1">1</option><option value="2">2</option><option value="3">3</option>
+      <option value="4">4</option><option value="5">5</option><option value="6">6</option>
+      <option value="7">7</option><option value="8">8</option><option value="9">9</option>
+      <option value="10">10</option>
+      <option value="未設定">未設定</option>
+    </select>
   </div>
   <div class="bar">
     <button class="btn primary sm" id="rgAdd">＋新しく登録</button>
@@ -454,7 +481,7 @@ label.f{color:var(--sub); font-size:12px}
 
 <script>
 "use strict";
-const APP_VERSION = "1.7.0";
+const APP_VERSION = "1.8.0";
 const DB_NAME = "eigo_app", DB_VER = 1;   /* ★ 作業時間管理（work_time）とは別の名前。
    IndexedDB は gyokusen.github.io というオリジン単位で分かれ、URL の下の階層では
    分かれない。同じ github.io に置く別アプリは、必ず別の名前にすること。 */
@@ -711,13 +738,18 @@ function refreshChips(){
 }
 
 /* 一覧の材料。PC版 list_words と同じ絞り込み（品詞も対象に入れる）。 */
-function listWords(q, only){
+function listWords(q, only, level){
   q = String(q||"").trim().toLowerCase();
   let rows = WORDS;
   if(q){
     rows = rows.filter(d => ["word","pos","ja","en","ex_en","ex_ja","note","reg_no","level"]
       .some(k => String(d[k]||"").toLowerCase().indexOf(q) >= 0));
   }
+  /* Lv. の絞り込み（v1.8.0）。文字の絞り込みとは別の軸なので掛け合わせで効く。
+     範囲外や数字でない値は「ぜんぶ」扱い（PC版 list_words と同じ決まり）。 */
+  const lv = String(level||"").trim();
+  if(lv === "未設定") rows = rows.filter(d => !String(d.level||""));
+  else if(lv && /^([1-9]|10)$/.test(lv)) rows = rows.filter(d => String(d.level||"") === lv);
   if(only === "checked") rows = rows.filter(d => d.checked);
   else if(only === "unchecked") rows = rows.filter(d => !d.checked);
   return rows.map((d, i) => {
@@ -1057,8 +1089,13 @@ function findBox(){
 function onlyBox(){
   return PAGE === "red" ? $("rdOnly").value : (PAGE === "reg" ? "" : $("stOnly").value);
 }
+/* Lv. の絞り込み。文字の絞り込みとは別の軸で、掛け合わせで効きます。 */
+function levelBox(){
+  return PAGE === "red" ? $("rdLevel").value
+       : PAGE === "reg" ? $("rgLevel").value : $("stLevel").value;
+}
 function loadList(){
-  LIST = listWords(findBox(), onlyBox());
+  LIST = listWords(findBox(), onlyBox(), levelBox());
   const note = num(LIST.length) + " 件";
   if(PAGE === "red"){ $("rdCount").textContent = note; renderRows("rdRows", "red"); }
   else if(PAGE === "reg"){ $("rgCount").textContent = note; $("rgAll").checked = false;
@@ -2122,9 +2159,12 @@ async function boot(){
 
   $("stFind").oninput = debounce(loadList);
   $("stOnly").onchange = loadList;
+  $("stLevel").onchange = loadList;
   $("rdFind").oninput = debounce(loadList);
   $("rdOnly").onchange = loadList;
+  $("rdLevel").onchange = loadList;
   $("rgFind").oninput = debounce(loadList);
+  $("rgLevel").onchange = loadList;
   $("stClearCk").onclick = doClearChecks;
   /* まだ描いていない行にも効かせたいので、先に残りを全部描いてから触る */
   $("rdShowAll").onclick = () => { drawAll();
