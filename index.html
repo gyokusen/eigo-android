@@ -156,6 +156,8 @@ label.f{color:var(--sub); font-size:12px}
         color:var(--navy); white-space:pre-wrap}
 .q-main.small{font-size:19px; font-weight:600; color:var(--ink)}
 .q-sub{color:var(--sub); font-size:12.5px; margin-top:8px; line-height:1.7}
+/* ⑤例文テストは左寄せ（PC版 v1.7.10）。④単語テストは単語1つなので中央のまま */
+#teCard .card-in{text-align:left}
 .a-box{margin-top:16px; padding-top:14px; border-top:1px solid var(--line2); text-align:left}
 .a-row{margin:9px 0; font-size:14px; line-height:1.7}
 .a-row .k{color:var(--sub); font-size:11.5px; margin-bottom:3px}
@@ -287,6 +289,10 @@ label.f{color:var(--sub); font-size:12px}
       <option value="4">4</option><option value="5">5</option><option value="6">6</option>
       <option value="7">7</option><option value="8">8</option><option value="9">9</option>
       <option value="10">10</option>
+      <option value="11">11</option><option value="12">12</option><option value="13">13</option>
+      <option value="14">14</option><option value="15">15</option><option value="16">16</option>
+      <option value="17">17</option><option value="18">18</option><option value="19">19</option>
+      <option value="20">20</option>
       <option value="未設定">未設定</option>
     </select>
   </div>
@@ -314,6 +320,10 @@ label.f{color:var(--sub); font-size:12px}
       <option value="4">4</option><option value="5">5</option><option value="6">6</option>
       <option value="7">7</option><option value="8">8</option><option value="9">9</option>
       <option value="10">10</option>
+      <option value="11">11</option><option value="12">12</option><option value="13">13</option>
+      <option value="14">14</option><option value="15">15</option><option value="16">16</option>
+      <option value="17">17</option><option value="18">18</option><option value="19">19</option>
+      <option value="20">20</option>
       <option value="未設定">未設定</option>
     </select>
   </div>
@@ -362,6 +372,10 @@ label.f{color:var(--sub); font-size:12px}
       <option value="4">4</option><option value="5">5</option><option value="6">6</option>
       <option value="7">7</option><option value="8">8</option><option value="9">9</option>
       <option value="10">10</option>
+      <option value="11">11</option><option value="12">12</option><option value="13">13</option>
+      <option value="14">14</option><option value="15">15</option><option value="16">16</option>
+      <option value="17">17</option><option value="18">18</option><option value="19">19</option>
+      <option value="20">20</option>
       <option value="未設定">未設定</option>
     </select>
     <span class="f">出題数</span>
@@ -391,6 +405,10 @@ label.f{color:var(--sub); font-size:12px}
       <option value="4">4</option><option value="5">5</option><option value="6">6</option>
       <option value="7">7</option><option value="8">8</option><option value="9">9</option>
       <option value="10">10</option>
+      <option value="11">11</option><option value="12">12</option><option value="13">13</option>
+      <option value="14">14</option><option value="15">15</option><option value="16">16</option>
+      <option value="17">17</option><option value="18">18</option><option value="19">19</option>
+      <option value="20">20</option>
       <option value="未設定">未設定</option>
     </select>
     <span class="f">出題数</span>
@@ -412,6 +430,10 @@ label.f{color:var(--sub); font-size:12px}
       <option value="4">4</option><option value="5">5</option><option value="6">6</option>
       <option value="7">7</option><option value="8">8</option><option value="9">9</option>
       <option value="10">10</option>
+      <option value="11">11</option><option value="12">12</option><option value="13">13</option>
+      <option value="14">14</option><option value="15">15</option><option value="16">16</option>
+      <option value="17">17</option><option value="18">18</option><option value="19">19</option>
+      <option value="20">20</option>
       <option value="未設定">未設定</option>
     </select>
   </div>
@@ -481,7 +503,7 @@ label.f{color:var(--sub); font-size:12px}
 
 <script>
 "use strict";
-const APP_VERSION = "1.9.0";
+const APP_VERSION = "1.9.2";
 const DB_NAME = "eigo_app", DB_VER = 1;   /* ★ 作業時間管理（work_time）とは別の名前。
    IndexedDB は gyokusen.github.io というオリジン単位で分かれ、URL の下の階層では
    分かれない。同じ github.io に置く別アプリは、必ず別の名前にすること。 */
@@ -611,7 +633,7 @@ function packKeysOf(lv){
 
 /* テストで選ぶ「記憶レベル」。並び順がそのまま画面のボタンの並びになる（PC版と同じ）。 */
 const LEVELS = ["覚えていた", "思い出した", "初めて出会った", "忘れてた"];
-const LEVEL_MIN = 1, LEVEL_MAX = 10;
+const LEVEL_MIN = 1, LEVEL_MAX = 20;
 const RATE_MIN = 0.5, RATE_MAX = 2.0;
 
 /* CSV の見出しと、こちらの持ちかたの対応（PC版とまったく同じ並び） */
@@ -779,7 +801,7 @@ function listWords(q, only, level){
      範囲外や数字でない値は「ぜんぶ」扱い（PC版 list_words と同じ決まり）。 */
   const lv = String(level||"").trim();
   if(lv === "未設定") rows = rows.filter(d => !String(d.level||""));
-  else if(lv && /^([1-9]|10)$/.test(lv)) rows = rows.filter(d => String(d.level||"") === lv);
+  else if(lv && normLevel(lv) === lv) rows = rows.filter(d => String(d.level||"") === lv);
   if(only === "checked") rows = rows.filter(d => d.checked);
   else if(only === "unchecked") rows = rows.filter(d => !d.checked);
   return rows.map((d, i) => {
@@ -1556,8 +1578,8 @@ function openWord(d){
       + '<div><label class="k">枝番</label><input id="wdBr" type="number" min="1" step="1" value="'
         + (b.branch_no||1) + '" inputmode="numeric"></div></div>'
     + '<div class="hint">同じ単語の別の意味・別の例文は、同じ登録NO の枝番を増やして足します。</div>'
-    + '<div><label class="k">レベル（何番目の3000語か 1〜10・空でも構いません）</label>'
-      + '<input id="wdLevel" type="number" min="1" max="10" step="1" value="'+esc(b.level||"")
+    + '<div><label class="k">レベル（何番目の3000語か 1〜20・空でも構いません）</label>'
+      + '<input id="wdLevel" type="number" min="1" max="20" step="1" value="'+esc(b.level||"")
       + '" inputmode="numeric" placeholder="（未設定）"></div>'
     + '<div><label class="k">英単語（熟語・慣用句もここに入れます）</label>'
       + '<input id="wdWord" value="'+esc(b.word)+'" placeholder="example"></div>'
